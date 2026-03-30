@@ -1,8 +1,57 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-03-30T00:05:35.479165+00:00",
-  "story_count": 47,
+  "last_updated": "2026-03-30T14:54:16.798857+00:00",
+  "story_count": 58,
   "stories": [
+    {
+      "title": "EU human rights sanctions on Iran extended another year",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-human-rights-sanctions-iran-extended-another-year",
+      "published_date": "2026-03-30T14:37:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump wants to ‘take Iran’s oil’: Can he, and what would that mean?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/3/30/trump-wants-to-take-irans-oil-can-he-and-what-would-that-mean?traffic_source=rss",
+      "published_date": "2026-03-30T14:20:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s Foreign Ministry denies claims of US-Iran negotiations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-denies-claims-of-us-iran-negotiations?traffic_source=rss",
+      "published_date": "2026-03-30T12:38:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump ‘pretty sure’ of Iran deal, but can Pakistan-led efforts end the war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/trump-pretty-sure-of-iran-deal-but-can-pakistan-led-efforts-end-the-war?traffic_source=rss",
+      "published_date": "2026-03-30T12:23:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia’s FSB orders British diplomat’s expulsion, UK rejects ‘intimidation’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/russia-expels-british-diplomat-accused-of-economic-espionage?traffic_source=rss",
+      "published_date": "2026-03-30T11:20:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump threatens to 'take the oil' in Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/donald-trump-threatens-take-oil-iran",
+      "published_date": "2026-03-30T11:11:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/trump-wants-to-invade-iran-to-seize-oil-calls-us-objectors-stupid?traffic_source=rss",
+      "published_date": "2026-03-30T09:00:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN peacekeeper killed in southern Lebanon",
       "source": "Middle East Eye",
@@ -95,144 +144,158 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How will the Houthis’ involvement shape the war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/3/29/how-will-the-houthis-involvement-shape-the-war?traffic_source=rss",
-      "published_date": "2026-03-29T22:46:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil prices surge above $100 again",
+      "title": "'Inhumane and degrading': Israel set to approve death penalty for Palestinians",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-surge-above-100-again",
-      "published_date": "2026-03-29T22:34:33+00:00",
+      "url": "https://www.middleeasteye.net/news/israel-set-final-vote-palestinian-prisoner-death-penalty-bill",
+      "published_date": "2026-03-30T14:08:07+00:00",
       "category": "Military"
     },
     {
-      "title": "A premature ceasefire risks ‘another round of conflict’ in future",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/3/29/a-premature-ceasefire-risks-another-round-of-conflict-in-future?traffic_source=rss",
-      "published_date": "2026-03-29T20:58:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s supreme leader thanks Iraq for support in war",
+      "title": "Italian navy eyes Turkish Bayraktar TB3 drone for aircraft carrier Cavour",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-thanks-iraq-support-war",
-      "published_date": "2026-03-29T20:42:37+00:00",
+      "url": "https://www.middleeasteye.net/news/italian-navy-eyes-turkish-bayraktar-tb3-drone-aircraft-carrier-cavour",
+      "published_date": "2026-03-30T13:46:32+00:00",
       "category": "Military"
     },
     {
-      "title": "Lebanon death toll tops 1,200 as Israel vows to ‘change’ north",
+      "title": "War on Iran disrupts Asia’s used-car exports to the Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/war-on-iran-disrupts-asias-used-car-exports-to-the-middle-east?traffic_source=rss",
+      "published_date": "2026-03-30T13:40:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain closes airspace to US planes involved in war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/spain-closes-airspace-to-us-planes-involved-in-war-on-iran?traffic_source=rss",
+      "published_date": "2026-03-30T13:23:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Keir Starmer says UK will not be 'dragged' into Iran war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-tops-1200-israel-vows-change-north",
-      "published_date": "2026-03-29T19:58:21+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/keir-starmer-says-uk-will-not-be-dragged-iran-war",
+      "published_date": "2026-03-30T13:06:47+00:00",
       "category": "Military"
     },
     {
-      "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss",
-      "published_date": "2026-03-29T19:36:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu orders military to expand invasion of southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/29/netanyahu-announces-expansion-of-security-buffer-zone-in-south-lebanon?traffic_source=rss",
-      "published_date": "2026-03-29T17:56:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis open new front against Israel, is Red Sea shipping at risk?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/houthis-open-new-front-against-israel-is-red-sea-shipping-at-risk?traffic_source=rss",
-      "published_date": "2026-03-29T16:47:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran hits industrial zone in southern Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss",
-      "published_date": "2026-03-29T16:06:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/29/israeli-police-block-catholic-cardinal-from-holy-sepulchre-on-palm-sunday?traffic_source=rss",
-      "published_date": "2026-03-29T15:26:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Funeral held for Lebanese journalists killed in Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/funeral-held-for-lebanese-journalists-killed-in-israeli-strike?traffic_source=rss",
-      "published_date": "2026-03-29T15:25:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis open new front in Iran war: Will Yemeni group block Bab al-Mandeb?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/29/houthis-open-new-front-in-iran-war-will-yemeni-group-block-bab-al-mandeb?traffic_source=rss",
-      "published_date": "2026-03-29T15:09:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the US memeifies its war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/digital-dilemma/2026/3/29/how-the-us-memeifies-its-war-on?traffic_source=rss",
-      "published_date": "2026-03-29T14:44:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israelis told to stay indoors after strike on chemical site",
+      "title": "UAE arrests dozens of British citizens over online posts during Iran war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israelis-told-stay-indoors-after-strike-chemical-site",
-      "published_date": "2026-03-29T14:37:50+00:00",
+      "url": "https://www.middleeasteye.net/news/uae-arrests-dozens-british-citizens-over-online-posts-amid-iran-war",
+      "published_date": "2026-03-30T12:52:00+00:00",
       "category": "Military"
     },
     {
-      "title": "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks",
+      "title": "Palestinian recalls brother’s arrest at the Rafah crossing",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/29/pakistan-maintains-delicate-balancing-act-as-it-hosts-iran-talks?traffic_source=rss",
-      "published_date": "2026-03-29T14:35:58+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/palestinian-recalls-brothers-arrest-at-the-rafah-crossing?traffic_source=rss",
+      "published_date": "2026-03-30T12:47:53+00:00",
       "category": "Military"
     },
     {
-      "title": "Renewed air strike targets university in Isfahan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/renewed-air-strike-targets-university-isfahan",
-      "published_date": "2026-03-29T14:29:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Nowhere is really safe’: Iranian dissidents grapple with US war in Iran",
+      "title": "Homes damaged as Iranian missiles trigger sirens across northern Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/3/29/nowhere-is-really-safe-iranian-dissidents-grapple-with-us-war-in-iran?traffic_source=rss",
-      "published_date": "2026-03-29T14:26:35+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/homes-damaged-as-iranian-missiles-trigger-sirens-across-northern-israel?traffic_source=rss",
+      "published_date": "2026-03-30T12:38:42+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli footballer’s role in assault on southern Lebanon sparks outrage",
+      "title": "Jordan intercepts five missiles, one drone in a day",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-intercepts-five-missiles-one-drone-day",
+      "published_date": "2026-03-30T11:56:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian lawmakers review possibility of leaving Nuclear Non-Proliferation Treaty",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-lawmakers-review-possibility-leaving-npt-foreign-ministry",
+      "published_date": "2026-03-30T11:32:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel is making sure Trump can't find an off-ramp in Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/israel-making-sure-trump-cannot-find-ramp-iran",
+      "published_date": "2026-03-30T11:31:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rocket attack targets Baghdad army base",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rocket-attack-targets-baghdad-army-base",
+      "published_date": "2026-03-30T11:18:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Beirut apartment damaged in Israeli strike",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/3/29/israeli-footballers-role-in-assault-on-southern-lebanon-sparks-outrage?traffic_source=rss",
-      "published_date": "2026-03-29T13:42:41+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/beirut-apartment-damaged-in-israeli-strike?traffic_source=rss",
+      "published_date": "2026-03-30T11:10:41+00:00",
       "category": "Military"
     },
     {
-      "title": "Israel army says impact on industrial complex could be from missile shrapnel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-army-says-impact-industrial-complex-could-be-missile-shrapnel",
-      "published_date": "2026-03-29T13:25:09+00:00",
+      "title": "Schools, water, industry: What civilian targets have US, Israel, Iran hit?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/schools-water-industry-what-civilian-targets-have-us-israel-iran-hit?traffic_source=rss",
+      "published_date": "2026-03-30T11:09:06+00:00",
       "category": "Military"
     },
     {
-      "title": "Pentagon preparing for US ground assault in Iran, says report",
+      "title": "Iran claims Israel attacked Kuwaiti desalination plant",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-preparing-us-ground-assault-iran-says-report",
-      "published_date": "2026-03-29T13:21:54+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-claims-israel-attacked-kuwaiti-desalination-plant",
+      "published_date": "2026-03-30T11:08:46+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Palestine aIly Ireland under fire for allowing weapons transfers to Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/palestine-aily-ireland-under-fire-for-allowing-weapons-transfers-to-israel?traffic_source=rss",
+      "published_date": "2026-03-30T10:41:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Liamine Zeroual: The Algerian president who followed the straight and narrow",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/liamine-zeroual-algerian-president-who-followed-straight-and-narrow",
+      "published_date": "2026-03-30T10:28:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain closes airspace to US planes involved in Iran war, defence minister says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/spain-closes-airspace-us-planes-involved-iran-war-defence-minister-says",
+      "published_date": "2026-03-30T10:25:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Donald Trump threatens to 'take the oil' in Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/donald-trump-threatens-take-oil-iran",
+      "published_date": "2026-03-30T10:19:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says US demands for talks are 'excessive'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-demands-talks-are-excessive",
+      "published_date": "2026-03-30T10:11:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump threatens to 'obliterate' Iran's Kharg Island, energy sites",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-obliterate-irans-kharg-island-energy-sites",
+      "published_date": "2026-03-30T12:26:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Syria’s al-Sharaa visits Germany to talk reconstruction, return of refugees",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/syrian-president-in-berlin-for-talks-with-germanys-merz?traffic_source=rss",
+      "published_date": "2026-03-30T10:56:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran accuses US of plotting ground attack, as Israel steps up bombardment",
@@ -261,6 +324,20 @@
       "url": "https://www.middleeasteye.net/news/war-wipes-120bn-uae-markets-economy-comes-under-pressure",
       "published_date": "2026-03-29T19:51:54+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "‘I’m always watching’: A mother’s vigil in Mexico’s cancer system",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/3/30/im-always-watching-a-mothers-vigil-in-mexicos-cancer-system?traffic_source=rss",
+      "published_date": "2026-03-30T13:32:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tatreez in Madrid: Stitching culture and resistance",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/tatreez-in-madrid-stitching-culture-and-resistance?traffic_source=rss",
+      "published_date": "2026-03-30T10:50:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "American University of Beirut moves online after Iran warns of retaliation over strikes on its universities",
