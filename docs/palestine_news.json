@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-03-29T15:15:25.181388+00:00",
-  "story_count": 37,
+  "last_updated": "2026-03-30T00:05:35.479165+00:00",
+  "story_count": 47,
   "stories": [
+    {
+      "title": "UN peacekeeper killed in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-peacekeeper-killed-southern-lebanon",
+      "published_date": "2026-03-29T22:48:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "After Trump said MBS was ‘kissing his ass’, Gulf leaders told to send children to fight Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/after-trump-said-mbs-was-kissing-his-ass-gulf-leaders-told-send-children-fight-israel",
+      "published_date": "2026-03-29T22:21:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IRGC spokesperson says Trump ‘only understands the language of force’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/irgc-spokesperson-says-trump-only-understands-the-language-of?traffic_source=rss",
+      "published_date": "2026-03-29T20:31:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba is not alone, deputy FM says as US threats grow",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/29/cuba-is-not-alone-deputy-fm-says-as-us-threats-grow?traffic_source=rss",
+      "published_date": "2026-03-29T19:06:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Republican Mace says Congress must approve any US troop deployment to Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/29/republican-mace-says-congress-must-approve-any-us-troop-deployment-to-iran?traffic_source=rss",
+      "published_date": "2026-03-29T18:53:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan hosts talks with Saudi, Turkey, Egypt to push Iran war de-escalation",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-hosts-talks-saudi-turkey-egypt-push-iran-war-de-escalation",
+      "published_date": "2026-03-29T17:09:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "ICC bureau must uphold judges’ verdict on Karim Khan, say top lawyers",
       "source": "Middle East Eye",
@@ -51,6 +93,90 @@
       "url": "https://www.aljazeera.com/video/quotable/2026/3/29/trump-has-to-open-the-strait-of-hormuz-with-ground-forces?traffic_source=rss",
       "published_date": "2026-03-29T07:15:40+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "How will the Houthis’ involvement shape the war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/3/29/how-will-the-houthis-involvement-shape-the-war?traffic_source=rss",
+      "published_date": "2026-03-29T22:46:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil prices surge above $100 again",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-surge-above-100-again",
+      "published_date": "2026-03-29T22:34:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A premature ceasefire risks ‘another round of conflict’ in future",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/quotable/2026/3/29/a-premature-ceasefire-risks-another-round-of-conflict-in-future?traffic_source=rss",
+      "published_date": "2026-03-29T20:58:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s supreme leader thanks Iraq for support in war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-thanks-iraq-support-war",
+      "published_date": "2026-03-29T20:42:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon death toll tops 1,200 as Israel vows to ‘change’ north",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-tops-1200-israel-vows-change-north",
+      "published_date": "2026-03-29T19:58:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss",
+      "published_date": "2026-03-29T19:36:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu orders military to expand invasion of southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/29/netanyahu-announces-expansion-of-security-buffer-zone-in-south-lebanon?traffic_source=rss",
+      "published_date": "2026-03-29T17:56:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis open new front against Israel, is Red Sea shipping at risk?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/houthis-open-new-front-against-israel-is-red-sea-shipping-at-risk?traffic_source=rss",
+      "published_date": "2026-03-29T16:47:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran hits industrial zone in southern Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss",
+      "published_date": "2026-03-29T16:06:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/29/israeli-police-block-catholic-cardinal-from-holy-sepulchre-on-palm-sunday?traffic_source=rss",
+      "published_date": "2026-03-29T15:26:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Funeral held for Lebanese journalists killed in Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/funeral-held-for-lebanese-journalists-killed-in-israeli-strike?traffic_source=rss",
+      "published_date": "2026-03-29T15:25:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis open new front in Iran war: Will Yemeni group block Bab al-Mandeb?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/29/houthis-open-new-front-in-iran-war-will-yemeni-group-block-bab-al-mandeb?traffic_source=rss",
+      "published_date": "2026-03-29T15:09:51+00:00",
+      "category": "Military"
     },
     {
       "title": "How the US memeifies its war on Iran",
@@ -109,88 +235,11 @@
       "category": "Military"
     },
     {
-      "title": "Lebanese family launches mobile aid initiative for displaced",
+      "title": "Iran accuses US of plotting ground attack, as Israel steps up bombardment",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-family-launches-mobile-aid-initiative-for-displaced?traffic_source=rss",
-      "published_date": "2026-03-29T13:17:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Araby TV condemns Israeli attack on Tehran office",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/al-araby-tv-condemns-attack-tehran-office",
-      "published_date": "2026-03-29T13:02:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The US-Israeli war on humanity",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/3/29/the-us-israeli-war-on-humanity?traffic_source=rss",
-      "published_date": "2026-03-29T12:08:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran vows to target USS Abraham Lincoln carrier if it moves within range",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-vows-target-uss-abraham-lincoln-carrier-if-it-moves-within-range",
-      "published_date": "2026-03-29T11:57:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE adviser calls for guarantees and compensation in any deal with Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-adviser-calls-guarantees-and-compensation-any-deal-iran",
-      "published_date": "2026-03-29T11:20:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel kills Palestinian girl and police officers in Gaza bombing",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-kills-palestinian-girl-and-police-officers-gaza-bombing",
-      "published_date": "2026-03-29T11:12:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike on ambulance kills paramedic in south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-ambulance-kills-paramedic-south-lebanon",
-      "published_date": "2026-03-29T10:30:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon preparing for US ground assault in Iran, says report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/pentagon-preparing-us-ground-assault-iran-says-report",
-      "published_date": "2026-03-29T10:02:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dozens detained in Tel Aviv as anti-war protest turns violent",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/dozens-detained-in-tel-aviv-as-anti-war-protest-turns-violent?traffic_source=rss",
-      "published_date": "2026-03-29T09:30:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Israel war on Iran: What’s happening on day 30 of attacks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/29/us-israel-war-on-iran-whats-happening-on-day-30-of-attacks?traffic_source=rss",
-      "published_date": "2026-03-29T08:54:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike hits Al Araby TV office in Tehran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-hits-al-araby-tv-office-tehran",
-      "published_date": "2026-03-29T08:53:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Analyst says that Iran’s interest is in an extended war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/3/29/analyst-says-that-irans-interest-is-in-an-extended-war?traffic_source=rss",
-      "published_date": "2026-03-29T08:44:59+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/3/29/iran-accuses-us-of-plotting-ground-attack-as-israel-steps-up-bombardment?traffic_source=rss",
+      "published_date": "2026-03-29T22:36:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "Living in the dark: Gaza’s struggle for electricity",
@@ -205,6 +254,27 @@
       "url": "https://www.aljazeera.com/news/2026/3/29/irans-irgc-claim-attacks-on-uae-bahrain-facilities-linked-to-us-war?traffic_source=rss",
       "published_date": "2026-03-29T07:30:22+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Israeli-US war batters UAE economy, wiping $120bn from Abu Dhabi, Dubai markets",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/war-wipes-120bn-uae-markets-economy-comes-under-pressure",
+      "published_date": "2026-03-29T19:51:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "American University of Beirut moves online after Iran warns of retaliation over strikes on its universities",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/american-university-beirut-moves-online-after-iran-warns-retaliation",
+      "published_date": "2026-03-29T21:14:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "RSF attack on Sudan’s South Kordofan kills at least 14, including children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/29/rsf-attack-on-sudans-south-kordofan-kills-at-least-14-including-children?traffic_source=rss",
+      "published_date": "2026-03-29T19:22:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jurgen Habermas' death ends the illusion of a universal European philosophy",
