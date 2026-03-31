@@ -1,8 +1,29 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-03-30T14:54:16.798857+00:00",
-  "story_count": 58,
+  "last_updated": "2026-03-31T00:05:13.341342+00:00",
+  "story_count": 64,
   "stories": [
+    {
+      "title": "US embassy reopens in Venezuela months after Maduro abduction",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/us-embassy-reopens-in-venezuela-months-after-maduro-abduction?traffic_source=rss",
+      "published_date": "2026-03-30T20:16:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Spain's memory of Iraq shaped Sanchez's response to war on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/how-spains-memory-iraq-shaped-sanchez-response-war-iran",
+      "published_date": "2026-03-30T15:52:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK must have independent nuclear deterrent, says major parliamentary report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-must-have-independent-nuclear-deterrent-says-major-parliamentary-report",
+      "published_date": "2026-03-30T15:48:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU human rights sanctions on Iran extended another year",
       "source": "Middle East Eye",
@@ -123,25 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pentagon readies ‘for weeks of US ground operations’ in Iran",
+      "title": "Key moments from Marco Rubio’s interview with Al Jazeera",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss",
-      "published_date": "2026-03-29T09:15:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss",
+      "published_date": "2026-03-30T22:33:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Targeted assassination': Araghchi condemns killing of journalists in Lebanon",
+      "title": "Is a peaceful settlement possible in Iran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/3/30/is-a-peaceful-settlement-possible-in-iran-2?traffic_source=rss",
+      "published_date": "2026-03-30T22:16:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says Trump ‘interested’ in asking Arab countries to pay for war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/us-says-trump-interested-in-asking-arab-countries-to-pay-for-war-on-iran?traffic_source=rss",
+      "published_date": "2026-03-30T22:14:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fifty years on, does Land Day still matter for Palestinians in Israel?",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/land-day-50-years/",
+      "published_date": "2026-03-30T22:12:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN condemns killing of Indonesian peacekeepers in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss",
+      "published_date": "2026-03-30T21:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US used new ballistic missile in strike that killed teens in Iran sports hall: Report",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/targeted-assassination-araghchi-condemns-killing-journalists-lebanon",
-      "published_date": "2026-03-29T08:05:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/us-used-new-ballistic-missile-strike-hit-iran-sports-hall-teens",
+      "published_date": "2026-03-30T21:14:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Trump has to open the Strait of Hormuz’ with ground forces",
+      "title": "The war in Iran: Key takeaways from Al Jazeera’s interview with Marco Rubio",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/3/29/trump-has-to-open-the-strait-of-hormuz-with-ground-forces?traffic_source=rss",
-      "published_date": "2026-03-29T07:15:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/3/30/the-war-in-iran-key-takeaways-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss",
+      "published_date": "2026-03-30T21:03:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s parliament passes death penalty bill targeting Palestinians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/israel-passes-discriminatory-death-penalty-bill-targeting-palestinians?traffic_source=rss",
+      "published_date": "2026-03-30T20:50:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio says NATO must be re-examined after Spain blocks US operation on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/rubio-says-nato-must-be-re-examined-after-spain-blocks-us-operation-on-iran?traffic_source=rss",
+      "published_date": "2026-03-30T20:32:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French police make two more arrests over foiled attack on Bank of America",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/french-police-make-2-more-arrests-over-suspected-attack-on-bank-of-america?traffic_source=rss",
+      "published_date": "2026-03-30T19:15:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cuba waits for Russian oil tanker to arrive amid US blockade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/cuba-waits-for-russian-oil-tanker-to-arrive-amid-us-blockade?traffic_source=rss",
+      "published_date": "2026-03-30T18:56:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two more UN peacekeepers killed in explosion in southern Lebanon: UNIFIL",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/two-more-un-peacekeepers-killed-in-southern-lebanon-unifil?traffic_source=rss",
+      "published_date": "2026-03-30T18:11:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Get them out of casinos’: Bannon wants Netanyahu’s son and Gulf royals on Iran front lines",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/get-them-out-casinos-bannon-wants-netanyahus-son-gulf-royals-iran-front-lines",
+      "published_date": "2026-03-30T17:53:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fire contained after missile attack on oil refinery in Israel’s Haifa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/fire-contained-after-missile-attack-on-oil-refinery-in-israels-haifa?traffic_source=rss",
+      "published_date": "2026-03-30T16:25:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestine Action hunger striker arrested in dawn raid by masked police",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/palestine-action-hunger-striker-arrested-dawn-raid-masked-police",
+      "published_date": "2026-03-30T16:10:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian livelihoods are being blown apart by US and Israeli bombs",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iranian-livelihoods-being-blown-apart-us-israeli-bombs",
+      "published_date": "2026-03-30T16:07:26+00:00",
+      "category": "Military"
     },
     {
       "title": "'Inhumane and degrading': Israel set to approve death penalty for Palestinians",
@@ -172,116 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Keir Starmer says UK will not be 'dragged' into Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/keir-starmer-says-uk-will-not-be-dragged-iran-war",
-      "published_date": "2026-03-30T13:06:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE arrests dozens of British citizens over online posts during Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uae-arrests-dozens-british-citizens-over-online-posts-amid-iran-war",
-      "published_date": "2026-03-30T12:52:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian recalls brother’s arrest at the Rafah crossing",
+      "title": "Rubio denies US actions punitive, blames Cuba for economic failures",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/palestinian-recalls-brothers-arrest-at-the-rafah-crossing?traffic_source=rss",
-      "published_date": "2026-03-30T12:47:53+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/3/30/rubio-denies-us-punitive-actions-blames-cuba-for-economic-failures?traffic_source=rss",
+      "published_date": "2026-03-30T19:50:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Homes damaged as Iranian missiles trigger sirens across northern Israel",
+      "title": "What we know about attack on key Israeli oil refinery",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/homes-damaged-as-iranian-missiles-trigger-sirens-across-northern-israel?traffic_source=rss",
-      "published_date": "2026-03-30T12:38:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/what-we-know-about-attack-on-key-israeli-oil-refinery?traffic_source=rss",
+      "published_date": "2026-03-30T19:19:50+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Jordan intercepts five missiles, one drone in a day",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-intercepts-five-missiles-one-drone-day",
-      "published_date": "2026-03-30T11:56:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian lawmakers review possibility of leaving Nuclear Non-Proliferation Treaty",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-lawmakers-review-possibility-leaving-npt-foreign-ministry",
-      "published_date": "2026-03-30T11:32:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel is making sure Trump can't find an off-ramp in Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/israel-making-sure-trump-cannot-find-ramp-iran",
-      "published_date": "2026-03-30T11:31:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rocket attack targets Baghdad army base",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rocket-attack-targets-baghdad-army-base",
-      "published_date": "2026-03-30T11:18:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Beirut apartment damaged in Israeli strike",
+      "title": "G7 ready to take ‘necessary measures’ to ensure energy market stability",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/beirut-apartment-damaged-in-israeli-strike?traffic_source=rss",
-      "published_date": "2026-03-30T11:10:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Schools, water, industry: What civilian targets have US, Israel, Iran hit?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/schools-water-industry-what-civilian-targets-have-us-israel-iran-hit?traffic_source=rss",
-      "published_date": "2026-03-30T11:09:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran claims Israel attacked Kuwaiti desalination plant",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-claims-israel-attacked-kuwaiti-desalination-plant",
-      "published_date": "2026-03-30T11:08:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestine aIly Ireland under fire for allowing weapons transfers to Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/palestine-aily-ireland-under-fire-for-allowing-weapons-transfers-to-israel?traffic_source=rss",
-      "published_date": "2026-03-30T10:41:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Liamine Zeroual: The Algerian president who followed the straight and narrow",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/liamine-zeroual-algerian-president-who-followed-straight-and-narrow",
-      "published_date": "2026-03-30T10:28:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain closes airspace to US planes involved in Iran war, defence minister says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/spain-closes-airspace-us-planes-involved-iran-war-defence-minister-says",
-      "published_date": "2026-03-30T10:25:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donald Trump threatens to 'take the oil' in Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/donald-trump-threatens-take-oil-iran",
-      "published_date": "2026-03-30T10:19:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says US demands for talks are 'excessive'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-demands-talks-are-excessive",
-      "published_date": "2026-03-30T10:11:02+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/3/30/g7-ready-to-take-necessary-measures-to-ensure-energy-market-stability?traffic_source=rss",
+      "published_date": "2026-03-30T16:56:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump threatens to 'obliterate' Iran's Kharg Island, energy sites",
@@ -324,6 +345,27 @@
       "url": "https://www.middleeasteye.net/news/war-wipes-120bn-uae-markets-economy-comes-under-pressure",
       "published_date": "2026-03-29T19:51:54+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "'It's a prison': Afghans stranded in US camp in Qatar exposed to Iranian strikes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/its-prison-us-afghans-stranded-us-camp-qatar-exposed-iranian-strikes",
+      "published_date": "2026-03-30T20:24:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In defence of Benjamin Netanyahu",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/defence-benjamin-netanyahu",
+      "published_date": "2026-03-30T19:20:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli Knesset passes law to execute Palestinians for 'acts of terrorism'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-knesset-passes-law-execute-palestinians-acts-of-terrorism",
+      "published_date": "2026-03-30T19:04:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘I’m always watching’: A mother’s vigil in Mexico’s cancer system",
