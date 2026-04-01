@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-04-01T00:05:38.155354+00:00",
-  "story_count": 78,
+  "last_updated": "2026-04-01T14:55:59.685543+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Trump claims Iran's 'new regime president' asked for a ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-irans-new-regime-president-asked-ceasefire",
+      "published_date": "2026-04-01T13:21:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How are NATO allies pushing back against Trump’s Iran war demands?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/how-are-nato-allies-pushing-back-against-trumps-iran-war-demands?traffic_source=rss",
+      "published_date": "2026-04-01T12:03:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Canada's double standards on Iran put the world at risk",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/how-canadas-double-standards-iran-put-world-risk",
+      "published_date": "2026-04-01T11:49:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Supreme Court to hear constitutional test of birthright citizenship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/us-supreme-court-to-hear-constitutional-test-of-birthright-citizenship?traffic_source=rss",
+      "published_date": "2026-04-01T11:41:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No promises this will be Israel’s ‘last war’, says Israeli foreign minister",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-promises-will-be-israels-last-war-says-israeli-foreign-minister",
+      "published_date": "2026-04-01T11:26:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italian-American journalist kidnapped in Baghdad",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italian-american-journalist-kidnapped-baghdad",
+      "published_date": "2026-04-01T10:18:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK prime minister says Nato world's 'most effective military alliance' after Trump criticism",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-prime-minister-says-nato-worlds-most-effective-military-alliance",
+      "published_date": "2026-04-01T10:06:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US messages via Witkoff and intermediaries are not negotiations: Araghchi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/1/us-messages-via-witkoff-and-intermediaries-are-not-negotiations-araghchi?traffic_source=rss",
+      "published_date": "2026-04-01T09:00:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/war-on-iran-three-key-takeaways-from-araghchis-interview-with-al-jazeera?traffic_source=rss",
+      "published_date": "2026-04-01T08:27:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says US will be leaving Iran in two to three weeks",
       "source": "Al Jazeera",
@@ -81,67 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hiring in the US drops to pandemic lows as job market under Trump stagnates",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/3/31/hiring-in-the-us-drops-to-pandemic-lows-as-job-market-under-trump-stagnates?traffic_source=rss",
-      "published_date": "2026-03-31T19:41:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Analysis: Hezbollah backs Iran ambassador as conflict deepens Lebanon rifts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/analysis-hezbollah-backs-iran-ambassador-as-conflict-deepens-lebanon-rifts?traffic_source=rss",
-      "published_date": "2026-03-31T19:37:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran’s FM confirms contact with US envoy Witkoff, denies talks under way",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/no-truth-to-us-iranian-negotiations-irans-fm-tells-al-jazeera?traffic_source=rss",
-      "published_date": "2026-03-31T19:01:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China and Pakistan call for 'immediate cessation of hostilities'",
+      "title": "24 Iranian health workers killed in US-Israeli attacks: Emergency medical organisation",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-and-pakistan-call-immediate-cessation-hostilities",
-      "published_date": "2026-03-31T14:26:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/25-iranian-health-workers-killed-us-israeli-attacks-emergency-medical",
+      "published_date": "2026-04-01T14:20:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "War on Iran: US’s history of making other nations pay for conflicts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/war-on-iran-uss-history-of-making-other-nations-pay-for-conflicts?traffic_source=rss",
-      "published_date": "2026-03-31T13:56:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cancer drug facility, religious site hit in Israeli-US strikes on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/cancer-drug-facility-religious-site-hit-in-israeli-us-strikes-on-iran?traffic_source=rss",
-      "published_date": "2026-03-31T13:37:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Will China join Pakistan-led efforts to mediate US-Iran peace?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/will-china-join-pakistan-led-efforts-to-mediate-us-iran-peace?traffic_source=rss",
-      "published_date": "2026-03-31T13:32:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's foreign minister: Reports of missiles fired at Turkey 'completely baseless'",
+      "title": "US-Israeli strike on Iran's Mianeh killed five",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-reports-missiles-fired-turkey-completely-baseless",
-      "published_date": "2026-03-31T13:27:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-strike-irans-mianeh-killed-five",
+      "published_date": "2026-04-01T13:54:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hegseth says US troops 'want to finish' fight with Iran",
+      "title": "Russia imposing ban on all gasoline exports due to Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/russia-imposing-ban-on-all-gasoline-exports-due-to-iran-war?traffic_source=rss",
+      "published_date": "2026-04-01T13:24:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer insists 'this is not our war' as Iran weighs up attacking UK bases",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-says-us-troops-want-finish-fight-iran",
-      "published_date": "2026-03-31T12:39:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/uk-keir-starmer-not-our-war-iran-british-bases",
+      "published_date": "2026-04-01T12:49:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia executes prominent businessman over participation in 2011 Qatif protests",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/saudi-arabia-executes-businessman-over-participation-2011-shia-led-protests",
+      "published_date": "2026-04-01T12:28:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli air strike kills four family members in southern Lebanon: reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-kills-four-family-members-southern-lebanon-reports",
+      "published_date": "2026-04-01T12:21:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK PM says war on Iran will impact Britain’s future",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/uk-pm-says-iran-war-will-impact-britains-future?traffic_source=rss",
+      "published_date": "2026-04-01T11:57:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq celebrates qualification for FIFA World Cup 2026",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/4/1/iraqis-celebrate-in-the-streets-after-qualifying-for-fifa-world-cup-2026?traffic_source=rss",
+      "published_date": "2026-04-01T11:19:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French peacekeeping troops in Lebanon subject to 'unacceptable intimidation'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-peacekeeping-troops-lebanon-subject-unacceptable-intimidation",
+      "published_date": "2026-04-01T11:15:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian President Sharaa says no involvement in Iran war unless 'targeted'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-president-sharaa-says-no-involvement-iran-war-unless-targeted",
+      "published_date": "2026-04-01T11:11:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike in Beirut kills Hezbollah commander for Iraq",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-beirut-kill-hezbollah-commander-iraq",
+      "published_date": "2026-04-01T11:03:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Huge fire after drone attack hits engine oil warehouse in Iraqi Kurdistan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/huge-fire-after-drone-attack-hits-engine-oil-warehouse-iraqi-kurdistan",
+      "published_date": "2026-04-01T11:00:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/israeli-strikes-on-beirut-kill-7-hezbollah-fights-back-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-04-01T10:05:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Strange figures and unexplained killings: The clues Mossad infiltrated Iran’s protests",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/strange-figures-and-unexplained-killings-clues-mossad-infiltrated-irans",
+      "published_date": "2026-04-01T09:50:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis claim joint missile attack on Israel with Iran and Hezbollah",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/houthis-claim-joint-missile-attack-on-israel-with-iran-and-hezbollah?traffic_source=rss",
+      "published_date": "2026-04-01T09:24:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli police inspect damage on the road after missile impact",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/israeli-police-inspect-damage-on-the-road-after-missile-impact?traffic_source=rss",
+      "published_date": "2026-04-01T07:55:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says Iran nuclear threat eliminated, goal achieved",
@@ -172,116 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Israel says it struck rocket launch sites in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-struck-rocket-launch-sites-southern-lebanon",
-      "published_date": "2026-03-31T22:13:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘I need to leave’: Cuba’s tourism workers reel from US oil blockade",
+      "title": "Can Russia help fill the global energy gap?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/i-need-to-leave-cubas-tourism-workers-reel-from-us-oil-blockade?traffic_source=rss",
-      "published_date": "2026-03-31T21:24:49+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/1/can-russia-help-fill-the-global-energy-gap?traffic_source=rss",
+      "published_date": "2026-04-01T13:55:55+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli air attack kills father and two-year-old son in Gaza",
+      "title": "French President Macron visits Japan to discuss the energy crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israeli-air-attack-kills-father-and-two-year-old-son-in-gaza?traffic_source=rss",
-      "published_date": "2026-03-31T20:51:14+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/french-president-macron-visits-japan-to-discuss-the-energy-crisis?traffic_source=rss",
+      "published_date": "2026-04-01T13:36:20+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli strikes kill at least eight in southern Lebanon",
+      "title": "France's President Macron reaffirms importance of freedom of navigation in Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-least-eight-southern-lebanon",
-      "published_date": "2026-03-31T20:50:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN expert Albanese confronted by pro-Israeli protesters in Germany",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/un-expert-albanese-confronted-by-pro-israeli-protesters-in-germany?traffic_source=rss",
-      "published_date": "2026-03-31T20:29:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Pakistan positioned itself at the center of global crisis management",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/how-pakistan-positioned-itself-at-the-center-of-global-crisis-management?traffic_source=rss",
-      "published_date": "2026-03-31T19:46:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain’s PM condemns Israeli death penalty law as ‘step toward apartheid’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/spains-pm-condemns-israeli-death-penalty-law-step-toward-apartheid",
-      "published_date": "2026-03-31T19:00:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK defence secretary says US remains key ally amid criticism",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-defence-secretary-says-us-remains-key-ally-amid-criticism",
-      "published_date": "2026-03-31T18:35:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes hit Bekaa Valley as army claims fighters killed in south",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-hit-bekaa-valley-army-claims-fighters-killed-south",
-      "published_date": "2026-03-31T18:14:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military says it conducted over 230 strikes on Iran in last 24 hours",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-it-conducted-over-230-strikes-iran-last-24-hours",
-      "published_date": "2026-03-31T14:48:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN says initial probe findings show Lebanon peacekeepers killed by blast",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-initial-probe-findings-show-lebanon-peacekeepers-killed-blast",
-      "published_date": "2026-03-31T14:41:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Where to invest during Iran war? Ask – or don’t – Mohammad Bagher Ghalibaf",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/where-to-invest-during-iran-war-ask-or-dont-mohammad-bagher-ghalibaf?traffic_source=rss",
-      "published_date": "2026-03-31T14:26:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel to halt security procurement from 'hostile' France",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-halt-all-security-procurement-hostile-france",
-      "published_date": "2026-03-31T14:24:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Less Jesus, more Genghis Khan: How Netanyahu sees Israel’s place in the world",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/netanyahu-genghis-khan-jesus-sparta/",
-      "published_date": "2026-03-31T14:16:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Israeli strikes on Iran's oil and gas could poison people and environment for decades",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-israel-strikes-iran-oil-gas-poison-people-environment-decades",
-      "published_date": "2026-03-31T14:16:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli invasion of Lebanon could be worse than 1982, warn European officials",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-invasion-lebanon-could-be-worse-1982-say-european-officials",
-      "published_date": "2026-03-31T14:03:47+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-president-macron-reaffirms-importance-freedom-navigation-hormuz",
+      "published_date": "2026-04-01T10:14:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran shifts to strategic targets as Hezbollah barrages intensify, reports say",
@@ -375,6 +396,13 @@
       "category": "Energy"
     },
     {
+      "title": "Minerals for aid: Are new US health deals ‘exploiting’ African countries?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/minerals-for-aid-are-new-us-health-deals-exploiting-african-countries?traffic_source=rss",
+      "published_date": "2026-04-01T12:57:28+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "After Strait of Hormuz opens, turmoil would still last months, analysts say",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/3/31/after-strait-of-hormuz-opens-turmoil-would-still-last-months-analysts-say?traffic_source=rss",
@@ -408,6 +436,48 @@
       "url": "https://www.middleeasteye.net/news/war-wipes-120bn-uae-markets-economy-comes-under-pressure",
       "published_date": "2026-03-29T19:51:54+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Palestinians in West Bank strike after Israel passes death penalty law",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/general-strike-leaves-west-bank-streets-empty-over-death-penalty-bill",
+      "published_date": "2026-04-01T14:15:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Israel's death penalty law is a massive setback for human rights",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/why-israels-death-penalty-law-massive-setback-human-rights",
+      "published_date": "2026-04-01T14:07:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanon faces growing displacement crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/lebanon-faces-growing-displacement-crisis?traffic_source=rss",
+      "published_date": "2026-04-01T13:00:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/1/irans-minister-civilisational-identity-under-fire-in-unprecedented-war?traffic_source=rss",
+      "published_date": "2026-04-01T12:45:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian Red Crescent: Over 115,000 civilian units damaged in attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-red-crescent-over-11500-civilian-units-damaged-attacks",
+      "published_date": "2026-04-01T12:35:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Bank strikes over Palestinian-only death penalty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/west-bank-strikes-over-palestinian-only-death-penalty?traffic_source=rss",
+      "published_date": "2026-04-01T11:42:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palestinians in occupied West Bank protest Israel’s death penalty law",
@@ -505,48 +575,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/opinion/jurgen-habermass-death-ends-illusion-universal-european-philosophy",
       "published_date": "2026-03-29T14:44:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel blocks top Catholic leaders from Palm Sunday Mass at Holy Sepulchre",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-blocks-top-catholic-leaders-palm-sunday-mass-holy-sepulchre",
-      "published_date": "2026-03-29T12:53:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bahrain announces curfew for maritime traffic",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-announces-curfew-maritime-traffic",
-      "published_date": "2026-03-29T12:33:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel blocks top Catholic leaders from Palm Sunday Mass at Holy Sepulchre",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-blocks-top-catholic-leaders-palm-sunday-mass-holy-sepulchre",
-      "published_date": "2026-03-29T11:57:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olympic gender test ‘a disrespect for women’, South Africa’s Semenya says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/3/29/olympic-gender-test-a-disrespect-for-women-south-africas-semenya-says?traffic_source=rss",
-      "published_date": "2026-03-29T10:33:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanese resident stays behind with pet monkey despite evacuation orders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-resident-stays-behind-with-pet-monkey-despite-evacuation-orders?traffic_source=rss",
-      "published_date": "2026-03-29T07:31:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In the West Bank, ‘protective presence is not protecting anyone anymore’",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/protective-presence-west-bank-activism/",
-      "published_date": "2026-03-27T19:08:03+00:00",
       "category": "Local Events"
     }
   ]
