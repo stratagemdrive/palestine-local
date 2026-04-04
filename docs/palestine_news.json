@@ -1,8 +1,22 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-04-04T00:02:40.183990+00:00",
+  "last_updated": "2026-04-04T11:55:39.549794+00:00",
   "story_count": 92,
   "stories": [
+    {
+      "title": "Iranian foreign minister calls for 'conclusive and lasting' terms to end war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-calls-conclusive-and-lasting-terms-end-war",
+      "published_date": "2026-04-04T11:11:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US, Iran race to recover crew after F-15 shot down",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-race-recover-crew-after-f-15-shot-down",
+      "published_date": "2026-04-04T05:42:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pezeshkian questions US intentions after killing of official’s wife",
       "source": "Middle East Eye",
@@ -130,18 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK convenes 40 countries to discuss reopening Strait of Hormuz",
+      "title": "Red Crescent worker killed in Iran's Isfahan",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-convenes-40-countries-discuss-reopening-strait-hormuz",
-      "published_date": "2026-04-02T17:49:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/red-crescent-worker-killed-irans-isfahan",
+      "published_date": "2026-04-04T10:29:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pastor’s White House prayer claims Iranians seek death of all Jews",
+      "title": "Drone strike on Rumaila oil field leaves three wounded",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-strike-rumaila-oil-field-leaves-three-wounded",
+      "published_date": "2026-04-04T10:23:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cement plant struck by US-Israeli assault on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cement-plant-struck-us-israeli-assault-iran",
+      "published_date": "2026-04-04T10:21:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least four people killed in Russian attacks on Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pastors-white-house-prayer-claims-iranians-seek-death-of-all-jews?traffic_source=rss",
-      "published_date": "2026-04-02T17:42:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss",
+      "published_date": "2026-04-04T10:20:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Israeli hit on Iraq-Iran border responsible for killing Iraqi citizen: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-hit-responsible-killing-iraqi-citizen-border-iran-report",
+      "published_date": "2026-04-04T10:13:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq closes border crossing with Iran after citizen killed in air strike",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-closes-border-crossing-iran-after-citizen-killed-air-strike",
+      "published_date": "2026-04-04T09:40:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran vows to strike industrial, military sites in latest barrage",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-vows-strike-industrial-military-sites-latest-barrage",
+      "published_date": "2026-04-04T09:17:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Incoming missile salvo from Iran, Israeli army says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/incoming-missile-launches-iran-israeli-army-says",
+      "published_date": "2026-04-04T08:57:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vietnam's Israel defence ties complicate historic Palestinian solidarity",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/vietnam-israel-defence-ties-palestine-solidarity",
+      "published_date": "2026-04-04T08:55:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Israeli strike near Iran's Bushehr nuclear plant kills one",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-strike-irans-bushehr-nuclear-plant-kills-one",
+      "published_date": "2026-04-04T08:45:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-506",
+      "published_date": "2026-04-04T08:27:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Shame on Judaism': Former Israeli president warns against 'Armageddon'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shame-judaism-former-israeli-president-warns-against-armageddon",
+      "published_date": "2026-04-04T06:57:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli military says it hit military sites in Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-it-hit-military-sites-iran",
+      "published_date": "2026-04-04T06:54:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "No warning as rocket strikes homes in northern Israeli city",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-warning-rocket-strikes-homes-northern-israeli-city",
+      "published_date": "2026-04-04T06:22:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Israeli attacks continue across Iran overnight",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-attacks-continue-across-iran-overnight",
+      "published_date": "2026-04-04T05:52:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+      "published_date": "2026-04-04T03:51:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian missile attack hits residential areas in central Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
+      "published_date": "2026-04-04T02:53:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: US-Israel attacks hit petrochemical, nuclear sites in Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
+      "published_date": "2026-04-04T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Hezbollah claims rocket attacks as Israel launches strikes in Lebanon",
@@ -155,132 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-missile-attacks-spark-fires-damage-central-and-southern-israel",
       "published_date": "2026-04-03T23:51:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video shows the moment a Russian drone hit an apartment in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss",
-      "published_date": "2026-04-03T23:40:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Opinion: Iran war: Why US allies are suffering more than its enemies",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-iran-war-why-us-allies-are-suffering-more-its-enemies",
-      "published_date": "2026-04-03T22:44:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shrapnel from intercepted drone injures one in Bahrain",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shrapnel-intercepted-drone-injures-one-bahrain",
-      "published_date": "2026-04-03T22:26:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria says Israeli tank fire kills man in country's south",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-says-israeli-tank-fire-kills-man-countrys-south",
-      "published_date": "2026-04-03T21:58:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WHO warns about attacks on Iran health facilities, regional threat",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/who-warns-about-attacks-iran-health-facilities-regional-threat",
-      "published_date": "2026-04-03T21:30:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will force be used to reopen Strait of Hormuz?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-04-03T20:55:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel destroys east Lebanon bridge",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-destroys-east-lebanon-bridge-hits-south-beirut",
-      "published_date": "2026-04-03T20:45:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
-      "published_date": "2026-04-03T20:37:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Second US combat plane targeted by Iran crashes near Strait of Hormuz: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/second-us-combat-plane-targeted-iran-crashes-near-strait-hormuz-report",
-      "published_date": "2026-04-03T20:25:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "White House seeks $1.5 trillion defence budget as Iran war drives costs",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-seeks-15-trillion-defense-budget-iran-war-drives-costs",
-      "published_date": "2026-04-03T20:18:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Second US combat plane targeted by Iran crashes near Strait of Hormuz: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/second-us-combat-plane-targeted-iran-crashes-near-strait-hormuz-report",
-      "published_date": "2026-04-03T20:13:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says it rejects Trump offer of 48-hour ceasefire: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-says-it-rejects-trump-offer-48-hour-ceasefire-report",
-      "published_date": "2026-04-03T20:01:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran targeted 'enemy' aircraft near Hormuz strait, state media says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-targeted-enemy-aircraft-near-hormuz-strait-state-media-says",
-      "published_date": "2026-04-03T19:35:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack kills two, 15 wounded in Lebanon’s Bekaa Valley",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-kills-two-15-wounded-lebanons-bekaa-valley",
-      "published_date": "2026-04-03T19:23:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least one killed at UAE’s Habshan gas facility after intercepted attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack?traffic_source=rss",
-      "published_date": "2026-04-03T19:08:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Second US Air Force plane crashed in Persian Gulf region, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/second-us-air-force-plane-crashed-persian-gulf-region-report-says",
-      "published_date": "2026-04-03T18:59:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italian prime minister begins visit to Saudi Arabia during Gulf tour",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italian-prime-minister-begins-visit-saudi-arabia-gulf-tour",
-      "published_date": "2026-04-03T18:33:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone strike on Sudan hospital kills 10, medical charity MSF says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says?traffic_source=rss",
-      "published_date": "2026-04-03T18:32:43+00:00",
       "category": "Military"
     },
     {
@@ -508,6 +508,34 @@
       "category": "Economy"
     },
     {
+      "title": "Syrian government understating kidnappings of Alawite women: report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/syrian-government-understating-kidnappings-alawite-women-report",
+      "published_date": "2026-04-04T09:15:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reports of material damage after latest Iranian attack on Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/reports-material-damage-after-latest-iranian-attack-israel",
+      "published_date": "2026-04-04T09:12:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afghanistan earthquake kills eight members of same family",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
+      "published_date": "2026-04-04T07:23:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian Christians in Gaza mark Good Friday",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss",
+      "published_date": "2026-04-04T00:30:08+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Lawyers search for Epstein survivors for Bank of America $72.5m settlement",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/3/lawyers-search-for-epstein-survivors-for-bank-of-america-72-5m-settlement?traffic_source=rss",
@@ -617,34 +645,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/zack-polanskis-family-complain-ipso-after-media-harassment",
       "published_date": "2026-04-02T13:24:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Medical research centre in Tehran attacked, says Iran's health ministry",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-medical-research-centre-tehran-attacked-says-health-ministry",
-      "published_date": "2026-04-02T12:33:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli violence threatens Christians’ future in Jerusalem, report warns",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-violence-threatens-christians-future-jerusalem-report-warns",
-      "published_date": "2026-04-02T12:29:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women’s Asian Cup finalists accuse governing body over equal money",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/2/womens-asian-cup-finalists-accuse-governing-body-over-equal-money?traffic_source=rss",
-      "published_date": "2026-04-02T12:07:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four children killed in nursery school stabbing attack in Uganda",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/four-children-killed-in-school-stabbing-attack-in-uganda?traffic_source=rss",
-      "published_date": "2026-04-02T11:44:19+00:00",
       "category": "Local Events"
     }
   ]
