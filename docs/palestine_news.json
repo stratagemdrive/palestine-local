@@ -1,147 +1,224 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-04-07T14:58:22.129998+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-08T05:31:23.745820+00:00",
+  "story_count": 91,
   "stories": [
     {
-      "title": "White House denies it is considering using nuclear weapons in Iran",
+      "title": "Jakarta backs truce, calls for respect of sovereignty",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-denies-it-considering-using-nuclear-weapons-iran",
-      "published_date": "2026-04-07T14:41:25+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jakarta-backs-truce-calls-respect-sovereignty",
+      "published_date": "2026-04-08T05:19:15+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Iran will plunge Middle East into 'darkness' if Trump escalates war",
+      "title": "Israeli official says truce coordinated with US, outlines demands",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-plunge-middle-east-darknes-if-trump-escalates-war",
-      "published_date": "2026-04-07T14:15:09+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-official-says-truce-coordinated-us-outlines-demands",
+      "published_date": "2026-04-08T05:15:57+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Trump on Iran: ‘A whole civilisation will die tonight’",
+      "title": "US ceasefire allows negotiations on Iran’s ‘workable’ 10-point plan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/trump-on-iran-a-whole-civilisation-will-die-tonight?traffic_source=rss",
-      "published_date": "2026-04-07T13:53:52+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/us-ceasefire-allows-negotiations-on-irans-workable-10-point-plan?traffic_source=rss",
+      "published_date": "2026-04-08T05:04:37+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "‘Get a grip’: How Iranian embassies mocked Trump’s vulgar threat",
+      "title": "Caution, relief as US politicians respond to Trump’s ceasefire with Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/get-a-grip-how-iranian-embassies-mocked-trumps-vulgar-threat?traffic_source=rss",
-      "published_date": "2026-04-07T12:50:52+00:00",
+      "url": "https://www.aljazeera.com/news/2026/4/8/caution-relief-as-us-politicians-respond-to-trumps-ceasefire-with-iran?traffic_source=rss",
+      "published_date": "2026-04-08T04:34:31+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "What’s Iran’s 10-point peace plan that Trump says is ‘not good enough’?",
+      "title": "Trump says Iran uranium will be ‘taken care of'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-uranium-will-be-taken-care",
+      "published_date": "2026-04-08T04:09:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fars details Iran’s 10-point plan for US talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fars-details-irans-10-point-plan-us-talks",
+      "published_date": "2026-04-08T04:05:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Associated Press reports discrepancy in Iranian ceasefire texts on enrichment",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/associated-press-reports-discrepancy-iranian-ceasefire-texts-enrichment",
+      "published_date": "2026-04-08T03:43:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN chief welcomes ceasefire, urges path to lasting peace",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-welcomes-ceasefire-urges-path-lasting-peace",
+      "published_date": "2026-04-08T03:38:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AP: Iran, Oman to charge fees for Hormuz passage under ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ap-iran-oman-charge-fees-hormuz-passage-under-ceasefire",
+      "published_date": "2026-04-08T03:34:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "White House says ceasefire creates opening for long-term peace",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-says-ceasefire-creates-opening-long-term-peace",
+      "published_date": "2026-04-08T02:39:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran claims ‘historic victory,’ says US accepted terms ahead of talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-claims-historic-victory-says-us-accepted-terms-ahead-talks",
+      "published_date": "2026-04-08T02:31:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump announces US pause on Iran strikes for two weeks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-announces-us-pause-iran-strikes-two-weeks",
+      "published_date": "2026-04-08T02:28:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says US accepted terms ahead of talks, claims ‘historic victory’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-claims-historic-victory-says-us-accepted-terms-ahead-talks",
+      "published_date": "2026-04-08T02:03:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Climate activist Greta Thunberg slams Trump’s threats against Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/whats-irans-10-point-peace-plan-that-trump-says-is-not-good-enough?traffic_source=rss",
-      "published_date": "2026-04-07T12:17:37+00:00",
+      "url": "https://www.aljazeera.com/news/2026/4/8/climate-activist-greta-thunberg-slams-trumps-threats-against-iran?traffic_source=rss",
+      "published_date": "2026-04-08T01:53:03+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Taiwanese opposition leader to meet China’s Xi in a test of diplomatic skill",
+      "title": "Trump administration reaffirms plans to deport Abrego Garcia to Liberia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/taiwanese-opposition-leader-to-meet-chinas-xi-in-a-test-of-diplomatic-skill?traffic_source=rss",
-      "published_date": "2026-04-07T12:06:57+00:00",
+      "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-reaffirms-plans-to-deport-abrego-garcia-to-liberia?traffic_source=rss",
+      "published_date": "2026-04-08T01:48:18+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Turkey probes shooting near Israeli consulate in Istanbul",
+      "title": "Trump announces US pause on Iran strikes for two weeks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-probes-shooting-near-israeli-consulate-istanbul",
-      "published_date": "2026-04-07T10:47:26+00:00",
+      "url": "https://www.middleeasteye.net/news/double-sided-ceasefire-trump-announces-us-pause-iran-strikes-two-weeks",
+      "published_date": "2026-04-08T01:13:57+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Oil hovers near $110 as Trump deadline on Hormuz looms",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-hovers-near-110-trump-deadline-hormuz-looms",
-      "published_date": "2026-04-07T10:21:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Draft resolution on Hormuz revised ahead of vote",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/draft-resolution-hormuz-revised-ahead-vote",
-      "published_date": "2026-04-07T05:03:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Malaysia-owned commercial vessel passes Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/malaysia-owned-commercial-vessel-passes-hormuz",
-      "published_date": "2026-04-07T04:59:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump’s threat to strike Iran’s power plants looms",
+      "title": "Iran says talks with US will begin in Pakistan’s Islamabad on Friday",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss",
-      "published_date": "2026-04-07T04:33:45+00:00",
+      "url": "https://www.aljazeera.com/news/2026/4/8/iran-says-talks-with-us-will-begin-in-pakistans-islamabad-on-friday?traffic_source=rss",
+      "published_date": "2026-04-08T01:06:46+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "‘Why would Iran agree to a ceasefire given US and Israeli track record?’",
+      "title": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss",
-      "published_date": "2026-04-07T04:11:17+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-08T01:00:30+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "IRNA: Iran submits response to US proposal via Pakistan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irna-iran-submits-response-us-proposal-pakistan",
-      "published_date": "2026-04-07T03:53:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Global stocks slip, oil climbs above $110 amid Hormuz uncertainty",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/global-stocks-slip-oil-climbs-above-110-amid-hormuz-uncertainty",
-      "published_date": "2026-04-07T03:26:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN says 1.1 million displaced in Lebanon amid conflict",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-11-million-displaced-lebanon-amid-conflict",
-      "published_date": "2026-04-07T02:33:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "WSJ: No deal likely before Trump deadline expires",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wsj-no-deal-likely-trump-deadline-expires",
-      "published_date": "2026-04-07T02:01:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN Security Council to vote on Hormuz resolution amid tensions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-security-council-vote-hormuz-resolution-amid-tensions",
-      "published_date": "2026-04-07T00:39:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
+      "title": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss",
-      "published_date": "2026-04-07T00:00:00+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss",
+      "published_date": "2026-04-07T23:25:46+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss",
-      "published_date": "2026-04-06T21:26:20+00:00",
+      "title": "Iran says talks with US to begin Friday in Islamabad",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-talks-us-begin-friday-islamabad",
+      "published_date": "2026-04-07T23:20:51+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Protesters swarm US embassy in Tel Aviv, demanding end of wars",
+      "title": "Iranian media reports 95 percent of US assets in region 'damaged or destroyed'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-95-us-assets-region-damaged-or-destroyed",
+      "published_date": "2026-04-08T05:28:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranians commemorate victims of Minab school strike",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss",
-      "published_date": "2026-04-06T21:05:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iranians-commemorate-victims-of-minab-school-strike?traffic_source=rss",
+      "published_date": "2026-04-08T04:29:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Araghchi says Iran will halt fire if attacks stop, thanks Pakistan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-will-halt-fire-if-attacks-stop-thanks-pakistan",
+      "published_date": "2026-04-08T04:21:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike hits ambulance in south Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-hits-ambulance-south-lebanon",
+      "published_date": "2026-04-08T03:48:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli shelling reported in south Lebanon after ceasefire remarks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-shelling-reported-south-lebanon-after-ceasefire-remarks",
+      "published_date": "2026-04-08T03:31:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel says Iran ceasefire agreement doesn’t include war in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-iran-ceasefire-agreement-doesnt-include-war-lebanon",
+      "published_date": "2026-04-08T03:15:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Full text of Iran's National Security Council statement on ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/full-text-irans-national-security-council-statement-ceasefire",
+      "published_date": "2026-04-08T03:06:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iraqis-celebrates-us-iran-ceasefire-as-two-week-halt-in-war-begins?traffic_source=rss",
+      "published_date": "2026-04-08T01:55:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "White House confirms two-week suspension of strikes on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss",
+      "published_date": "2026-04-08T00:06:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Djibouti and the Horn of Africa: new front in the war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/2026/4/7/djibouti-and-the-horn-of-africa-new-front-in-the-war-on-iran?traffic_source=rss",
+      "published_date": "2026-04-07T21:57:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Protesters in Iraq swarm Kuwaiti consulate after deadly rocket attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/protesters-in-iraq-swarm-kuwaiti-consulate-after-deadly-rocket-attack?traffic_source=rss",
+      "published_date": "2026-04-07T21:12:04+00:00",
+      "category": "Military"
     },
     {
       "title": "With his 'Stone Age' threat to Iran, Trump has unleashed a new age of savagery",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "US-Israeli attacks on Iran are ‘clear and obvious war crimes’",
+      "title": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/4/7/us-israeli-attacks-on-iran-are-clear-and-obvious-war?traffic_source=rss",
-      "published_date": "2026-04-07T11:26:27+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-08T01:29:54+00:00",
+      "category": "Energy"
     },
     {
-      "title": "How US, Israel are waging a war on Iranian culture, education",
+      "title": "Iranian musician stages protest at power station over Trump threats",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/how-us-israel-are-waging-a-war-on-iranian-culture-education?traffic_source=rss",
-      "published_date": "2026-04-07T10:43:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian missile strike damages cars and street in Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-missile-strike-damages-cars-and-street-in-israel?traffic_source=rss",
-      "published_date": "2026-04-07T10:24:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, Russia kill several civilians in tit-for-tat attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/three-civilians-killed-in-both-russia-ukraine-following-drone-attacks?traffic_source=rss",
-      "published_date": "2026-04-07T10:12:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three killed in shooting near Israeli consulate in Turkiye’s Istanbul",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/three-people-killed-in-gun-clash-near-israeli-consulate-in-istanbul?traffic_source=rss",
-      "published_date": "2026-04-07T10:07:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran targets Saudi petrochemical site as Israel strikes Shiraz facility",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-targets-saudi-petrochemical-site-israel-strikes-shiraz-facility",
-      "published_date": "2026-04-07T09:54:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Israeli strikes destroy buildings in northern Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/us-israeli-strikes-destroy-buildings-in-northern-iran?traffic_source=rss",
-      "published_date": "2026-04-07T09:53:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US lawmaker says strikes on infrastructure would be 'war crime'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmaker-says-strikes-infrastructure-would-be-war-crime",
-      "published_date": "2026-04-07T04:46:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anti-war protest held outside US Embassy in Tel Aviv",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-activists-protest-us-embassy-tel-aviv-over-iran-war",
-      "published_date": "2026-04-07T03:46:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says over 13,000 targets struck in Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-over-13000-targets-struck-iran",
-      "published_date": "2026-04-07T03:30:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blasts heard in Damascus as Israeli defences intercept missiles, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-damascus-israeli-defences-intercept-missiles-report-says",
-      "published_date": "2026-04-07T02:32:18+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-musician-stages-protest-at-power-station-over-trump-threats?traffic_source=rss",
+      "published_date": "2026-04-07T22:13:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "France warns US strikes on Iran infrastructure would break international law",
@@ -410,20 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss",
-      "published_date": "2026-04-05T11:08:14+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss",
-      "published_date": "2026-04-05T09:59:40+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/4/6/jobless-young-palestinians-trapped-as-israel-holds-gazas-economy-hostage?traffic_source=rss",
@@ -501,25 +501,11 @@
       "category": "Economy"
     },
     {
-      "title": "After Strait of Hormuz opens, turmoil would still last months, analysts say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/after-strait-of-hormuz-opens-turmoil-would-still-last-months-analysts-say?traffic_source=rss",
-      "published_date": "2026-03-31T23:03:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UN aid chief warns of new Israeli occupation in southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/un-aid-chief-warns-of-new-israeli-occupation-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-03-31T21:15:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UNDP warns war could wipe up to $194bn from regional economy",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/undp-warns-war-could-wipe-194bn-regional-economy",
-      "published_date": "2026-03-31T17:55:05+00:00",
-      "category": "Economy"
+      "title": "The humiliating ordeal of traveling abroad as a West Bank Palestinian",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/allenby-bridge-west-bank-ordeal/",
+      "published_date": "2026-04-07T17:00:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli forces beat elderly Palestinian woman to death",
@@ -652,13 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
       "published_date": "2026-04-03T21:05:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss",
-      "published_date": "2026-04-03T19:16:56+00:00",
       "category": "Local Events"
     }
   ]
