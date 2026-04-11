@@ -1,8 +1,106 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-04-11T11:24:30.415273+00:00",
-  "story_count": 93,
+  "last_updated": "2026-04-11T23:41:53.044056+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Iranian media: peace talks to continue on Sunday after no agreement reached",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-us-talks-continue-sunday-after-no-agreement-reached-iran-state-tv",
+      "published_date": "2026-04-11T22:46:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Iran peace negotiations end after 14 hours but disagreements remain, says Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-peace-negotiations-end-after-14-hours-disagreements-remain-says",
+      "published_date": "2026-04-11T22:24:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US President Trump says US ‘wins’ regardless of how Iran talks go",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss",
+      "published_date": "2026-04-11T22:09:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump: ‘Regardless of what happens, we win’ in Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-regardless-what-happens-we-win-iran",
+      "published_date": "2026-04-11T21:19:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Diplomacy is not an event, it’s a process, it takes time.”",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss",
+      "published_date": "2026-04-11T20:55:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian media: New round of talks may be ‘last opportunity’ for agreement with US",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-new-round-talks-may-be-last-opportunity-agreement-us",
+      "published_date": "2026-04-11T20:08:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/irans-deputy-fm-says-tehran-has-upper-hand-in-talks-with-us?traffic_source=rss",
+      "published_date": "2026-04-11T19:46:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing?traffic_source=rss",
+      "published_date": "2026-04-11T19:38:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "White House says in-person talks with Iran ‘ongoing’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-says-person-talks-iran-ongoing",
+      "published_date": "2026-04-11T19:00:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US appeals court extends deadline to halt White House ballroom construction",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/us-appeals-court-extends-deadline-to-halt-white-house-ballroom-construction?traffic_source=rss",
+      "published_date": "2026-04-11T18:58:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hezbollah supporters demonstrate to protest Lebanon’s talks with Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-supporters-demonstrate-protest-lebanons-talks-israel",
+      "published_date": "2026-04-11T18:44:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian media: Third session of US-Iran talks to be held tonight",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-third-session-us-iran-talks-be-held-tonight",
+      "published_date": "2026-04-11T18:29:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US agreed to unfreeze Iranian assets, sources tell Al Jazeera",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-agreed-unfreeze-iranian-assets-sources-tell-al-jazeera",
+      "published_date": "2026-04-11T18:24:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia-Ukraine Orthodox Easter ceasefire begins",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
+      "published_date": "2026-04-11T16:09:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Can a lasting deal emerge from the Islamabad talks?",
       "source": "Middle East Eye",
@@ -46,102 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan calls for 'constructive talks' as delegations arrive in Islamabad",
+      "title": "Hezbollah says it fired on Israeli military in southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-calls-constructive-talks-delegations-arrive-islamabad",
-      "published_date": "2026-04-11T07:01:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-fired-israeli-military-southern-lebanon",
+      "published_date": "2026-04-11T22:39:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran delegation to meet Pakistan PM Sharif ahead of talks in Islamabad",
+      "title": "IRGC warns military vessels attempting to cross Hormuz of ‘strong response’",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-delegation-meet-pakistan-pm-sharif-ahead-talks-islamabad",
-      "published_date": "2026-04-11T06:55:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-military-vessels-attempting-cross-hormuz-strong-response",
+      "published_date": "2026-04-11T21:29:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran enters talks in 'good faith', cites distrust of US as talks begin in Islamabad",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-enters-talks-good-faith-cites-distrust-us-talks-begin-islamabad",
-      "published_date": "2026-04-11T06:38:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Top US officials land in Pakistan for talks with Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/top-us-officials-land-iran-talks-pakistan",
-      "published_date": "2026-04-11T06:08:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+      "title": "Pope Leo urges world leaders to reject war and negotiate peace",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
-      "published_date": "2026-04-11T04:15:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pope-leo-urges-world-leaders-to-reject-war-and-negotiate-peace?traffic_source=rss",
+      "published_date": "2026-04-11T20:47:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
+      "title": "Tel Aviv: Israeli protestors rally against wars in Iran and Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tel-aviv-israeli-protestors-rally-against-wars-iran-and-lebanon",
+      "published_date": "2026-04-11T20:41:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Has Israeli society become conditioned to permanent war?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
-      "published_date": "2026-04-11T03:06:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/11/has-israeli-society-become-conditioned-to-permament-war?traffic_source=rss",
+      "published_date": "2026-04-11T20:40:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump’s Board of Peace denies reports of funding shortages",
+      "title": "Pope condemns ‘delusion of omnipotence’ causing US-Iran war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-board-peace-denies-reports-funding-constraints",
-      "published_date": "2026-04-10T22:27:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pope-condemns-delusion-omnipotence-spurring-us-iran-war",
+      "published_date": "2026-04-11T20:21:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran has ‘goodwill but no trust in US’ ahead of ceasefire talks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-goodwill-no-trust-us-ahead-ceasefire-talks",
-      "published_date": "2026-04-10T22:15:05+00:00",
-      "category": "Diplomacy"
+      "title": "Families gather to mourn victims of deadly shooting in Afghanistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/families-gather-to-mourn-victims-of-deadly-shooting-in-afghanistan?traffic_source=rss",
+      "published_date": "2026-04-11T20:08:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Game on’: How Iran can exact a toll in the Strait of Hormuz",
+      "title": "Death toll from Israeli strike in Lebanon’s Tafahta rises to 13",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/game-how-iran-can-get-its-toll-strait-hormuz",
-      "published_date": "2026-04-10T22:01:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-strike-lebanons-tafahta-rises-13",
+      "published_date": "2026-04-11T20:02:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "US, Lebanon ask Israel to ‘pause’ attacks on Hezbollah",
+      "title": "Iranian military ‘strongly’ denies US claim two ships passed through Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lebanon-ask-israel-pause-attacks-hezbollah",
-      "published_date": "2026-04-10T22:00:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-military-strongly-denies-us-claim-two-ships-passed-through",
+      "published_date": "2026-04-11T19:14:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel rejects ceasefire talks with Hezbollah but agrees to negotiating with Lebanon",
+      "title": "Netanyahu: Israel wants ‘true peace pact’ with Lebanon, campaign in Iran 'not over'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-rejects-ceasefire-talks-hezbollah-agrees-negotiating-lebanon",
-      "published_date": "2026-04-10T21:57:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-israel-wants-true-peace-pact-lebanon",
+      "published_date": "2026-04-11T18:52:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Make or break': What to know about US-Iran talks in Pakistan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/make-or-break-what-know-about-us-iran-talks-pakistan",
-      "published_date": "2026-04-10T21:19:41+00:00",
-      "category": "Diplomacy"
+      "title": "Iranian rabbi describes Israel’s destruction of a Tehran synagogue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iranian-rabbi-describes-israels-destruction-of-a-tehran-synagogue?traffic_source=rss",
+      "published_date": "2026-04-11T18:36:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "In photos: Pakistan prepares to host US-Iran ceasefire talks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/photos-pakistan-prepares-host-us-iran-ceasefire-talks",
-      "published_date": "2026-04-10T20:48:09+00:00",
-      "category": "Diplomacy"
+      "title": "Gaza families mourn loved ones killed in overnight Israeli air strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss",
+      "published_date": "2026-04-11T18:02:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon, Israel and US hold three-way-call, agree to meeting on Tuesday",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-and-us-hold-three-way-call-agree-meeting-tuesday",
-      "published_date": "2026-04-10T20:30:54+00:00",
-      "category": "Diplomacy"
+      "title": "Machete-wielding man killed by police in New York’s Grand Central station",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
+      "published_date": "2026-04-11T15:51:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli attacks kill 10 in south Lebanon",
@@ -190,97 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
       "published_date": "2026-04-11T08:35:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-509",
-      "published_date": "2026-04-11T08:32:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone attack kills Palestinians near Gaza mosque",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
-      "published_date": "2026-04-11T07:51:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Vance arrives in Pakistan for talks with Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
-      "published_date": "2026-04-11T07:34:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel bombs Lebanon towns as Hezbollah targets army base",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-bombs-lebanon-towns-hezbollah-targets-army-base",
-      "published_date": "2026-04-11T06:06:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
-      "published_date": "2026-04-11T04:49:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Vance, Iranian leaders meet Pakistan PM for ceasefire talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
-      "published_date": "2026-04-11T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike on government building kills Lebanese officers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss",
-      "published_date": "2026-04-10T23:55:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Brazil announces US partnership to intercept weapons, drug trafficking",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/brazil-announces-us-partnership-to-intercept-weapons-drug-trafficking?traffic_source=rss",
-      "published_date": "2026-04-10T23:39:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss",
-      "published_date": "2026-04-10T22:58:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Islamabad on lockdown ahead of US-Iran talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss",
-      "published_date": "2026-04-10T21:58:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PHOTOS: How hypermilitarism pervades everyday life in Israel",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/israel-hypermilitarism-everyday-life/",
-      "published_date": "2026-04-10T21:17:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army claims 180 Hezbollah fighters killed on Wednesday",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-claims-180-hezbollah-fighters-killed-wednesday",
-      "published_date": "2026-04-10T19:07:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK police arrest man after four die during Channel crossing attempt",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/10/uk-police-arrest-man-after-four-die-during-channel-crossing-attempt?traffic_source=rss",
-      "published_date": "2026-04-10T18:41:22+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "US liberal zionist advocacy group backs blocking aid to Israel, including for defence",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-liberal-zionist-advocacy-group-backs-blocking-aid-israel-including",
+      "published_date": "2026-04-11T21:54:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim?traffic_source=rss",
+      "published_date": "2026-04-11T17:29:23+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "What’s at stake in Benin’s presidential election?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/11/whats-at-stake-in-benins-presidential-election?traffic_source=rss",
@@ -513,6 +527,48 @@
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-unknown-projectiles-nearby-uaes-khor-fakkan-port",
       "published_date": "2026-04-05T14:20:32+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Evening update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-update-30",
+      "published_date": "2026-04-11T23:01:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 500 protestors in London arrested over Palestine Action ban, says Met police",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/over-500-protestors-london-arrested-over-palestine-action-ban-says-met",
+      "published_date": "2026-04-11T22:34:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNICEF says humanitarian aid ‘critical’ in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/unicef-says-humanitarian-aid-critical-southern-lebanon",
+      "published_date": "2026-04-11T22:01:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Map of Israel used by Netanyahu in speech suggests annexation of West Bank completed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/map-israel-used-netanyahu-speech-suggests-annexation-west-bank-completed",
+      "published_date": "2026-04-11T21:02:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strikes kill at least 18 people across southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-04-11T20:25:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers kill Palestinian during raid on occupied West Bank village",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/israeli-settlers-kill-palestinian-during-raid-on-occupied-west-bank-village?traffic_source=rss",
+      "published_date": "2026-04-11T18:47:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘I wished for death’: Sexual violence in Israel’s prisons is an ‘organised state policy’",
@@ -610,48 +666,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/israeli-cabinet-secretly-approves-record-number-new-west-bank-settlements",
       "published_date": "2026-04-09T12:16:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atletico Madrid shock 10-man Barcelona 2-0 in Champions League quarterfinal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/8/atletico-madrid-shock-10-man-barcelona-2-0-in-champions-league-quarterfinal?traffic_source=rss",
-      "published_date": "2026-04-08T21:22:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian children's charity closes in wake of Israeli pressure",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/palestinian-childs-group-shut-down-operations-after-israeli-pressure",
-      "published_date": "2026-04-08T14:13:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The humiliating ordeal of traveling abroad as a West Bank Palestinian",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/allenby-bridge-west-bank-ordeal/",
-      "published_date": "2026-04-07T17:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces beat elderly Palestinian woman to death",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-forces-beat-elderly-palestinian-woman-death",
-      "published_date": "2026-04-07T14:26:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon health ministry says 1,530 killed since 2 March",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-health-ministry-says-1530-killed-2-march",
-      "published_date": "2026-04-07T14:20:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barcelona vs Atletico Madrid: Champions League – team news, start, lineups",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/7/barcelona-vs-atletico-madrid-champions-league-team-news-start?traffic_source=rss",
-      "published_date": "2026-04-07T12:01:33+00:00",
       "category": "Local Events"
     }
   ]
