@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-04-13T23:52:13.375780+00:00",
-  "story_count": 95,
+  "last_updated": "2026-04-14T11:53:31.231689+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Iran says a 'lack of goodwill' from the US blocked deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-lack-goodwill-us-blocked-deal",
+      "published_date": "2026-04-14T11:00:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italy suspends defence agreement with Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-suspends-defence-agreement-israel",
+      "published_date": "2026-04-14T10:36:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia and UAE minister call for immediate ceasefire in Gulf",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-and-uae-minister-call-immediate-ceasefire-gulf",
+      "published_date": "2026-04-14T10:21:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US and Iran keep talking as Trump's blockade takes effect",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-keep-talking-trumps-blockade-takes-effect-0",
+      "published_date": "2026-04-14T08:40:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "War on Iran: Why the Islamabad talks failed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/war-iran-why-islamabad-talks-failed",
+      "published_date": "2026-04-14T08:21:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sweden calls for reduced reliance on US military support",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sweden-calls-reduced-reliance-us-defense-support",
+      "published_date": "2026-04-14T06:34:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China dismisses Vice Minister of Foreign Affairs Sun Weidong",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/china-dismisses-vice-minister-of-foreign-affairs-sun-weidong?traffic_source=rss",
+      "published_date": "2026-04-14T06:31:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Video: Fidan says Israel seeking to declare Turkey as a ‘new enemy’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-fidan-says-israel-seeking-declare-turkey-new-enemy",
+      "published_date": "2026-04-14T06:01:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss",
+      "published_date": "2026-04-14T05:47:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Video: Trump says AI Jesus image meant to show him as doctor",
       "source": "Middle East Eye",
@@ -81,67 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hezbollah chief urges Lebanese government to cancel US-Israel talks",
+      "title": "Italy suspends defence cooperation deal with Israel",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-urges-lebanese-government-cancel-us-israel-talks",
-      "published_date": "2026-04-13T18:31:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/italy-suspends-defence-cooperation-deal-israel",
+      "published_date": "2026-04-14T11:47:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Starmer announces talks to address the Strait of Hormuz crisis",
+      "title": "Qatar says focus should be on ending fighting, not Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-focus-should-be-ending-fighting-not-strait-hormuz",
+      "published_date": "2026-04-14T11:45:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Global oil demand to plunge amid disruptions caused by war on Iran: IEA",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/starmer-announces-talks-to-address-the-strait-of-hormuz-crisis?traffic_source=rss",
-      "published_date": "2026-04-13T17:46:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions?traffic_source=rss",
+      "published_date": "2026-04-14T10:59:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Video: Trump says he isn't 'a big fan' of Pope Leo",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-trump-says-he-isnt-big-fan-pope-leo",
-      "published_date": "2026-04-13T14:58:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says Iranian ships that come close to US blockade will be eliminated",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iranian-ships-come-close-us-blockade-will-be-eliminated",
-      "published_date": "2026-04-13T14:53:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump's framing of war as Iran's barbarism vs civilised West is a huge lie",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-framing-war-irans-barbarism-vs-civilised-west-huge-lie",
-      "published_date": "2026-04-13T11:56:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Netanyahu says US Vice President briefed him on Iran talks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-us-vice-president-briefed-him-iran-talks",
-      "published_date": "2026-04-13T11:23:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Starmer says UK will not support US blockade of Strait of Hormuz",
+      "title": "Iran slams YouTube ban on pro-Iranian group’s Lego-style AI videos",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-04-13T10:15:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos?traffic_source=rss",
+      "published_date": "2026-04-14T10:16:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel could act against Syria after Iran war, Turkish foreign minister says",
+      "title": "France and UK to host virtual meeting regarding Strait of Hormuz on Friday",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-could-act-against-syria-after-iran-war-turkish-fm-says",
-      "published_date": "2026-04-13T09:59:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-and-uk-host-virtual-meeting-regarding-strait-hormuz-friday",
+      "published_date": "2026-04-14T10:06:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkey says Iran and US ‘sincere’ on ceasefire despite failed talks",
+      "title": "Sanctioned tankers transit Strait of Hormuz amid US blockade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade?traffic_source=rss",
+      "published_date": "2026-04-14T09:58:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss",
+      "published_date": "2026-04-14T09:08:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli settlers storm Al-Aqsa mosque under Israeli forces’ protection",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-iran-and-us-sincere-ceasefire-despite-failed-talks",
-      "published_date": "2026-04-13T09:08:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-storm-al-aqsa-mosque-under-israeli-forces-protection",
+      "published_date": "2026-04-14T08:46:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China calls US blockade of Iranian ports ‘dangerous and irresponsible’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-calls-us-blockade-iranian-ports-dangerous-and-irresponsible",
+      "published_date": "2026-04-14T08:17:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestine weekly wrap: ‘Master of the house’ says Ben-Gvir as Al-Aqsa opens",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/palestine-weekly-wrap-master-of-the-house-says-ben-gvir-as-al-aqsa-opens?traffic_source=rss",
+      "published_date": "2026-04-14T08:12:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli envoy calls Italian magazine antisemitic over settler violence coverage",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-envoy-italy-calls-magazine-antisemitic-over-settler-violence-coverage",
+      "published_date": "2026-04-14T07:32:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 46 of the US-Iran conflict?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/iran-war-what-is-happening-on-day-46-of-the-us-iran-conflict?traffic_source=rss",
+      "published_date": "2026-04-14T06:58:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australia ‘deeply invested’ in Hormuz access, defence minister says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/australia-deeply-invested-hormuz-access-defence-minister-says",
+      "published_date": "2026-04-14T06:05:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike hits south Lebanon homes as sirens sound in northern Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-hits-south-lebanon-homes-sirens-sound-northern-israel",
+      "published_date": "2026-04-14T05:40:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indonesia, US sign ‘major’ defence cooperation agreement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement?traffic_source=rss",
+      "published_date": "2026-04-14T05:10:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three babies born into Sudan war every minute, charity warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns?traffic_source=rss",
+      "published_date": "2026-04-14T04:52:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military kills two men in new strike on vessel in eastern Pacific",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/us-military-kills-two-men-in-new-strike-on-vessel-in-eastern-pacific?traffic_source=rss",
+      "published_date": "2026-04-14T02:47:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anti-war protesters arrested in New York urging end to Israel weapon sales",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/anti-war-protesters-arrested-in-new-york-urging-end-to-israel-weapon-sales?traffic_source=rss",
+      "published_date": "2026-04-14T02:13:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Vance says talks with Iran made progress, defends shipping blockade",
@@ -158,130 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "US and Iran keep talking as Trump's blockade takes effect",
+      "title": "'Pipe dream': Turkey's plan to redraw Middle East energy routes after Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-and-iran-keep-talking-trumps-blockade-takes-effect",
-      "published_date": "2026-04-13T21:37:24+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/pipe-dream-turkey-plan-redraw-middle-east-energy-iran-war-hormuz",
+      "published_date": "2026-04-14T10:16:39+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Bernie Sanders vows to push resolution to block US weapons to Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel?traffic_source=rss",
-      "published_date": "2026-04-13T20:28:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army bulldozes buildings in south Lebanon: Report",
+      "title": "South Korea warns Hormuz tensions to prolong energy and supply shocks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-bulldozes-buildings-south-lebanon-report",
-      "published_date": "2026-04-13T19:55:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "There is 'continued engagement with Iran', US official says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/there-continued-engagement-iran-us-official-says",
-      "published_date": "2026-04-13T19:07:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French court rules cement giant Lafarge guilty of funding Syria ‘terrorism’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/french-court-rules-cement-giant-lafarge-guilty-of-funding-syrian-terrorism?traffic_source=rss",
-      "published_date": "2026-04-13T18:52:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "YouTube removes pro-Iran channel producing anti-Trump videos",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/youtube-removes-iran-linked-channel-producing-anti-trump-animation",
-      "published_date": "2026-04-13T15:43:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump is returning to a war with Iran that offers no easy victory for anyone",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/iran-war-trumps-antics-offer-no-easy-victory-anyone",
-      "published_date": "2026-04-13T15:04:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US blockade of Iran ports begins",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/deadline-passes-us-blockade-iran-ports",
-      "published_date": "2026-04-13T14:09:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK: Six Palestine Action activists stand trial over Elbit Systems break-in",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-six-palestine-action-activists-stand-trial-over-elbit-systems-break",
-      "published_date": "2026-04-13T14:08:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan PM Sharif says 'full effort' still on to resolve conflict",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-sharif-says-full-effort-still-resolve-conflict",
-      "published_date": "2026-04-13T14:07:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tear gas fired at Indian workers demanding higher wage as living costs rise",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/tear-gas-fired-at-indian-workers-demanding-higher-wage-as-living-costs-rise?traffic_source=rss",
-      "published_date": "2026-04-13T11:35:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy?traffic_source=rss",
-      "published_date": "2026-04-13T10:52:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK and France plan naval mission over Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-and-france-plan-naval-mission-over-strait-hormuz",
-      "published_date": "2026-04-13T10:36:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills three in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-three-gaza-0",
-      "published_date": "2026-04-13T10:15:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How a UK military college sought to distance itself from ban on Israelis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/how-a-uk-military-college-sought-to-distance-itself-from-ban-on-israelis?traffic_source=rss",
-      "published_date": "2026-04-13T10:14:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Millions in war-ravaged Sudan surviving on one meal a day, say NGOs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/millions-in-war-ravaged-sudan-surviving-on-one-meal-a-day-say-ngos?traffic_source=rss",
-      "published_date": "2026-04-13T09:59:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US blockade of Iran would worsen global energy crisis, analysts say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/us-blockade-of-iran-would-worsen-global-energy-crisis-analysts-say?traffic_source=rss",
-      "published_date": "2026-04-13T09:52:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What Iran is saying about US plan to blockade ports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-iran-is-saying-about-us-plan-to-blockade-ports?traffic_source=rss",
-      "published_date": "2026-04-13T08:54:22+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-warns-hormuz-tensions-prolong-energy-and-supply-shocks",
+      "published_date": "2026-04-14T09:20:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "US energy chief: Oil prices likely to rise until 'meaningful' traffic resumes through Hormuz",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Energy prices may take ‘months’ to normalise, despite ceasefire: Analysts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/10/energy-prices-may-take-months-to-normalise-despite-ceasefire-analysts?traffic_source=rss",
-      "published_date": "2026-04-10T05:41:18+00:00",
-      "category": "Energy"
+      "title": "UK’s finance minister criticises Washington as Hormuz disruption fuels economic worries",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uks-finance-minister-criticises-washington-hormuz-disruption-fuels",
+      "published_date": "2026-04-14T09:51:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Attack on Saudi Arabian pipeline wiped out 10 percent of kingdom's oil export capacity",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-saudi-arabian-pipeline-wiped-out-10-percent-kingdoms-oil-export",
-      "published_date": "2026-04-10T01:11:32+00:00",
-      "category": "Energy"
+      "title": "World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss",
+      "published_date": "2026-04-14T08:52:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "New White House report has plans to fix US housing shortage of 10 million",
@@ -527,6 +541,27 @@
       "url": "https://www.aljazeera.com/features/2026/4/8/yemens-teachers-pushed-to-the-brink-as-salaries-collapse?traffic_source=rss",
       "published_date": "2026-04-08T07:06:06+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Smotrich refers to Nazis as he brands Germany 'hypocrites' over Israeli settler criticism",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/bezalel-smotrich-refers-nazis-brands-germany-hypocrites-west-bank-settlers",
+      "published_date": "2026-04-14T11:24:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chinese President Xi Jinping urges respect for Gulf sovereignty",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/chinese-president-xi-jinping-urges-respect-gulf-sovereignty",
+      "published_date": "2026-04-14T06:48:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New trial over football great Maradona’s death begins in Argentina",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/14/new-trial-over-football-great-maradonas-death-begins-in-argentina?traffic_source=rss",
+      "published_date": "2026-04-14T06:25:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UN experts slam attacks on Gaza shelters, forced displacement in West Bank",
@@ -645,27 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon?traffic_source=rss",
       "published_date": "2026-04-11T20:25:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers kill Palestinian during raid on occupied West Bank village",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/israeli-settlers-kill-palestinian-during-raid-on-occupied-west-bank-village?traffic_source=rss",
-      "published_date": "2026-04-11T18:47:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I wished for death’: Sexual violence in Israel’s prisons is an ‘organised state policy’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/i-wished-death-sexual-violence-israels-prisons-organised-state-policy",
-      "published_date": "2026-04-11T10:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian youths injured in Israeli West Bank raids",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-youths-injured-israeli-west-bank-raids",
-      "published_date": "2026-04-10T23:00:39+00:00",
       "category": "Local Events"
     }
   ]
