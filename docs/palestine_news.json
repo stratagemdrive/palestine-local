@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-04-14T23:50:48.513182+00:00",
+  "last_updated": "2026-04-15T11:51:15.584837+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Mediators move closer to extending US-Iran ceasefire, AP reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mediators-move-closer-extending-us-iran-ceasefire-ap-reports",
+      "published_date": "2026-04-15T11:43:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Butch Ware: How the US legacy of slavery led us to Trump’s America",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/video/unapologetic-podcast-butch-ware-how-us-legacy-slavery-led-us-trump-america",
+      "published_date": "2026-04-15T10:56:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Erdogan says Turkey working to extend Iran ceasefire, continue talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-says-turkey-working-extend-iran-ceasefire-continue-talks",
+      "published_date": "2026-04-15T10:13:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What you need to know about Israel’s ambassador to the US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-you-need-to-know-about-israels-ambassador-to-the-us?traffic_source=rss",
+      "published_date": "2026-04-15T10:10:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/trump-turns-on-meloni-saying-she-lacks-courage-over-us-israel-war-on-iran?traffic_source=rss",
+      "published_date": "2026-04-15T07:05:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China’s Xi meets Russian FM Lavrov, calls relations with Moscow ‘precious’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/chinas-xi-meets-russian-fm-lavrov-calls-relations-with-moscow-precious?traffic_source=rss",
+      "published_date": "2026-04-15T06:37:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South Africa appoints former apartheid-era negotiator as US ambassador",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/south-africa-appoints-former-apartheid-era-negotiator-as-us-ambassador?traffic_source=rss",
+      "published_date": "2026-04-15T04:26:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel and Lebanon hold direct talks for first time in decades",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-and-lebanon-hold-direct-talks-for-first-time-in-decades?traffic_source=rss",
+      "published_date": "2026-04-15T01:47:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "JD Vance: US-Iran mistrust cannot be solved overnight",
       "source": "Middle East Eye",
@@ -88,60 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Can a renewed Joint List survive until Israel’s elections?",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/renewed-joint-list-divisions-israel-elections/",
-      "published_date": "2026-04-14T18:58:10+00:00",
-      "category": "Diplomacy"
+      "title": "Iran military warns will block Red Sea if US naval blockade continues",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-military-warns-will-block-red-sea-if-us-naval-blockade-continues",
+      "published_date": "2026-04-15T11:22:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah",
+      "title": "Senior UAE, Iran officials discuss de-escalation in rare call",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/senior-uae-iran-officials-discuss-de-escalation-rare-call",
+      "published_date": "2026-04-15T11:12:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eyal Weizman: How Israel is engineering genocide and ethnic cleansing",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/video/unapologetic-podcast-eyal-weizman-how-israel-engineering-genocide-and-ethnic-cleansing",
+      "published_date": "2026-04-15T10:51:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Israel and the US are losing the broader battle against Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/how-israel-and-us-are-losing-broader-battle-against-iran",
+      "published_date": "2026-04-15T10:31:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ramadan TV: Six things we learned from the 2026 season",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/discover/ramadan-tv-six-things-we-learned-2026-season",
+      "published_date": "2026-04-15T10:10:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran seeking dialogue, not war, President Pezeshkian says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-seeking-dialogue-not-war-president-pezeshkian-says",
+      "published_date": "2026-04-15T10:03:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli military attacks kill at least eight people in Gaza in one day",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-attacks-kill-least-eight-people-gaza-one-day",
+      "published_date": "2026-04-15T09:14:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drone strike kills two in Lebanon's Tyre",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-lebanons-tyre",
+      "published_date": "2026-04-15T08:29:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Food is unifying’: How Lebanon’s migrants are feeding the war-displaced",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-ambassador-lebanon-wants-to-be-liberated-from-hezbollah?traffic_source=rss",
-      "published_date": "2026-04-14T18:56:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/4/15/food-is-unifying-how-lebanons-migrants-are-feeding-the-war-displaced?traffic_source=rss",
+      "published_date": "2026-04-15T08:21:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli ambassador to US: Israel, Lebanon united in liberating Lebanon from Hezbollah",
+      "title": "Hezbollah claims rocket attack on northern Israel",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-ambassador-us-israel-lebanon-united-liberating-lebanon-hezbollah",
-      "published_date": "2026-04-14T18:26:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-rocket-attack-northern-israel",
+      "published_date": "2026-04-15T07:57:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "No ships ‘make it past US blockade’ in Hormuz strait in first day: Pentagon",
+      "title": "Iran war: What is happening on day 47 of the US-Iran conflict?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/no-ships-make-it-past-us-blockade-in-hormuz-strait-in-first-day-pentagon?traffic_source=rss",
-      "published_date": "2026-04-14T17:53:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/15/iran-war-what-is-happening-on-day-47-of-the-us-iran-conflict?traffic_source=rss",
+      "published_date": "2026-04-15T07:41:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon-Israel talks conclude in Washington",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-conclude-washington",
-      "published_date": "2026-04-14T17:48:42+00:00",
-      "category": "Diplomacy"
+      "title": "Iran says $270bn war loss must be compensated, as fresh talks with US loom",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/iran-says-270bn-war-loss-must-be-compensated-as-fresh-talks-with-us-loom?traffic_source=rss",
+      "published_date": "2026-04-15T06:28:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canada allocates Lebanon $40m in humanitarian aid",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/canada-allocates-lebanon-40m-humanitarian-aid",
-      "published_date": "2026-04-14T17:23:43+00:00",
-      "category": "Diplomacy"
+      "title": "US military says blockade of Iran ports ‘completely’ halts economic trade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade?traffic_source=rss",
+      "published_date": "2026-04-15T05:17:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says a 'lack of goodwill' from the US blocked deal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-lack-goodwill-us-blocked-deal",
-      "published_date": "2026-04-14T11:00:26+00:00",
-      "category": "Diplomacy"
+      "title": "US forces kill 4 people in latest strike on vessels in eastern Pacific",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/us-forces-kill-4-people-in-latest-strike-on-vessels-in-eastern-pacific?traffic_source=rss",
+      "published_date": "2026-04-15T02:54:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Italy suspends defence agreement with Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-suspends-defence-agreement-israel",
-      "published_date": "2026-04-14T10:36:36+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli attacks kill 11, including two children, in day of strikes on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza?traffic_source=rss",
+      "published_date": "2026-04-15T01:16:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Haiti’s Culture Ministry fires workers over citadel stampede that killed 25",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/haitis-culture-ministry-fires-workers-over-citadel-stampede-that-killed-25?traffic_source=rss",
+      "published_date": "2026-04-15T00:11:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Trump says war ‘close to over’ as Hormuz blockade continues",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss",
+      "published_date": "2026-04-15T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war",
@@ -165,123 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Hezbollah says it launched drones at Israeli military in occupied Golan Heights",
+      "title": "South Korea secures 270 million barrels of oil from suppliers unaffected by Hormuz blockade",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-launched-drones-israeli-military-occupied-golan",
-      "published_date": "2026-04-14T21:45:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air strike kills five in Gaza City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-kills-five-gaza-city",
-      "published_date": "2026-04-14T20:22:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How US blockade on Iran will worsen energy crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/how-us-blockade-on-iran-will-worsen-energy-crisis?traffic_source=rss",
-      "published_date": "2026-04-14T20:10:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe excludes US from plan to reopen Hormuz, WSJ reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/europe-excludes-us-plan-reopen-hormuz",
-      "published_date": "2026-04-14T19:44:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why are global views of the US getting worse?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-stream/2026/4/14/why-are-global-views-of-the-us-getting-worse?traffic_source=rss",
-      "published_date": "2026-04-14T19:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike on Gaza police car kills child",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-strike-on-gaza-police-car-kills-child?traffic_source=rss",
-      "published_date": "2026-04-14T19:16:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Centcom says no ships passed through first day of US Hormuz blockade",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-no-ships-passed-through-their-blockade-hormuz",
-      "published_date": "2026-04-14T18:38:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drones, Iran war escalating horror as Sudan war enters fourth year",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/drones-iran-war-escalating-horror-as-sudan-war-enters-fourth-year?traffic_source=rss",
-      "published_date": "2026-04-14T18:27:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: UN chief Antonio Guterres says talks on Iran war likely to restart",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/video-un-chief-antonio-guterres-says-talks-on-iran-war-likely-to-restart?traffic_source=rss",
-      "published_date": "2026-04-14T18:16:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli troops fully surround Bint Jbeil in Lebanon offensive",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-fully-surround-bint-jbeil-lebanon-offensive",
-      "published_date": "2026-04-14T17:39:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy suspends defence cooperation deal with Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/italy-suspends-defence-cooperation-deal-israel",
-      "published_date": "2026-04-14T11:47:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Qatar says focus should be on ending fighting, not Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-focus-should-be-ending-fighting-not-strait-hormuz",
-      "published_date": "2026-04-14T11:45:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Global oil demand to plunge amid disruptions caused by war on Iran: IEA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions?traffic_source=rss",
-      "published_date": "2026-04-14T10:59:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran slams YouTube ban on pro-Iranian group’s Lego-style AI videos",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos?traffic_source=rss",
-      "published_date": "2026-04-14T10:16:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France and UK to host virtual meeting regarding Strait of Hormuz on Friday",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-and-uk-host-virtual-meeting-regarding-strait-hormuz-friday",
-      "published_date": "2026-04-14T10:06:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sanctioned tankers transit Strait of Hormuz amid US blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade?traffic_source=rss",
-      "published_date": "2026-04-14T09:58:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss",
-      "published_date": "2026-04-14T09:08:46+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-secures-270-million-barrels-oil-suppliers-unaffected-hormuz",
+      "published_date": "2026-04-15T07:20:16+00:00",
+      "category": "Energy"
     },
     {
       "title": "IMF cuts global growth forecast during Hormuz blockade",
@@ -414,13 +421,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
       "published_date": "2026-04-11T06:26:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump: US will have Strait of Hormuz ‘open fairly soon’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-us-will-have-strait-hormuz-open-fairly-soon",
-      "published_date": "2026-04-10T22:41:12+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,69 @@
       "category": "Economy"
     },
     {
+      "title": "Stephen Kapos: The Holocaust survivor who leads pro-Palestine protests",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/video/unapologetic-podcast-stephen-kapos-holocaust-survivor-pro-palestine-protests",
+      "published_date": "2026-04-15T11:13:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNHCR chief calls for 'urgent' support to Lebanon during war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/unhcr-chief-calls-urgent-support-lebanon-during-war",
+      "published_date": "2026-04-15T11:02:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces number Palestinian women’s hands during Jenin invasion",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-number-palestinian-womens-hands-during-jenin-invasion",
+      "published_date": "2026-04-15T09:37:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces number Palestinian women’s hands during Jenin invasion",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-forces-number-palestinian-womens-hands-during-jenin-invasion",
+      "published_date": "2026-04-15T09:18:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces launch large-scale raids, demolitions in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-launch-large-scale-raids-demolitions-west-bank",
+      "published_date": "2026-04-15T08:51:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli jailers assaulted Marwan Barghouti three times in a month, lawyer says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jailers-assaulted-marwan-barghouti-three-times-month-lawyer-says",
+      "published_date": "2026-04-15T08:10:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli jailers assaulted Marwan Barghouti three times in a month, lawyer says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/marwan-barghouti-endures-brutal-attacks-israeli-detention-campaign-says",
+      "published_date": "2026-04-15T08:04:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Families across Sudan endure years of displacement, hunger, loss",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/4/15/sudan-families-endure-years-of-displacement-hunger-and-unimaginable-loss?traffic_source=rss",
+      "published_date": "2026-04-15T08:02:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England beat Spain 1-0 to lead Women’s World Cup 2027 qualifying group",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/15/england-beat-spain-1-0-to-lead-womens-world-cup-2027-qualifying-group?traffic_source=rss",
+      "published_date": "2026-04-15T06:21:40+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Canada faces calls to rescind planned cuts to refugee healthcare scheme",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/14/canada-faces-calls-to-rescind-planned-cuts-to-refugee-healthcare-scheme?traffic_source=rss",
@@ -638,69 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rat-gnawed-my-toes-rodent-infestation-overruns-gazas-displaced",
       "published_date": "2026-04-13T09:53:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The rat gnawed at my toes’: Rodent infestation overruns Gaza’s displaced",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/gaza-genocide-rats-rodent-infestation-overruns-displaced",
-      "published_date": "2026-04-13T06:51:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran says 77 historic sites damaged in strikes on Tehran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-77-historic-sites-damaged-strikes-tehran",
-      "published_date": "2026-04-13T06:18:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran president urges US to abandon 'totalitarianism' negotiating position",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-president-urges-us-abandon-totalitarianism-negotiating-position",
-      "published_date": "2026-04-12T20:09:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu appoints army general as new Mossad chief",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-appoints-army-general-new-mossad-chief",
-      "published_date": "2026-04-12T19:11:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ben Gvir visits Al-Aqsa Mosque complex, says 'I feel like the owner'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-visits-al-aqsa-compound-says-i-feel-owner",
-      "published_date": "2026-04-12T10:35:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran says more than 2,000 children wounded in US-Israeli attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-more-2000-children-wounded-us-israeli-attacks",
-      "published_date": "2026-04-12T06:46:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-04-12T00:44:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evening update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-update-30",
-      "published_date": "2026-04-11T23:01:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 500 protestors in London arrested over Palestine Action ban, says Met police",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/over-500-protestors-london-arrested-over-palestine-action-ban-says-met",
-      "published_date": "2026-04-11T22:34:30+00:00",
       "category": "Local Events"
     }
   ]
