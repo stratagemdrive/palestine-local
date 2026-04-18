@@ -1,8 +1,85 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-04-17T23:48:52.897363+00:00",
-  "story_count": 98,
+  "last_updated": "2026-04-18T11:29:07.533978+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Egypt minister: Hopes for Iran-US peace deal 'in the coming days'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-minister-hopes-iran-us-peace-deal-coming-days",
+      "published_date": "2026-04-18T10:07:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt working with Pakistan on lasting US-Iran peace plan, minister says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-working-pakistan-lasting-us-iran-peace-plan-minister-says",
+      "published_date": "2026-04-18T09:19:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pope Leo heads to Angola in landmark Africa visit amid Trump clash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/18/pope-leo-heads-to-angola-in-landmark-africa-visit-amid-trump-clash?traffic_source=rss",
+      "published_date": "2026-04-18T08:10:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US extends waiver for sanctioned Russian oil purchase as global prices fall",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-extends-waiver-sanctioned-russian-oil-purchase-global-prices-fall",
+      "published_date": "2026-04-18T06:11:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
+      "published_date": "2026-04-18T06:10:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Iran ceasefire may end if no deal by Wednesday",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-ceasefire-may-end-if-no-deal-wednesday",
+      "published_date": "2026-04-18T05:05:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada stands in ‘full solidarity’ with Gulf partners, PM says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/canada-stands-full-solidarity-gulf-partners-pm-says",
+      "published_date": "2026-04-18T04:53:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says its enriched uranium ‘not going to be transferred anywhere’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-its-enriched-uranium-not-going-be-transferred-anywhere",
+      "published_date": "2026-04-18T04:18:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Erdogan urges dialogue as Turkey convenes regional talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-urges-dialogue-turkey-convenes-regional-talks",
+      "published_date": "2026-04-18T04:14:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Asian markets fall as conflicting US-Iran messages creates uncertainty",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/asian-markets-fall-conflicting-us-iran-messages-creates-uncertainty",
+      "published_date": "2026-04-18T03:21:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump thanks Gulf states for their ‘tremendous’ support",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss",
+      "published_date": "2026-04-18T00:54:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says US negotiations with Iran to continue 'over weekend'",
       "source": "Middle East Eye",
@@ -67,81 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Significant differences remain between Iran-US, including on nuclear issues, senior Iranian official says",
+      "title": "Iran signals re-closure of Hormuz as it rejects uranium transfer abroad",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/significant-differences-remain-between-iran-us-including-nuclear-issues",
-      "published_date": "2026-04-17T18:02:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/iran-denies-it-will-transfer-enriched-uranium-vessels-pass-strait-hormuz",
+      "published_date": "2026-04-18T11:05:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says 'no sticking points' remain in Iran talks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-no-sticking-points-remain-iran-talks",
-      "published_date": "2026-04-17T17:42:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN chief welcomes Hormuz reopening, urges full freedom of navigation",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-welcomes-hormuz-reopening-urges-full-freedom-navigation",
-      "published_date": "2026-04-17T17:11:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran rejects temporary ceasefire, calls for end to war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-rejects-temporary-ceasefire-calls-end-war",
-      "published_date": "2026-04-17T11:16:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What we know about the Israel-Lebanon ceasefire",
+      "title": "Hormuz: Spin in the Strait",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/17/what-we-know-about-the-israel-lebanon-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-17T10:57:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/18/hormuz-spin-in-the-strait?traffic_source=rss",
+      "published_date": "2026-04-18T10:48:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canada T20 World Cup game in India under ICC scrutiny amid corruption claim",
+      "title": "Ambulance crew in south Lebanon describes Israel’s ‘triple-tap’ attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/17/canada-t20-world-cup-game-under-icc-scrutiny-after-corruption-claim?traffic_source=rss",
-      "published_date": "2026-04-17T10:18:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/ambulance-crew-in-south-lebanon-describes-israels-triple-tap-attack?traffic_source=rss",
+      "published_date": "2026-04-18T10:39:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistani prime minister welcomes ceasefire announcement",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistani-prime-minister-welcomes-ceasefire-announcement",
-      "published_date": "2026-04-17T08:39:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tens of thousands return to southern Lebanon: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tens-thousands-return-southern-lebanon-report",
-      "published_date": "2026-04-17T06:41:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe has capacity to clear mines in Hormuz Strait, French defence minister says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/europe-has-capacity-clear-mines-hormuz-strait-french-defence-minister",
-      "published_date": "2026-04-17T06:03:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Vengeance for all’: How Iran’s Lego videos won narrative war against Trump",
+      "title": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/17/vengeance-for-all-how-irans-lego-videos-won-narrative-war-against-trump?traffic_source=rss",
-      "published_date": "2026-04-17T05:43:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss",
+      "published_date": "2026-04-18T10:29:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Australia did not receive US request to join operations against Iran",
+      "title": "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/18/pakistan-pm-army-chief-wrap-up-key-trips-in-push-for-more-us-iran-talks?traffic_source=rss",
+      "published_date": "2026-04-18T09:27:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran command says Hormuz closed again over US blockade",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/australia-did-not-receive-us-request-join-operations-against-iran",
-      "published_date": "2026-04-17T05:43:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-command-says-hormuz-closed-again-over-us-blockade",
+      "published_date": "2026-04-18T08:48:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran has learned that the Strait of Hormuz is its strongest deterrent",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent?traffic_source=rss",
+      "published_date": "2026-04-18T08:25:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tehran sees large turnout at pro-government women’s rally",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-sees-large-turnout-pro-government-womens-rally",
+      "published_date": "2026-04-18T06:33:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: What is happening on day 50 of the US-Iran conflict?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict?traffic_source=rss",
+      "published_date": "2026-04-18T06:07:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says it will pursue Iran-linked ships in Indo-Pacific region",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-will-pursue-iran-linked-ships-indo-pacific-region",
+      "published_date": "2026-04-18T05:47:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces kill person in Negohot settlement, army says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-person-negohot-settlement-army-says",
+      "published_date": "2026-04-18T05:22:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "First cruise ship transits Strait of Hormuz since war began",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/first-cruise-ship-transits-strait-hormuz-war-began",
+      "published_date": "2026-04-18T04:05:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US sends third aircraft carrier toward Middle East, officials say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sends-third-aircraft-carrier-toward-middle-east-officials-say",
+      "published_date": "2026-04-18T03:21:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Hormuz Strait shut down again over US ‘piracy’, says Tehran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss",
+      "published_date": "2026-04-18T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "HRW calls on governments to suspend arms sales to Israel",
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Tens of thousands return to south Lebanon after ceasefire, defying Israeli warnings",
+      "title": "Gas carriers, chemical tankers among vessel convoy crossing Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tens-thousands-return-south-lebanon-after-ceasefire-defying-israeli-0",
-      "published_date": "2026-04-17T16:21:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Green Party strategist reveals plan for local elections and slams 'sectarian' claims",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/green-party-uk-strategist-reveals-plan-local-elections-slams-sectarian-claims",
-      "published_date": "2026-04-17T16:18:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tens of thousands return to south Lebanon after ceasefire, defying Israeli warnings",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tens-thousands-return-south-lebanon-after-ceasefire-defying-israeli",
-      "published_date": "2026-04-17T10:41:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tens of thousands return to south Lebanon after ceasefire, defying Israeli warnings",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/thousands-return-south-lebanon-after-ceasefire-defying-israeli-warnings",
-      "published_date": "2026-04-17T10:35:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah expresses caution about Israeli breaches of ceasefire in official statement",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-expresses-caution-about-israeli-breaches-ceasefire-official",
-      "published_date": "2026-04-17T10:23:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians observe Prisoner’s Day amidst 83% increase in number of prisoners since October 2023",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-observe-prisoners-day-amidst-83-increase-number-prisoners",
-      "published_date": "2026-04-17T09:38:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey, Pakistan could become Israel's new enemy, analyst says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-pakistan-could-become-israels-new-enemy-analyst-says",
-      "published_date": "2026-04-17T08:52:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rapper d4vd arrested on suspicion of murdering 14-year-old girl",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/17/rapper-d4vd-arrested-on-suspicion-of-murdering-14-year-old-girl?traffic_source=rss",
-      "published_date": "2026-04-17T08:23:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war’s big winners: Wall Street, weapons firms, AI and green energy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/17/iran-wars-big-winners-wall-street-weapons-firms-ai-and-green-energy?traffic_source=rss",
-      "published_date": "2026-04-17T07:42:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan-flagged tanker first crude carrier to exit Hormuz with cargo since US curb",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-flagged-tanker-first-crude-carrier-exit-hormuz-cargo-us-curb",
-      "published_date": "2026-04-17T07:09:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan’s Prime Minister: This is the path out of the horrors of war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/17/sudans-prime-minister-this-is-the-path-out-of-the-horrors-of-war?traffic_source=rss",
-      "published_date": "2026-04-17T06:58:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Macron expresses concern that Israel-Lebanon ceasefire 'already undermined'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-expresses-concern-israel-lebanon-ceasefire-already-undermined",
-      "published_date": "2026-04-17T06:56:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel carries out 'massive' demolition in south Lebanon despite ceasefire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-carries-out-massive-demolition-south-lebanon-despite-ceasefire",
-      "published_date": "2026-04-17T06:45:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: What is happening on day 49 of the US-Iran conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/17/iran-war-day-49?traffic_source=rss",
-      "published_date": "2026-04-17T06:23:26+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gas-carriers-chemical-tankers-among-vessel-convoy-crossing-hormuz",
+      "published_date": "2026-04-18T06:51:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iraq resumes southern oil exports after month-long halt due to Hormuz disruption",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "South Korea warns Hormuz tensions to prolong energy and supply shocks",
+      "title": "UK agency says IRGC-linked gunboats fired on tanker near Oman",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-warns-hormuz-tensions-prolong-energy-and-supply-shocks",
-      "published_date": "2026-04-14T09:20:53+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-agency-says-irgc-linked-gunboats-fired-tanker-near-oman",
+      "published_date": "2026-04-18T11:07:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How US-Israeli war on Iran has eclipsed the crisis in Sudan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/how-us-israeli-war-iran-has-eclipsed-crisis-sudan",
+      "published_date": "2026-04-18T08:33:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UN aid chief warns of possible ‘full-scale famine’ in South Sudan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/un-aid-chief-warns-of-possible-full-scale-famine-in-south-sudan?traffic_source=rss",
+      "published_date": "2026-04-18T00:18:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "G7 warns prolonged Middle East war risks global economic damage",
@@ -543,11 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "What’s at stake in Benin’s presidential election?",
+      "title": "Amid Israel's 'forever wars', Palestinians must not abandon the one-state solution",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/amid-israels-forever-wars-one-state-solution-palestine",
+      "published_date": "2026-04-18T09:23:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli police destroy children’s footballs at Al-Aqsa mosque",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/whats-at-stake-in-benins-presidential-election?traffic_source=rss",
-      "published_date": "2026-04-11T09:00:39+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/israeli-police-destroy-childrens-footballs-at-al-aqsa-mosque?traffic_source=rss",
+      "published_date": "2026-04-18T06:52:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Al-Noor centre: A lifeline for blind children in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/al-noor-centre-a-lifeline-for-blind-children-in-gaza?traffic_source=rss",
+      "published_date": "2026-04-18T04:42:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Displaced family reunited with grandfather in Lebanon’s Tyre",
@@ -666,27 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/4/16/forced-to-drop-out-yemens-children-trade-school-for-survival?traffic_source=rss",
       "published_date": "2026-04-16T10:36:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli air attack destroys buildings around south Lebanon hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-air-attack-destroys-buildings-around-south-lebanon-hospital?traffic_source=rss",
-      "published_date": "2026-04-16T08:55:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Jewish heritage projects in Morocco are being used to push pro-Israel politics",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-jewish-heritage-projects-morocco-are-being-used-push-pro-israel-politics",
-      "published_date": "2026-04-16T08:16:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brief, arbitrary abductions: A new tool of Israeli intimidation in Masafer Yatta",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/abductions-in-masafer-yatta/",
-      "published_date": "2026-04-15T19:02:55+00:00",
       "category": "Local Events"
     }
   ]
