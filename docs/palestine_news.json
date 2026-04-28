@@ -1,8 +1,85 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-04-27T23:58:07.213770+00:00",
-  "story_count": 99,
+  "last_updated": "2026-04-28T12:21:31.222716+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Exclusive: ICC Chief Prosecutor Karim Khan to address Oxford Union next week",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/icc-chief-prosecutor-karim-khan-address-oxford-union-next-week",
+      "published_date": "2026-04-28T11:24:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq: Businessman Ali al-Zaidi nominated to become new prime minister",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iraq-businessman-ali-al-zaidi-nominated-new-iraqi-prime-minister",
+      "published_date": "2026-04-28T10:07:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Before World Cup, FIFA slammed for politicising sport with Trump prize",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/28/before-world-cup-fifa-slammed-for-politicising-sport-with-trump-prize?traffic_source=rss",
+      "published_date": "2026-04-28T09:08:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss",
+      "published_date": "2026-04-28T08:20:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Should be fired’: Why the Trumps want Jimmy Kimmel sacked",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/should-be-fired-why-the-trumps-want-jimmy-kimmel-sacked?traffic_source=rss",
+      "published_date": "2026-04-28T08:06:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-04-28T07:55:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine summons Israeli ambassador over ‘stolen’ grain shipments",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments?traffic_source=rss",
+      "published_date": "2026-04-28T07:34:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-518",
+      "published_date": "2026-04-28T06:53:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia, Iran to back each other ‘under any circumstances’, defence minister says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-iran-back-each-other-under-any-circumstances-defence-minister",
+      "published_date": "2026-04-28T06:19:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran slams EU sanctions, condemns US tanker seizures",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-slams-eu-sanctions-condemns-us-tanker-seizures",
+      "published_date": "2026-04-28T05:49:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Zero enrichment’ stance complicates talks, analyst says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/zero-enrichment-stance-complicates-talks-analyst-says",
+      "published_date": "2026-04-28T05:43:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US senator criticises plan to vet visa applicants over Israel views",
       "source": "Middle East Eye",
@@ -67,81 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran rebukes EU stance on sanctions relief",
+      "title": "‘We were left alone’: Along Israel's ‘Yellow Line’, Lebanese feel abandoned by the state",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-rebukes-eu-stance-sanctions-relief",
-      "published_date": "2026-04-27T20:36:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/we-were-left-alone-along-israel-yellow-line-southern-lebanese-feel-abandoned-state",
+      "published_date": "2026-04-28T12:13:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "China seeks to block US tech giant Meta from AI acquisition",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus?traffic_source=rss",
-      "published_date": "2026-04-27T20:27:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK opposes US blockade of Iranian ports",
+      "title": "Netanyahu helped 'create a genocide in Gaza', top Biden official says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-opposes-us-blockade-iranian-ports-0",
-      "published_date": "2026-04-27T20:04:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/netanyahu-helped-create-genocide-gaza-former-top-biden-official-says",
+      "published_date": "2026-04-28T11:54:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK opposes US blockade of Iranian ports",
+      "title": "Gulf leaders to meet in Saudi Arabia to discuss Iran war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-opposes-us-blockade-iranian-ports",
-      "published_date": "2026-04-27T19:21:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-leaders-meet-saudi-arabia-discuss-iran-war",
+      "published_date": "2026-04-28T11:38:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "What people in Beirut think about the Lebanon-Israel negotiations",
+      "title": "Amnesty calls for US strike on Yemen to be investigated as war crime",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/what-people-in-beirut-think-about-the-lebanon-israel-negotiations?traffic_source=rss",
-      "published_date": "2026-04-27T19:17:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/4/28/amnesty-calls-for-us-strike-on-yemen-to-be-investigated-as-war-crime?traffic_source=rss",
+      "published_date": "2026-04-28T11:27:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iraqi president names Shia bloc candidate Ali al-Zaidi as PM-designate",
+      "title": "How the US-Israeli war is collapsing the sanctions regime on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/iraqi-president-names-shia-bloc-candidate-ali-al-zaidi-as-pm-designate?traffic_source=rss",
-      "published_date": "2026-04-27T19:12:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/4/28/how-the-us-israeli-war-is-collapsing-the-sanctions-regime-on-iran?traffic_source=rss",
+      "published_date": "2026-04-28T11:19:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli defence minister says Hezbollah is ‘playing with fire’",
+      "title": "When will Strait of Hormuz be ‘safe’ for commercial shipping again?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again?traffic_source=rss",
+      "published_date": "2026-04-28T11:18:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestine Action defendant says guard ‘assaulted me multiple times’ during Elbit raid",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defence-minister-says-hezbollah-playing-fire",
-      "published_date": "2026-04-27T18:45:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/palestine-action-defendant-guard-assaulted-multiple-times-elbit",
+      "published_date": "2026-04-28T11:02:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "US press gala shooting suspect charged with attempting to kill Trump",
+      "title": "Born during Israel’s genocide: Gaza’s child survivors bear the scars of war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/white-house-correspondents-dinner-shooting-suspect-charged?traffic_source=rss",
-      "published_date": "2026-04-27T18:07:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/4/28/born-during-israels-genocide-gazas-child-survivors-bear-the-scars-of-war?traffic_source=rss",
+      "published_date": "2026-04-28T10:52:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "US, Iran clash during UN nuclear weapons conference",
+      "title": "Kid Rock addressed Pentagon on Strait of Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-clash-un-nuclear-weapons-conference",
-      "published_date": "2026-04-27T18:06:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kid-rock-addressed-pentagon-strait-hormuz",
+      "published_date": "2026-04-28T10:30:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/ceasefire-at-risk-as-pakistan-and-afghanistan-report-cross-border-attacks?traffic_source=rss",
-      "published_date": "2026-04-27T17:27:54+00:00",
-      "category": "Diplomacy"
+      "title": "Israel orders Lebanese to flee over a dozen towns and villages",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-orders-evacuation-over-dozen-towns-southern-lebanon",
+      "published_date": "2026-04-28T09:32:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Melania Trump blasts Kimmel, calls on ABC to ‘take stand’ against comedian",
+      "title": "Congressmen call for National Guard to address drone threat at World Cup",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/melania-trump-blasts-kimmel-calls-on-abc-to-take-stand-against-comedian?traffic_source=rss",
-      "published_date": "2026-04-27T17:01:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/4/28/congressmen-call-for-national-guard-to-address-drone-threat-at-world-cup?traffic_source=rss",
+      "published_date": "2026-04-28T09:32:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel's policy of endless war is fuelled by the crisis of Zionism",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/israel-policy-endless-war-driven-crisis-Zionism",
+      "published_date": "2026-04-28T09:22:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Iran has changed, and how it hasn’t, in two months of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/how-iran-has-changed-and-how-it-hasnt-in-two-months-of-war?traffic_source=rss",
+      "published_date": "2026-04-28T09:15:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer says 'people might change their habits' because of Iran war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/starmer-says-people-might-change-their-habits-because-iran-war",
+      "published_date": "2026-04-28T09:06:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's Merz 'disillusioned' with US and Israel over Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/germanys-merz-disillusioned-us-and-israel-over-iran",
+      "published_date": "2026-04-28T08:57:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestine weekly wrap: Under cover of ceasefire, Israel increases grip",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/palestine-weekly-wrap-under-cover-of-ceasefire-israel-increases-grip?traffic_source=rss",
+      "published_date": "2026-04-28T08:24:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Satellite images show Iran tankers clustering near Chabahar",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/satellite-images-show-iran-tankers-clustering-near-chabahar",
+      "published_date": "2026-04-28T06:26:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone attack in south Lebanon, Israeli troops reported injured",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attack-south-lebanon-israeli-troops-reported-injured",
+      "published_date": "2026-04-28T05:31:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Hezbollah launches 3 attacks on Israeli forces in Lebanon",
@@ -158,130 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "King Charles and Queen Camilla arrive for high-profile US state visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss",
-      "published_date": "2026-04-27T20:09:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German chancellor says US entered Iran war without clear strategy",
+      "title": "UK will tax soaring BP profits from Iran war, says Ed Miliband",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/german-chancellor-says-us-entered-iran-war-without-clear-strategy-0",
-      "published_date": "2026-04-27T19:53:38+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-will-tax-soaring-bp-profits-says-ed-miliband",
+      "published_date": "2026-04-28T11:17:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli army chief says multi-front war likely to continue into 2026",
+      "title": "The oil, gas and arms companies profiting from the war on Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-chief-says-multi-front-war-likely-continue-2026-0",
-      "published_date": "2026-04-27T19:45:22+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-gas-and-arms-companies-profiting-war-iran",
+      "published_date": "2026-04-28T10:52:46+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli army chief says multi-front war likely to continue into 2026",
+      "title": "Sweden issues early warning of potential jet fuel shortage",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-chief-says-multi-front-war-likely-continue-2026",
-      "published_date": "2026-04-27T19:42:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German chancellor says US entered Iran war without clear strategy",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/german-chancellor-says-us-entered-iran-war-without-clear-strategy",
-      "published_date": "2026-04-27T19:05:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will the Iran war push millions back into poverty?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/27/will-the-iran-war-push-millions-back-into-poverty?traffic_source=rss",
-      "published_date": "2026-04-27T16:23:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army says it launched attack on Lebanon's Beqaa Valley",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-launched-attack-lebanons-bekaa-valley",
-      "published_date": "2026-04-27T12:01:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's Merz questions US strategy in Iran war, says nation 'humiliated'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/germanys-merz-questions-us-strategy-iran-war-says-nation-humiliated",
-      "published_date": "2026-04-27T11:55:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Data reveals limited shipping traffic through Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/data-reveals-limited-shipping-traffic-through-hormuz",
-      "published_date": "2026-04-27T11:49:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel bombs southern Lebanese town of Taybeh",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-bombs-southern-lebanese-town-taybeh",
-      "published_date": "2026-04-27T11:30:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Varoufakis on Palantir, AI warfare, and the rise of tech lordism",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/upfront/2026/4/27/varoufakis-on-palantir-ai-warfare-and-the-rise-of-tech-lordism?traffic_source=rss",
-      "published_date": "2026-04-27T11:12:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli gun fire kills Palestinian child, wounds another",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-palestinian-child-wounds-another",
-      "published_date": "2026-04-27T10:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "She opposed US-Israeli bombs on Iran. The monarchists lost it | Ariana Jasmine",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/video/she-opposed-us-israeli-bombs-iran-monarchists-lost-it-ariana-jasmine",
-      "published_date": "2026-04-27T10:34:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel sent air defence system and troops to UAE during Iran war, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/report-israel-equipped-uae-iron-dome-system-troops-during-war-iran",
-      "published_date": "2026-04-27T10:10:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two killed in Israeli attacks in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-israeli-attacks-southern-lebanon",
-      "published_date": "2026-04-27T10:09:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE 'aggressively' lobbying US to designate Yemen's Islah as a terror group, sources say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uae-aggressively-lobbying-us-designate-yemen-islah-terror-group",
-      "published_date": "2026-04-27T09:58:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea opens museum commemorating troops killed fighting for Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/27/north-korea-opens-museum-for-troops-killed-fighting-for-russia?traffic_source=rss",
-      "published_date": "2026-04-27T09:01:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The war on Iran is eroding nuclear non-proliferation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/27/the-war-on-iran-is-eroding-nuclear-non-proliferation?traffic_source=rss",
-      "published_date": "2026-04-27T08:43:37+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sweden-issues-early-warning-potential-jet-fuel-shortage",
+      "published_date": "2026-04-28T10:07:41+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran condemns US seizure of oil tankers as 'piracy'",
@@ -403,27 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Beijing deepens ties as Middle East energy crisis reshapes region",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/beijing-deepens-ties-middle-east-energy-crisis-reshapes-region",
-      "published_date": "2026-04-22T04:20:10+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Sudan refugees returning home face new ‘struggle for survival’: UN",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/sudan-refugees-returning-home-face-new-struggle-for-survival-un?traffic_source=rss",
-      "published_date": "2026-04-21T20:32:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Macron says Israeli withdrawal from Lebanon key to stability",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-says-israeli-withdrawal-lebanon-key-stability",
-      "published_date": "2026-04-21T20:09:57+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "The real reason Iran and the US cannot end the war: Money",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/the-real-reason-iran-and-the-us-cannot-end-the-war-money",
@@ -522,39 +522,11 @@
       "category": "Economy"
     },
     {
-      "title": "Trump's 'Board of Peace' held talks with DP World over Gaza reconstruction",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-board-peace-held-talks-dp-world-over-gaza-reconstruction",
-      "published_date": "2026-04-21T11:04:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Is China a winner of the Iran war or facing economic risks?",
+      "title": "Mapping the destruction: How Israel ‘wiped out’ Lebanon’s Bint Jbeil",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/21/is-china-a-winner-of-the-iran-war-or-facing-economic-risks?traffic_source=rss",
-      "published_date": "2026-04-21T10:40:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump's 'Board of Peace' held talks with DP World over Gaza reconstruction",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/donald-trumps-board-peace-held-talks-dp-world-over-gaza-reconstruction",
-      "published_date": "2026-04-21T10:34:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US, Iran exchange threats as fragile ceasefire set to expire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/us-and-iran-exchange-threats-as-fragile-ceasefire-set-to-expire?traffic_source=rss",
-      "published_date": "2026-04-21T07:55:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nepal resumes issuing permits for workers headed to Middle East",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nepal-resumes-issuing-permits-workers-headed-middle-east",
-      "published_date": "2026-04-21T07:46:08+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/4/28/mapping-the-destruction-how-israel-wiped-out-lebanons-bint-jbeil?traffic_source=rss",
+      "published_date": "2026-04-28T11:19:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "WHO evacuates 189 Palestinians from Gaza for medical treatment",
@@ -687,13 +659,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/palestinians-head-polls-first-time-gaza-war",
       "published_date": "2026-04-25T14:14:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polls open in Gaza area in first municipal election in 20 years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss",
-      "published_date": "2026-04-25T08:37:39+00:00",
       "category": "Local Events"
     }
   ]
