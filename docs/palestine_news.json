@@ -1,8 +1,57 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-01T23:56:28.770932+00:00",
+  "last_updated": "2026-05-02T11:39:07.461826+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss",
+      "published_date": "2026-05-02T07:37:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-521",
+      "published_date": "2026-05-02T06:40:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss",
+      "published_date": "2026-05-02T06:27:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says 'not happy' with Iran proposal, claims hostilities 'terminated'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-not-happy-iran-proposal-claims-hostilities-terminated",
+      "published_date": "2026-05-02T06:07:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US embassy warns citizens in UK as threat level raised to ‘severe’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe?traffic_source=rss",
+      "published_date": "2026-05-02T06:04:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
+      "published_date": "2026-05-02T04:35:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
+      "published_date": "2026-05-02T04:06:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran says US must drop ‘threatening rhetoric’ for diplomacy",
       "source": "Middle East Eye",
@@ -95,53 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UAE's Opec exit seeks to hit Saudi Arabia where it hurts",
+      "title": "Israeli strike on southern Lebanese village kills three",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/uaes-opec-exit-seeks-hit-saudi-arabia-where-it-hurts",
-      "published_date": "2026-05-01T14:01:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-southern-lebanese-village-kills-three",
+      "published_date": "2026-05-02T11:25:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran demands reparations from Arab states for enabling US-Israeli attacks",
+      "title": "London police refuse to investigate British nationals accused of war crimes in Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-demands-reparations-arab-states-enabling-us-israeli-attacks",
-      "published_date": "2026-05-01T13:58:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/london-police-refuse-investigate-british-nationals-accused-war-crimes-gaza",
+      "published_date": "2026-05-02T11:23:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN says Israel death penalty law targets Palestinians, erodes rights",
+      "title": "London police refuse to investigate British nationals accused of war crimes in Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-israel-death-penalty-law-targets-palestinians-erodes-rights",
-      "published_date": "2026-05-01T11:04:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/london-police-refuse-investigate-british-nationals-accused-war-crimes",
+      "published_date": "2026-05-02T11:23:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Falklands claim: Can Argentina’s Milei use Trump ties to challenge the UK?",
+      "title": "US-Germany spat over Iran intensifies as Hegseth orders troop removal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-germany-spat-over-iran-intensifies-hegseth-orders-troop-removal",
+      "published_date": "2026-05-02T11:21:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War 'likely' to resume, says Iran's military headquarters",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/war-likely-resume-says-irans-military-headquarters",
+      "published_date": "2026-05-02T10:16:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany-US spat over Iran war intensifies",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-us-spat-over-iran-war-intensifies",
+      "published_date": "2026-05-02T09:55:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Germany spat over Iran intensifies as Hegseth orders troop removal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-germany-spat-over-iran-intensifies-hegseth-orders-troop-removal",
+      "published_date": "2026-05-02T09:46:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Four killed in Israeli strikes on southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-killed-israeli-strikes-southern-lebanon-0",
+      "published_date": "2026-05-02T08:26:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/falklands-claim-can-argentinas-milei-use-trump-ties-to-challenge-the-uk?traffic_source=rss",
-      "published_date": "2026-05-01T10:35:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss",
+      "published_date": "2026-05-02T06:47:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says talks with US never stopped, warns it will defend its dignity",
+      "title": "'Very profitable business': Trump says US Navy seizing Iranian oil ‘like pirates’",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-talks-us-never-stopped-warns-it-will-defend-its-dignity",
-      "published_date": "2026-05-01T10:00:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/very-profitable-business-trump-says-us-navy-seizing-iranian-oil-pirates",
+      "published_date": "2026-05-02T06:30:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranian foreign minister says US war costs far higher, accuses Pentagon of lying",
+      "title": "US to withdraw 5,000 troops from Germany, Pentagon says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-says-us-war-costs-far-higher-accuses-pentagon",
-      "published_date": "2026-05-01T09:46:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-withdraw-5000-troops-germany-pentagon-says",
+      "published_date": "2026-05-02T05:33:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "By failing to sanction Israel, the EU has confirmed once again its global irrelevance",
+      "title": "WSJ: Iran war exposes gaps in US defence systems",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/failing-sanction-israel-eu-has-confirmed-once-again-its-global",
-      "published_date": "2026-05-01T08:42:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wsj-iran-war-exposes-gaps-us-defence-systems",
+      "published_date": "2026-05-02T05:03:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel orders evacuations in multiple Lebanon towns",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-orders-evacuations-multiple-lebanon-towns",
+      "published_date": "2026-05-02T04:54:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "23 killed in Israeli attacks on Lebanon, Anadolu reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/23-killed-israeli-attacks-lebanon-anadolu-reports",
+      "published_date": "2026-05-02T04:50:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
+      "published_date": "2026-05-02T04:17:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Military says conflict with US ‘likely’ to restart",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
+      "published_date": "2026-05-02T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Sirens sound as Israel intercepts incoming targets, military says",
@@ -172,116 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iran told Saudi Arabia it planned to 'crush the UAE': Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-told-saudi-arabia-it-planned-crush-uae-report",
-      "published_date": "2026-05-01T18:30:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poll finds 61 percent of Americans believe attacking Iran was a mistake",
+      "title": "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/poll-finds-61-percent-of-americans-believe-attacking-iran-was-a-mistake?traffic_source=rss",
-      "published_date": "2026-05-01T17:51:54+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss",
+      "published_date": "2026-05-02T09:16:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pentagon announces deal with seven AI companies for classified systems",
+      "title": "K-pop’s BTS comeback tour rallies South Korea’s global ‘soft power’ drive",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems?traffic_source=rss",
-      "published_date": "2026-05-01T15:57:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkish police fire tear gas, arrest hundreds at May Day rally",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/turkish-police-fire-tear-gas-arrest-hundreds-at-may-day-rally?traffic_source=rss",
-      "published_date": "2026-05-01T15:34:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Iranian monarchists have targeted anti-war activists",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/how-iranian-monarchists-have-targeted-anti-war-activists",
-      "published_date": "2026-05-01T15:31:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK law professors set out why they signed open letter in support of Palestine Action",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-law-professors-explain-support-palestine-action",
-      "published_date": "2026-05-01T15:30:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian official calls Strait of Hormuz Iran’s “natural right”",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-calls-strait-hormuz-irans-natural-right",
-      "published_date": "2026-05-01T15:06:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WHO recorded 149 attacks on health care in Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/who-recorded-149-attacks-health-care-lebanon",
-      "published_date": "2026-05-01T15:01:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese Health Ministry: Israel has killed 2618 since March",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-israeli-attacks-reaches-2618-march",
-      "published_date": "2026-05-01T14:53:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah announces operations against Israeli military in Southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-announces-operations-against-israeli-military-southern-lebanon",
-      "published_date": "2026-05-01T13:29:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Turkey's new 'kamikaze' drones may outclass Iran's Shahed",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-turkeys-new-kamikaze-drones-may-outclass-irans-shaheds",
-      "published_date": "2026-05-01T11:49:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN says Iran war doubles Sudan aid costs and delays deliveries",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-iran-war-doubles-sudan-aid-costs-and-delays-deliveries",
-      "published_date": "2026-05-01T11:40:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The West’s bubble of illusion about Israel - and about itself – is finally being burst",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/west-bubble-illusion-israel-about-itself-finally-being-burst",
-      "published_date": "2026-05-01T11:08:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss",
-      "published_date": "2026-05-01T10:56:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel 'sent advanced laser defence system to UAE' during Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-sent-advanced-laser-defence-system-uae-during-iran-war",
-      "published_date": "2026-05-01T10:17:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel 'sent advanced laser defence system to UAE' during Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-sent-advanced-laser-defence-system-uae-during-iran-war-report-says",
-      "published_date": "2026-05-01T10:14:52+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/5/2/k-pops-bts-comeback-tour-rallies-south-koreas-global-soft-power-drive?traffic_source=rss",
+      "published_date": "2026-05-02T02:25:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE exit from OPEC signals closer alignment with US interests, experts say",
@@ -410,18 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "UK will tax soaring BP profits from Iran war, says Ed Miliband",
+      "title": "UKMTO reports 'suspicious approach' off Yemen, urges caution",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-will-tax-soaring-bp-profits-says-ed-miliband",
-      "published_date": "2026-04-28T11:17:11+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-suspicious-approach-yemen-urges-caution",
+      "published_date": "2026-05-02T11:06:52+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The oil, gas and arms companies profiting from the war on Iran",
+      "title": "Spirit Airlines closes as fuel prices double due to Iran war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-gas-and-arms-companies-profiting-war-iran",
-      "published_date": "2026-04-28T10:52:46+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/spirit-airlines-closes-fuel-prices-double-due-iran-war",
+      "published_date": "2026-05-02T09:03:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
+      "published_date": "2026-05-02T08:09:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkish activist slams Israel’s illegal interception of Gaza aid flotilla, calls it ‘piracy’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-activist-slams-israels-illegal-interception-gaza-aid-flotilla",
+      "published_date": "2026-05-02T05:46:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Peru probes trafficking of citizens to fight for Russia in Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/peru-probes-trafficking-of-citizens-to-fight-for-russia-in-ukraine?traffic_source=rss",
+      "published_date": "2026-05-02T03:14:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "May Day rallies sweep US, demanding reforms for working-class rights",
@@ -529,39 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "UK: Starmer to hold meeting about economic impacts of Iran war",
+      "title": "UK considers restrictions on pro-Palestine rallies",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-starmer-hold-meeting-about-iran-war-economic-impacts",
-      "published_date": "2026-04-27T11:22:26+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/britain-considers-restrictions-pro-palestinian-rallies",
+      "published_date": "2026-05-02T06:50:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "World Cup 2026 prize money, fees to be increased for all teams: FIFA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/27/world-cup-2026-prize-money-fees-to-be-increased-for-all-teams-fifa?traffic_source=rss",
-      "published_date": "2026-04-27T10:52:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Taiwan court hands down jail terms in TSMC trade secrets case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case?traffic_source=rss",
-      "published_date": "2026-04-27T05:43:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Flotilla sets sail from Italy to challenge Gaza blockade",
+      "title": "Canada police expand case over protest at event platforming Israeli soldiers",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/flotilla-sets-sail-italy-challenge-gaza-blockade",
-      "published_date": "2026-04-26T21:02:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Iran shifts economic focus to essentials during war uncertainty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss",
-      "published_date": "2026-04-26T17:00:10+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/canada-police-expand-case-over-protest-event-featuring-israeli-soldiers",
+      "published_date": "2026-05-02T05:19:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "In East Jerusalem, ‘a whole Palestinian community is about to be expelled’",
@@ -687,20 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ultra-orthodox-protests-over-draft-law-spread-across-israel",
       "published_date": "2026-04-29T19:16:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestine Action ban disproportionately impacts Palestinians in UK, court hears",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/palestine-action-ban-disproportionately-impacts-palestinians-uk-court-hears",
-      "published_date": "2026-04-29T18:09:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel accused of using 'water as a weapon' against Palestinians in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-accused-using-water-weapon-fresh-bombing-kills-two-children",
-      "published_date": "2026-04-29T11:39:14+00:00",
       "category": "Local Events"
     }
   ]
