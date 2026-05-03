@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-02T23:53:36.450031+00:00",
+  "last_updated": "2026-05-03T11:36:43.787977+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss",
+      "published_date": "2026-05-03T11:10:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The World Cup & Passport privilege",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/game-theory/2026/5/3/aje-onl-wcpassport_v5-030526?traffic_source=rss",
+      "published_date": "2026-05-03T08:04:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
+      "published_date": "2026-05-03T07:02:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China blocks US sanctions against five ‘teapot’ refineries",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
+      "published_date": "2026-05-03T06:57:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump to review Iran's 14-point plan, warns strikes could resume",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-review-irans-14-point-plan-warns-strikes-could-resume",
+      "published_date": "2026-05-03T04:15:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss",
+      "published_date": "2026-05-03T02:37:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says US could restart strikes on Iran",
       "source": "Middle East Eye",
@@ -102,46 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+      "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
-      "published_date": "2026-05-02T04:06:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss",
+      "published_date": "2026-05-03T10:36:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says US must drop ‘threatening rhetoric’ for diplomacy",
+      "title": "Ukraine drone attack hits Russian Baltic port, governor says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
+      "published_date": "2026-05-03T09:57:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel approves plan to buy F-35 and F-15I aircraft from US",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-must-drop-threatening-rhetoric-diplomacy",
-      "published_date": "2026-05-01T23:46:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-approves-plan-buy-f-35-and-f-15i-aircraft-us",
+      "published_date": "2026-05-03T08:36:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Iran ‘wants a deal’ but US 'not satisfied'",
+      "title": "Two Palestinians killed by Israeli fire since dawn",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-wants-deal-us-not-satisfied",
-      "published_date": "2026-05-01T23:43:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-fire-dawn",
+      "published_date": "2026-05-03T08:35:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump considering option to ‘blast the hell out of’ Iran",
+      "title": "Austrian police arrest man after discovery of rat poison in baby food",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
-      "published_date": "2026-05-01T22:27:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/3/austrian-police-arrest-man-after-discovery-of-rat-poison-in-baby-food?traffic_source=rss",
+      "published_date": "2026-05-03T07:48:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump expands red snapper fishing as critics warn of overfishing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/trump-expands-red-snapper-fishing-as-critics-warn-of-overfishing?traffic_source=rss",
-      "published_date": "2026-05-01T21:12:02+00:00",
-      "category": "Diplomacy"
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-522",
+      "published_date": "2026-05-03T06:54:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cuban man is 18th person to die in US ICE custody this year: Monitor",
+      "title": "CNN: Hezbollah fibre-optic drones pose major challenge",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cnn-hezbollah-fibre-optic-drones-pose-major-challenge",
+      "published_date": "2026-05-03T06:37:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Yemen, Starlink internet brings opportunities – for some",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/cuban-man-is-18th-person-to-die-in-us-ice-custody-this-year-monitor?traffic_source=rss",
-      "published_date": "2026-05-01T20:23:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss",
+      "published_date": "2026-05-03T06:21:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq oil exports could resume within a week, minister says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-oil-exports-could-resume-within-week-minister-says",
+      "published_date": "2026-05-03T06:10:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli military issues expulsion orders for 11 south Lebanon towns",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-orders-evacuations-11-south-lebanon-towns",
+      "published_date": "2026-05-03T05:34:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army demolishes monastery and school in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-demolishes-monastery-and-school-southern-lebanon",
+      "published_date": "2026-05-03T05:11:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran sets timeline, demands guarantees in peace proposal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-sets-timeline-demands-guarantees-peace-proposal",
+      "published_date": "2026-05-03T05:09:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US to supply Israel with precision weapon kits, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-supply-israel-precision-weapon-kits-report-says",
+      "published_date": "2026-05-03T05:02:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss",
+      "published_date": "2026-05-03T04:35:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran tanker evades US blockade, reaches Asia Pacific, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-tanker-evades-us-blockade-reaches-asia-pacific-report-says",
+      "published_date": "2026-05-03T04:21:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Greta Thunberg says activists are being tortured in Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/greta-thunberg-says-activists-are-being-tortured-israel",
+      "published_date": "2026-05-03T04:02:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Aparthied Israel': UN rapporteur calls for release of Gaza flotilla activists",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/aparthied-israel-un-rapporteur-calls-release-gaza-flotilla-activists",
+      "published_date": "2026-05-03T03:59:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE lifts all air traffic restrictions introduced since Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss",
+      "published_date": "2026-05-03T03:29:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran presents 14-point plan to US to end war, Washington yet to respond",
@@ -158,130 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Kuwait halts crude exports in April as Strait of Hormuz blockade bites",
+      "title": "OPEC+ meets to set quotas after UAE exit",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-halts-crude-exports-april-strait-hormuz-blockade-bites",
-      "published_date": "2026-05-02T20:45:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel accused of destroying Christian convent in Lebanon in latest attack on Christians",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-accused-destroying-christian-convent-lebanon-latest-attacks-christians",
-      "published_date": "2026-05-02T20:42:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
-      "published_date": "2026-05-02T20:28:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Khartoum drone strike kills five Sudan NGO reports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss",
-      "published_date": "2026-05-02T19:59:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Devastation of Southern Lebanon continues under ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
-      "published_date": "2026-05-02T18:05:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel is making Palestinians disappear in more ways than one",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/israel-making-palestinians-disappear-more-ways-one",
-      "published_date": "2026-05-02T17:23:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq says oil output can return to normal within days of Strait of Hormuz reopening",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-says-oil-output-can-return-normal-within-days-strait-hormuz",
-      "published_date": "2026-05-02T17:00:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese, US generals meet in Beirut to discuss security and ceasefire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-us-generals-meet-beirut-discuss-security-and-ceasefire",
-      "published_date": "2026-05-02T16:20:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza death toll rises to 72,608",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-42",
-      "published_date": "2026-05-02T15:41:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese health officials: 2,659 killed in Israeli attacks since 2 March",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-health-officials-2659-killed-israel-2-march",
-      "published_date": "2026-05-02T14:14:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What exactly is white phosphorus and why is it controversial?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/explainers/what-white-phosphorus-controversial-israel-lebanon",
-      "published_date": "2026-05-02T13:46:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pro-Palestine coalition condemns Starmer for suggesting ban on marches",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestine-coalition-condemns-starmer-suggesting-ban-marches",
-      "published_date": "2026-05-02T13:24:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali probes soldiers suspected of involvement in military base attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks?traffic_source=rss",
-      "published_date": "2026-05-02T13:03:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike on southern Lebanese village kills three",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-southern-lebanese-village-kills-three",
-      "published_date": "2026-05-02T11:25:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "London police refuse to investigate British nationals accused of war crimes in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/london-police-refuse-investigate-british-nationals-accused-war-crimes-gaza",
-      "published_date": "2026-05-02T11:23:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "London police refuse to investigate British nationals accused of war crimes in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/london-police-refuse-investigate-british-nationals-accused-war-crimes",
-      "published_date": "2026-05-02T11:23:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Germany spat over Iran intensifies as Hegseth orders troop removal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-germany-spat-over-iran-intensifies-hegseth-orders-troop-removal",
-      "published_date": "2026-05-02T11:21:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War 'likely' to resume, says Iran's military headquarters",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/war-likely-resume-says-irans-military-headquarters",
-      "published_date": "2026-05-02T10:16:13+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opec-meets-set-quotas-after-uae-exit",
+      "published_date": "2026-05-03T06:00:44+00:00",
+      "category": "Energy"
     },
     {
       "title": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "As US-Iran talks remain ‘stalled’, experts warn of ‘long-term disruptions’",
+      "title": "Taiwan leader visits Eswatini despite China’s attempts to block trip",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/28/as-us-iran-talks-remain-stalled-experts-warn-of-long-term-disruptions?traffic_source=rss",
-      "published_date": "2026-04-28T22:08:54+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/3/taiwan-leader-visits-eswatini-despite-chinas-attempts-to-block-trip?traffic_source=rss",
+      "published_date": "2026-05-03T06:36:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Spain’s Sanchez demands Netanyahu free Spaniard seized on aid flotilla",
@@ -557,11 +564,11 @@
       "category": "Economy"
     },
     {
-      "title": "Trump's threats to steal Iran's oil continue a long history of US pillage",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/trumps-threats-steal-irans-oil-continue-long-history-us-pillage",
-      "published_date": "2026-04-28T20:35:16+00:00",
-      "category": "Economy"
+      "title": "Israel issues new forced displacement orders in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-05-03T08:35:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Chronic patients neglected in Lebanon as war strains healthcare, MSF doctor says",
@@ -694,13 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/30/new-zealand-court-denies-bid-by-mosque-mass-shooter-to-appeal-conviction?traffic_source=rss",
       "published_date": "2026-04-30T04:54:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ultra-Orthodox protests over draft law spread across Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ultra-orthodox-protests-over-draft-law-spread-across-israel-0",
-      "published_date": "2026-04-29T22:36:32+00:00",
       "category": "Local Events"
     }
   ]
