@@ -1,8 +1,29 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-09T11:42:52.410978+00:00",
+  "last_updated": "2026-05-09T23:55:45.051457+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Venezuela’s Delcy Rodriguez heads to The Hague for land dispute case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/venezuelas-delcy-rodriguez-heads-to-the-hague-for-land-dispute-case?traffic_source=rss",
+      "published_date": "2026-05-09T19:48:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Parent company of Trump’s Truth Social site reports $400m loss this year",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/parent-company-of-trumps-truth-social-site-reports-400m-loss-this-year?traffic_source=rss",
+      "published_date": "2026-05-09T17:47:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran questions ‘seriousness’ of the US to Turkish foreign minister",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-questions-seriousness-us-turkish-foreign-minister",
+      "published_date": "2026-05-09T15:34:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran says response to US proposal coming at 'appropriate time'",
       "source": "Middle East Eye",
@@ -123,25 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Exclusive: ICC prosecutor Karim Khan details 'dangerous' attempt by states to remove him",
+      "title": "Turkish minister meets Hamas delegation for Gaza peace discussions",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-icc-prosecutor-karim-khan-details-dangerous-attempt-states",
-      "published_date": "2026-05-08T08:14:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-minister-meets-hamas-delegation-gaza-peace-discussions",
+      "published_date": "2026-05-09T23:50:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Exclusive: ICC prosecutor Karim Khan details 'dangerous' attempt by states to remove him",
+      "title": "Israeli strike kills one in Bedias as Lebanon death toll rises to 24",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/icc-karim-khan-details-dangerous-attempt-states-remove-him-position",
-      "published_date": "2026-05-08T08:05:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-one-bedias-lebanon-death-toll-rises-24",
+      "published_date": "2026-05-09T22:34:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
+      "title": "Ben Gvir branded 'hangman of the century' over push for Palestinian executions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-branded-hangman-century-over-push-palestinian-executions",
+      "published_date": "2026-05-09T21:39:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit?traffic_source=rss",
-      "published_date": "2026-05-08T07:11:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
+      "published_date": "2026-05-09T21:10:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says ties with China will deepen after war, praises support",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-ties-china-will-deepen-after-war-praises-support",
+      "published_date": "2026-05-09T20:45:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three police officers killed in car bomb attack in northwest Pakistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss",
+      "published_date": "2026-05-09T20:29:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran to play World Cup but demands guarantees from Fifa and hosts",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-play-world-cup-demands-guarantees-fifa-and-hosts",
+      "published_date": "2026-05-09T20:06:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes kill four in Lebanon, raising Lebanon death toll to 23",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-four-lebanon-raising-lebanon-death-toll-23",
+      "published_date": "2026-05-09T18:49:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Latmiya: Inside the Ashura rituals shaping Iran’s wartime narrative",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/latmiya-inside-ashura-rituals-shaping-irans-wartime-narrative",
+      "published_date": "2026-05-09T18:23:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Qatari LNG tanker heads to Strait of Hormuz in first transit since Iran war began",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-lng-tanker-heads-strait-hormuz-first-transit-iran-war-began",
+      "published_date": "2026-05-09T16:19:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says naval blockade on Iran continues, 58 vessels diverted",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-naval-blockade-iran-continues-58-vessels-diverted",
+      "published_date": "2026-05-09T16:03:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Niger suspends nine French media bodies: Watchdog slams ‘abusive’ decision",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/niger-suspends-nine-french-media-bodies-watchdog-slams-abusive-decision?traffic_source=rss",
+      "published_date": "2026-05-09T15:53:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks kill 18 in Lebanon, 3 Israeli soldiers injured",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-18-lebanon-3-israeli-soldiers-injured",
+      "published_date": "2026-05-09T15:42:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New Israeli strike in southern Lebanon kills seven, including a young girl",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/new-israeli-strike-southern-lebanon-kills-seven-including-young-girl",
+      "published_date": "2026-05-09T15:14:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel set to release two Gaza flotilla activists, representatives say",
@@ -186,102 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Russia holds downsized Victory Day parade",
+      "title": "Iran threatens to target 'American centres' if tankers are attacked",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-target-american-centres-if-tankers-are-attacked",
+      "published_date": "2026-05-09T20:57:36+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil chiefs warn Hormuz closure exposes fragility of global energy system",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-chiefs-warn-hormuz-closure-exposes-fragility-global-energy-system",
+      "published_date": "2026-05-09T18:39:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day?traffic_source=rss",
-      "published_date": "2026-05-09T08:07:57+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
+      "published_date": "2026-05-09T17:50:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel issues evacuation warnings for nine villages in southern Lebanon",
+      "title": "Global oil stocks drop almost 270 million barrels since start of Iran war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-issues-evacuation-warnings-nine-villages-southern-lebanon",
-      "published_date": "2026-05-09T06:56:12+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/global-oil-stocks-drop-almost-270-million-barrels-start-iran-war",
+      "published_date": "2026-05-09T16:43:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-528",
-      "published_date": "2026-05-09T06:24:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China aluminium exports surge amid Iran war supply disruptions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-aluminium-exports-surge-amid-iran-war-supply-disruptions",
-      "published_date": "2026-05-09T06:17:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli officers fatally shoot man following chase in Rahat",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-officers-fatally-shoot-man-following-chase-rahat",
-      "published_date": "2026-05-09T05:31:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bernie Sanders criticises Iran war over soaring fuel costs",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bernie-sanders-criticises-iran-war-over-soaring-fuel-costs",
-      "published_date": "2026-05-09T04:42:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
+      "title": "Peter Magyar sworn in as Hungary’s PM, ending Orban’s 16 years in power",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
-      "published_date": "2026-05-09T01:23:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
-      "published_date": "2026-05-09T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 31 killed in Israeli attacks across Lebanon, local media says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-31-killed-israeli-attacks-across-lebanon-local-media-says",
-      "published_date": "2026-05-08T23:45:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US sanctions target firms tied to Iran drone supply network",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-target-firms-tied-iran-drone-supply-network",
-      "published_date": "2026-05-08T22:36:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike in Lebanon kills one, wounds four including woman",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-lebanon-kills-one-wounds-four-including-woman",
-      "published_date": "2026-05-08T21:03:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli raid kills three in Lebanon as strikes continue despite truce",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-raid-kills-two-lebanon-strikes-continue-despite-truce",
-      "published_date": "2026-05-08T20:39:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike in Lebanon kills at least four",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-lebanon-kills-least-four",
-      "published_date": "2026-05-08T20:07:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah claims drone attack on Israeli air base in north",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-drone-attack-israeli-airbase-north",
-      "published_date": "2026-05-08T19:39:34+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/9/peter-magyar-sworn-in-as-hungarys-pm-ending-orbans-16-years-in-power?traffic_source=rss",
+      "published_date": "2026-05-09T13:38:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pentagon releases video of strikes on Iranian oil tankers",
@@ -389,39 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Israel and US coordinating new strikes on Iran: report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-and-us-coordinating-new-strikes-iran-report",
-      "published_date": "2026-05-05T11:47:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Can central banks curb inflation as energy costs rise?",
+      "title": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/5/can-central-banks-curb-inflation-as-energy-costs-rise?traffic_source=rss",
-      "published_date": "2026-05-05T11:24:35+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
+      "published_date": "2026-05-09T16:35:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "India condemns UAE oil port attack as ‘unacceptable’, calls for end to strikes",
+      "title": "Syrian president discusses security with Lebanon PM",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/india-condemns-uae-oil-port-attack-unacceptable-calls-end-strikes",
-      "published_date": "2026-05-05T06:11:14+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Tehran signals ‘unbearable cost’ for US actions, calls security ‘non-negotiable’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-signals-unbearable-cost-us-actions-calls-security-non-negotiable",
-      "published_date": "2026-05-05T05:55:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Chevron chief warns Strait of Hormuz closure will soon lead to oil shortages",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/chevron-chief-warns-strait-hormuz-closure-will-soon-lead-oil-shortages",
-      "published_date": "2026-05-04T22:40:15+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-president-discusses-security-lebanon-pm",
+      "published_date": "2026-05-09T15:47:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "Financial struggles burden Yemen’s army as soldiers wait for wages",
@@ -550,18 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Zambia delaying US deals over minerals and data demands",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/4/zambia-delaying-us-deals-over-minerals-and-data-demands?traffic_source=rss",
-      "published_date": "2026-05-04T18:50:52+00:00",
-      "category": "Economy"
+      "title": "Ben Gvir branded 'hangman of the century' over push for Palestinian executions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/ben-gvir-branded-hangman-century-over-push-palestinian-executions",
+      "published_date": "2026-05-09T20:38:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Detained Gaza aid flotilla activists arrive in Netherlands",
+      "title": "Palestinian family says settlers forced them to exhume father’s body",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/detained-gaza-aid-flotilla-activists-arrive-in-netherlands?traffic_source=rss",
-      "published_date": "2026-05-04T04:45:52+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
+      "published_date": "2026-05-09T20:32:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers force Palestinian family to exhume and rebury their father",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss",
+      "published_date": "2026-05-09T19:16:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN says Israel displaced nearly 40,000 Palestinians in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-israel-displaced-nearly-40000-palestinians-west-bank",
+      "published_date": "2026-05-09T19:11:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jewish settler attack wounds two Palestinian women in occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jewish-settler-attack-wounds-two-palestinian-women-occupied-west-bank",
+      "published_date": "2026-05-09T17:33:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
+      "published_date": "2026-05-09T17:21:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians run West Bank freedom marathon along separation wall",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinians-run-west-bank-freedom-marathon-along-separation-wall?traffic_source=rss",
+      "published_date": "2026-05-09T14:53:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Displaced Lebanese children keep learning amid displacement",
@@ -652,55 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/the-take-2/2026/5/8/aje-onl-tt_rr_pal_shireeninvest_av_v1-080526?traffic_source=rss",
       "published_date": "2026-05-08T16:36:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Koreans gear up to roar on football team from rival North",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/8/south-koreans-gear-up-to-roar-on-football-team-from-rival-north?traffic_source=rss",
-      "published_date": "2026-05-08T15:55:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFPRO in ‘landmark’ win as European body admits football calendar failings",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/8/fifpro-in-landmark-win-as-european-body-admits-football-calendar-failings?traffic_source=rss",
-      "published_date": "2026-05-08T15:48:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘In the days of old, the world was safe’: West Bank family’s enduring unity",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/8/in-the-days-of-old-the-world-was-safe-west-bank-familys-enduring-unity?traffic_source=rss",
-      "published_date": "2026-05-08T14:44:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After 18 months of mourning, a Gaza son is found alive in an Israeli prison",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/8/after-18-months-of-mourning-a-gaza-son-is-found-alive-in-israeli-prison?traffic_source=rss",
-      "published_date": "2026-05-08T11:15:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers establish new outpost in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-new-settlement-outpost-west-bank",
-      "published_date": "2026-05-08T11:11:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK’s Labour set for heavy losses in elections as Reform makes early gains",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/uks-labour-set-for-heavy-losses-in-elections-as-reform-makes-early-gains?traffic_source=rss",
-      "published_date": "2026-05-08T08:28:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK elections – early results and takeaways; will Starmer have to resign?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/uk-elections-early-results-and-takeaways-will-starmer-have-to-resign?traffic_source=rss",
-      "published_date": "2026-05-08T08:18:50+00:00",
       "category": "Local Events"
     }
   ]
