@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-10T23:58:51.597044+00:00",
+  "last_updated": "2026-05-11T13:39:54.097104+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU ministers agree on sanctions for Israeli settlers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-ministers-agree-sanctions-israeli-settlers",
+      "published_date": "2026-05-11T13:18:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Unacceptable’: What’s Iran’s peace proposal that Trump has rejected?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/unacceptable-whats-irans-peace-proposal-that-trump-has-rejected?traffic_source=rss",
+      "published_date": "2026-05-11T13:09:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Who is Gerhard Schroeder, Putin’s pick for Ukraine peace talks mediation?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation?traffic_source=rss",
+      "published_date": "2026-05-11T11:06:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Taiwan civilians sharpen self-defence skills ahead of Trump-Xi summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/taiwan-civilians-sharpen-self-defence-skills-ahead-of-trump-xi-summit?traffic_source=rss",
+      "published_date": "2026-05-11T10:36:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war day 73: Trump and Tehran clash over latest peace proposals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss",
+      "published_date": "2026-05-11T08:16:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is the Vatican standing up to Trump?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/upfront/2026/5/11/is-the-vatican-standing-up-to-trump?traffic_source=rss",
+      "published_date": "2026-05-11T08:11:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump rejects Iran response, calls it 'inappropriate'",
       "source": "Middle East Eye",
@@ -102,46 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Parent company of Trump’s Truth Social site reports $400m loss this year",
+      "title": "Second Qatari tanker crossing Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/second-qatari-tanker-crossing-strait-hormuz",
+      "published_date": "2026-05-11T13:10:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gulf turns to Turkey for air defence systems amid Iran threats",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/gulf-turn-turkey-air-defense-systems-iran-threats",
+      "published_date": "2026-05-11T12:47:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel kills three, including police officers, in latest Gaza truce violation",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-including-police-officers-latest-gaza-truce-violation",
+      "published_date": "2026-05-11T11:11:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel kills three, including police officers, in latest Gaza truce violation",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-kills-three-including-police-officers-latest-gaza-truce-violation",
+      "published_date": "2026-05-11T11:09:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Four killed in Israeli attack in southern Lebanon, including elderly woman and grandson",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-killed-israeli-attack-southern-lebanon-including-elderly-woman-and",
+      "published_date": "2026-05-11T11:07:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu hints at US troop deployment against Iran in CBS interview",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-war-netanyahu-hints-us-troop-deployment-cbs-interview",
+      "published_date": "2026-05-11T10:41:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/parent-company-of-trumps-truth-social-site-reports-400m-loss-this-year?traffic_source=rss",
-      "published_date": "2026-05-09T17:47:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
+      "published_date": "2026-05-11T10:37:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran questions ‘seriousness’ of the US to Turkish foreign minister",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-questions-seriousness-us-turkish-foreign-minister",
-      "published_date": "2026-05-09T15:34:15+00:00",
-      "category": "Diplomacy"
+      "title": "Iran says US making ‘unreasonable’ demands in negotiations to end war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/iran-says-us-making-unreasonable-demands-in-negotiations-to-end-war?traffic_source=rss",
+      "published_date": "2026-05-11T10:20:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says response to US proposal coming at 'appropriate time'",
+      "title": "Israeli forces send reinforcements to Qalandiya refugee camp as raid continues",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-response-us-proposal-coming-appropriate-time",
-      "published_date": "2026-05-09T06:46:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-send-reinforcements-qalandiya-refugee-camp-raid-continues",
+      "published_date": "2026-05-11T10:16:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia urges withdrawal of UN Hormuz resolution targeting Iran",
+      "title": "Gaza death toll rises",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-urges-withdrawal-un-hormuz-resolution-targeting-iran",
-      "published_date": "2026-05-09T06:04:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-43",
+      "published_date": "2026-05-11T09:38:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranian politician calls Trump tactics psychological warfare against Tehran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-politician-calls-trump-tactics-psychological-warfare-against",
-      "published_date": "2026-05-09T05:40:08+00:00",
-      "category": "Diplomacy"
+      "title": "Narendra Modi urges Indians to conserve fuel amid war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/narendra-modi-urges-indians-to-conserve-fuel-amid-war-on-iran?traffic_source=rss",
+      "published_date": "2026-05-11T09:26:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "US-Iran talks could resume in Pakistan next week, WSJ report says",
+      "title": "Iran describes its proposal to end war with US as 'legitimate' and 'generous'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-talks-could-resume-pakinstan-next-week-wsj-report-says",
-      "published_date": "2026-05-08T23:58:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-describes-its-proposal-end-war-us-legitimate-and-generous",
+      "published_date": "2026-05-11T08:44:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ex-Israeli PM: Hezbollah is the enemy of Lebanon and must be disarmed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/upfront/2026/5/11/ex-israeli-pm-hezbollah-is-the-enemy-of-lebanon-and-must-be-disarmed?traffic_source=rss",
+      "published_date": "2026-05-11T08:09:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-530",
+      "published_date": "2026-05-11T06:51:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The letter Starmer should write to Netanyahu, ending Britain's blind support for Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/uk-starmer-serious-stamping-out-antisemitism-must-end-blind-support-israel",
+      "published_date": "2026-05-11T06:44:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Brent crude climbs above $105 after Trump rejects Iran response",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/brent-crude-climbs-above-105-after-trump-rejects-iran-response",
+      "published_date": "2026-05-11T06:00:28+00:00",
+      "category": "Military"
     },
     {
       "title": "In photos: Mourners in Gaza bury their loved ones",
@@ -172,116 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
-      "published_date": "2026-05-10T19:01:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraqi parliament ‘to summon defence minister’ over alleged secret Israeli base",
+      "title": "War on Iran: Senior royal says Saudi Arabia avoided Israeli plan to 'plunge region into ruin'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-parliament-summon-defence-minister-over-alleged-secret-israeli-1",
-      "published_date": "2026-05-10T18:51:54+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/senior-royal-says-saudi-avoided-israeli-plan-plunge-region-ruin-and-destruction",
+      "published_date": "2026-05-11T11:26:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Hezbollah claims multiple attacks on Israeli forces in south Lebanon",
+      "title": "Tankers reportedly disable trackers to avoid attacks in Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-multiple-attacks-israeli-forces-south-lebanon",
-      "published_date": "2026-05-10T17:49:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel orders evacuation of villages in south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-orders-evacuation-villages-south-lebanon",
-      "published_date": "2026-05-10T16:46:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Food inflation hammers households in war-hit Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
-      "published_date": "2026-05-10T16:37:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli soldiers say orders were to kill any man encountered in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-say-orders-were-kill-any-man-encountered-gaza",
-      "published_date": "2026-05-10T16:34:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese Red Cross retrieves bodies after days of blocked access by Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-red-cross-retrieves-bodies-after-days-blocked-access-israel",
-      "published_date": "2026-05-10T16:17:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns of response to French and British warships in Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-response-french-and-british-warships-hormuz",
-      "published_date": "2026-05-10T15:49:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraqi parliament ‘to summon defence minister’ over alleged secret Israeli base",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iraqi-parliament-summon-defence-minister-over-alleged-secret-israeli-base",
-      "published_date": "2026-05-10T15:45:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu says Iran war 'not over' amid fragile US ceasefire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-iran-war-not-over-amid-fragile-us-ceasefire",
-      "published_date": "2026-05-10T15:30:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
-      "published_date": "2026-05-10T13:52:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Ukraine has momentum in war with Russia’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/ukraine-has-momentum-in-war-with?traffic_source=rss",
-      "published_date": "2026-05-10T13:27:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Asian economies cope with the fallout from the Iran war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
-      "published_date": "2026-05-10T13:11:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel kills two paramedics in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-paramedics-killed-israeli-strikes-southern-lebanon",
-      "published_date": "2026-05-10T11:53:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli soldiers say orders were to kill any man encountered in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-soldier-says-orders-were-kill-any-man-encountered-gaza",
-      "published_date": "2026-05-10T11:20:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE says it intercepted two Iranian drones",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-intercepts-iranian-drones",
-      "published_date": "2026-05-10T11:15:36+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tankers-reportedly-disable-trackers-avoid-attacks-hormuz",
+      "published_date": "2026-05-11T07:02:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aramco CEO says world lost 1 billion barrels of oil in two months",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Iran war could affect stability of Swiss power supply, authorities say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-war-could-affect-stability-swiss-power-supply-authorities-say",
-      "published_date": "2026-05-07T11:13:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Bolivian police fire tear gas at protesting teachers",
+      "title": "EU agrees to restore full trade ties with Syria",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/bolivian-police-fire-tear-gas-at-protesting-teachers?traffic_source=rss",
-      "published_date": "2026-05-07T04:51:35+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-to-restore-full-trade-ties-with-syria?traffic_source=rss",
+      "published_date": "2026-05-11T11:59:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "With food benefit cuts looming in the US, Californians eye billionaire tax",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Criminal complaint filed against Norwegian politicians over complicity in Gaza genocide",
+      "title": "Israel-caused death toll in Lebanon rises to 2869",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/criminal-complaint-filed-against-norweigian-politicians-over-complicity-gaza-genocide",
-      "published_date": "2026-05-05T09:43:13+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-caused-death-toll-lebanon-rises-2869",
+      "published_date": "2026-05-11T13:23:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces kill Palestinian man in Qalandiya, West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-qalandiya-west-bank",
+      "published_date": "2026-05-11T12:54:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Macron yells at audience for silence during Nairobi University presentation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/macron-yells-at-audience-for-silence-during-nairobi-university-presentation?traffic_source=rss",
+      "published_date": "2026-05-11T12:53:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran says US has not issued World Cup visas for players",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-has-not-issued-world-cup-visas-players",
+      "published_date": "2026-05-11T06:21:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New ‘Nakba’ in Jerusalem: Israel steps up Silwan demolitions near Al-Aqsa",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/new-nakba-jerusalem-israel-steps-up-silwan-demolitions-near-al-aqsa",
+      "published_date": "2026-05-11T06:13:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gaza volunteers plant olive trees at devastated al-Shifa Hospital",
@@ -666,41 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-germanys-constructive-dialogue-sham-cloak-used-shield-its",
       "published_date": "2026-05-09T09:23:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Integrity costs something': Eurovision winners want Israel out of the contest",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/eurovision-israel-former-winners-slam",
-      "published_date": "2026-05-09T09:20:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's 'constructive dialogue' is a sham, a cloak used to shield its support of a genocidal regime",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/germany-constructive-dialogue-sham-cloak-shield-support-genocidal-regime",
-      "published_date": "2026-05-09T09:11:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN: 40,000 Palestinians displaced in West Bank since start of 2025",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-40000-palestinians-displaced-west-bank-start-2025",
-      "published_date": "2026-05-09T09:03:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers set fire to homes and cars in violent West Bank raids",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
-      "published_date": "2026-05-09T07:18:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian agency details new settler attacks across West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-agency-details-new-settler-attacks-across-west-bank",
-      "published_date": "2026-05-09T05:00:39+00:00",
       "category": "Local Events"
     }
   ]
