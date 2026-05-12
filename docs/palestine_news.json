@@ -1,8 +1,106 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-11T13:39:54.097104+00:00",
+  "last_updated": "2026-05-12T00:03:48.572153+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ceasefire on 'life support', Trump says, as he rejects 'stupid' Iranian peace offer",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ceasefire-life-support-trump-says-he-rejects-stupid-iranian-peace-offer",
+      "published_date": "2026-05-11T21:58:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar, Kuwait urge diplomacy to sustain US-Iran ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-kuwait-urge-diplomacy-sustain-us-iran-ceasefire",
+      "published_date": "2026-05-11T21:18:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he will suspend petrol tax amid soaring US fuel prices",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices?traffic_source=rss",
+      "published_date": "2026-05-11T20:59:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU sanctions violent Israeli settlers after months of deadlock",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
+      "published_date": "2026-05-11T20:31:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rebranding Francafrique",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/rebranding-francafrique?traffic_source=rss",
+      "published_date": "2026-05-11T20:07:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu condemns EU sanctions on settlers 'for living' in occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-condemns-eu-sanctions-settlers-land-occupied-west-bank",
+      "published_date": "2026-05-11T19:45:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he will discuss arms sales to Taiwan in meeting with China’s Xi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/trump-says-he-will-discuss-arms-sales-to-taiwan-in-meeting-with-chinas-xi?traffic_source=rss",
+      "published_date": "2026-05-11T19:11:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
+      "published_date": "2026-05-11T19:10:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran warns of ‘well-deserved response to any aggression'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-well-deserved-response-any-aggression",
+      "published_date": "2026-05-11T18:57:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK sanctions network accused of planning attacks for Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
+      "published_date": "2026-05-11T18:25:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says ceasefire is on ‘life support’ after rejecting Iran’s proposal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss",
+      "published_date": "2026-05-11T17:44:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says ceasefire on ‘life support’, slams Iran response to US proposal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/trump-says-ceasefire-on-life-support-slams-iran-response-to-us-proposal?traffic_source=rss",
+      "published_date": "2026-05-11T17:22:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ben Gvir calls EU ‘antisemitic’ as bloc sanctions Israeli settlers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-calls-eu-antisemitic-bloc-sanctions-israeli-settlers",
+      "published_date": "2026-05-11T17:21:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Iran deal ‘very possible’ despite fragile ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-deal-very-possible-despite-fragile-ceasefire",
+      "published_date": "2026-05-11T16:21:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU ministers agree on sanctions for Israeli settlers",
       "source": "Middle East Eye",
@@ -46,102 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump rejects Iran response, calls it 'inappropriate'",
+      "title": "UAE secretly joined Israeli-US strikes on Iran: Report",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-rejects-iran-response-calls-it-inappropriate",
-      "published_date": "2026-05-10T21:33:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/uae-secretly-joined-israeli-us-strikes-iran-report",
+      "published_date": "2026-05-11T22:37:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
+      "title": "Lamine Yamal waves Palestinian flag during Barcelona title parade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lamine-yamal-waves-palestinian-flag-during-barcelona-title-parade",
+      "published_date": "2026-05-11T20:57:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EU, UK sanction Russians over deportations of Ukrainian children",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
-      "published_date": "2026-05-10T21:12:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss",
+      "published_date": "2026-05-11T20:56:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump calls Iran ceasefire response 'totally unacceptable'",
+      "title": "US nuclear submarine docks in Gibraltar",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-calls-iran-ceasefire-response-totally-unacceptable",
-      "published_date": "2026-05-10T21:08:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-nuclear-submarine-docks-gibraltar",
+      "published_date": "2026-05-11T19:57:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia condemns Gulf attacks, urges protection of Hormuz shipping",
+      "title": "Ben Gurion operating like ‘a US military base’, Israel aviation chief warns",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-gulf-attacks-urges-protection-hormuz-shipping",
-      "published_date": "2026-05-10T19:21:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gurion-us-military-base-israel-aviation-chief-warns",
+      "published_date": "2026-05-11T18:35:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump accuses Iran of 'playing games' after ceasefire response",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-accuses-iran-playing-games-after-ceasefire-response",
-      "published_date": "2026-05-10T18:59:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says US will not allow Iran to reach enriched uranium",
+      "title": "Philippine senator flees ICC arrest over role in Duterte’s drug war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss",
-      "published_date": "2026-05-10T17:22:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss",
+      "published_date": "2026-05-11T18:24:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Putin hints at ending Russia’s war in Ukraine, but why now?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
-      "published_date": "2026-05-10T15:53:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran sends response to US ceasefire proposal via Pakistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
-      "published_date": "2026-05-10T15:39:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran replies to US proposal to end war, Trump finds response ‘unacceptable’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan?traffic_source=rss",
-      "published_date": "2026-05-10T12:40:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran sends response to US proposal via Pakistan, states agency says",
+      "title": "Birmingham jury fails to convict pro-Palestine activist accused of supporting Hamas",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-sends-response-us-proposal",
-      "published_date": "2026-05-10T12:38:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/birmingham-jury-fails-convict-pro-palestine-activist-accused-supporting",
+      "published_date": "2026-05-11T18:22:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar’s foreign ministry urges freedom of navigation in call with Iranian counterpart",
+      "title": "Lithuania backs Strait of Hormuz mission with just 40 troops",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-foreign-minister-urges-iranian-counterpart-permit-freedom",
-      "published_date": "2026-05-10T12:20:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lithuania-backs-strait-hormuz-mission-just-40-troops",
+      "published_date": "2026-05-11T17:48:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan army chief says mediation efforts aimed at lasting peace",
+      "title": "Israeli strikes hit south Lebanon, killing three and wounding four",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-army-chief-says-mediation-efforts-aimed-lasting-peace",
-      "published_date": "2026-05-10T05:53:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-hit-south-lebanon-killing-three-and-wounding-four",
+      "published_date": "2026-05-11T16:51:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Poll shows majority dissatisfied with Trump over Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/poll-shows-majority-dissatisfied-trump-over-iran-war",
-      "published_date": "2026-05-10T05:09:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela’s Delcy Rodriguez heads to The Hague for land dispute case",
+      "title": "Iran denies proposal sent to US contains ‘excessive demands’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/venezuelas-delcy-rodriguez-heads-to-the-hague-for-land-dispute-case?traffic_source=rss",
-      "published_date": "2026-05-09T19:48:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-denies-proposal-sent-to-us-contains-excessive-demands?traffic_source=rss",
+      "published_date": "2026-05-11T16:00:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Second Qatari tanker crossing Strait of Hormuz",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Narendra Modi urges Indians to conserve fuel amid war on Iran",
+      "title": "Narenda Modi tells Indians to stop buying gold, work from home, as Iran war dents economy",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/narenda-modi-tells-indians-stop-buying-gold-work-home-iran-war-dents-economy",
+      "published_date": "2026-05-11T21:05:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Iran war effect: Why is Modi asking Indians to avoid foreign trips, gold?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/narendra-modi-urges-indians-to-conserve-fuel-amid-war-on-iran?traffic_source=rss",
-      "published_date": "2026-05-11T09:26:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran describes its proposal to end war with US as 'legitimate' and 'generous'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-describes-its-proposal-end-war-us-legitimate-and-generous",
-      "published_date": "2026-05-11T08:44:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-Israeli PM: Hezbollah is the enemy of Lebanon and must be disarmed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/upfront/2026/5/11/ex-israeli-pm-hezbollah-is-the-enemy-of-lebanon-and-must-be-disarmed?traffic_source=rss",
-      "published_date": "2026-05-11T08:09:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-530",
-      "published_date": "2026-05-11T06:51:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The letter Starmer should write to Netanyahu, ending Britain's blind support for Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/uk-starmer-serious-stamping-out-antisemitism-must-end-blind-support-israel",
-      "published_date": "2026-05-11T06:44:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Brent crude climbs above $105 after Trump rejects Iran response",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/brent-crude-climbs-above-105-after-trump-rejects-iran-response",
-      "published_date": "2026-05-11T06:00:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In photos: Mourners in Gaza bury their loved ones",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/photos-mourners-gaza-bury-their-loved-ones",
-      "published_date": "2026-05-10T22:52:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Filmmakers slam BBC after Gaza documentary wins award despite being dropped",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/filmmakers-slam-bbc-after-gaza-documentary-wins-award-despite-being-dropped",
-      "published_date": "2026-05-10T22:19:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon says 2,846 killed in Israeli attacks since March",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-2846-killed-israeli-attacks-march",
-      "published_date": "2026-05-10T20:53:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran offers to move uranium abroad but rejects dismantling nuclear sites: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-offers-move-uranium-abroad-rejects-dismantling-nuclear-sites-report",
-      "published_date": "2026-05-10T19:47:52+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold?traffic_source=rss",
+      "published_date": "2026-05-11T14:30:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "War on Iran: Senior royal says Saudi Arabia avoided Israeli plan to 'plunge region into ruin'",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Kenyan villagers sue BP over pollution from 1980s oil exploration",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/kenyan-villagers-sue-bp-over-pollution-from-1980s-oil-exploration?traffic_source=rss",
-      "published_date": "2026-05-07T20:22:54+00:00",
-      "category": "Energy"
+      "title": "Ceasefire on 'life support', Trump says, as he rejects 'stupid' Iranian peace offer",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/ceasefire-life-support-trump-says-he-rejects-stupid-iranian-peace-offer",
+      "published_date": "2026-05-11T21:25:37+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Protests in Bolivia escalate amid economic turmoil and policy demands",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/7/protests-in-bolivia-escalate-amid-economic-turmoil-and-policy-demands?traffic_source=rss",
-      "published_date": "2026-05-07T18:17:11+00:00",
-      "category": "Energy"
+      "title": "World losing 100 million barrels a week of oil with Hormuz closed, Saudi Aramco chief says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/world-losing-100-million-barrels-day-oil-hormuz-closed-saudi-aramco-chief-says",
+      "published_date": "2026-05-11T18:00:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "EU agrees to restore full trade ties with Syria",
@@ -550,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Trump official insists overhauled visa system won't scare away foreign investment",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-official-insists-visa-system-will-not-scare-away-foreign-investment",
-      "published_date": "2026-05-05T21:38:44+00:00",
-      "category": "Economy"
+      "title": "Hundreds displaced, medical services suspended amid gang violence in Haiti",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss",
+      "published_date": "2026-05-11T21:08:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Macron to speak with Iranian president on Tuesday",
+      "title": "Palestinians mark 78 years since Nakba amid ongoing displacement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/palestinians-mark-78-years-since-nakba-amid-ongoing-displacement?traffic_source=rss",
+      "published_date": "2026-05-11T20:06:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli PM slams ‘moral bankruptcy’ of EU over settler sanctions",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-speaking-iranian-president-tuesday",
-      "published_date": "2026-05-05T11:43:24+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-pm-slams-moral-bankruptcy-eu-over-settler-sanctions",
+      "published_date": "2026-05-11T19:27:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After electoral collapse, UK Labour risks political oblivion",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/after-electoral-collapse-uk-labour-risks-political-oblivion",
+      "published_date": "2026-05-11T16:51:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli attacks kill at least four in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-05-11T16:39:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four Palestinians killed in Israeli attacks across Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-palestinians-killed-israeli-attacks-across-gaza",
+      "published_date": "2026-05-11T16:05:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel-caused death toll in Lebanon rises to 2869",
@@ -659,48 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-israel-displaced-nearly-40000-palestinians-west-bank",
       "published_date": "2026-05-09T19:11:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewish settler attack wounds two Palestinian women in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jewish-settler-attack-wounds-two-palestinian-women-occupied-west-bank",
-      "published_date": "2026-05-09T17:33:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
-      "published_date": "2026-05-09T17:21:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians run West Bank freedom marathon along separation wall",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinians-run-west-bank-freedom-marathon-along-separation-wall?traffic_source=rss",
-      "published_date": "2026-05-09T14:53:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Displaced Lebanese children keep learning amid displacement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss",
-      "published_date": "2026-05-09T11:33:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian Christian delegation warns EU of growing threat to Christians in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-christian-body-warns-eu-they-are-under-existential-threat",
-      "published_date": "2026-05-09T10:40:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Germany's 'constructive dialogue' is a sham, a cloak used to shield its support of a genocidal regime",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-germanys-constructive-dialogue-sham-cloak-used-shield-its",
-      "published_date": "2026-05-09T09:23:13+00:00",
       "category": "Local Events"
     }
   ]
