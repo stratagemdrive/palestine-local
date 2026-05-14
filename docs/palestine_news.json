@@ -1,8 +1,78 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-14T00:07:59.066825+00:00",
+  "last_updated": "2026-05-14T12:22:15.440281+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Who are the US CEOs in China with Trump, and what’s in it for them?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/who-are-the-us-ceos-in-china-with-trump-and-whats-in-it-for-them?traffic_source=rss",
+      "published_date": "2026-05-14T11:09:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon to press Israel for ceasefire at Washington talks, Lebanese official says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-press-israel-cease-fire-washington-talks-lebanese-official-says",
+      "published_date": "2026-05-14T10:25:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestinian Fatah party to elect leaders for first time in decade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-fatah-party-elect-leaders-first-time-decade",
+      "published_date": "2026-05-14T09:59:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump, Xi agree on need for Hormuz to stay open, White House says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-xi-agree-need-hormuz-stay-open-white-house",
+      "published_date": "2026-05-14T09:18:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Federal judge blocks US sanctions against UN rapporteur Francesca Albanese",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese?traffic_source=rss",
+      "published_date": "2026-05-14T09:16:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump praises China as he ignores question about Taiwan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-praises-china-as-he-ignores-question-about-taiwan?traffic_source=rss",
+      "published_date": "2026-05-14T08:40:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How China changed Rubio name to let him join Trump summit despite sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/how-china-changed-rubio-name-to-let-him-join-trump-summit-despite-sanctions?traffic_source=rss",
+      "published_date": "2026-05-14T08:11:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Philippine politician wanted by ICC flees Senate",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/philippine-politician-wanted-by-icc-flees-senate?traffic_source=rss",
+      "published_date": "2026-05-14T08:05:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
+      "published_date": "2026-05-14T07:00:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump in China for talks with Xi Jinping",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/5/14/trump-in-china-for-talks-with-xi-jinping?traffic_source=rss",
+      "published_date": "2026-05-14T06:56:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Netanyahu's office says he visited UAE, Gulf state denies claim",
       "source": "Middle East Eye",
@@ -74,74 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US Senator Cassidy’s vote to convict Trump looms over Louisiana primary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/us-senator-cassidys-vote-to-convict-trump-looms-over-louisiana-primary?traffic_source=rss",
-      "published_date": "2026-05-13T18:04:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's foreign minister demands immediate release of four Iranians detained in Kuwait",
+      "title": "Canada weighs buying Turkish drones it sanctioned in 2019",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-demands-immediate-release-four-iranians-detained",
-      "published_date": "2026-05-13T16:56:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/canada-weighs-buying-turkish-drones-it-sanctioned-2019",
+      "published_date": "2026-05-14T12:06:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
+      "title": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss",
-      "published_date": "2026-05-13T11:42:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss",
+      "published_date": "2026-05-14T11:27:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN resolution calls for freedom of navigation in the Strait of Hormuz",
+      "title": "Zimbabweans lured into Russia’s war as families plead for their return",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/un-resolution-calls-for-freedom-of-navigation-in-the-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-05-13T09:33:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/5/14/zimbabweans-lured-into-russias-war-as-families-plead-for-their-return?traffic_source=rss",
+      "published_date": "2026-05-14T11:22:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump: 'I don't think about Americans’ financial situation'",
+      "title": "Iran says UAE 'directly involved' in war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-i-dont-think-about-americans-financial-situation",
-      "published_date": "2026-05-13T09:09:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-uae-directly-involved-war",
+      "published_date": "2026-05-14T10:53:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "China’s Xi expected to press Trump on Taiwan, tariffs during summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/chinas-xi-to-press-trump-on-taiwan-tariffs-during-summit?traffic_source=rss",
-      "published_date": "2026-05-13T07:48:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss",
-      "published_date": "2026-05-13T07:45:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss",
-      "published_date": "2026-05-13T07:08:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-China head-to-head: Explained in 11 maps and charts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/us-china-head-to-head-explained-in-11-maps-and-charts?traffic_source=rss",
-      "published_date": "2026-05-13T06:47:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Morning update",
+      "title": "Eurovision: The song contest that broke the continent",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-532",
-      "published_date": "2026-05-13T06:38:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/opinion/eurovision-song-contest-broke-continent",
+      "published_date": "2026-05-14T10:27:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks Lebanon’s Seddiqine, Tuffahta",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-raids-hit-southern-lebanons-seddiqine-tuffahta",
+      "published_date": "2026-05-14T09:55:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could Iran war trigger a hunger crisis?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
+      "published_date": "2026-05-14T09:28:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah drone falls near Israel-Lebanon border, Israeli military says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-drone-falls-near-israel-lebanon-border-israeli-military-says",
+      "published_date": "2026-05-14T09:12:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Japanese snacks go black-and-white: Why Iran war is driving up ink prices",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/japanese-snacks-go-black-and-white-why-iran-war-is-driving-up-ink-prices?traffic_source=rss",
+      "published_date": "2026-05-14T08:49:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army says it is striking Hezbollah in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-army-says-striking-hezbollah-southern-lebanon",
+      "published_date": "2026-05-14T08:36:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nepal in a bind as US-China drone war reaches Everest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/nepal-in-a-bind-as-us-china-drone-war-reaches-everest?traffic_source=rss",
+      "published_date": "2026-05-14T08:23:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv building collapses after Russian strike, reportedly trapping residents",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/aje-onl-nf_clip-kyiv-building-collapses-after-strike-140526?traffic_source=rss",
+      "published_date": "2026-05-14T04:52:40+00:00",
+      "category": "Military"
     },
     {
       "title": "UAE denies Netanyahu held secret meeting with Emirati president during Iran war",
@@ -197,90 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/13/board-of-peaces-mladenov-says-gaza-ceasefire-hinges-on-hamas-disarmament?traffic_source=rss",
       "published_date": "2026-05-13T19:11:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE denies Netanyahu visited in ‘secret’ during US-Israel war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/netanyahu-visited-uae-in-secret-during-us-israel-war-on-iran-office-says?traffic_source=rss",
-      "published_date": "2026-05-13T19:06:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "There’s an app for that: Gaza’s developers use tech to solve war problems",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/13/theres-an-app-for-that-gazas-developers-use-tech-to-solve-war-problems?traffic_source=rss",
-      "published_date": "2026-05-13T19:06:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "​‘Our only crime is being Shia’: Pakistani workers say UAE surveillance led to deportations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/our-only-crime-being-shia-pakistani-workers-say-uae-surveillance-led-deportations",
-      "published_date": "2026-05-13T18:58:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How US donor bodies were sold for Israeli military training",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/13/aje-onl-tt_usa_israelcadavers_v4-130526?traffic_source=rss",
-      "published_date": "2026-05-13T18:30:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two killed in Israeli attack in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-israeli-attack-southern-lebanon-0",
-      "published_date": "2026-05-13T17:57:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu made ‘secret visit’ to the UAE during war with Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-made-secret-visit-uae-during-war-iran",
-      "published_date": "2026-05-13T17:17:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack wounds Palestinians in northern Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-wounded-israeli-attack-northern-gaza",
-      "published_date": "2026-05-13T16:16:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Activist confronts Iran’s former crown prince over war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss",
-      "published_date": "2026-05-13T12:42:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss",
-      "published_date": "2026-05-13T12:39:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN urges independent probes into deadly Nigeria, Chad air attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss",
-      "published_date": "2026-05-13T11:40:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran has regained access to most missile and underground sites, US intelligence finds",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-has-regained-access-most-missile-and-underground-sites-us-intelligence-finds",
-      "published_date": "2026-05-13T11:38:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Putin hails test launch of ‘world’s most powerful missile’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/video-putin-hails-test-launch-of-worlds-most-powerful?traffic_source=rss",
-      "published_date": "2026-05-13T10:57:44+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Labour’s Angela Rayner says she has been cleared over UK tax affairs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/labours-angela-rayner-says-she-has-been-cleared-over-uk-tax-affairs?traffic_source=rss",
+      "published_date": "2026-05-14T11:31:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Vessel seized near UAE’s Fujairah, now heading towards Iranian waters",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vessel-seized-near-uaes-fujairah-now-heading-towards-iranian-waters",
+      "published_date": "2026-05-14T07:48:43+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "As Trump readies to meet Xi, experts say he is ‘desperate for a win’",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/5/13/as-trump-readies-to-meet-xi-experts-say-he-is-desperate-for-a-win?traffic_source=rss",
@@ -550,18 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "US congressman says pro-Israel groups behind 95 percent of funding against him",
+      "title": "Israel closes Al-Aqsa for Muslims amid mass settler raids and ‘Flag March’",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-congressman-says-pro-israel-groups-behind-95-percent-funding-against",
-      "published_date": "2026-05-07T22:55:12+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-closes-al-aqsa-muslims-amid-mass-settler-raids-and-flag-march",
+      "published_date": "2026-05-14T12:21:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US congressman says pro-Israel groups behind 95 percent of funding against him",
+      "title": "Israel closes Al-Aqsa for Muslims amid mass settler raids and ‘Flag March’",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/republican-congressman-says-95-percent-election-funding-against-him-pro-israeli-lobby",
-      "published_date": "2026-05-07T20:53:56+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/israel-closes-al-aqsa-muslims-amid-mass-settler-raids-and-flag-march",
+      "published_date": "2026-05-14T11:30:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel increasing use of solitary confinement for Palestinians, including for minors",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-increasing-use-solitary-confinement-palestinians-including-minors",
+      "published_date": "2026-05-14T11:01:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Record complaints filed over UK press smear of anti-genocide artist Misan Harriman",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/record-complaints-filed-over-uk-press-smear-anti-genocide-pro-palestine-artist-misan-harriman",
+      "published_date": "2026-05-14T10:33:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel’s Smotrich leads settler raid into Joseph’s Tomb in the occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-smotrich-leads-settler-raid-josephs-tomb-occupied-west-bank",
+      "published_date": "2026-05-14T10:02:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel’s Smotrich leads settler raid into Joseph’s Tomb in the occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israels-smotrich-leads-settler-raid-josephs-tomb-occupied-west-bank",
+      "published_date": "2026-05-14T09:26:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In the UK, Muslim votes are treated as a problem to be managed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/14/in-the-uk-muslim-votes-are-treated-as-a-problem-to-be-managed?traffic_source=rss",
+      "published_date": "2026-05-14T09:02:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s US-bound World Cup squad given public sendoff in Tehran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/14/irans-us-bound-world-cup-squad-given-public-sendoff-in-tehran?traffic_source=rss",
+      "published_date": "2026-05-14T06:33:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli attacks kill, wound nearly 60 children over the past week, despite truce deal",
@@ -645,62 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/youtuber-tyler-oliveira-deported-israel-over-antisemitic-content",
       "published_date": "2026-05-13T09:21:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel killing at least one Palestinian child a week in West Bank, Unicef says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-kills-least-one-child-every-week-west-bank-unicef",
-      "published_date": "2026-05-13T09:08:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK’s Starmer faces challenge as resignation calls overshadow King’s speech",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/uk-pm-starmer-set-to-meet-rival-streeting-amid-pledge-to-carry-on-governing?traffic_source=rss",
-      "published_date": "2026-05-13T07:12:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Criminalising protest: Pro-Palestine students in France face increased repression",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/criminalising-protest-pro-palestine-students-france-face-increased-repression",
-      "published_date": "2026-05-13T06:24:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New York Times article details brutal rape of Palestinians. Israel calls it 'blood libel'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/new-york-times-details-brutal-rape-of-palestinians-israel-called-it-blood-libel",
-      "published_date": "2026-05-12T19:47:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Palestinian photographer’s ‘search for what remained’ from 1948",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/palestinian-destroyed-villages-nakba-photography/",
-      "published_date": "2026-05-12T19:30:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer is toast. To stop Farage now, Britain's left-wing forces must unite",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/starmer-toast-stop-farage-now-britains-left-wing-forces-must-unite",
-      "published_date": "2026-05-12T18:18:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamophobia, racist threats, Holocaust denial: Comments by newly-elected Reform councillors",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/reform-uk-faces-backlash-over-alleged-racist-comments-made-newly-elected-councillors",
-      "published_date": "2026-05-12T18:15:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Cultural genocide': Palestinian musicians urge Eurovision boycott over Israel's inclusion",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cultural-genocide-palestinian-musicians-urge-eurovision-boycott-over",
-      "published_date": "2026-05-12T18:04:30+00:00",
       "category": "Local Events"
     }
   ]
