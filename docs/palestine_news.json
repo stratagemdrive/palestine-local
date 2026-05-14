@@ -1,8 +1,92 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-13T13:06:46.552781+00:00",
+  "last_updated": "2026-05-14T00:07:59.066825+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Netanyahu's office says he visited UAE, Gulf state denies claim",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-office-says-he-visited-uae-gulf-state-denies-claim",
+      "published_date": "2026-05-14T00:02:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump administration offers $100m in aid to Cuba in exchange for reform",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/trump-administration-offers-100m-in-aid-to-cuba-in-exchange-for-reform?traffic_source=rss",
+      "published_date": "2026-05-13T23:01:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Memphis residents file lawsuit alleging abuses by Trump-backed task force",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/memphis-residents-file-lawsuit-alleging-abuses-by-trump-backed-task-force?traffic_source=rss",
+      "published_date": "2026-05-13T22:58:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump taps David Venturella, former private prison executive, to lead ICE",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/trump-taps-david-venturella-former-private-prison-executive-to-lead-ice?traffic_source=rss",
+      "published_date": "2026-05-13T21:48:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US waives visa bonds of up to $15,000 for FIFA World Cup ticket holders",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/13/us-waives-visa-bonds-of-up-to-15000-for-fifa-world-cup-ticket-holders?traffic_source=rss",
+      "published_date": "2026-05-13T20:48:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Republicans break ranks, but Senate fails to curb Trump’s Iran war powers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss",
+      "published_date": "2026-05-13T19:53:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US ‘making progress’ in Iran talks, US vice president says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-making-progress-iran-talks-us-vice-president-says",
+      "published_date": "2026-05-13T19:43:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Twelve killed in strikes on cars as Israel pounds Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/twelve-killed-strikes-cars-israel-pounds-lebanon",
+      "published_date": "2026-05-13T19:12:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UAE reaffirms diplomacy, rejects confrontation with Iran, advisor says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-reaffirms-diplomacy-rejects-confrontation-iran-advisor-says",
+      "published_date": "2026-05-13T18:56:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kevin Warsh confirmed as new US Federal Reserve chair amid controversy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/13/kevin-warsh-confirmed-as-new-us-federal-reserve-chair-amid-controversy?traffic_source=rss",
+      "published_date": "2026-05-13T18:55:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Senator Cassidy’s vote to convict Trump looms over Louisiana primary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/us-senator-cassidys-vote-to-convict-trump-looms-over-louisiana-primary?traffic_source=rss",
+      "published_date": "2026-05-13T18:04:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's foreign minister demands immediate release of four Iranians detained in Kuwait",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-demands-immediate-release-four-iranians-detained",
+      "published_date": "2026-05-13T16:56:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
       "source": "Al Jazeera",
@@ -60,88 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bahrain-led UN resolution on Strait of Hormuz gains support of 112 nations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/bahrain-led-un-resolution-on-strait-of-hormuz-gains-support-of-112-nations?traffic_source=rss",
-      "published_date": "2026-05-13T06:02:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Video: Turkey’s Fidan says Israel’s policies becoming ‘global security problem’",
+      "title": "UAE denies Netanyahu held secret meeting with Emirati president during Iran war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-turkeys-fidan-says-israels-policies-becoming-global-security",
-      "published_date": "2026-05-13T05:53:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-denies-netanyahu-held-secret-meeting-emirati-president-during-iran",
+      "published_date": "2026-05-13T22:41:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia and UAE coordinate on regional security efforts",
+      "title": "Funeral held for two Lebanese paramedics killed in Israeli attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
+      "published_date": "2026-05-13T21:15:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Rogue state behaviour': Israel carrying out covert influence operations in Canada, report says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-and-uae-coordinate-regional-security-efforts",
-      "published_date": "2026-05-12T23:28:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/rogue-state-behaviour-israel-carrying-out-covert-influence-operations-canada-report-says",
+      "published_date": "2026-05-13T21:03:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss",
-      "published_date": "2026-05-12T21:02:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US court pauses decision blocking Trump’s 10 percent global tariff",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff?traffic_source=rss",
-      "published_date": "2026-05-12T21:00:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss",
-      "published_date": "2026-05-12T20:24:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran says ceasefire terms meet minimum standards for lasting peace",
+      "title": "Two drone strikes hit Iranian opposition camp north of Iraq’s Erbil, security sources say",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-ceasefire-terms-meet-minimum-standards-lasting-peace",
-      "published_date": "2026-05-12T20:23:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-drone-strike-hit-iranian-opposition-camp-north-iraqs-erbil-security",
+      "published_date": "2026-05-13T20:24:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "US confirms Israel sent Iron Dome batteries to UAE",
+      "title": "Chinese-linked ships cross Strait of Hormuz on eve of Trump-Xi meeting",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-confirms-israel-sent-iron-dome-batteries-uae",
-      "published_date": "2026-05-12T19:40:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/chinese-linked-ships-cross-strait-hormuz-eve-trump-xi-meeting",
+      "published_date": "2026-05-13T20:07:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron unveils $27 billion Africa investment, urges reset with Europe",
+      "title": "Russia unleashes massive drone barrage on Ukraine killing six",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/5/12/macron-unveils-27-billion-africa-investment-urges-reset-with-europe?traffic_source=rss",
-      "published_date": "2026-05-12T19:04:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/russia-unleashes-massive-drone-barrage-on-ukraine-killing-six?traffic_source=rss",
+      "published_date": "2026-05-13T19:41:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump skirts question on US ‘red lines’ for Iran ceasefire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/trump-skirts-question-on-us-red-lines-for-iran-ceasefire?traffic_source=rss",
-      "published_date": "2026-05-12T19:01:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/pakistan-scrambles-to-salvage-us-iran-diplomacy-as-ceasefire-faces-collapse?traffic_source=rss",
-      "published_date": "2026-05-12T12:17:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lamine Yamal waves Palestine flag during Barcelona title celebrations",
+      "title": "Israel's Netanyahu says he visited UAE, as Gulf state issues rare denial",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/lamine-yamal-waves-palestine-flag-during-barcelona-title-celebrations",
-      "published_date": "2026-05-12T12:17:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/israels-netanyahu-visited-uae-during-war-iran",
+      "published_date": "2026-05-13T19:20:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas must disarm, not ‘disappear’ from Gaza: Board of Peace’s Mladenov",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/board-of-peaces-mladenov-says-gaza-ceasefire-hinges-on-hamas-disarmament?traffic_source=rss",
+      "published_date": "2026-05-13T19:11:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE denies Netanyahu visited in ‘secret’ during US-Israel war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/netanyahu-visited-uae-in-secret-during-us-israel-war-on-iran-office-says?traffic_source=rss",
+      "published_date": "2026-05-13T19:06:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "There’s an app for that: Gaza’s developers use tech to solve war problems",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/13/theres-an-app-for-that-gazas-developers-use-tech-to-solve-war-problems?traffic_source=rss",
+      "published_date": "2026-05-13T19:06:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "​‘Our only crime is being Shia’: Pakistani workers say UAE surveillance led to deportations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/our-only-crime-being-shia-pakistani-workers-say-uae-surveillance-led-deportations",
+      "published_date": "2026-05-13T18:58:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How US donor bodies were sold for Israeli military training",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/13/aje-onl-tt_usa_israelcadavers_v4-130526?traffic_source=rss",
+      "published_date": "2026-05-13T18:30:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two killed in Israeli attack in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-israeli-attack-southern-lebanon-0",
+      "published_date": "2026-05-13T17:57:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu made ‘secret visit’ to the UAE during war with Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-made-secret-visit-uae-during-war-iran",
+      "published_date": "2026-05-13T17:17:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attack wounds Palestinians in northern Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-wounded-israeli-attack-northern-gaza",
+      "published_date": "2026-05-13T16:16:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Activist confronts Iran’s former crown prince over war on Iran",
@@ -179,109 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "At least eight killed in Israeli drone strikes on Lebanon highway",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
-      "published_date": "2026-05-13T09:53:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill eight people south of Beirut: Lebanon health ministry",
+      "title": "1953: The CIA led coup that still shapes Iran | Turning Point",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-8-people-south-beirut-lebanon-health-ministry",
-      "published_date": "2026-05-13T09:49:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Silicon Valley giants are turning into war contractors",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
-      "published_date": "2026-05-13T08:41:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel orders evacuations in six south Lebanon towns",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-orders-evacuations-six-south-lebanon-towns",
-      "published_date": "2026-05-13T06:53:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Chinese supertanker reportedly transits Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/chinese-supertanker-reportedly-transits-strait-hormuz",
-      "published_date": "2026-05-13T06:00:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone strike hits town in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-hits-town-southern-lebanon",
-      "published_date": "2026-05-13T05:33:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq denies reports of unknown military sites in Najaf desert",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-denies-reports-unknown-military-sites-najaf-desert",
-      "published_date": "2026-05-13T04:43:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senate Democrats seek seventh vote to curb Trump's war powers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/senate-democrats-seek-seventh-vote-curb-trump-war-powers",
-      "published_date": "2026-05-13T00:03:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen says Iran using cross-border militias for blackmail, exporting chaos",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-says-iran-using-cross-border-militias-blackmail-exporting-chaos",
-      "published_date": "2026-05-13T00:02:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Norway and Iran discuss latest round of negotiations in Tehran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/norway-and-iran-discuss-latest-round-negotiations-tehran",
-      "published_date": "2026-05-12T23:43:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah says it repelled Israeli advance near Wadi al-Ain",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-repelled-israeli-advance-near-wadi-al-ain",
-      "published_date": "2026-05-12T23:17:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone strike kills Palestinian in central Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-palestinian-central-gaza",
-      "published_date": "2026-05-12T22:54:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US heading for ‘checkmate’ and ‘total defeat’ in Iran war, says neocon Robert Kagan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-heading-checkmate-and-total-defeat-iran-war-says-neocon-robert-kagan",
-      "published_date": "2026-05-12T22:44:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cannes juror denounces Hollywood boycott of actors for Gaza war views",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss",
-      "published_date": "2026-05-12T20:55:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Make a choice': Huckabee warns Gulf to choose between Iran and Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/huckabee-warns-gulf-choose-between-iran-and-israel",
-      "published_date": "2026-05-12T20:40:13+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/video/1953-cia-led-coup-still-shapes-iran-turning-point",
+      "published_date": "2026-05-13T16:19:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "US expects Iran oil output to fall amid blockade",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Project Get Zack: How the media used antisemitism against the Greens’ Jewish leader",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/project-get-zack-polanski-how-media-used-antisemitism-against-greens-jewish-leader",
-      "published_date": "2026-05-08T11:45:03+00:00",
-      "category": "Energy"
+      "title": "As Trump readies to meet Xi, experts say he is ‘desperate for a win’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/13/as-trump-readies-to-meet-xi-experts-say-he-is-desperate-for-a-win?traffic_source=rss",
+      "published_date": "2026-05-13T21:12:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tens of thousands protest in Argentina over Milei university cuts",
@@ -557,11 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Gulf states urge UN action to ensure Strait of Hormuz safety",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/gulf-states-urge-un-action-to-ensure-strait-of-hormuz-safety?traffic_source=rss",
-      "published_date": "2026-05-07T19:32:23+00:00",
-      "category": "Economy"
+      "title": "Israeli attacks kill, wound nearly 60 children over the past week, despite truce deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-wound-nearly-60-children-over-past-week-despite",
+      "published_date": "2026-05-13T23:44:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers attack Palestinians and burn land in occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-palestinians-and-burn-land-occupied-west-bank",
+      "published_date": "2026-05-13T23:03:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanon says 10 more killed in Israeli strikes on south",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-10-more-killed-israeli-strikes-south",
+      "published_date": "2026-05-13T21:31:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 10,000 homes destroyed or damaged since ceasefire, Lebanon says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/over-10000-homes-destroyed-or-damaged-ceasefire-lebanon-says",
+      "published_date": "2026-05-13T17:10:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Abu Hamid al-Ghazali: How one of Islam’s most revered figures still speaks to the modern world",
@@ -673,34 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cultural-genocide-palestinian-musicians-urge-eurovision-boycott-over",
       "published_date": "2026-05-12T18:04:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mossad chief opposes Netanyahu’s successor pick: Israeli press review",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/mossad-chief-opposes-netanyahus-successor-pick-israeli-press-review",
-      "published_date": "2026-05-12T12:51:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel passes law to publicly try and execute Palestinians linked to 7 October attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/knesset-approves-special-court-try-palestinians-accused-7-october-attack",
-      "published_date": "2026-05-12T10:35:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU agrees to sanctions on Israeli settlers after Hungary’s new government lifts veto",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/eu-agrees-sanctions-israeli-settlers-after-hungarys-new-government-lifts-veto",
-      "published_date": "2026-05-12T10:13:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mass wedding brings brief joy to couples in devastated Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/mass-wedding-brings-brief-joy-to-couples-in-devastated-gaza?traffic_source=rss",
-      "published_date": "2026-05-12T09:55:34+00:00",
       "category": "Local Events"
     }
   ]
