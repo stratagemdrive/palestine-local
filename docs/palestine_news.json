@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-16T11:44:21.483351+00:00",
+  "last_updated": "2026-05-16T23:59:04.251318+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "Taiwan says it is an independent nation after Trump arms sale remarks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/taiwan-says-it-is-an-independent-nation-after-trump-arms-sale-remarks?traffic_source=rss",
+      "published_date": "2026-05-16T20:58:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In response to Trump, Taiwan says it is ‘sovereign and independent’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/in-response-to-trump-taiwan-says-it-is-sovereign-and-independent?traffic_source=rss",
+      "published_date": "2026-05-16T19:44:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spanish Foreign Minister on Spain’s clash with the Trump administration",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/upfront/2026/5/16/spanish-foreign-minister-on-spains-clash-with-the-trump-administration?traffic_source=rss",
+      "published_date": "2026-05-16T18:41:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump officials urged UAE to seize Iranian island, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-officials-urged-uae-seize-iranian-island-report-says",
+      "published_date": "2026-05-16T15:59:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Thomas Massie came to represent Republican dissent in age of Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/how-thomas-massie-came-to-represent-republican-dissent-in-age-of-trump?traffic_source=rss",
+      "published_date": "2026-05-16T15:21:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
       "source": "Al Jazeera",
@@ -109,39 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US says Israel-Lebanon talks extended after ‘highly-productive’ meetings",
+      "title": "Eurovision abandoned its values over Gaza, and lost me as a lifelong fan",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-israel-lebanon-talks-extended-after-highly-productive-meetings",
-      "published_date": "2026-05-15T19:09:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eurovision-abandoned-its-values-over-gaza-and-lost-me-lifelong-fan",
+      "published_date": "2026-05-16T22:38:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says China to buy 200 Boeing planes, much lower than expected",
+      "title": "USS Gerald R Ford returns after longest deployment since Vietnam",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uss-gerald-r-ford-returns-after-longest-deployment-vietnam",
+      "published_date": "2026-05-16T22:20:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two presidential campaign staffers killed in Colombia as elections near",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/15/trump-says-china-to-buy-200-boeing-planes-much-lower-than-expected?traffic_source=rss",
-      "published_date": "2026-05-15T18:12:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
+      "published_date": "2026-05-16T21:42:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
+      "title": "World on the cusp of new global order, Iran speaker Ghalibaf says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/world-cusp-new-global-order-iran-speaker-ghalibaf-says",
+      "published_date": "2026-05-16T21:18:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN chief welcomes Lebanon ceasefire extension amid ongoing attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-welcomes-lebanon-ceasefire-extension-amid-ongoing-attacks",
+      "published_date": "2026-05-16T21:03:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bolivian army attempts to clear roads after 11 days of protests",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss",
-      "published_date": "2026-05-15T17:46:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/bolivian-army-attempts-to-clear-roads-after-11-days-of-protests?traffic_source=rss",
+      "published_date": "2026-05-16T20:44:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "European markets fall as Iran war fuel inflation fears",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/european-markets-fall-iran-war-fuel-inflation-fears",
-      "published_date": "2026-05-15T17:28:31+00:00",
-      "category": "Diplomacy"
+      "title": "Thousands protest at Eurovision final as five countries boycott over Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
+      "published_date": "2026-05-16T20:31:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "UAE made failed attempt to get Saudi Arabia, Qatar to jointly attack Iran: Report",
+      "title": "Spanish actor Javier Bardem says ‘narrative changing’ on Gaza and Palestine",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uae-made-failed-attempt-get-saudi-arabia-qatar-jointly-attack-iran-report",
-      "published_date": "2026-05-15T17:26:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/spanish-actor-javier-bardem-says-narrative-changing-gaza-and-palestine",
+      "published_date": "2026-05-16T20:17:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli soldier killed in south Lebanon, military says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-killed-south-lebanon-military-says",
+      "published_date": "2026-05-16T18:59:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Francesca Albanese on Israeli sexual violence suffered by Palestinians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/upfront/2026/5/16/francesca-albanese-on-israeli-sexual-violence-suffered-by-palestinians?traffic_source=rss",
+      "published_date": "2026-05-16T18:46:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes in Lebanon kill 18, wound 124 in 24 hours",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-lebanon-kill-18-wound-124-24-hours",
+      "published_date": "2026-05-16T18:40:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike in Gaza City kills two, wounds three",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-kills-two-wounds-three",
+      "published_date": "2026-05-16T17:31:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes in south Lebanon kill couple, hit multiple towns",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-south-lebanon-kill-couple-hit-multiple-towns",
+      "published_date": "2026-05-16T17:05:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudanese army captures key town near Ethiopian border from RSF",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/sudanese-army-captures-key-town-near-ethiopian-border-from-rsf?traffic_source=rss",
+      "published_date": "2026-05-16T16:35:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
+      "published_date": "2026-05-16T16:02:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Abu-Bilal al-Minuki: ISIL’s shadow commander in West Africa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/abu-bilal-al-minuki-isils-shadow-commander-in-west-africa?traffic_source=rss",
+      "published_date": "2026-05-16T15:58:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas confirms Israel's killing of military leader",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-confirms-israels-killing-leader-military-leader",
+      "published_date": "2026-05-16T15:33:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns of readiness for war and economic costs as US talks falter",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss",
+      "published_date": "2026-05-16T15:33:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel launches air raid on town in southern Lebanon",
@@ -158,130 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israel says it killed Hamas military chief in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-killed-hamas-military-chief-gaza",
-      "published_date": "2026-05-16T10:30:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'There is little which is Jewish about Israel': Haim Bresheeth on antisemitism and Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/there-little-which-jewish-about-israel-haim-bresheeth-antisemitism-and-gaza",
-      "published_date": "2026-05-16T08:37:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gunmen kidnap dozens of students in Nigeria’s Borno State",
+      "title": "Al Jazeera’s exclusive report from the Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss",
-      "published_date": "2026-05-16T07:58:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man killed in great white shark attack in western Australia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss",
-      "published_date": "2026-05-16T07:13:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military orders residents to flee nine Lebanese towns",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-orders-residents-flee-nine-lebanese-towns",
-      "published_date": "2026-05-16T06:56:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Israeli settlers spit towards shrine of Virgin Mary in Jerusalem",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-settlers-spit-towards-shrine-virgin-mary-jerusalem",
-      "published_date": "2026-05-16T06:42:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss",
-      "published_date": "2026-05-16T06:24:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss",
-      "published_date": "2026-05-16T06:16:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian president praises pope’s stance on war with Israel and US",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-president-praises-popes-stance-war-israel-and-us",
-      "published_date": "2026-05-16T06:01:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US charges alleged Kataib Hezbollah figure after arrest in Turkey",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-charges-alleged-kataib-hezbollah-figure-after-arrest-turkey",
-      "published_date": "2026-05-16T05:54:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE pushed GCC to join coordinated war against Iran, bloomberg reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-pushed-gcc-join-coordinated-war-against-iran-bloomberg-reports",
-      "published_date": "2026-05-16T04:05:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN expert condemns Israeli response to sexual abuse allegations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-expert-condemns-israeli-response-sexual-abuse-allegations",
-      "published_date": "2026-05-16T03:53:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel launches deadly air strikes on Gaza City apartment building",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
-      "published_date": "2026-05-16T03:37:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran warns more economic woes for US over ‘war of choice’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
-      "published_date": "2026-05-16T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Araghchi warns Americans will pay economic price for Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-warns-americans-will-pay-economic-price-iran-war",
-      "published_date": "2026-05-15T23:51:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah says it launched 33 attacks on Israeli forces in south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-launched-33-attacks-israeli-forces-south-lebanon",
-      "published_date": "2026-05-15T22:45:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll rises after Israeli strike on Lebanon ambulance centre",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-rises-after-israeli-strike-lebanon-ambulance-centre",
-      "published_date": "2026-05-15T22:24:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes west of Gaza City kill at least seven people",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-west-gaza-city-kill-least-seven-people",
-      "published_date": "2026-05-15T21:29:26+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-05-16T16:59:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "US officials suspect Iran behind cyberattack targeted fuel systems",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Two Tehrans: The parallel lives of a city",
+      "title": "Pakistan, Iran push trade ties during Tehran talks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/two-tehrans-parallel-lives-city",
-      "published_date": "2026-05-10T08:08:12+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-iran-push-trade-ties-during-tehran-talks",
+      "published_date": "2026-05-16T21:48:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss",
+      "published_date": "2026-05-16T21:05:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Explosions heard as mining groups stage antigovernment protest in Bolivia",
@@ -543,18 +557,67 @@
       "category": "Economy"
     },
     {
-      "title": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
-      "published_date": "2026-05-09T16:35:01+00:00",
-      "category": "Economy"
+      "title": "Police detain 43 people as London rallies on Nakba Day",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/police-detain-43-people-london-rallies-nakba-day",
+      "published_date": "2026-05-16T23:54:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Syrian president discusses security with Lebanon PM",
+      "title": "Dog owned by Palestinian family beaten by Israeli settler now stable after severe bleeding",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-president-discusses-security-lebanon-pm",
-      "published_date": "2026-05-09T15:47:42+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dog-beaten-israeli-settler-now-stable-after-severe-bleeding",
+      "published_date": "2026-05-16T21:29:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can new Pakistan-Afghanistan tensions lead to another border clash?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss",
+      "published_date": "2026-05-16T20:00:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strikes in Gaza kill 11, wound more than 60",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-gaza-kill-11-wound-more-60",
+      "published_date": "2026-05-16T19:51:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DRC health minister warns ‘very high’ Ebola lethality rate as toll hits 80",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/drc-health-minister-warns-very-high-ebola-lethality-rate-as-toll-hits-80?traffic_source=rss",
+      "published_date": "2026-05-16T18:35:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers attack shops in Jerusalem’s Old City",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-shops-jerusalems-old-city",
+      "published_date": "2026-05-16T18:25:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands march in central London to mark 78th Nakba anniversary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/thousands-march-in-central-london-to-mark-78th-nakba-anniversary?traffic_source=rss",
+      "published_date": "2026-05-16T18:04:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK ex-health minister says will run to replace Prime Minister Keir Starmer",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/uk-ex-health-minister-says-will-run-to-replace-prime-minister-keir-starmer?traffic_source=rss",
+      "published_date": "2026-05-16T17:32:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'There is little which is Jewish about Israel': Haim Bresheeth on antisemitism and Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/there-little-which-jewish-about-israel-haim-bresheeth-antisemitism-and",
+      "published_date": "2026-05-16T16:44:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thousands to march in parallel Nakba Day and far-right rallies in central London",
@@ -631,69 +694,6 @@
       "source": "+972 Magazine",
       "url": "https://www.972mag.com/jerusalem-flag-march-2026/",
       "published_date": "2026-05-15T17:26:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strikes hit ambulance centre in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-hit-ambulance-centre-southern-lebanon",
-      "published_date": "2026-05-15T17:07:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health officials raise alarm over new Ebola outbreak in DR Congo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/health-officials-raise-alarm-over-new-ebola-outbreak-in-dr-congo?traffic_source=rss",
-      "published_date": "2026-05-15T12:03:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestine Action prisoner with muscular dystrophy says he is forced to 'crawl like a wounded dog'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/palestine-action-prisoner-muscular-dystrophy-says-forced-crawl-like-wounded-dog",
-      "published_date": "2026-05-15T12:00:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Met is favouring Tommy Robinson over the peaceful Nakba marchers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/equating-tommy-robinson-nakba-marchers-met-sends-dangerous-message",
-      "published_date": "2026-05-15T11:58:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How the fall of Starmer will reshape British policy on Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/how-fall-starmer-will-reshape-british-policy-israel",
-      "published_date": "2026-05-15T11:56:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian ambassador Husam Zomlot to run for Fatah's central committee",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-ambassador-husam-zomlot-run-fatahs-central-committee",
-      "published_date": "2026-05-15T11:27:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Israel’s Flag March and the erasure of Palestinians in Jerusalem",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/inside-israels-flag-march-and-erasure-palestinians-jerusalem",
-      "published_date": "2026-05-15T10:40:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Israel’s Flag March and the erasure of Palestinians in Jerusalem",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/inside-israels-flag-march-and-its-erasure-palestinians-jerusalem",
-      "published_date": "2026-05-15T10:28:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian woman forced to demolish her home in occupied Jerusalem",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-woman-forced-demolish-her-home-occupied-jerusalem",
-      "published_date": "2026-05-15T10:09:02+00:00",
       "category": "Local Events"
     }
   ]
