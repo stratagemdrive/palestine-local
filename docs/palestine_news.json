@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-18T00:02:42.299238+00:00",
+  "last_updated": "2026-05-18T14:25:58.823194+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "Iran sends response to US proposal to end war via mediator Pakistan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan-2?traffic_source=rss",
+      "published_date": "2026-05-18T12:44:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French judge to probe complaints against Saudi crown prince over Khashoggi killing",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/french-judge-probe-complaints-against-saudi-crown-prince-over-khashoggis-killing",
+      "published_date": "2026-05-18T11:04:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Video: US calls on G7 to impose US-led sanctions on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
+      "published_date": "2026-05-18T09:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war day 80: Trump issues warning; Tehran ‘ready’ to confront attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
+      "published_date": "2026-05-18T07:24:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US senator says US should ‘hurt’ Iran, destroy infrastructure",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-says-us-should-hurt-iran-destroy-infrastructure",
+      "published_date": "2026-05-18T05:53:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi and Fidan hold talks on regional tensions",
       "source": "Middle East Eye",
@@ -109,179 +144,158 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US Centcom says 78 vessels redirected under Iran blockade",
+      "title": "Baghdad probes drone attack targeting Saudi Arabia",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-78-vessels-redirected-under-iran-blockade",
-      "published_date": "2026-05-17T03:06:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/baghdad-probes-drone-attack-targeting-saudi-arabia",
+      "published_date": "2026-05-18T14:16:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Taiwan says it is an independent nation after Trump arms sale remarks",
+      "title": "Israel raid of Gaza-bound flotilla near Cyprus sparks outrage",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-raid-gaza-bound-flotilla-near-cyprus-sparks-outrage",
+      "published_date": "2026-05-18T13:53:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon’s president says he will do ‘impossible’ to end war with Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-president-says-he-will-do-impossible-end-war-israel",
+      "published_date": "2026-05-18T13:28:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran eyes challenging stock market reopening after lengthy war closure",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/taiwan-says-it-is-an-independent-nation-after-trump-arms-sale-remarks?traffic_source=rss",
-      "published_date": "2026-05-16T20:58:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/5/18/iran-eyes-challenging-stock-market-reopening-after-lengthy-war-closure?traffic_source=rss",
+      "published_date": "2026-05-18T13:03:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "In response to Trump, Taiwan says it is ‘sovereign and independent’",
+      "title": "Israel raid of Gaza-bound flotilla near Cyprus sparks outrage",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-raid-gaza-bound-flotilla-near-cyprus-sparks-outrage",
+      "published_date": "2026-05-18T12:51:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Gulf does not have to choose Iran or Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/in-response-to-trump-taiwan-says-it-is-sovereign-and-independent?traffic_source=rss",
-      "published_date": "2026-05-16T19:44:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/5/18/the-gulf-does-not-have-to-choose-iran-or-israel?traffic_source=rss",
+      "published_date": "2026-05-18T12:49:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spanish Foreign Minister on Spain’s clash with the Trump administration",
+      "title": "Iran's nuclear project is 'unchanged', says senior ex-Israeli intelligence officer",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-nuclear-project-unchanged-says-senior-ex-israeli-intelligence",
+      "published_date": "2026-05-18T12:36:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks across Lebanon kill seven",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-across-lebanon-kill-seven",
+      "published_date": "2026-05-18T12:14:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's foreign ministry: US talks ongoing through Pakistan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-ministry-us-talks-ongoing-through-pakistan",
+      "published_date": "2026-05-18T12:10:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's nuclear project is 'unchanged', says senior ex-Israeli intelligence officer",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/irans-nuclear-project-unchanged-says-senior-ex-israeli-intelligence-officer",
+      "published_date": "2026-05-18T11:50:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC says it struck US-Israeli backed 'terrorist groups' in Iraq",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-struck-us-israeli-backed-terrorist-groups-iraq",
+      "published_date": "2026-05-18T11:20:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone hits Chinese ship off Ukraine before Putin visits Xi Jinping",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/upfront/2026/5/16/spanish-foreign-minister-on-spains-clash-with-the-trump-administration?traffic_source=rss",
-      "published_date": "2026-05-16T18:41:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump officials urged UAE to seize Iranian island, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-officials-urged-uae-seize-iranian-island-report-says",
-      "published_date": "2026-05-16T15:59:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gaza aid flotilla activist reports military vessel near convoy",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-aid-flotilla-activist-reports-military-vessel-near-convoy",
-      "published_date": "2026-05-17T23:43:54+00:00",
+      "url": "https://www.aljazeera.com/news/2026/5/18/russian-drone-hits-chinese-ship-off-ukraine-before-putin-visits-xi-jinping?traffic_source=rss",
+      "published_date": "2026-05-18T10:52:23+00:00",
       "category": "Military"
     },
     {
-      "title": "The release of Global Sumud Flotilla activists must deepen pressure for Palestinian prisoners",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/release-global-sumud-flotilla-activists-must-deepen-pressure-palestinian-prisoners",
-      "published_date": "2026-05-17T23:15:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel expands death penalty regime in the occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-expands-death-penalty-regime-occupied-west-bank",
-      "published_date": "2026-05-17T22:12:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
+      "title": "Israeli forces begin intercepting Gaza-bound aid flotilla near Cyprus",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
-      "published_date": "2026-05-17T20:16:14+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-forces-begin-intercepting-gaza-bound-aid-flotilla-near-cyprus?traffic_source=rss",
+      "published_date": "2026-05-18T10:50:52+00:00",
       "category": "Military"
     },
     {
-      "title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
+      "title": "How war affects civilians for generations",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
-      "published_date": "2026-05-17T19:15:21+00:00",
+      "url": "https://www.aljazeera.com/video/all-hail/2026/5/18/how-war-affects-civilians-for-generations?traffic_source=rss",
+      "published_date": "2026-05-18T09:55:09+00:00",
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia condemns UAE drone strike, backs security measures",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-uae-drone-strike-backs-security-measures",
-      "published_date": "2026-05-17T18:48:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes in south Lebanon kill five, wound several",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-south-lebanon-kill-five-wound-several",
-      "published_date": "2026-05-17T18:32:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraqi farmer killed to hide evidence of two Israeli bases in country: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-farmer-killed-hide-evidence-two-israeli-bases-country-report",
-      "published_date": "2026-05-17T17:40:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudanese army advances in Blue Nile state deepen displacement crisis",
+      "title": "US military carries out more strikes against ISIL fighters in Nigeria",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/sudanese-army-advances-in-blue-nile-state-deepen-displacement-crisis?traffic_source=rss",
-      "published_date": "2026-05-17T17:40:04+00:00",
+      "url": "https://www.aljazeera.com/news/2026/5/18/us-military-carries-out-more-strikes-against-isil-fighters-in-nigeria?traffic_source=rss",
+      "published_date": "2026-05-18T09:39:54+00:00",
       "category": "Military"
     },
     {
-      "title": "Three community kitchen workers among eight killed by Israel in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
-      "published_date": "2026-05-17T16:31:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian civilians get defence training",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
-      "published_date": "2026-05-17T16:08:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE condemns drone strike near nuclear plant as ‘dangerous escalation’",
+      "title": "Israeli forces kill six Palestinians and wound 40 others in Gaza in last 24 hours",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-drone-strike-near-nuclear-plant-dangerous-escalation",
-      "published_date": "2026-05-17T16:01:50+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-six-palestinians-and-wound-40-others-gaza-last-24",
+      "published_date": "2026-05-18T09:24:25+00:00",
       "category": "Military"
     },
     {
-      "title": "Taiwan not to give up ‘free way of life under pressure’: President",
+      "title": "Israel built two military bases in Iraq before war on Iran: New York Times",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/taiwan-not-to-give-up-free-way-of-life-under-pressure-president?traffic_source=rss",
-      "published_date": "2026-05-17T15:37:59+00:00",
+      "url": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
+      "published_date": "2026-05-18T08:57:48+00:00",
       "category": "Military"
     },
     {
-      "title": "France moves to deport prominent Palestinian-Egyptian activist over criticism of Israel",
+      "title": "Israel intercepts Gaza flotilla and arrests activists",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/france-deport-prominent-palestinian-egyptian-activist-over-criticism-Israel",
-      "published_date": "2026-05-17T15:21:58+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-intercepts-gaza-flotilla-and-arrests-activists",
+      "published_date": "2026-05-18T08:54:25+00:00",
       "category": "Military"
     },
     {
-      "title": "Iraqi farmer killed to hide evidence of two Israeli bases: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-farmer-killed-hide-evidence-two-israeli-bases-report",
-      "published_date": "2026-05-17T14:20:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant",
+      "title": "Israeli forces storm Gaza-bound aid flotilla off Cyprus",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
-      "published_date": "2026-05-17T14:07:07+00:00",
+      "url": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss",
+      "published_date": "2026-05-18T08:23:22+00:00",
       "category": "Military"
     },
     {
-      "title": "How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?",
+      "title": "Mali drone strikes kill at least 10 civilians at wedding",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss",
-      "published_date": "2026-05-17T13:41:32+00:00",
+      "url": "https://www.aljazeera.com/news/2026/5/18/mali-drone-strikes-kill-at-least-10-civilians-at-wedding?traffic_source=rss",
+      "published_date": "2026-05-18T07:51:58+00:00",
       "category": "Military"
     },
     {
-      "title": "Iraqi farmer killed to hide evidence of two Israeli bases in country: Report",
+      "title": "Israel advances plan to seize Palestinian property near Al-Aqsa Mosque",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iraqi-farmer-killed-hide-evidence-two-israeli-bases-country",
-      "published_date": "2026-05-17T13:33:16+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/israel-advances-plan-seize-palestinian-property-near-al-aqsa-mosque",
+      "published_date": "2026-05-18T10:47:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Four Israeli soldiers injured in southern Lebanon blast",
+      "title": "Wall Street Journal warns of rising US fuel prices amid export surge",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-israeli-soldiers-injured-southern-lebanon-blast",
-      "published_date": "2026-05-17T13:26:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The strike that changed the geometry of war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss",
-      "published_date": "2026-05-17T10:13:52+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wall-street-journal-warns-rising-us-fuel-prices-amid-export-surge",
+      "published_date": "2026-05-18T06:25:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Drone strike causes fire at Abu Dhabi nuclear power plant",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Iran war effect: Why is Modi asking Indians to avoid foreign trips, gold?",
+      "title": "Ebola, hantavirus: Is the world prepared for the next pandemic?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold?traffic_source=rss",
-      "published_date": "2026-05-11T14:30:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "War on Iran: Senior royal says Saudi Arabia avoided Israeli plan to 'plunge region into ruin'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/senior-royal-says-saudi-avoided-israeli-plan-plunge-region-ruin-and-destruction",
-      "published_date": "2026-05-11T11:26:19+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/18/ebola-hantavirus-is-the-world-prepared-for-the-next-pandemic?traffic_source=rss",
+      "published_date": "2026-05-18T13:11:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "US college graduates face harsh job market amid economic uncertainty",
@@ -550,11 +557,46 @@
       "category": "Economy"
     },
     {
-      "title": "EU agrees to restore full trade ties with Syria",
+      "title": "'We have to remove Islam': Social media reacts to racist speeches at Unite the Kingdom rally",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/trending/we-have-remove-islam-social-media-reacts-racist-speeches-unite-kingdom-rally",
+      "published_date": "2026-05-18T14:25:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel to build military 'museum' on ruins of Unrwa HQ in Jerusalem",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-build-military-museum-ruins-unrwa-hq-jerusalem",
+      "published_date": "2026-05-18T12:24:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DRC health minister visits hotspot for Ebola outbreak",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-to-restore-full-trade-ties-with-syria?traffic_source=rss",
-      "published_date": "2026-05-11T11:59:06+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/drc-health-minister-visits-hotspot-for-ebola-outbreak?traffic_source=rss",
+      "published_date": "2026-05-18T12:22:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migrants ‘feared for their lives’ as Libyan gunmen fired on rescue ship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/libyan-gunmen-open-fire-on-rescue-ship?traffic_source=rss",
+      "published_date": "2026-05-18T10:45:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hantavirus-hit cruise ship docks in the Netherlands",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/hantavirus-hit-cruise-ship-docks-in-the-netherlands?traffic_source=rss",
+      "published_date": "2026-05-18T10:01:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers run over livestock in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-05-18T09:09:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palestinian ministry condemns Israeli property seizure plan near Al-Aqsa",
@@ -652,48 +694,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/thousands-march-in-central-london-to-mark-78th-nakba-anniversary?traffic_source=rss",
       "published_date": "2026-05-16T18:04:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK ex-health minister says will run to replace Prime Minister Keir Starmer",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/uk-ex-health-minister-says-will-run-to-replace-prime-minister-keir-starmer?traffic_source=rss",
-      "published_date": "2026-05-16T17:32:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'There is little which is Jewish about Israel': Haim Bresheeth on antisemitism and Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/there-little-which-jewish-about-israel-haim-bresheeth-antisemitism-and",
-      "published_date": "2026-05-16T16:44:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands to march in parallel Nakba Day and far-right rallies in central London",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/thousands-march-parallel-nakba-day-and-far-right-protests-central-london",
-      "published_date": "2026-05-16T11:43:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-05-16T09:37:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From the Nakba to Gaza’s ruins: One man’s lifetime of displacement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss",
-      "published_date": "2026-05-16T09:05:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LGBTQ campaigners denounce Eurovision 'pinkwashing' ahead of final",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/queer-campaigners-denounce-israeli-pinkwashing-eurovision-ahead-final",
-      "published_date": "2026-05-16T08:15:50+00:00",
       "category": "Local Events"
     }
   ]
