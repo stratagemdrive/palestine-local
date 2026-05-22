@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-21T13:58:36.516818+00:00",
+  "last_updated": "2026-05-22T00:09:44.896029+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss",
+      "published_date": "2026-05-22T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US says it has not changed its stance on sanctioning Francesca Albanese",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss",
+      "published_date": "2026-05-21T23:39:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US sanctions 9 Lebanese figures over Hezbollah disarmament dispute",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-9-lebanese-figures-over-hezbollah-disarmament-dispute",
+      "published_date": "2026-05-21T21:41:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
+      "published_date": "2026-05-21T21:10:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
+      "published_date": "2026-05-21T20:09:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Five key takeaways from Democrats’ autopsy report on Kamala Harris’s loss",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss",
+      "published_date": "2026-05-21T19:14:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump shifts between diplomacy and threats in Iran standoff",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss",
+      "published_date": "2026-05-21T19:11:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/top-un-court-rules-workers-right-to-strike-protected-in-key-treaty?traffic_source=rss",
+      "published_date": "2026-05-21T17:05:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What’s Trump’s ‘anti-weaponisation fund’ and why are legal experts alarmed?",
       "source": "Al Jazeera",
@@ -88,199 +144,143 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kite carrying Palestinian children’s messages reaches Mount Everest summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/21/kite-carrying-palestinian-childrens-messages-reaches-mount-everest-summit?traffic_source=rss",
-      "published_date": "2026-05-21T09:49:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Iron brothers’: How China and Pakistan built an unlikely 75-year bond",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/21/iron-brothers-how-china-and-pakistan-built-an-unlikely-75-year-bond?traffic_source=rss",
-      "published_date": "2026-05-21T09:26:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Australia condemns Israel for 'degrading' treatment of detained Gaza-bound flotilla activists",
+      "title": "US used more missile interceptors defending Israel than its own forces did: Report",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/australia-condemns-israel-shocking-treatment-detained-gaza-bound",
-      "published_date": "2026-05-20T23:54:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-used-more-missile-interceptors-defending-israel-its-own-forces-did",
+      "published_date": "2026-05-22T00:02:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "US police officers sue Trump over $1.8bn ‘anti-weaponisation’ fund",
+      "title": "Maritime body says threat level in Hormuz Strait 'critical'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/maritime-body-says-threat-level-hormuz-strait-critical",
+      "published_date": "2026-05-21T23:43:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/us-police-officers-sue-trump-over-1-8bn-anti-weaponisation-fund?traffic_source=rss",
-      "published_date": "2026-05-20T23:32:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack?traffic_source=rss",
+      "published_date": "2026-05-21T23:14:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "US lifts sanctions on UN expert Francesca Albanese",
+      "title": "Hezbollah says it carried out 16 attacks on Israeli troops in south Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lifts-sanctions-un-expert-francesca-albanese",
-      "published_date": "2026-05-20T22:57:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-carried-out-16-attacks-israeli-troops-south-lebanon",
+      "published_date": "2026-05-21T22:59:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "US pushes for greater energy exports to India after Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-pushes-greater-energy-exports-india-after-iran-war",
-      "published_date": "2026-05-20T22:23:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says Iran talks in 'final stages' to end war, as Tehran weighs proposal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-says-iran-talks-final-stages-end-war-tehran-weighs-proposal",
-      "published_date": "2026-05-20T20:31:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What’s the significance of the Russian president’s visit to China?",
+      "title": "At least 16 people killed in two attacks in northern Honduras",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss",
-      "published_date": "2026-05-20T19:29:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/21/at-least-16-people-killed-in-two-attacks-in-northern-honduras?traffic_source=rss",
+      "published_date": "2026-05-21T22:46:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US used half its missile interceptors defending Israel: Washington Post",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-used-half-its-missile-interceptors-defending-israel-washington-post",
+      "published_date": "2026-05-21T22:43:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli artillery hits area near orphanage in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-artillery-hits-area-near-orphanage-southern-lebanon",
+      "published_date": "2026-05-21T21:20:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US used more missile interceptors defending Israel than its own forces did: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-used-more-its-missile-interceptors-defending-israel-than-its-own-forces-did",
+      "published_date": "2026-05-21T21:14:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah launches new drone attacks on Israeli forces in south Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-launches-new-drone-attacks-israeli-forces-south-lebanon",
+      "published_date": "2026-05-21T20:48:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mexico cuts interest rate as Iran war fuels inflation concerns",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mexico-cuts-interest-rate-iran-war-fuels-inflation-concerns",
+      "published_date": "2026-05-21T20:04:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US opposition to Iran war rises as economic concerns grow",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-opposition-iran-war-rises-economic-concerns-grow",
+      "published_date": "2026-05-21T19:41:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Amnesty dismisses Netanyahu claim that flotilla abuse was an 'exception' outside Israel’s 'norms'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/amnesty-dismisses-netanyahu-claim-flotilla-abuse-outside-israel-norms",
+      "published_date": "2026-05-21T19:17:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss",
+      "published_date": "2026-05-21T19:01:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese army says talks with Israel in line with ‘national principles’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-says-talks-israel-line-national-principles",
+      "published_date": "2026-05-21T18:56:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio questions Spain’s NATO role over refusal to host US operations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-questions-spains-nato-role-over-refusal-host-us-operations",
+      "published_date": "2026-05-21T18:33:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss",
+      "published_date": "2026-05-21T18:05:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Displaced Lebanese woman bakes 3,000 loaves daily for war-hit community",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/displaced-lebanese-woman-bakes-3000-loaves-daily-for-war-hit-community?traffic_source=rss",
+      "published_date": "2026-05-21T18:04:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drone attack kills woman in central Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-attack-kills-woman-central-gaza",
+      "published_date": "2026-05-21T17:48:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s death penalty drive enters next stage with Oct. 7 military tribunal",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/israel-death-penalty-military-tribunal/",
+      "published_date": "2026-05-21T15:39:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade?traffic_source=rss",
       "published_date": "2026-05-21T13:31:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Palantir is becoming embedded in major newsroom operations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/how-palantir-becoming-embedded-major-newsroom-operations",
-      "published_date": "2026-05-21T12:38:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Looting and destruction are Israeli army’s ‘primary mission’ in Lebanon, soldiers say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/looting-and-destruction-are-israeli-armys-primary-mission-lebanon",
-      "published_date": "2026-05-21T12:10:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza sisters win Earth Prize for turning war rubble into bricks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/gaza-sisters-win-earth-prize-for-turning-war-rubble-into-bricks?traffic_source=rss",
-      "published_date": "2026-05-21T12:05:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian press review: State TV airs weapons training",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-press-review-state-tv-airs-weapons-training",
-      "published_date": "2026-05-21T11:33:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian press review: State TV airs weapons training",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iranian-press-review-state-tv-airs-weapons-training",
-      "published_date": "2026-05-21T11:22:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK summons Israeli diplomat over video of Gaza flotilla activists",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-summons-israeli-diplomat-over-video-israeli-minister-gaza-flotilla",
-      "published_date": "2026-05-21T11:14:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada is using its borders to police Palestine solidarity",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/21/canada-is-using-its-borders-to-police-palestine-solidarity?traffic_source=rss",
-      "published_date": "2026-05-21T11:02:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Homeland or death’: How Cuba would defend itself against a US attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/21/homeland-or-death-how-cuba-would-defend-itself-against-a-us-attack?traffic_source=rss",
-      "published_date": "2026-05-21T10:04:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Palantir is becoming embedded in major newsroom operations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-palantir-becoming-embedded-major-newsroom-operations",
-      "published_date": "2026-05-21T09:57:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What options do the US and Iran have left to bring war to an end?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/what-options-do-the-us-and-iran-have-left-to-bring-war-to-an-end?traffic_source=rss",
-      "published_date": "2026-05-21T09:54:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE official slams Iran's Hormuz control plan as 'pipe dream'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-official-slams-irans-hormuz-control-plan-pipe-dream",
-      "published_date": "2026-05-21T09:47:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran reviews US proposal to end war as Pakistan steps up mediation efforts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/iran-reviews-us-proposal-to-end-war-as-pakistan-steps-up-mediation-efforts?traffic_source=rss",
-      "published_date": "2026-05-21T09:26:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Looting and destruction are Israeli army’s ‘primary mission’ in Lebanon, soldiers say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/looting-and-destruction-are-israeli-armys-primary-mission-lebanon-soldiers-say",
-      "published_date": "2026-05-21T09:09:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran 'responding to a text sent by the US', report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-responding-text-sent-us-report-says",
-      "published_date": "2026-05-21T09:00:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air strikes target eight towns in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-airstrikes-target-8-towns-southern-lebanon",
-      "published_date": "2026-05-20T21:49:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll in Gaza surpasses 881 since 'ceasefire'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-gaza-surpasses-881-ceasefire",
-      "published_date": "2026-05-20T20:44:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian stock market reopens after nearly a three-month shutdown",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-stock-market-reopens-after-nearly-three-month-shutdown",
-      "published_date": "2026-05-20T20:13:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump administration charges Cuba's Raul Castro with murder",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-administration-charges-cubas-castro-murder",
-      "published_date": "2026-05-20T19:53:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike in south Lebanon wounds three people",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-south-lebanon-wounds-three-people",
-      "published_date": "2026-05-20T19:45:22+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "France unveils new $822m fuel support measures amid Iran war fallout",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-unveils-new-822m-fuel-support-measures-amid-iran-war-fallout",
+      "published_date": "2026-05-21T22:02:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkey liquidates nearly all US Treasuries as Iran war bites economy: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/turkey-liquidates-nearly-all-us-treasuries-iran-war-bites-economy-report",
+      "published_date": "2026-05-21T19:11:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lebanon economy could shrink by up to 10 percent amid war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-economy-could-shrink-10-amid-war",
+      "published_date": "2026-05-21T18:09:38+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Activists take part in a land convoy from Libya to bring aid to Gaza",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/activists-take-part-in-a-land-convoy-from-libya-to-bring-aid-to-gaza?traffic_source=rss",
@@ -543,25 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Explosions heard as mining groups stage antigovernment protest in Bolivia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss",
-      "published_date": "2026-05-14T23:28:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Cuba’s Diaz-Canel open to US aid amid worsening fuel crisis, blackouts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss",
-      "published_date": "2026-05-14T22:30:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "IMF warns of 'worst-case scenario' economic impact from Iran war",
+      "title": "UN says Gaza healthcare system near collapse under Israeli siege",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-warns-worst-case-scenario-economic-impact-iran-war",
-      "published_date": "2026-05-14T19:00:14+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-gaza-healthcare-system-near-collapse-under-israeli-siege",
+      "published_date": "2026-05-21T22:19:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leading NGOs slam 'Board of Peace' for 'failing' to deliver Gaza aid pledges",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/leading-ngos-slam-board-of-peace-for-failure-deliver-gaza-pledges",
+      "published_date": "2026-05-21T20:49:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola treatment hospital burned down in DRC as outbreak spreads",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss",
+      "published_date": "2026-05-21T20:48:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strike on hospital wounds nine in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-hospital-wounds-9-lebanon",
+      "published_date": "2026-05-21T20:25:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK launches ‘Great British Summer Savings’ to ease family costs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/uk-launches-great-british-summer-savings-to-ease-family-costs?traffic_source=rss",
+      "published_date": "2026-05-21T18:29:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel revokes permits for dozens of Al-Aqsa Mosque staff",
@@ -666,41 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/israeli-settler-filmed-throwing-block-cats-days-after-clubbing-dog",
       "published_date": "2026-05-19T12:15:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flotilla activists say Gaza-bound ships still sailing, while UN warns humanitarian situation remains dire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/activists-say-gaza-bound-flotilla-ships-still-sailing-towards-gaza-un-warns-dire-humanitarian",
-      "published_date": "2026-05-19T11:32:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran squad in race against time for World Cup readiness amid US-Israel war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
-      "published_date": "2026-05-19T10:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunmen abduct 39 students, 7 teachers in attacks on Nigeria schools",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/gunmen-abduct-39-students-7-teachers-in-attacks-on-nigeria-schools?traffic_source=rss",
-      "published_date": "2026-05-19T07:58:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: At least three dead in attack at San Diego mosque",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/dead-attack-mosque-san-diego-mosque",
-      "published_date": "2026-05-18T20:48:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We have to remove Islam': Social media reacts to racist speeches at Unite the Kingdom rally",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/we-have-remove-islam-social-media-reacts-racist-speeches-unite-kingdom-rally",
-      "published_date": "2026-05-18T14:25:10+00:00",
       "category": "Local Events"
     }
   ]
