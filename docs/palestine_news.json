@@ -1,8 +1,57 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-22T00:09:44.896029+00:00",
+  "last_updated": "2026-05-22T13:25:34.106737+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iranian officials report progress in talks with US",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-officials-report-progress-talks-us",
+      "published_date": "2026-05-22T13:12:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon’s talks with Israel test fragile relationship with Syria",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-talks-israel-test-fragile-relationship-syria",
+      "published_date": "2026-05-22T11:49:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon’s talks with Israel test fragile relationship with Syria",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/lebanons-talks-israel-test-fragile-new-relationship-syria",
+      "published_date": "2026-05-22T11:44:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "British climber sets record with 20th Everest summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/british-climber-sets-record-with-20th-everest-summit?traffic_source=rss",
+      "published_date": "2026-05-22T11:30:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UAE official says there is '50-50' chance of US-Iran agreement on Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-official-says-50-50-chance-us-iran-agreement-hormuz-strait",
+      "published_date": "2026-05-22T10:31:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato alliance has to be good for all involved, Rubio says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nato-alliance-has-be-good-all-involved-rubio-says",
+      "published_date": "2026-05-22T09:49:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/us-deepens-european-uncertainty-with-deployment-of-5000-troops-to-poland?traffic_source=rss",
+      "published_date": "2026-05-22T08:51:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
       "source": "Al Jazeera",
@@ -95,53 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Countries condemn Israeli minister's treatment of Gaza flotilla activists",
+      "title": "Hezbollah strikes Israeli military targets in Southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/countries-condemn-israeli-ministers-treatment-gaza-flotilla-activists",
-      "published_date": "2026-05-21T11:50:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-strikes-israeli-military-targets-southern-lebanon",
+      "published_date": "2026-05-22T13:06:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Poland's foreign minister requests ban on Israel's Ben Gvir entering country",
+      "title": "Only 30 percent of projected number of trucks entered Gaza this week",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/polands-foreign-minister-requests-ban-israels-ben-gvir-entering-country",
-      "published_date": "2026-05-21T11:05:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/only-30-projected-number-trucks-entered-gaza-week",
+      "published_date": "2026-05-22T12:43:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "US threatens to revoke Palestinian UN ambassador's visa, report says",
+      "title": "Lebanese Health Ministry: Israeli strikes have killed 3089 since 2 March",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-threatens-revoke-palestinian-un-ambassadors-visa-report-says",
-      "published_date": "2026-05-21T10:54:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-health-ministry-israeli-strikes-have-killed-3089-2-march",
+      "published_date": "2026-05-22T12:36:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran's supreme leader says enriched uranium must stay in the country, sources say",
+      "title": "Sadiq Khan cancels Met police Palantir contract, with pressure to end all links to AI firm",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/supreme-leader-says-enriched-uranium-must-stay-iran-iranian-sources-say",
-      "published_date": "2026-05-21T10:47:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/sadiq-khan-and-metropolitan-police-pushed-cancel-all-palantir-contracts",
+      "published_date": "2026-05-22T12:00:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia says Iran crisis resolvable only by diplomacy taking account of Iranian interests",
+      "title": "Deported flotilla activists allege 'sadistic' sexual abuse and torture in Israeli captivity",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-says-iran-crisis-resolvable-only-diplomacy-taking-account-iranian",
-      "published_date": "2026-05-21T10:34:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/deported-flotilla-activists-allege-sadistic-sexual-abuse-and-torture",
+      "published_date": "2026-05-22T10:52:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "US Treasury lifts sanctions against UN rapporteur on Palestine Francesca Albanese",
+      "title": "Deported flotilla activists allege 'sadistic' sexual abuse and torture in Israeli captivity",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-lifts-sanctions-against-un-rapporteur-francesca-albanese",
-      "published_date": "2026-05-21T10:19:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/sadistic-deported-flotilla-activists-allege-sexual-abuse-and-torture-israeli-custody",
+      "published_date": "2026-05-22T10:19:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Philippines orders arrest of fugitive senator wanted by ICC",
+      "title": "French commission advises against deporting Egyptian-Palestinian activist",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-commission-advises-against-deporting-egyptian-palestinian",
+      "published_date": "2026-05-22T10:10:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE’s Gargash says Iranian control of Strait of Hormuz would set serious precedent",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uaes-gargash-says-iranian-control-strait-hormuz-would-set-serious",
+      "published_date": "2026-05-22T10:07:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "America's Middle East: How Washington brought ruin to the region",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/discover/book-review-americas-middle-east-marc-lynch",
+      "published_date": "2026-05-22T09:55:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French commission advises against deporting Egyptian-Palestinian activist",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/french-court-advises-against-deporting-egyptian-palestinian-activist",
+      "published_date": "2026-05-22T09:50:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US raises threat of military action against Cuba",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/philippines-orders-arrest-of-fugitive-senator-wanted-by-icc?traffic_source=rss",
-      "published_date": "2026-05-21T10:16:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss",
+      "published_date": "2026-05-22T07:22:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 84: US-Iran talks advance amid mediation push",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss",
+      "published_date": "2026-05-22T06:55:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands attend funeral prayers for San Diego mosque attack victims",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-attend-funeral-prayers-for-san-diego-mosque-attack-victims?traffic_source=rss",
+      "published_date": "2026-05-22T04:58:04+00:00",
+      "category": "Military"
     },
     {
       "title": "US used more missile interceptors defending Israel than its own forces did: Report",
@@ -193,95 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "US used more missile interceptors defending Israel than its own forces did: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-used-more-its-missile-interceptors-defending-israel-than-its-own-forces-did",
-      "published_date": "2026-05-21T21:14:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah launches new drone attacks on Israeli forces in south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-launches-new-drone-attacks-israeli-forces-south-lebanon",
-      "published_date": "2026-05-21T20:48:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mexico cuts interest rate as Iran war fuels inflation concerns",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mexico-cuts-interest-rate-iran-war-fuels-inflation-concerns",
-      "published_date": "2026-05-21T20:04:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US opposition to Iran war rises as economic concerns grow",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-opposition-iran-war-rises-economic-concerns-grow",
-      "published_date": "2026-05-21T19:41:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amnesty dismisses Netanyahu claim that flotilla abuse was an 'exception' outside Israel’s 'norms'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/amnesty-dismisses-netanyahu-claim-flotilla-abuse-outside-israel-norms",
-      "published_date": "2026-05-21T19:17:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
+      "title": "India is being left to die in the heat",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss",
-      "published_date": "2026-05-21T19:01:24+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/5/22/india-is-being-left-to-die-in-the-heat?traffic_source=rss",
+      "published_date": "2026-05-22T12:19:13+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Lebanese army says talks with Israel in line with ‘national principles’",
+      "title": "Iran says 35 ships passed Hormuz with permission in last 24 hours",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-says-talks-israel-line-national-principles",
-      "published_date": "2026-05-21T18:56:18+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-35-ships-passed-hormuz-permission-last-24-hours",
+      "published_date": "2026-05-22T11:12:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Rubio questions Spain’s NATO role over refusal to host US operations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-questions-spains-nato-role-over-refusal-host-us-operations",
-      "published_date": "2026-05-21T18:33:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
+      "title": "Can Venezuelan oil save India amid the Hormuz energy crisis?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss",
-      "published_date": "2026-05-21T18:05:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Displaced Lebanese woman bakes 3,000 loaves daily for war-hit community",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/displaced-lebanese-woman-bakes-3000-loaves-daily-for-war-hit-community?traffic_source=rss",
-      "published_date": "2026-05-21T18:04:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone attack kills woman in central Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-attack-kills-woman-central-gaza",
-      "published_date": "2026-05-21T17:48:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s death penalty drive enters next stage with Oct. 7 military tribunal",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/israel-death-penalty-military-tribunal/",
-      "published_date": "2026-05-21T15:39:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade?traffic_source=rss",
-      "published_date": "2026-05-21T13:31:11+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss",
+      "published_date": "2026-05-22T11:11:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Controlled reopening ends Iran’s lengthy stock market shutdown",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Cuba hit by protests, blackouts amid oil shortage",
+      "title": "Russia ‘looking for new soldiers’; Kyiv claims 83,000 dead so far in 2026",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cuba-hit-by-protests-blackouts-amid-oil-shortage?traffic_source=rss",
-      "published_date": "2026-05-15T20:40:34+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/22/russia-falters-in-ukraine?traffic_source=rss",
+      "published_date": "2026-05-22T12:46:27+00:00",
+      "category": "Economy"
     },
     {
-      "title": "India raises fuel export duties amid US-Israeli war on Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/india-raises-fuel-export-duties-amid-us-israeli-war-iran",
-      "published_date": "2026-05-15T19:44:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UAE building pipeline to double oil exports that can bypass Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uae-building-pipeline-double-oil-exports-can-bypass-hormuz",
-      "published_date": "2026-05-15T19:13:29+00:00",
-      "category": "Energy"
+      "title": "Lebanon’s economy struggles under renewed war and global fuel crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/22/lebanons-economy-struggles-under-renewed-war-and-global-fuel-crisis?traffic_source=rss",
+      "published_date": "2026-05-22T08:49:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "France unveils new $822m fuel support measures amid Iran war fallout",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan, Iran push trade ties during Tehran talks",
+      "title": "Palestinian Health Minister warns of collapse of healthcare system",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-iran-push-trade-ties-during-tehran-talks",
-      "published_date": "2026-05-16T21:48:12+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-health-minister-warns-collapse-healthcare-system",
+      "published_date": "2026-05-22T13:00:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss",
-      "published_date": "2026-05-16T21:05:10+00:00",
-      "category": "Economy"
+      "title": "'The mosque always felt like a safe space': San Diego's Muslims reel after deadly shooting",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/san-diego-muslim-community-reels-after-deadly-shooting",
+      "published_date": "2026-05-22T12:55:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "America's Middle East: How Washington brought ruin to the region",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/americas-middle-east-how-washington-brought-ruin-region",
+      "published_date": "2026-05-22T11:16:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UN says Gaza healthcare system near collapse under Israeli siege",
@@ -680,27 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/thousands-palestinian-patients-remain-stranded-gaza-awaiting-treatment",
       "published_date": "2026-05-19T19:50:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DRC prepares Ebola treatment centres as death toll rises",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/drc-prepares-ebola-treatment-centres-as-death-toll-rises?traffic_source=rss",
-      "published_date": "2026-05-19T18:38:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's Bezalel Smotrich says ICC arrest warrant request is 'declaration of war'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-bezalel-smotrich-says-icc-arrest-warrant-request-declaration-war",
-      "published_date": "2026-05-19T12:37:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settler filmed throwing concrete block at cats days after dog beating",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-settler-filmed-throwing-block-cats-days-after-clubbing-dog",
-      "published_date": "2026-05-19T12:15:26+00:00",
       "category": "Local Events"
     }
   ]
