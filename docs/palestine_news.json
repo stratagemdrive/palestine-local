@@ -1,8 +1,78 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-23T00:12:02.795661+00:00",
-  "story_count": 100,
+  "last_updated": "2026-05-23T11:55:29.581611+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Senegal’s President Faye sacks PM Sonko and dissolves government",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/senegals-president-faye-sacks-pm-sonko-and-dissolves-government?traffic_source=rss",
+      "published_date": "2026-05-23T10:35:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss",
+      "published_date": "2026-05-23T09:26:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran accuses US of ‘excessive demands’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-us-excessive-demands",
+      "published_date": "2026-05-23T08:30:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
+      "published_date": "2026-05-23T08:16:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
+      "published_date": "2026-05-23T07:56:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gulf states must compensate Iran for war damages, envoy tells UN",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-states-must-compensate-iran-war-damages-envoy-tells-un",
+      "published_date": "2026-05-23T06:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "There’s been 'some progress' on Iran talks, Rubio says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/theres-been-some-progress-iran-talks-rubio-says",
+      "published_date": "2026-05-23T06:31:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says respecting its rights is key to ending conflict",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-respecting-its-rights-key-ending-conflict",
+      "published_date": "2026-05-23T06:26:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump releases new batch of previously classified UFO files",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/trump-releases-new-batch-of-previously-classified-ufo-files?traffic_source=rss",
+      "published_date": "2026-05-23T05:33:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian foreign minister meets Pakistan army chief in Tehran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-meets-pakistan-army-chief-tehran",
+      "published_date": "2026-05-23T04:56:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar and Saudi Arabia back de-escalation efforts in Iran-US negotiations",
       "source": "Middle East Eye",
@@ -74,74 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran says Pakistani mediation marks ‘turning point’ in US talks",
+      "title": "Israeli strike kills five Gaza police officers",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-pakistani-mediation-marks-turning-point-us-talks",
-      "published_date": "2026-05-22T18:39:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-five-gaza-police-officers",
+      "published_date": "2026-05-23T11:32:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says US talks remain far from deal as gaps stay ‘deep and significant’",
+      "title": "Iran's top negotiator says Tehran will not compromise on its rights",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-talks-remain-far-deal-gaps-stay-deep-and-significant",
-      "published_date": "2026-05-22T18:08:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-top-negotiator-says-tehran-will-not-compromise-its-rights",
+      "published_date": "2026-05-23T11:06:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatari delegation holds talks in Tehran as Pakistan mediates Iran negotiations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-delegation-holds-talks-tehran-pakistan-mediates-iran-negotiations",
-      "published_date": "2026-05-22T17:52:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tulsi Gabbard resigns as Trump’s top US intelligence official",
+      "title": "China coal mine blast kills at least 90, leaves nine missing",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/tulsi-gabbard-resigns-as-trumps-top-us-intelligence-official?traffic_source=rss",
-      "published_date": "2026-05-22T17:34:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/china-coal-mine-blast-kills-at-least-90-leaves-nine-missing?traffic_source=rss",
+      "published_date": "2026-05-23T10:59:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranian officials report progress in talks with US",
+      "title": "UKMTO says it received reports of suspicious activity within the Gulf of Aden",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-officials-report-progress-talks-us",
-      "published_date": "2026-05-22T13:12:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-it-received-reports-suspicious-activity-within-gulf-aden",
+      "published_date": "2026-05-23T10:26:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon’s talks with Israel test fragile relationship with Syria",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-talks-israel-test-fragile-relationship-syria",
-      "published_date": "2026-05-22T11:49:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanon’s talks with Israel test fragile relationship with Syria",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/lebanons-talks-israel-test-fragile-new-relationship-syria",
-      "published_date": "2026-05-22T11:44:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "British climber sets record with 20th Everest summit",
+      "title": "Missiles to munitions: Does the US risk running out of key weapons?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/british-climber-sets-record-with-20th-everest-summit?traffic_source=rss",
-      "published_date": "2026-05-22T11:30:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss",
+      "published_date": "2026-05-23T09:22:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "UAE official says there is '50-50' chance of US-Iran agreement on Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-official-says-50-50-chance-us-iran-agreement-hormuz-strait",
-      "published_date": "2026-05-22T10:31:59+00:00",
-      "category": "Diplomacy"
+      "title": "Failing chemical tank forces thousands to evacuate in Southern California",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/failing-chemical-tank-forces-thousands-to-evacuate-in-southern-california?traffic_source=rss",
+      "published_date": "2026-05-23T08:24:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nato alliance has to be good for all involved, Rubio says",
+      "title": "Morning update",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nato-alliance-has-be-good-all-involved-rubio-says",
-      "published_date": "2026-05-22T09:49:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-501",
+      "published_date": "2026-05-23T07:02:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gas explosion at Chinese coal mine kills at least 90",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
+      "published_date": "2026-05-23T06:57:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 85: Tehran says major gaps remain in US talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
+      "published_date": "2026-05-23T06:51:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces attack central Gaza despite ceasefire agreement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
+      "published_date": "2026-05-23T06:40:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Air raid sirens sound in northern Israel over suspected drone intrusion",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-raid-sirens-sound-northern-israel-over-suspected-drone-intrusion",
+      "published_date": "2026-05-23T06:17:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: Flotilla activist alleges torture and sexual abuse in Israeli detention",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-flotilla-activist-alleges-torture-and-sexual-abuse-israeli",
+      "published_date": "2026-05-23T05:54:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US lawmaker calls for vote to end US role in Lebanon war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmaker-calls-vote-end-us-role-lebanon-war",
+      "published_date": "2026-05-23T04:46:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza flotilla activists allege physical and sexual abuse in Israeli custody",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-flotilla-activists-allege-physical-and-sexual-abuse-israeli-custody",
+      "published_date": "2026-05-23T04:04:31+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel kills at least ten people Lebanon throughout Saturday",
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks?traffic_source=rss",
-      "published_date": "2026-05-22T19:11:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Displaced Lebanese amputee asks ‘where am I supposed to go’?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/displaced-lebanese-amputee-asks-where-am-i-supposed-to?traffic_source=rss",
-      "published_date": "2026-05-22T19:09:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘I always hear them before I see them’: Drones strike fear in Colombia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/5/22/i-always-hear-them-before-i-see-them-drones-strike-fear-in-colombia?traffic_source=rss",
-      "published_date": "2026-05-22T18:49:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s October 7 tribunal: Show trial of Palestinians or justice?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/israel-october-7-tribunal-show-trial-palestinians?traffic_source=rss",
-      "published_date": "2026-05-22T18:04:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "World Central Kitchen halves Gaza meals as Iran war drives up costs",
+      "title": "Tanker carrying Saudi crude set to arrive in Japan",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/world-central-kitchen-halves-gaza-meals-iran-war-drives-costs",
-      "published_date": "2026-05-22T17:23:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza flotilla activists allege abuse, sexual assault in Israeli detention",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/gaza-flotilla-activists-allege-abuse-sexual-assault-in-israeli-detention?traffic_source=rss",
-      "published_date": "2026-05-22T17:12:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video shows Israeli strike on Lebanese child and paramedics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/video-shows-israeli-strike-on-lebanese-child-and-paramedics?traffic_source=rss",
-      "published_date": "2026-05-22T17:04:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah strikes Israeli military targets in Southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-strikes-israeli-military-targets-southern-lebanon",
-      "published_date": "2026-05-22T13:06:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Only 30 percent of projected number of trucks entered Gaza this week",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/only-30-projected-number-trucks-entered-gaza-week",
-      "published_date": "2026-05-22T12:43:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese Health Ministry: Israeli strikes have killed 3089 since 2 March",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-health-ministry-israeli-strikes-have-killed-3089-2-march",
-      "published_date": "2026-05-22T12:36:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sadiq Khan cancels Met police Palantir contract, with pressure to end all links to AI firm",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/sadiq-khan-and-metropolitan-police-pushed-cancel-all-palantir-contracts",
-      "published_date": "2026-05-22T12:00:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deported flotilla activists allege 'sadistic' sexual abuse and torture in Israeli captivity",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/deported-flotilla-activists-allege-sadistic-sexual-abuse-and-torture",
-      "published_date": "2026-05-22T10:52:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deported flotilla activists allege 'sadistic' sexual abuse and torture in Israeli captivity",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/sadistic-deported-flotilla-activists-allege-sexual-abuse-and-torture-israeli-custody",
-      "published_date": "2026-05-22T10:19:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French commission advises against deporting Egyptian-Palestinian activist",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-commission-advises-against-deporting-egyptian-palestinian",
-      "published_date": "2026-05-22T10:10:00+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-carrying-saudi-crude-set-arrive-japan",
+      "published_date": "2026-05-23T06:02:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "India is being left to die in the heat",
@@ -410,18 +417,25 @@
       "category": "Energy"
     },
     {
-      "title": "US officials suspect Iran behind cyberattack targeted fuel systems",
+      "title": "Thomas Massie's defeat shows Aipac's enduring grip over US Republicans",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-officials-suspect-iran-linked-hack-targeted-fuel-systems",
-      "published_date": "2026-05-16T05:07:00+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/opinion/massies-defeat-shows-aipacs-enduring-grip-over-republicans",
+      "published_date": "2026-05-23T09:17:40+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Gaza aid convoy in Libya prepares to head to Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss",
-      "published_date": "2026-05-16T01:59:52+00:00",
-      "category": "Energy"
+      "title": "Tanker reports security incident near Yemen’s Socotra Island",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-reports-security-incident-near-yemens-socotra-island",
+      "published_date": "2026-05-23T05:48:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "High oil prices help Gulf states weather regional turmoil",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/high-oil-prices-help-gulf-states-weather-regional-turmoil",
+      "published_date": "2026-05-23T05:28:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Russia ‘looking for new soldiers’; Kyiv claims 83,000 dead so far in 2026",
@@ -543,25 +557,53 @@
       "category": "Economy"
     },
     {
-      "title": "Ebola, hantavirus: Is the world prepared for the next pandemic?",
+      "title": "Uganda confirms three new Ebola cases, bringing total to five",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/18/ebola-hantavirus-is-the-world-prepared-for-the-next-pandemic?traffic_source=rss",
-      "published_date": "2026-05-18T13:11:52+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/23/uganda-confirms-three-new-ebola-cases-bringing-total-to-five?traffic_source=rss",
+      "published_date": "2026-05-23T11:30:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US college graduates face harsh job market amid economic uncertainty",
+      "title": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss",
-      "published_date": "2026-05-17T15:41:27+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss",
+      "published_date": "2026-05-23T09:30:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tunisians rally amid economic crisis and political arrests",
+      "title": "North Korean women’s team win Asian Champions League title in South Korea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/tunisians-rally-amid-economic-crisis-and-political-arrests?traffic_source=rss",
-      "published_date": "2026-05-17T01:18:49+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/5/23/north-korean-women-team-win-asian-champions-league-in-south?traffic_source=rss",
+      "published_date": "2026-05-23T08:16:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Renewal of Islam: An Oxford academic's antidote to bigoted narratives",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/discover/renewal-islam-oxford-academics-antidote-bigoted-narratives",
+      "published_date": "2026-05-23T07:54:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burn-like rashes and hunger: Gaza’s children face skin disease crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/23/burn-like-rashes-and-hunger-gazas-children-face-skin-disease-crisis?traffic_source=rss",
+      "published_date": "2026-05-23T05:46:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces target refugee camps in central Gaza despite ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-target-refugee-camps-central-gaza-despite-ceasefire",
+      "published_date": "2026-05-23T04:58:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why are anti-migrant attacks increasing in South Africa?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/why-are-anti-migrant-attacks-increasing-in-south-africa?traffic_source=rss",
+      "published_date": "2026-05-23T04:01:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nine nations condemn Israeli settlement expansion in West Bank",
@@ -652,55 +694,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/21/uk-launches-great-british-summer-savings-to-ease-family-costs?traffic_source=rss",
       "published_date": "2026-05-21T18:29:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel revokes permits for dozens of Al-Aqsa Mosque staff",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-revokes-permits-dozens-al-aqsa-mosque-staff",
-      "published_date": "2026-05-21T13:21:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mauritania’s female Islamic guides: Leading the fight against ‘extremism’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/mauritanias-female-islamic-guides-leading-the-fight-against-extremism?traffic_source=rss",
-      "published_date": "2026-05-21T12:27:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Nakba to fascist parades: How Britain's far right threatens Muslims and Jews",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/nakba-fascism-parades-how-britain-far-right-threatens-muslims-jews",
-      "published_date": "2026-05-21T12:03:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Chinese, Iranian companies profit in Russia-occupied Ukrainian regions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/how-chinese-iranian-companies-profit-in-russia-occupied-ukrainian-regions?traffic_source=rss",
-      "published_date": "2026-05-21T10:52:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-05-20T20:53:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sally Rooney confirms 'Intermezzo' to be published in Hebrew, sparking online backlash",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/sally-rooney-confirms-intermezzo-be-published-hebrew-sparking-social-media-backlash",
-      "published_date": "2026-05-20T17:02:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli curbs causing ‘alarming’ drop in Gaza aid deliveries, official warns",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-curbs-gaza-leading-alarming-decline-aid-entry-official-warns",
-      "published_date": "2026-05-20T12:08:47+00:00",
       "category": "Local Events"
     }
   ]
