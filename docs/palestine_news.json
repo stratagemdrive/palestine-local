@@ -1,8 +1,106 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-22T13:25:34.106737+00:00",
+  "last_updated": "2026-05-23T00:12:02.795661+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Qatar and Saudi Arabia back de-escalation efforts in Iran-US negotiations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-and-saudi-arabia-stress-diplomacy-iran-us-talks",
+      "published_date": "2026-05-23T00:08:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Excessive US demands hindering peace talks, Iran tells UN chief",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-demands-hindering-peace-talks-iran-tells-un-chief",
+      "published_date": "2026-05-22T23:59:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "On the cusp of reining in Trump, House Republicans cancel war powers vote",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cusp-reining-trump-house-republicans-cancel-war-powers-vote",
+      "published_date": "2026-05-22T22:15:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mahmoud Khalil to appeal US deportation case to Supreme Court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court?traffic_source=rss",
+      "published_date": "2026-05-22T21:08:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says ending war and lifting US blockade are priorities in talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-ending-war-and-lifting-us-blockade-are-priorities-talks",
+      "published_date": "2026-05-22T20:59:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump skips son’s wedding over ‘Iran and other things’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-skips-sons-wedding-over-iran-and-other-things",
+      "published_date": "2026-05-22T20:01:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are the implications of US sanctions in Lebanon?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/22/us-lebanon-sanctions-implications?traffic_source=rss",
+      "published_date": "2026-05-22T20:00:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thousands in Cuba rally for Raul Castro to protest US indictment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-in-cuba-rally-for-raul-castro-to-protest-us-indictment?traffic_source=rss",
+      "published_date": "2026-05-22T19:55:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tulsi Gabbard's resignation as director of national intelligence removes sidelined Iran war sceptic",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/tulsi-gabbard-resigns-director-national-intelligence-removing-sidelined-iran-war-sceptic",
+      "published_date": "2026-05-22T19:05:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tulsi Gabbard resigns as US intelligence chief",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tulsi-gabbard-resigns-us-intelligence-chief-stepping-down",
+      "published_date": "2026-05-22T19:01:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says Pakistani mediation marks ‘turning point’ in US talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-pakistani-mediation-marks-turning-point-us-talks",
+      "published_date": "2026-05-22T18:39:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says US talks remain far from deal as gaps stay ‘deep and significant’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-talks-remain-far-deal-gaps-stay-deep-and-significant",
+      "published_date": "2026-05-22T18:08:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatari delegation holds talks in Tehran as Pakistan mediates Iran negotiations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-delegation-holds-talks-tehran-pakistan-mediates-iran-negotiations",
+      "published_date": "2026-05-22T17:52:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tulsi Gabbard resigns as Trump’s top US intelligence official",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/tulsi-gabbard-resigns-as-trumps-top-us-intelligence-official?traffic_source=rss",
+      "published_date": "2026-05-22T17:34:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iranian officials report progress in talks with US",
       "source": "Middle East Eye",
@@ -46,102 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/us-deepens-european-uncertainty-with-deployment-of-5000-troops-to-poland?traffic_source=rss",
-      "published_date": "2026-05-22T08:51:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss",
-      "published_date": "2026-05-22T00:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US says it has not changed its stance on sanctioning Francesca Albanese",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss",
-      "published_date": "2026-05-21T23:39:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US sanctions 9 Lebanese figures over Hezbollah disarmament dispute",
+      "title": "Israel kills at least ten people Lebanon throughout Saturday",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-9-lebanese-figures-over-hezbollah-disarmament-dispute",
-      "published_date": "2026-05-21T21:41:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-least-ten-people-lebanon-throughout-saturday",
+      "published_date": "2026-05-22T22:37:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
+      "title": "Israeli blockade traps would-be Hajj pilgrim in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
-      "published_date": "2026-05-21T21:10:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/israeli-blockade-traps-would-be-hajj-pilgrim-in-gaza?traffic_source=rss",
+      "published_date": "2026-05-22T22:23:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
-      "published_date": "2026-05-21T20:09:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Five key takeaways from Democrats’ autopsy report on Kamala Harris’s loss",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss",
-      "published_date": "2026-05-21T19:14:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump shifts between diplomacy and threats in Iran standoff",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss",
-      "published_date": "2026-05-21T19:11:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/top-un-court-rules-workers-right-to-strike-protected-in-key-treaty?traffic_source=rss",
-      "published_date": "2026-05-21T17:05:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What’s Trump’s ‘anti-weaponisation fund’ and why are legal experts alarmed?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/whats-trumps-anti-weaponisation-fund-and-why-are-legal-experts-alarmed?traffic_source=rss",
-      "published_date": "2026-05-21T13:28:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India-Africa summit postponed as Ebola spreads to M23-held DR Congo area",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/india-africa-summit-postponed-as-ebola-spreads-to-m23-held-dr-congo-area?traffic_source=rss",
-      "published_date": "2026-05-21T13:18:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran World Cup squad members apply for US, Canada visas in Turkiye",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/21/iran-world-cup-squad-members-apply-for-us-canada-visas-in-turkiye?traffic_source=rss",
-      "published_date": "2026-05-21T13:01:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Exclusive: Sudan’s Burhan open to talks with UAE but ceasefire not imminent",
+      "title": "Foreign students, workers will now be forced to leave US to apply for Green Cards",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/exclusive-sudans-burhan-open-talks-uae-ceasefire-not-imminent",
-      "published_date": "2026-05-21T12:58:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/foreign-students-workers-now-forced-to-leave-us-to-apply-green-cards",
+      "published_date": "2026-05-22T20:54:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "US lifts sanctions on Francesca Albanese",
+      "title": "Iran destroyed 20 percent of US's MQ-9 Reaper drone fleet: Report",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lifts-sanctions-francesca-albanese",
-      "published_date": "2026-05-21T12:44:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-destroyed-20-percent-uss-mq-9-reaper-drone-fleet-report",
+      "published_date": "2026-05-22T20:42:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran destroyed 20 percent of US's MQ-9 Reaper drone fleet: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-destroyed-20-percent-uss-mq-9-reaper-drone-fleet-report",
+      "published_date": "2026-05-22T20:31:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "On the cusp of reining in Trump, House Republicans cancel war powers vote",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/cusp-reining-trump-house-republicans-cancel-war-powers-vote",
+      "published_date": "2026-05-22T19:33:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks?traffic_source=rss",
+      "published_date": "2026-05-22T19:11:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Displaced Lebanese amputee asks ‘where am I supposed to go’?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/displaced-lebanese-amputee-asks-where-am-i-supposed-to?traffic_source=rss",
+      "published_date": "2026-05-22T19:09:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘I always hear them before I see them’: Drones strike fear in Colombia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/5/22/i-always-hear-them-before-i-see-them-drones-strike-fear-in-colombia?traffic_source=rss",
+      "published_date": "2026-05-22T18:49:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s October 7 tribunal: Show trial of Palestinians or justice?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/israel-october-7-tribunal-show-trial-palestinians?traffic_source=rss",
+      "published_date": "2026-05-22T18:04:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World Central Kitchen halves Gaza meals as Iran war drives up costs",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/world-central-kitchen-halves-gaza-meals-iran-war-drives-costs",
+      "published_date": "2026-05-22T17:23:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza flotilla activists allege abuse, sexual assault in Israeli detention",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/gaza-flotilla-activists-allege-abuse-sexual-assault-in-israeli-detention?traffic_source=rss",
+      "published_date": "2026-05-22T17:12:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video shows Israeli strike on Lebanese child and paramedics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/video-shows-israeli-strike-on-lebanese-child-and-paramedics?traffic_source=rss",
+      "published_date": "2026-05-22T17:04:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Hezbollah strikes Israeli military targets in Southern Lebanon",
@@ -190,97 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-commission-advises-against-deporting-egyptian-palestinian",
       "published_date": "2026-05-22T10:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE’s Gargash says Iranian control of Strait of Hormuz would set serious precedent",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uaes-gargash-says-iranian-control-strait-hormuz-would-set-serious",
-      "published_date": "2026-05-22T10:07:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "America's Middle East: How Washington brought ruin to the region",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/discover/book-review-americas-middle-east-marc-lynch",
-      "published_date": "2026-05-22T09:55:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French commission advises against deporting Egyptian-Palestinian activist",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/french-court-advises-against-deporting-egyptian-palestinian-activist",
-      "published_date": "2026-05-22T09:50:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US raises threat of military action against Cuba",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss",
-      "published_date": "2026-05-22T07:22:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 84: US-Iran talks advance amid mediation push",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss",
-      "published_date": "2026-05-22T06:55:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands attend funeral prayers for San Diego mosque attack victims",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-attend-funeral-prayers-for-san-diego-mosque-attack-victims?traffic_source=rss",
-      "published_date": "2026-05-22T04:58:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US used more missile interceptors defending Israel than its own forces did: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-used-more-missile-interceptors-defending-israel-its-own-forces-did",
-      "published_date": "2026-05-22T00:02:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maritime body says threat level in Hormuz Strait 'critical'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/maritime-body-says-threat-level-hormuz-strait-critical",
-      "published_date": "2026-05-21T23:43:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack?traffic_source=rss",
-      "published_date": "2026-05-21T23:14:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah says it carried out 16 attacks on Israeli troops in south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-carried-out-16-attacks-israeli-troops-south-lebanon",
-      "published_date": "2026-05-21T22:59:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 16 people killed in two attacks in northern Honduras",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/at-least-16-people-killed-in-two-attacks-in-northern-honduras?traffic_source=rss",
-      "published_date": "2026-05-21T22:46:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US used half its missile interceptors defending Israel: Washington Post",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-used-half-its-missile-interceptors-defending-israel-washington-post",
-      "published_date": "2026-05-21T22:43:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli artillery hits area near orphanage in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-artillery-hits-area-near-orphanage-southern-lebanon",
-      "published_date": "2026-05-21T21:20:57+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,41 @@
       "category": "Economy"
     },
     {
+      "title": "Nine nations condemn Israeli settlement expansion in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nine-nations-condemn-israeli-settlement-expansion-west-bank",
+      "published_date": "2026-05-22T23:51:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli warplanes hit eastern Lebanon near Syrian border",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-warplanes-hit-eastern-lebanon-near-syrian-border",
+      "published_date": "2026-05-22T21:45:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "San Diego’s Muslims, a mosque, and a city shaken",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/22/aje-onl-usa_sandiegomosque_av_v2-220526?traffic_source=rss",
+      "published_date": "2026-05-22T20:03:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestine welcomes pressure by nine counties on Israel over illegal settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestine-welcomes-pressure-nine-counties-israel-over-illegal",
+      "published_date": "2026-05-22T19:24:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fifa World Cup 2026: Is this the most exclusionary tournament in history?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/explainers/fifa-world-cup-2026-tournament-most-exclusionary-history",
+      "published_date": "2026-05-22T17:45:24+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Palestinian Health Minister warns of collapse of healthcare system",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-health-minister-warns-collapse-healthcare-system",
@@ -666,41 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/israeli-curbs-gaza-leading-alarming-decline-aid-entry-official-warns",
       "published_date": "2026-05-20T12:08:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women’s football coach who secretly filmed players banned for life",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/20/womens-football-coach-who-secretly-filmed-players-banned-for-life?traffic_source=rss",
-      "published_date": "2026-05-20T09:10:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US authorities say missionary who contracted Ebola en route to Germany",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/us-authorities-say-missionary-who-contracted-ebola-en-route-to-germany?traffic_source=rss",
-      "published_date": "2026-05-19T21:59:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US lobbied Saudi Arabia to release funds for Gaza 'Board of Peace' amid cash crunch",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-official-lobbied-saudi-arabia-release-funds-gaza-board-peace-amid-cash-crunch",
-      "published_date": "2026-05-19T21:16:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muslim-American groups blame mainstreaming of hate speech for mosque shooting",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/muslim-american-groups-blame-mainstreaming-hate-speech-mosque-shooting",
-      "published_date": "2026-05-19T20:52:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of Palestinian patients remain stranded in Gaza awaiting treatment abroad",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/thousands-palestinian-patients-remain-stranded-gaza-awaiting-treatment",
-      "published_date": "2026-05-19T19:50:13+00:00",
       "category": "Local Events"
     }
   ]
