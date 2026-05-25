@@ -1,8 +1,106 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-24T11:58:11.305160+00:00",
+  "last_updated": "2026-05-25T00:05:12.776537+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "US lawmakers question Trump’s approach to Iran deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmakers-question-trumps-approach-iran-deal",
+      "published_date": "2026-05-25T00:02:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US says states failed to confront Iran at NPT review",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-states-failed-confront-iran-npt-review",
+      "published_date": "2026-05-24T23:36:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba thanks China for rice shipment amid worsening humanitarian conditions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/cuba-thanks-china-for-rice-shipment-amid-worsening-humanitarian-conditions?traffic_source=rss",
+      "published_date": "2026-05-24T21:53:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump pushes Arab states to normalise ties with Israel in exchange for Iran ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-pushes-arab-states-normalise-ties-israel-exchange-iran-ceasefire",
+      "published_date": "2026-05-24T21:45:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Arab and Muslim states condemn Ben-Gvir over abuse and torture of flotilla detainees",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-and-muslim-states-condemn-ben-gvir-over-abuse-and-torture-flotilla",
+      "published_date": "2026-05-24T21:31:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Trump needs a deal, no matter how bad it is’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/quotable/2026/5/24/trump-needs-a-deal-no-matter-how-bad-it?traffic_source=rss",
+      "published_date": "2026-05-24T20:25:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How will Iran war fallout impact upcoming US elections?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
+      "published_date": "2026-05-24T19:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran media says US obstructing deal clauses, warns talks could collapse",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-media-says-us-obstructing-deal-clauses-warns-talks-could-collapse",
+      "published_date": "2026-05-24T18:46:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Iran deal not fully negotiated yet",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-deal-not-fully-negotiated-yet",
+      "published_date": "2026-05-24T18:38:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lindsey Graham says Saudi Arabia must join Abraham Accords to end Israeli-US war on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/graham-says-saudi-arabia-must-join-abraham-accords-end-israeli-us-war",
+      "published_date": "2026-05-24T18:27:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fatou Bensouda on Israeli threats against her and the ICC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/24/fatou-bensouda-on-israeli-threats-against-her-and-the-icc?traffic_source=rss",
+      "published_date": "2026-05-24T18:04:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No US-Iran deal expected today as talks drag on",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-us-iran-deal-expected-today-talks-drag",
+      "published_date": "2026-05-24T17:42:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hezbollah chief rejects Israel talks, warns disarmament ‘unacceptable’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-israel-talks-warns-disarmament-unacceptable",
+      "published_date": "2026-05-24T17:27:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran recounts historic battles in response to Trump’s talk of agreement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/iran-recounts-historic-battles-in-response-to-trumps-talk-of-agreement?traffic_source=rss",
+      "published_date": "2026-05-24T16:18:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
       "source": "Al Jazeera",
@@ -46,102 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "“They don’t like each other:” Is Russia and Iran’s alliance falling apart?",
+      "title": "Iran objects to revised terms in draft deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-objects-revised-terms-draft-deal",
+      "published_date": "2026-05-24T23:54:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Nightmare for Israel': Republican hawks attack Trump's emerging Iran deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nightmare-israel-republican-hawks-attack-trumps-emerging-iran-deal-0",
+      "published_date": "2026-05-24T22:59:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah claims 28 attacks on Israeli forces in south Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-28-attacks-israeli-forces-south-lebanon",
+      "published_date": "2026-05-24T22:32:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Inside a Beirut barbershop shaped by war and crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart?traffic_source=rss",
-      "published_date": "2026-05-24T08:10:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/inside-a-beirut-barbershop-shaped-by-war-and-crisis?traffic_source=rss",
+      "published_date": "2026-05-24T21:40:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-507",
-      "published_date": "2026-05-24T06:38:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Imminent' US-Iran deal not in Tel Aviv's interest, Israeli media says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/emerging-us-iran-deal-not-tel-avivs-favour-israeli-media-says",
-      "published_date": "2026-05-24T06:21:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan foreign minister hails Trump call as step towards regional peace",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-foreign-minister-hails-trump-call-step-towards-regional-peace",
-      "published_date": "2026-05-24T05:51:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran and Saudi Arabia foreign ministers hold talks on regional tensions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-saudi-arabia-foreign-ministers-hold-talks-regional-tensions",
-      "published_date": "2026-05-24T05:35:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
+      "title": "Pakistan’s Eid livestock traders losing as war on Iran pushes up prices",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
-      "published_date": "2026-05-24T05:35:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/pakistans-eid-livestock-traders-losing-as-war-on-iran-pushes-up-prices?traffic_source=rss",
+      "published_date": "2026-05-24T21:03:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Report: US-Iran deal includes 60-day ceasefire extension",
+      "title": "Israel warns Iran-US deal ‘not good’: Report",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-iran-deal-includes-60-day-ceasefire-extension",
-      "published_date": "2026-05-24T04:09:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-warns-iran-us-deal-not-good-report",
+      "published_date": "2026-05-24T20:45:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Shehbaz Sharif says Pakistan ready for next round of negotiations",
+      "title": "Israeli strikes kill two, wound 10 in south Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shehbaz-sharif-says-pakistan-ready-next-round-negotiations",
-      "published_date": "2026-05-24T03:32:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-kill-kill-two-wound-10-south-lebanon",
+      "published_date": "2026-05-24T19:40:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says it pursues diplomacy with dignity and strength",
+      "title": "Israeli strike kills two in south Lebanon, injures another",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-pursues-diplomacy-dignity-and-strength",
-      "published_date": "2026-05-24T03:17:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-two-south-lebanon-injures-another",
+      "published_date": "2026-05-24T19:21:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former CIA chief attacks proposed Iran agreement",
+      "title": "Hajj pilgrims press on despite Iran war uncertainty",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/former-cia-chief-attacks-proposed-iran-agreement",
-      "published_date": "2026-05-23T23:58:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hajj-pilgrims-press-despite-iran-war-uncertainty",
+      "published_date": "2026-05-24T18:57:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "IRGC dismisses Trump comments on Iran nuclear talks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-dismisses-trump-comments-iran-nuclear-talks",
-      "published_date": "2026-05-23T23:38:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Police, FBI swarm White House after reports of shots fired",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/police-swarm-white-house-after-reports-shots-fired",
-      "published_date": "2026-05-23T22:48:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran says Trump’s comments on Iran deal ‘inconsistent with reality’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-dismisses-trumps-comments-iran-deal-inconsistent-reality",
-      "published_date": "2026-05-23T21:43:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
+      "title": "Zelenskyy speaks to Al Jazeera at site of major Russian attacks in Kyiv",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
-      "published_date": "2026-05-23T21:09:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/zelenskyy-speaks-to-al-jazeera-at-site-of-major-russian-attacks-in-kyiv?traffic_source=rss",
+      "published_date": "2026-05-24T18:22:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drone attacks kill three in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-attacks-kill-three-southern-lebanon",
+      "published_date": "2026-05-24T18:08:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China sends aid to Cuba amid a harsh US blockade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/china-sends-aid-to-cuba-amid-a-harsh-us-blockade?traffic_source=rss",
+      "published_date": "2026-05-24T15:14:10+00:00",
+      "category": "Military"
     },
     {
       "title": "How Europeans are saying no to rearmament and conscription",
@@ -197,90 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people?traffic_source=rss",
       "published_date": "2026-05-24T08:21:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former US envoy says escalation would have been worse than deal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/former-us-envoy-says-escalation-would-have-been-worse-deal",
-      "published_date": "2026-05-24T06:53:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran says armed forces remain on highest alert",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-armed-forces-remain-highest-alert",
-      "published_date": "2026-05-24T06:01:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Israel kills Palestinian police officers in overnight Gaza strike",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israel-kills-palestinian-police-officers-overnight-gaza-strike",
-      "published_date": "2026-05-24T05:32:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "White House to announce Iran agreement on Sunday, says report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-announce-iran-agreement-sunday-says-report",
-      "published_date": "2026-05-24T04:36:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Flotilla activists allege abuse after release from Israeli custody",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-flotilla-activists-allege-abuse-after-release-israeli-custody",
-      "published_date": "2026-05-24T04:25:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US police responding to dozens of shots fired near White House",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss",
-      "published_date": "2026-05-23T22:52:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US indefinitely suspends Japan missile delivery due to Iran war shortages",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-indefinitely-suspends-japan-missile-delivery-due-iran-war-shortages",
-      "published_date": "2026-05-23T22:05:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza flotilla activists return to Ireland, UK",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-flotilla-activists-return-ireland-uk",
-      "published_date": "2026-05-23T21:39:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-05-23T21:14:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is pragmatism replacing ideology in international affairs?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/23/is-pragmatism-replacing-ideology-in-international?traffic_source=rss",
-      "published_date": "2026-05-23T19:56:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
-      "published_date": "2026-05-23T18:37:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military says soldier killed near Lebanon border",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-soldier-killed-near-lebanon-border",
-      "published_date": "2026-05-23T18:35:12+00:00",
       "category": "Military"
     },
     {
@@ -394,6 +394,20 @@
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wall-street-journal-warns-rising-us-fuel-prices-amid-export-surge",
       "published_date": "2026-05-18T06:25:10+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Bahrain court sentenced nine people to life in prison for working with IRGC",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-court-convicts-suspects-working-irgc",
+      "published_date": "2026-05-24T23:46:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ecuador’s Noboa pledges to extradite criminals in State of the Union speech",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/ecuadors-noboa-pledges-to-extradite-criminals-in-state-of-the-union-speech?traffic_source=rss",
+      "published_date": "2026-05-24T22:04:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "Yemen war sees scramble for scant resources between displaced and locals",
@@ -522,18 +536,32 @@
       "category": "Economy"
     },
     {
-      "title": "High prices in Iran’s stunted housing market leave tenants with few options",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss",
-      "published_date": "2026-05-19T18:50:18+00:00",
-      "category": "Economy"
+      "title": "'No Eid' in Gaza for third year as livestock crisis erases holiday rituals",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-eid-gaza-third-year-livestock-crisis-erases-holiday-rituals",
+      "published_date": "2026-05-24T19:53:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gaza aid flotilla organisers say 41 boats intercepted, 10 still sailing",
+      "title": "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/gaza-aid-flotilla-organisers-say-41-boats-intercepted-10-still-sailing?traffic_source=rss",
-      "published_date": "2026-05-19T11:24:19+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss",
+      "published_date": "2026-05-24T19:09:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll from Israeli strikes on Lebanon climbs to 3,151",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-strikes-lebanon-climbs-3151",
+      "published_date": "2026-05-24T17:12:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria cannot heal without a rebuilt health system",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/24/syria-cannot-heal-without-a-rebuilt-health?traffic_source=rss",
+      "published_date": "2026-05-24T13:53:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears",
@@ -645,34 +673,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/23/why-are-anti-migrant-attacks-increasing-in-south-africa?traffic_source=rss",
       "published_date": "2026-05-23T04:01:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nine nations condemn Israeli settlement expansion in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nine-nations-condemn-israeli-settlement-expansion-west-bank",
-      "published_date": "2026-05-22T23:51:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli warplanes hit eastern Lebanon near Syrian border",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-warplanes-hit-eastern-lebanon-near-syrian-border",
-      "published_date": "2026-05-22T21:45:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "San Diego’s Muslims, a mosque, and a city shaken",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/22/aje-onl-usa_sandiegomosque_av_v2-220526?traffic_source=rss",
-      "published_date": "2026-05-22T20:03:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestine welcomes pressure by nine counties on Israel over illegal settlements",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestine-welcomes-pressure-nine-counties-israel-over-illegal",
-      "published_date": "2026-05-22T19:24:26+00:00",
       "category": "Local Events"
     }
   ]
