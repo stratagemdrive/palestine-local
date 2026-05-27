@@ -1,8 +1,22 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-27T00:14:08.253242+00:00",
-  "story_count": 91,
+  "last_updated": "2026-05-27T14:22:12.283050+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "What is the Lobito Corridor, cited by US Africa envoy as model for ties?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/27/what-is-the-lobito-corridor-cited-by-us-africa-envoy-as-model-for-ties?traffic_source=rss",
+      "published_date": "2026-05-27T13:48:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UFC fighting cage rises on White House lawn for US and Trump celebrations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/27/ufc-fighting-cage-rises-on-white-house-lawn-for-us-and-trump-celebrations?traffic_source=rss",
+      "published_date": "2026-05-27T12:11:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Climber carries kite with Palestinian children’s dreams to Everest summit",
       "source": "Al Jazeera",
@@ -130,18 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump renews petition for White House ballroom, pointing to nearby shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/trump-renews-petition-for-white-house-ballroom-pointing-to-nearby-shooting?traffic_source=rss",
-      "published_date": "2026-05-25T23:34:21+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli army says ‘explosive drone’ identified in northern Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-explosive-drone-identified-northern-israel",
+      "published_date": "2026-05-27T14:05:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Iran uranium must be handed over or destroyed in deal",
+      "title": "IRGC says 23 vessels crossed Hormuz in last 24 hours, US claims it 'redirected' 109 ships since blockade began",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-uranium-must-be-handed-over-or-destroyed-deal",
-      "published_date": "2026-05-25T22:09:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-23-vessels-crossed-hormuz-last-24-hours-us-says-it-redirected",
+      "published_date": "2026-05-27T13:56:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defected Sudanese RSF commander Savannah performs Hajj in Mecca",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/defected-sudanese-rsf-commander-savannah-performs-hajj-mecca",
+      "published_date": "2026-05-27T13:41:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli issues another forced evacuation order for Lebanon’s Tyre city",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-issues-another-forced-evacuation-order-lebanons-tyre-city",
+      "published_date": "2026-05-27T13:35:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas confirms death of newly appointed military chief",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-confirms-death-newly-appointed-military-chief",
+      "published_date": "2026-05-27T13:26:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Baltics urgently need a de-escalation mechanism; Belarus can help",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/27/the-baltics-urgently-need-a-de-escalation-mechanism-belarus-can-help?traffic_source=rss",
+      "published_date": "2026-05-27T13:24:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes kill Palestinians and Lebanese preparing to celebrate Eid al-Adha",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/trending/israeli-strikes-kill-palestinians-lebanese-preparing-celebrate-eid-al-adha",
+      "published_date": "2026-05-27T13:19:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "DRC facing ‘catastrophic collision’ of Ebola and war, WHO chief warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/27/drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns?traffic_source=rss",
+      "published_date": "2026-05-27T13:05:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says draft of US deal would reopen Hormuz, end naval blockade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-draft-us-deal-would-reopen-hormuz-end-naval-blockade",
+      "published_date": "2026-05-27T12:46:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army claims to hit 150 Lebanon sites in one day",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-claims-hit-150-lebanon-sites-one-day",
+      "published_date": "2026-05-27T11:45:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian president says economic war now ‘main battleground’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/economic-war-now-main-battleground-says-iranian-president",
+      "published_date": "2026-05-27T11:10:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran announces reopening of Tabriz airport after bombing",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-announces-reopening-tabriz-airport-after-bombing",
+      "published_date": "2026-05-27T11:02:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army orders demolition of seven apartments in occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-order-demolition-seven-apartments-near-jerusalem",
+      "published_date": "2026-05-27T10:56:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Iran have launched multiple attacks during ceasefire: A timeline",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-have-launched-multiple-attacks-during-ceasefire-a-timeline?traffic_source=rss",
+      "published_date": "2026-05-27T10:47:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli defence minister insists there are 'voluntary emigration' plans for Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defence-minister-insists-there-are-voluntary-emigration-plans",
+      "published_date": "2026-05-27T10:42:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US strike on alleged drug boat in Pacific kills one",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/27/us-strike-on-alleged-drug-boat-in-pacific-kills-one?traffic_source=rss",
+      "published_date": "2026-05-27T10:12:24+00:00",
+      "category": "Military"
     },
     {
       "title": "UN chief ‘deeply concerned’ by Moscow plan for Kyiv strikes",
@@ -172,116 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israeli strikes across southern Lebanon kill 31 people",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-across-southern-lebanon-kill-31-people",
-      "published_date": "2026-05-26T22:27:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Chemical tank rupture kills multiple people in US state of Washington",
+      "title": "In Britain, Brexit is debated again as Starmer’s grip on power slips",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/chemical-tank-rupture-kills-multiple-people-in-us-state-of-washington?traffic_source=rss",
-      "published_date": "2026-05-26T22:15:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Trump is using Iran talks to revive the Abraham Accords",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/why-trump-using-iran-talks-to-revive-abraham-accords",
-      "published_date": "2026-05-26T21:38:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon says Israeli attacks have killed more than 3,200 people since March",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-israeli-attacks-have-killed-more-3200-people-march",
-      "published_date": "2026-05-26T21:24:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four people killed after minibus collides with train in Belgium",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss",
-      "published_date": "2026-05-26T21:02:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army issues new evacuation orders across southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-issues-new-evacuation-orders-across-southern-lebanon",
-      "published_date": "2026-05-26T20:18:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu says Israel targeted new Hamas military commander in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-targeted-new-hamas-military-commander-gaza",
-      "published_date": "2026-05-26T19:19:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio to face Congress as lawmakers scrutinise Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-face-congress-lawmakers-scrutinise-iran-war",
-      "published_date": "2026-05-26T18:53:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu says Israel is ‘deepening’ military operation in Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-deepening-military-operation-lebanon",
-      "published_date": "2026-05-26T18:17:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes hit Lebanon’s Bekaa",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-hit-lebanons-bekaa",
-      "published_date": "2026-05-26T17:09:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah says it attacked Israeli positions near Litani River",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-attacked-israeli-positions-near-litani-river",
-      "published_date": "2026-05-26T16:41:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Use of force by guards in trial of pro-Palestine activists in Germany under scrutiny",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/force-pro-palestine-activists-germany-trial-scrutiny",
-      "published_date": "2026-05-26T16:31:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian fishermen struggle to survive amid Hormuz blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss",
-      "published_date": "2026-05-26T16:13:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel targets ambulance team, attack area near Lebanon's largest dam",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-targets-ambulance-team-attack-area-near-lebanons-largest-dam",
-      "published_date": "2026-05-26T13:46:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians in Gaza protest water shortages amid ongoing Israeli curbs on aid",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-gaza-protest-water-shortages-amid-ongoing-israeli-curbs-aid",
-      "published_date": "2026-05-26T13:29:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss",
-      "published_date": "2026-05-26T13:26:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/27/brexit-debate-reignites?traffic_source=rss",
+      "published_date": "2026-05-27T11:56:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "IRGC says 25 ships crossed Hormuz under Iranian coordination",
@@ -347,18 +354,18 @@
       "category": "Energy"
     },
     {
-      "title": "IRGC: 26 ships crossed Strait of Hormuz in last 24 hours",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-26-ships-crossed-strait-hormuz-last-24-hours",
-      "published_date": "2026-05-20T12:57:26+00:00",
-      "category": "Energy"
+      "title": "Bangladesh seeks IMF aid: How badly has Iran war hit its economy?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
+      "published_date": "2026-05-27T13:53:13+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK eases sanctions on Russian oil imports as fuel prices soar",
+      "title": "‘Eid does not enter tents’: Palestinians in Gaza face grim holiday",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/uk-eases-sanctions-on-russian-oil-imports-as-fuel-prices-soar?traffic_source=rss",
-      "published_date": "2026-05-20T10:46:10+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/5/27/eid-does-not-enter-tents-palestinians-in-gaza-face-grim-holiday?traffic_source=rss",
+      "published_date": "2026-05-27T12:50:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "How clans are organizing to fill Gaza’s leadership void",
@@ -487,18 +494,67 @@
       "category": "Economy"
     },
     {
-      "title": "Activists take part in a land convoy from Libya to bring aid to Gaza",
+      "title": "Why is Israel attacking Lebanon’s Nabatieh, the major southern city?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/activists-take-part-in-a-land-convoy-from-libya-to-bring-aid-to-gaza?traffic_source=rss",
-      "published_date": "2026-05-21T13:40:23+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss",
+      "published_date": "2026-05-27T14:00:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Dubai launches second economic incentives package worth $408 million",
+      "title": "Israeli army issues more forced displacement threats in Lebanon, attacks intensify",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dubai-launches-second-economic-incentives-package-worth-408-million",
-      "published_date": "2026-05-21T13:09:42+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-issues-more-forced-displacement-threats-lebanon-attacks",
+      "published_date": "2026-05-27T12:57:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strikes rock Gaza on Eid al-Adha as Israeli ceasefire violations top 3,000",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/strikes-rock-gaza-eid-al-adha-israeli-ceasefire-violations-top-3000",
+      "published_date": "2026-05-27T12:32:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'They stole our sheep, killed my son': Israeli settlers, soldiers attack and loot West Bank villages",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/they-stole-our-sheep-killed-my-son-israeli-settlers-soldiers-attack-and",
+      "published_date": "2026-05-27T12:30:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strikes rock Gaza on Eid al-Adha as Israeli ceasefire violations top 3,000",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/strikes-rock-gaza-eid-al-adha-israeli-ceasefire-violations-top-3000",
+      "published_date": "2026-05-27T12:03:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Brotherhood bogeyman: How Europe and the US criminalise Muslim civic life",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/brotherhood-bogeyman-how-europe-and-us-criminalise-muslim-civic-life",
+      "published_date": "2026-05-27T11:54:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doctor buried after he died treating Ebola patients in DRC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/doctor-buried-after-he-died-treating-ebola-patients-in-drc?traffic_source=rss",
+      "published_date": "2026-05-27T11:38:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'They stole our sheep, killed my son': Israeli settlers, soldiers attack and loot West Bank villages",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-army-settlers-steal-sheep-kill-palestinian-teen-west-bank",
+      "published_date": "2026-05-27T11:30:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Senegal became genuine World Cup 2026 contenders – at a cost",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/27/how-senegal-became-genuine-world-cup-2026-contenders-at-a-cost?traffic_source=rss",
+      "published_date": "2026-05-27T11:18:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
@@ -575,69 +631,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/opinion/how-can-you-look-horrors-palestine-and-feel-nothing",
       "published_date": "2026-05-25T12:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran's Jews: From ancient roots to the modern day",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/irans-jews-ancient-roots-modern-day",
-      "published_date": "2026-05-25T10:32:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel kills three in attacks on Lebanon, issues more displacement orders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss",
-      "published_date": "2026-05-25T10:10:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huckabee tells Lebanese being bombed to thank Israel for seedless watermelons",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-mike-huckabee-tells-lebanese-thank-israel-seedless-watermelons",
-      "published_date": "2026-05-25T09:36:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No Eid' in Gaza for third year as livestock crisis erases holiday rituals",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-eid-gaza-third-year-livestock-crisis-erases-holiday-rituals",
-      "published_date": "2026-05-24T19:53:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss",
-      "published_date": "2026-05-24T19:09:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death toll from Israeli strikes on Lebanon climbs to 3,151",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-strikes-lebanon-climbs-3151",
-      "published_date": "2026-05-24T17:12:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria cannot heal without a rebuilt health system",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/24/syria-cannot-heal-without-a-rebuilt-health?traffic_source=rss",
-      "published_date": "2026-05-24T13:53:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc-amid-outbreak-fears?traffic_source=rss",
-      "published_date": "2026-05-24T07:29:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Want equal respect’: Pakistan’s females galloping to glory in tent pegging",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/want-equal-respect-pakistan-females-galloping-to-glory-in-tent-pegging?traffic_source=rss",
-      "published_date": "2026-05-24T06:05:18+00:00",
       "category": "Local Events"
     }
   ]
