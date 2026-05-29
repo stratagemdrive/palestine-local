@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-29T00:15:07.110471+00:00",
-  "story_count": 94,
+  "last_updated": "2026-05-29T13:53:46.259371+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "France summons Russian ambassador over drone crash in Romania",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-summons-russian-ambassador-over-drone-crash-romania",
+      "published_date": "2026-05-29T13:39:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French prosecutors to probe Israeli treatment of flotilla activists",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/french-prosecutors-to-probe-israeli-treatment-of-flotilla-activists?traffic_source=rss",
+      "published_date": "2026-05-29T12:00:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Iran 60-day proposal: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss",
+      "published_date": "2026-05-29T10:23:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss",
+      "published_date": "2026-05-29T07:22:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France calls on prosecutor to investigate Israeli abuse of activist on Gaza-bound flotilla",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-calls-prosecutor-investigate-israeli-abuse-activist-gaza-bound",
+      "published_date": "2026-05-29T07:09:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US diplomats on Trump's Abraham Accords",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-diplomats-trumps-abraham-accords",
+      "published_date": "2026-05-29T04:49:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
       "source": "Al Jazeera",
@@ -102,46 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel breaks all contact with UN secretary general",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-breaks-all-contact-un-secretary-general",
-      "published_date": "2026-05-28T14:14:38+00:00",
-      "category": "Diplomacy"
+      "title": "Rats, raw sewage, skin diseases: Israel’s siege is ravaging Gaza’s displaced",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/israel-siege-gaza-health-crisis/",
+      "published_date": "2026-05-29T13:20:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel may need $6m to move Istanbul consulate",
+      "title": "How a Gaza-bound aid convoy unravelled attempting to enter Haftar-controlled eastern Libya",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-may-need-six-million-move-istanbul-consulate-turkey",
-      "published_date": "2026-05-28T14:09:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/how-gaza-bound-aid-convoy-unravelled-haftar-controlled-eastern-libya",
+      "published_date": "2026-05-29T13:09:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "US reinstates sanctions on UN's Albanese after appeals court pauses ruling",
+      "title": "IRGC kills two Kurds who were in hiding, say rights groups",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-reinstates-sanctions-uns-albanese-after-appeals-court-pauses-ruling",
-      "published_date": "2026-05-28T12:58:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-kills-two-kurds-who-were-hiding-say-rights-groups",
+      "published_date": "2026-05-29T11:54:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+      "title": "Israel’s Netanyahu orders army to seize 70 percent of Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-netanyahu-orders-army-seize-70-percent-gaza",
+      "published_date": "2026-05-29T10:27:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s Netanyahu orders army to seize 70 percent of Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israels-netanyahu-orders-army-seize-70-percent-gaza",
+      "published_date": "2026-05-29T10:12:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "On average, 11 children killed or wounded every day in past week in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/average-11-children-killed-or-wounded-every-day-past-week-lebanon",
+      "published_date": "2026-05-29T10:05:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A visual guide to Ethiopia’s ethnic groups and conflict areas",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
-      "published_date": "2026-05-28T12:54:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/29/a-visual-guide-to-ethiopias-ethnic-groups-and-conflict-areas?traffic_source=rss",
+      "published_date": "2026-05-29T09:18:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Donald Trump’ buffalo in Bangladesh will be spared sacrifice",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/donald-trump-buffalo-in-bangladesh-will-be-spared-sacrifice?traffic_source=rss",
-      "published_date": "2026-05-28T12:40:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan’s foreign minister to visit Washington",
+      "title": "Israel 'added to UN blacklist' for sexual violence in conflict zones",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistans-foreign-minister-visit-washington",
-      "published_date": "2026-05-28T12:38:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-place-israel-sexual-violence-conflict-blacklist-israeli-envoy-says",
+      "published_date": "2026-05-29T08:37:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO states slam Russia after drone crashes in Romania",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss",
+      "published_date": "2026-05-29T07:50:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blue Origin rocket explodes on launch pad during test",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/blue-origin-rocket-explodes-on-launch-pad-during-test?traffic_source=rss",
+      "published_date": "2026-05-29T07:15:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal?traffic_source=rss",
+      "published_date": "2026-05-29T07:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike in Tyre targets medical centre",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-tyre-targets-medical-centre",
+      "published_date": "2026-05-29T06:51:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "State of trauma: Israel wrestles with mental aftershocks of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/state-of-trauma-israel-wrestles-with-mental-aftershocks-of-war?traffic_source=rss",
+      "published_date": "2026-05-29T06:39:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel issues expulsion threats in Lebanon's Nabatieh, strikes area in Tyre",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-issues-expulsion-threats-lebanons-nabatieh-strikes-area-tyre",
+      "published_date": "2026-05-29T06:25:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-545",
+      "published_date": "2026-05-29T05:57:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Report: US military planes at Ben Gurion Airport cost Israel $248m in losses",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-planes-ben-gurion-airport-cost-israel-248m-losses",
+      "published_date": "2026-05-29T05:25:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
@@ -169,118 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-near-khan-younis-kills-three-people",
       "published_date": "2026-05-28T22:53:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian forces fire warning shots at vessels near Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-forces-fire-warning-shots-vessels-near-hormuz",
-      "published_date": "2026-05-28T22:22:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike south of Beirut kills woman and two children",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-south-beirut-kills-woman-and-two-children",
-      "published_date": "2026-05-28T21:07:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Demands grow for closure of US detention centre over inhumane conditions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/demands-grow-for-closure-of-us-detention-centre-over-inhumane-conditions?traffic_source=rss",
-      "published_date": "2026-05-28T20:49:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU says more ships needed to secure Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-says-more-ships-needed-secure-strait-hormuz",
-      "published_date": "2026-05-28T20:42:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three wounded in Swiss train station stabbing labelled ‘act of terror’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/three-wounded-in-swiss-train-station-stabbing-labelled-act-of-terror?traffic_source=rss",
-      "published_date": "2026-05-28T20:00:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
-      "published_date": "2026-05-28T19:03:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah says it attacked Israeli troops in Biyyada and Rashaf",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-attacked-israeli-troops-biyyada-and-rashaf",
-      "published_date": "2026-05-28T18:46:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
-      "published_date": "2026-05-28T18:36:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How War Changed Eid in Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/how-war-changed-eid-in-lebanon?traffic_source=rss",
-      "published_date": "2026-05-28T17:40:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "White House says Iran and US agreed to 60-day ceasefire extension, awaiting Trump's approval",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/white-house-says-iran-and-us-agreed-60-day-ceasefire-awaiting-trumps-approval",
-      "published_date": "2026-05-28T17:38:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army struggling to counter Hezbollah drone attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-struggling-counter-hezbollah-drone-attacks",
-      "published_date": "2026-05-28T17:35:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Centcom says US has redirected 111 commercial vessels under Iran blockade",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-us-has-redirected-111-commercial-vessels-under-iran",
-      "published_date": "2026-05-28T17:09:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvia parliament approves new gov’t after drone dispute toppled coalition",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/latvia-parliament-approves-new-govt-after-drone-dispute-toppled-coalition?traffic_source=rss",
-      "published_date": "2026-05-28T17:00:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC threatens ‘firm response’ if US attacks continue",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-threatens-firm-response-if-us-attacks-continue",
-      "published_date": "2026-05-28T13:29:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army orders evacuation of six more southern Lebanon towns",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-orders-evacuation-6-more-southern-lebanon-towns",
-      "published_date": "2026-05-28T13:24:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US continues ‘Economic Fury campaign’ against Iran airlines, says Bessent",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-continues-economic-fury-campaign-against-iran-airlines-says-bessent",
-      "published_date": "2026-05-28T13:17:35+00:00",
       "category": "Military"
     },
     {
@@ -361,25 +361,11 @@
       "category": "Energy"
     },
     {
-      "title": "India is being left to die in the heat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/22/india-is-being-left-to-die-in-the-heat?traffic_source=rss",
-      "published_date": "2026-05-22T12:19:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran says 35 ships passed Hormuz with permission in last 24 hours",
+      "title": "Trump's war on Iran is a Suez moment - but not in the way you might think",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-35-ships-passed-hormuz-permission-last-24-hours",
-      "published_date": "2026-05-22T11:12:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Can Venezuelan oil save India amid the Hormuz energy crisis?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss",
-      "published_date": "2026-05-22T11:11:11+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/opinion/trumps-war-iran-suez-moment-not-way-you-think",
+      "published_date": "2026-05-29T11:19:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Colombia’s first left-wing gov’t has reduced poverty, but has pile of debt",
@@ -515,11 +501,81 @@
       "category": "Economy"
     },
     {
-      "title": "Russia ‘looking for new soldiers’; Kyiv claims 83,000 dead so far in 2026",
+      "title": "Harvard Medical School graduate dedicates speech to Lebanon and Palestine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/russia-falters-in-ukraine?traffic_source=rss",
-      "published_date": "2026-05-22T12:46:27+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/harvard-medical-school-graduate-dedicates-speech-to-lebanon-and-palestine?traffic_source=rss",
+      "published_date": "2026-05-29T13:06:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN urges ‘urgent’ action to protect children online",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/un-urges-urgent-action-to-protect-children-online?traffic_source=rss",
+      "published_date": "2026-05-29T12:12:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Higher proportion of pro-Palestine than Labour candidates won at local elections",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/higher-proportion-pro-palestine-labour-candidates-won-local-elections",
+      "published_date": "2026-05-29T11:37:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss",
+      "published_date": "2026-05-29T10:37:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss",
+      "published_date": "2026-05-29T10:28:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WHO chief visits DRC amidst Ebola crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss",
+      "published_date": "2026-05-29T10:24:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspensions, arrests, dissolutions: Tunisia intensifies its crackdown on NGOs",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/suspensions-arrests-dissolutions-tunisia-intensifies-crackdown-ngos",
+      "published_date": "2026-05-29T10:05:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Are we witnessing a 21st century homeland crusade?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/are-we-witnessing-21st-century-homeland-crusade",
+      "published_date": "2026-05-29T09:51:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanon warns Israeli strikes put heritage sites in 'serious danger'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-warns-israeli-strikes-put-heritage-sites-serious-danger",
+      "published_date": "2026-05-29T09:06:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza parents brave dental dilemma: Costly treatment or food on the table?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/29/gaza-parents-brave-dental-dilemma-costly-treatment-or-food-on-the-table?traffic_source=rss",
+      "published_date": "2026-05-29T08:13:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PODCAST: How Israeli classrooms indoctrinate Jewish supremacy",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/podcast-israeli-education-jewish-supremacy/",
+      "published_date": "2026-05-29T08:08:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
@@ -582,83 +638,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss",
       "published_date": "2026-05-27T14:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli army issues more forced displacement threats in Lebanon, attacks intensify",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-issues-more-forced-displacement-threats-lebanon-attacks",
-      "published_date": "2026-05-27T12:57:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strikes rock Gaza on Eid al-Adha as Israeli ceasefire violations top 3,000",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/strikes-rock-gaza-eid-al-adha-israeli-ceasefire-violations-top-3000",
-      "published_date": "2026-05-27T12:32:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'They stole our sheep, killed my son': Israeli settlers, soldiers attack and loot West Bank villages",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/they-stole-our-sheep-killed-my-son-israeli-settlers-soldiers-attack-and",
-      "published_date": "2026-05-27T12:30:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strikes rock Gaza on Eid al-Adha as Israeli ceasefire violations top 3,000",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/strikes-rock-gaza-eid-al-adha-israeli-ceasefire-violations-top-3000",
-      "published_date": "2026-05-27T12:03:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Brotherhood bogeyman: How Europe and the US criminalise Muslim civic life",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/brotherhood-bogeyman-how-europe-and-us-criminalise-muslim-civic-life",
-      "published_date": "2026-05-27T11:54:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doctor buried after he died treating Ebola patients in DRC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/doctor-buried-after-he-died-treating-ebola-patients-in-drc?traffic_source=rss",
-      "published_date": "2026-05-27T11:38:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'They stole our sheep, killed my son': Israeli settlers, soldiers attack and loot West Bank villages",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-army-settlers-steal-sheep-kill-palestinian-teen-west-bank",
-      "published_date": "2026-05-27T11:30:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Senegal became genuine World Cup 2026 contenders – at a cost",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/27/how-senegal-became-genuine-world-cup-2026-contenders-at-a-cost?traffic_source=rss",
-      "published_date": "2026-05-27T11:18:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss",
-      "published_date": "2026-05-26T19:47:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strikes on Gaza City building kill at least two Palestinians",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-gaza-city-building-kill-least-two-palestinians",
-      "published_date": "2026-05-26T19:44:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel seizes control of historic Nabi Samuel mosque from Islamic waqf",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-seizes-control-historic-nabi-samuel-mosque-islamic-waqf",
-      "published_date": "2026-05-26T16:46:22+00:00",
       "category": "Local Events"
     }
   ]
