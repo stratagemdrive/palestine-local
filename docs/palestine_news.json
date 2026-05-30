@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-30T00:13:46.217263+00:00",
-  "story_count": 93,
+  "last_updated": "2026-05-30T12:01:59.442876+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/what-hegseths-comments-at-shangri-la-dialogue-say-about-us-foreign-policy?traffic_source=rss",
+      "published_date": "2026-05-30T11:07:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio says Trump envoy Barrack to step down from Syria post",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss",
+      "published_date": "2026-05-30T10:34:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Khamenei adviser says Trump 'betraying diplomacy'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/khamenei-adviser-says-trump-betraying-diplomacy",
+      "published_date": "2026-05-30T09:34:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal?traffic_source=rss",
+      "published_date": "2026-05-30T07:30:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance?traffic_source=rss",
+      "published_date": "2026-05-30T06:29:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "White House says Trump will accept only a deal that meets US red lines",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-says-trump-will-accept-only-deal-meets-us-red-lines",
+      "published_date": "2026-05-30T05:30:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
       "source": "Al Jazeera",
@@ -102,186 +144,165 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US-Iran 60-day proposal: What we know",
+      "title": "Israel issues new expulsion orders as forces press deeper into Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-issues-new-expulsion-orders-forces-press-deeper-lebanon",
+      "published_date": "2026-05-30T11:54:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel issues new expulsion orders as forces press deeper into Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-issues-new-expulsion-orders-forces-press-deeper-lebanon",
+      "published_date": "2026-05-30T11:50:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes kill one and wound others in Deir al-Balah in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-one-and-wound-others-deir-al-balah-gaza",
+      "published_date": "2026-05-30T11:05:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel launches more than 10 strikes across southern Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss",
-      "published_date": "2026-05-29T10:23:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/israel-launches-more-than-10-strikes-across-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-05-30T10:57:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
+      "title": "Damage seen in northern Israel after Hezbollah launches rocket barrages",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss",
-      "published_date": "2026-05-29T07:22:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/damage-seen-in-northern-israel-after-hezbollah-launches-rocket-barrages?traffic_source=rss",
+      "published_date": "2026-05-30T10:13:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "France calls on prosecutor to investigate Israeli abuse of activist on Gaza-bound flotilla",
+      "title": "On the Greek island of Rhodes, I skipped the beach to visit a pasha's library",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-calls-prosecutor-investigate-israeli-abuse-activist-gaza-bound",
-      "published_date": "2026-05-29T07:09:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/greek-island-rhodes-i-skipped-beach-visit-pashas-library",
+      "published_date": "2026-05-30T09:39:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "US diplomats on Trump's Abraham Accords",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-diplomats-trumps-abraham-accords",
-      "published_date": "2026-05-29T04:49:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
+      "title": "Police fire tear gas during protest outside New Jersey ICE facility",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
-      "published_date": "2026-05-28T23:18:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bessent says no sanctions relief before Hormuz reopens and uranium surrendered",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bessent-says-no-sanctions-relief-hormuz-reopens-and-uranium-surrendered",
-      "published_date": "2026-05-28T21:49:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US lawmaker says Congress has failed to assert its authority",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmaker-says-congress-has-failed-assert-its-authority",
-      "published_date": "2026-05-30T00:02:00+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/police-fire-tear-gas-during-protest-outside-new-jersey-ice-facility?traffic_source=rss",
+      "published_date": "2026-05-30T09:28:36+00:00",
       "category": "Military"
     },
     {
-      "title": "UK maritime agency cautions vessels amid US military operations near Iran",
+      "title": "Israeli claims about an Iran 'threat' were always a lie. Now we have proof",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-maritime-agency-cautions-vessels-amid-us-military-operations-near",
-      "published_date": "2026-05-29T23:52:07+00:00",
+      "url": "https://www.middleeasteye.net/opinion/israeli-claims-about-iran-threat-were-always-lie-now-we-have-proof",
+      "published_date": "2026-05-30T09:06:58+00:00",
       "category": "Military"
     },
     {
-      "title": "Hezbollah claims 22 attacks on Israeli forces in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-22-attacks-israeli-forces-southern-lebanon",
-      "published_date": "2026-05-29T23:43:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ICE agent arrested over shooting of Venezuelan man in US immigration raid",
+      "title": "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid?traffic_source=rss",
-      "published_date": "2026-05-29T22:52:50+00:00",
+      "url": "https://www.aljazeera.com/news/2026/5/30/ukraine-drones-strike-russian-oil-facility-as-kyiv-and-moscow-trade-blows?traffic_source=rss",
+      "published_date": "2026-05-30T08:54:31+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli strikes in south Lebanon kill 11, including paramedic",
+      "title": "Israel kills three and wounds others in strikes on southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-south-lebanon-kill-11-including-paramedic",
-      "published_date": "2026-05-29T21:45:14+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-and-wounds-others-strikes-southern-lebanon",
+      "published_date": "2026-05-30T08:48:33+00:00",
       "category": "Military"
     },
     {
-      "title": "UAE joined US-Israeli war against Iran from the outset: Report",
+      "title": "Hezbollah says fired rockets at north Israel town",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uae-joined-us-israeli-campaign-against-iran-outset-report",
-      "published_date": "2026-05-29T20:59:37+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-fired-rockets-north-israel-town",
+      "published_date": "2026-05-30T08:38:48+00:00",
       "category": "Military"
     },
     {
-      "title": "Polish president threatens to strip Ukraine’s Zelenskyy of top state honour",
+      "title": "Israel orders forced displacement to north of Lebanon’s Zahrani River",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-orders-forced-displacement-north-lebanons-zahrani-river",
+      "published_date": "2026-05-30T06:54:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-546",
+      "published_date": "2026-05-30T06:39:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tasnim: Hormuz would remain under Iran’s authority under proposed US deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tasnim-hormuz-would-remain-under-irans-authority-under-proposed-us-deal",
+      "published_date": "2026-05-30T06:20:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran rejects ‘should and must’ language from Western powers, Baghaei says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-rejects-should-and-must-language-western-powers-baghaei-says",
+      "published_date": "2026-05-30T05:56:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "President Pezeshkian says Iran ready for ‘dignified framework’ to end war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/president-pezeshkian-says-iran-ready-dignified-framework-end-war",
+      "published_date": "2026-05-30T05:47:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hegseth: US is ‘more than capable’ of resuming war with Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-us-more-capable-resuming-war-iran",
+      "published_date": "2026-05-30T04:57:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Frustration in Lebanon as Israel expands invasion",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/polish-president-threatens-to-strip-ukraines-zelenskyy-of-top-state-honour?traffic_source=rss",
-      "published_date": "2026-05-29T20:56:38+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
+      "published_date": "2026-05-30T04:36:17+00:00",
       "category": "Military"
     },
     {
-      "title": "Israel says it will sever all ties to UN's Guterres after inclusion in sexual violence report",
+      "title": "Video: Flotilla volunteer details torture after seizure in international waters",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-says-it-will-sever-all-ties-uns-guterres-after-inclusion-sexual-violence-report",
-      "published_date": "2026-05-29T20:22:03+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-flotilla-volunteer-details-torture-after-seizure-international",
+      "published_date": "2026-05-30T04:27:14+00:00",
       "category": "Military"
     },
     {
-      "title": "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/netanyahu-says-israeli-forces-have-crossed-lebanons-litani-river?traffic_source=rss",
-      "published_date": "2026-05-29T19:48:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss",
-      "published_date": "2026-05-29T19:13:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian rate of losses in Ukraine almost triples in one year",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss",
-      "published_date": "2026-05-29T18:28:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romania to expel Russian consul after residential drone strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/romania-to-expel-russian-consul-after-residential-drone-strike?traffic_source=rss",
-      "published_date": "2026-05-29T18:18:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike in southern Lebanon kills eight Syrians, including children",
+      "title": "Israeli forces demolish homes in southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-southern-lebanon-kills-eight-syrians-including-children",
-      "published_date": "2026-05-29T18:17:51+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-demolish-homes-southern-lebanon",
+      "published_date": "2026-05-30T04:23:01+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli fighter jets strike village in south Lebanon",
+      "title": "Voting ongoing in snap elections in Malta, governing party expected to win",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss",
-      "published_date": "2026-05-29T18:15:07+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/5/30/voting-ongoing-in-snap-elections-in-malta-governing-party-expected-to-win?traffic_source=rss",
+      "published_date": "2026-05-30T08:22:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli attacks kill 14 in Lebanon as Pentagon hosts security talks",
+      "title": "Satire, social media and India’s Gen Z revolt",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river?traffic_source=rss",
-      "published_date": "2026-05-29T15:59:26+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/30/satire-social-media-and-indias-gen-z-revolt?traffic_source=rss",
+      "published_date": "2026-05-30T07:05:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Rats, raw sewage, skin diseases: Israel’s siege is ravaging Gaza’s displaced",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/israel-siege-gaza-health-crisis/",
-      "published_date": "2026-05-29T13:20:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How a Gaza-bound aid convoy unravelled attempting to enter Haftar-controlled eastern Libya",
+      "title": "Video: Israel attacks children’s playground in Gaza, reports of deaths and injuries",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-gaza-bound-aid-convoy-unravelled-haftar-controlled-eastern-libya",
-      "published_date": "2026-05-29T13:09:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC kills two Kurds who were in hiding, say rights groups",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-kills-two-kurds-who-were-hiding-say-rights-groups",
-      "published_date": "2026-05-29T11:54:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s Netanyahu orders army to seize 70 percent of Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-netanyahu-orders-army-seize-70-percent-gaza",
-      "published_date": "2026-05-29T10:27:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s Netanyahu orders army to seize 70 percent of Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israels-netanyahu-orders-army-seize-70-percent-gaza",
-      "published_date": "2026-05-29T10:12:53+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israel-attacks-childrens-playground-gaza-reports-deaths-and",
+      "published_date": "2026-05-30T05:32:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Global agencies warn of summer fuel shortages if Hormuz disruption continues",
@@ -365,13 +386,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/26/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
       "published_date": "2026-05-26T11:23:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Tanker carrying Saudi crude set to arrive in Japan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-carrying-saudi-crude-set-arrive-japan",
-      "published_date": "2026-05-23T06:02:08+00:00",
       "category": "Energy"
     },
     {
@@ -515,6 +529,13 @@
       "category": "Economy"
     },
     {
+      "title": "Petition forces UK debate on Israeli lobbying in British politics",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/petition-forces-uk-debate-israeli-lobbying-british-politics",
+      "published_date": "2026-05-30T04:41:14+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/29/arbitrary-measures-lula-slams-us-terror-designation-for-brazil-gangs?traffic_source=rss",
@@ -645,13 +666,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-rises-after-israeli-strike-gaza-city-home",
       "published_date": "2026-05-27T22:17:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss",
-      "published_date": "2026-05-27T20:13:40+00:00",
       "category": "Local Events"
     }
   ]
