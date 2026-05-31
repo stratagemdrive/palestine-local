@@ -1,8 +1,57 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-31T00:05:52.596986+00:00",
-  "story_count": 96,
+  "last_updated": "2026-05-31T12:06:05.374262+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "France requests UN Security Council emergency meeting on Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-requests-un-security-council-emergency-meeting-lebanon",
+      "published_date": "2026-05-31T11:12:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Labour triumphs in Malta election, preliminary results show",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/labour-triumphs-in-malta-election-preliminary-results-show?traffic_source=rss",
+      "published_date": "2026-05-31T10:48:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump tightens terms on Iran war deal, US media say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
+      "published_date": "2026-05-31T09:15:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
+      "published_date": "2026-05-31T08:29:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump: US forces will withdraw after Hormuz reopens, nuclear issue resolved",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-us-forces-will-withdraw-after-hormuz-reopens-nuclear-issue",
+      "published_date": "2026-05-31T06:59:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Video: Lebanese PM says 'scorched-earth policy’ will not ensure Israel’s security",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-lebanese-pm-says-scorched-earth-policy-will-not-ensure-israels",
+      "published_date": "2026-05-31T06:15:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NYT: Trump sent revised proposal with toughened terms back to Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nyt-trump-sent-revised-proposal-toughened-terms-back-iran",
+      "published_date": "2026-05-31T05:43:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US says it is ‘more than capable’ of resuming war on Iran",
       "source": "Middle East Eye",
@@ -95,59 +144,122 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US imposes fresh sanctions targeting Iranian entities",
+      "title": "Israeli strike near hospital in southern Lebanon wounds 13 medics",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-imposes-fresh-sanctions-targeting-iranian-entities",
-      "published_date": "2026-05-29T20:37:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-near-hospital-southern-lebanon-wounds-13-medics",
+      "published_date": "2026-05-31T11:52:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran rejects Trump's terms of deal to lift Hormuz blockade",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-rejects-trumps-terms-deal-lift-hormuz-blockade",
-      "published_date": "2026-05-29T19:54:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Pakistan will likely refuse to join the Abraham Accords",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/why-pakistan-will-likely-refuse-joining-abraham-accords",
-      "published_date": "2026-05-29T19:02:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump heads into Situation Room to potentially finalise Iran deal",
+      "title": "Rio’s Forever War",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/trump-heads-into-situation-room-to-potentially-finalise-iran-deal?traffic_source=rss",
-      "published_date": "2026-05-29T19:01:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss",
+      "published_date": "2026-05-31T11:24:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says no final deal reached despite ongoing talks with US",
+      "title": "Syria says missing chess champion’s six children likely killed under Assad",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-final-deal-reached-despite-ongoing-talks-us",
-      "published_date": "2026-05-29T18:40:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/syria-missing-chess-champion-six-children-killed-under-assad",
+      "published_date": "2026-05-31T11:10:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says no agreement reached with US, Strait of Hormuz decision must be joint",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-agreement-reached-us-strait-hormuz-decision-must-be-joint",
-      "published_date": "2026-05-29T17:40:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says ‘final determination’ to be made on possible Iran deal",
+      "title": "Israeli forces cross Lebanon’s Litani River and seize 12th century castle",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal?traffic_source=rss",
-      "published_date": "2026-05-29T17:10:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss",
+      "published_date": "2026-05-31T11:10:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel seizes strategic castle as it expands invasion of south Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-seizes-strategic-castle-it-expands-invasion-south-lebanon",
+      "published_date": "2026-05-31T10:42:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel seizes strategic castle as it expands invasion of south Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-seizes-strategic-castle-it-expands-invasion-south-lebanon",
+      "published_date": "2026-05-31T10:08:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian drone attacks hit multiple Russian targets, including refinery",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/ukrainian-drone-attacks-hit-multiple-russian-targets-including-refinery?traffic_source=rss",
+      "published_date": "2026-05-31T10:07:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's Ghalibaf says no US deal without tangible results",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-qalibaf-says-no-us-deal-without-tangible-results",
+      "published_date": "2026-05-31T10:00:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah drone strike kills Israeli soldier, says army",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-drone-strike-kills-israeli-soldier-says-army",
+      "published_date": "2026-05-31T08:55:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-547",
+      "published_date": "2026-05-31T07:11:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes kill several in southern Lebanon, state media reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-several-southern-lebanon-state-media-reports",
+      "published_date": "2026-05-31T06:49:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel broadcasts images of forces at Beaufort Castle after capture claim",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-broadcasts-images-forces-beaufort-castle-after-capture-claim",
+      "published_date": "2026-05-31T06:37:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel claims control of strategic Beaufort Castle in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-claims-control-strategic-beaufort-castle-southern-lebanon",
+      "published_date": "2026-05-31T06:26:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US soldiers injured during Iranian missile attack in Kuwait, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-soldiers-injured-during-iranian-missile-attack-kuwait-report-says",
+      "published_date": "2026-05-31T06:12:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: Israeli strike hits crowded market in Gaza City",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-strike-hits-crowded-market-gaza-city",
+      "published_date": "2026-05-31T05:46:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Situation in north ‘uncontrollable’ after Hezbollah barrage, Israeli media says",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/situation-north-uncontrollable-after-hezbollah-barrage-israeli-media",
       "published_date": "2026-05-31T00:05:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Israel to expand Lebanon invasion; US-Tehran deal in limbo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
+      "published_date": "2026-05-31T00:00:50+00:00",
       "category": "Military"
     },
     {
@@ -172,116 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israeli strike near Nabatieh hospital in Lebanon kills at least one person",
+      "title": "Three offshore platforms reportedly resume production at Iran's South Pars gas field",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-near-nabatieh-hospital-lebanon-kills-least-one-person",
-      "published_date": "2026-05-30T21:33:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cafe owner says UK police tried to recruit him to spy on Palestine Action",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cafe-owner-says-uk-police-tried-recruit-him-spy-palestine-action",
-      "published_date": "2026-05-30T20:54:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu to hold security talks as Israel escalates attacks on Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-hold-security-talks-israel-escalates-attacks-lebanon",
-      "published_date": "2026-05-30T20:43:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin says drone that crashed in Romania likely Ukrainian",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/putin-says-drone-that-crashed-in-romania-likely-ukrainian?traffic_source=rss",
-      "published_date": "2026-05-30T20:23:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is the war in Ukraine entering a new phase?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss",
-      "published_date": "2026-05-30T20:12:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
-      "published_date": "2026-05-30T19:48:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill paramedic and civilian across south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-paramedic-and-civilian-across-south-lebanon",
-      "published_date": "2026-05-30T19:28:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says it disabled vessel attempting to reach Iranian port",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-disabled-vessel-attempting-reach-iranian-port",
-      "published_date": "2026-05-30T18:19:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "22 killed as truck carrying refugees overturns in Afghanistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss",
-      "published_date": "2026-05-30T18:06:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli and Lebanese military delegations meet in Washington",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-and-lebanese-military-delegations-meet-washington",
-      "published_date": "2026-05-30T17:52:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon prime minister condemns Israeli ‘scorched-earth policy’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-prime-minister-condemns-israeli-scorched-earth-policy",
-      "published_date": "2026-05-30T17:39:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli-US war on Iran costs American consumers nearly $60bn",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-war-iran-costs-american-consumers-nearly-60bn",
-      "published_date": "2026-05-30T17:15:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli officials voice frustration as Hezbollah attacks intensify",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-officials-voice-frustration-hezbollah-attacks-intensify",
-      "published_date": "2026-05-30T16:58:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss",
-      "published_date": "2026-05-30T16:44:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon death toll climbs to 3,371 as Israeli strikes continue",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-climbs-3371-israeli-strikes-continue",
-      "published_date": "2026-05-30T16:42:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE joined US-Israeli war against Iran from the outset: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-joined-us-israeli-war-against-iran-outset-report",
-      "published_date": "2026-05-30T16:25:40+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-offshore-platforms-reportedly-resume-production-irans-south-pars",
+      "published_date": "2026-05-31T11:59:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Euphrates flooding displaces thousands in Syria's Deir Ezzor",
@@ -536,6 +543,41 @@
       "category": "Economy"
     },
     {
+      "title": "Why European enemies of Jews and Palestinians embraced Zionism",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/why-european-enemies-jews-and-palestinians-embraced-zionism",
+      "published_date": "2026-05-31T08:55:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
+      "published_date": "2026-05-31T08:49:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Holder Gauff beaten by Potapova; Sabalenka solid at French Open",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/31/holder-gauff-beaten-by-potapova-sabalenka-solid-at-french-open?traffic_source=rss",
+      "published_date": "2026-05-31T08:26:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Missing Syrian chess champion’s children likely dead, authorities say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/missing-syrian-chess-champions-children-likely-dead-authorities-say?traffic_source=rss",
+      "published_date": "2026-05-31T07:22:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Nigeria’s ‘algorithmic apothecary’ fuels a surge in risky herbal cures",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/how-nigerias-algorithmic-apothecary-fuels-a-surge-in-risky-herbal-cures?traffic_source=rss",
+      "published_date": "2026-05-31T05:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Women bear the brunt of DRC’s Ebola outbreak",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/women-bear-the-brunt-of-drcs-ebola-outbreak?traffic_source=rss",
@@ -638,41 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss",
       "published_date": "2026-05-29T10:28:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHO chief visits DRC amidst Ebola crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss",
-      "published_date": "2026-05-29T10:24:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspensions, arrests, dissolutions: Tunisia intensifies its crackdown on NGOs",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/suspensions-arrests-dissolutions-tunisia-intensifies-crackdown-ngos",
-      "published_date": "2026-05-29T10:05:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Are we witnessing a 21st century homeland crusade?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/are-we-witnessing-21st-century-homeland-crusade",
-      "published_date": "2026-05-29T09:51:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon warns Israeli strikes put heritage sites in 'serious danger'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-warns-israeli-strikes-put-heritage-sites-serious-danger",
-      "published_date": "2026-05-29T09:06:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza parents brave dental dilemma: Costly treatment or food on the table?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/29/gaza-parents-brave-dental-dilemma-costly-treatment-or-food-on-the-table?traffic_source=rss",
-      "published_date": "2026-05-29T08:13:57+00:00",
       "category": "Local Events"
     }
   ]
