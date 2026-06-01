@@ -1,8 +1,36 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-05-31T12:06:05.374262+00:00",
-  "story_count": 97,
+  "last_updated": "2026-06-01T00:11:08.707622+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Germany warns over Israel's advance into southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-warns-over-israels-advance-southern-lebanon",
+      "published_date": "2026-05-31T20:30:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran submits new amendments, rejects Trump's ceasefire changes: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-submits-new-amendments-rejects-trumps-ceasefire-changes-report",
+      "published_date": "2026-05-31T19:33:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says no conclusions can be drawn from ongoing US talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-conclusions-can-be-drawn-ongoing-us-talks",
+      "published_date": "2026-05-31T17:45:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Security Council to hold emergency meeting on Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-security-council-hold-emergency-meeting-lebanon",
+      "published_date": "2026-05-31T16:53:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France requests UN Security Council emergency meeting on Lebanon",
       "source": "Middle East Eye",
@@ -116,172 +144,158 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistani officials hold talks with Rubio in Washington",
+      "title": "Israeli strike on souther Lebanon kills eight, including three women",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistani-officials-hold-talks-rubio-washington",
-      "published_date": "2026-05-29T23:35:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-souther-lebanon-kills-eight-including-three-women",
+      "published_date": "2026-05-31T22:02:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN: “100% of Gaza” should be for Palestinians",
+      "title": "Israeli ministers who backed ethnic cleansing of Palestinians join New York parade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-ministers-who-backed-ethnic-cleansing-palestinians-join-new-york-parade",
+      "published_date": "2026-05-31T21:53:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/un-100-of-gaza-should-be-for-palestinians?traffic_source=rss",
-      "published_date": "2026-05-29T21:49:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/31/nicaragua-confirms-death-in-custody-of-indigenous-leader-brooklyn-rivera?traffic_source=rss",
+      "published_date": "2026-05-31T21:38:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran denies ceasefire deal with US is “finalised”",
+      "title": "Ethiopia to vote in first elections since Tigray peace deal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/iran-denies-ceasefire-deal-with-us-is?traffic_source=rss",
-      "published_date": "2026-05-29T21:10:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss",
+      "published_date": "2026-05-31T20:57:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "How realistic is Trump’s Iran framework?",
+      "title": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/how-realistic-is-trumps-iran-framework?traffic_source=rss",
-      "published_date": "2026-05-29T21:10:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli strike near hospital in southern Lebanon wounds 13 medics",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-near-hospital-southern-lebanon-wounds-13-medics",
-      "published_date": "2026-05-31T11:52:50+00:00",
+      "url": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
+      "published_date": "2026-05-31T20:12:58+00:00",
       "category": "Military"
     },
     {
-      "title": "Rio’s Forever War",
+      "title": "Israel weighs major escalation in Lebanon, including Beirut strikes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-weighs-major-escalation-lebanon-including-beirut-strikes",
+      "published_date": "2026-05-31T20:01:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli claims about an Iran 'threat' were always a lie. Now we have proof",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-claims-about-iran-threat-were-always-lie-now-we-have-proof",
+      "published_date": "2026-05-31T19:15:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US measure to deepen Israel military cooperation faces bipartisan pushback",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss",
-      "published_date": "2026-05-31T11:24:16+00:00",
+      "url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
+      "published_date": "2026-05-31T18:52:24+00:00",
       "category": "Military"
     },
     {
-      "title": "Syria says missing chess champion’s six children likely killed under Assad",
+      "title": "Israeli strike on Gaza cafe kills two, wounds 12",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/syria-missing-chess-champion-six-children-killed-under-assad",
-      "published_date": "2026-05-31T11:10:28+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-cafe-kills-two-wounds-12",
+      "published_date": "2026-05-31T18:47:16+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli forces cross Lebanon’s Litani River and seize 12th century castle",
+      "title": "US Congress moves to deepen military ties with Israel: Why it matters",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss",
-      "published_date": "2026-05-31T11:10:14+00:00",
+      "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
+      "published_date": "2026-05-31T18:40:46+00:00",
       "category": "Military"
     },
     {
-      "title": "Israel seizes strategic castle as it expands invasion of south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-seizes-strategic-castle-it-expands-invasion-south-lebanon",
-      "published_date": "2026-05-31T10:42:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel seizes strategic castle as it expands invasion of south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-seizes-strategic-castle-it-expands-invasion-south-lebanon",
-      "published_date": "2026-05-31T10:08:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian drone attacks hit multiple Russian targets, including refinery",
+      "title": "The largest Israeli advance into Lebanon in years",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/ukrainian-drone-attacks-hit-multiple-russian-targets-including-refinery?traffic_source=rss",
-      "published_date": "2026-05-31T10:07:15+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
+      "published_date": "2026-05-31T18:36:02+00:00",
       "category": "Military"
     },
     {
-      "title": "Iran's Ghalibaf says no US deal without tangible results",
+      "title": "Qatar condemns Israel's expanding attacks on Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-qalibaf-says-no-us-deal-without-tangible-results",
-      "published_date": "2026-05-31T10:00:53+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-israels-expanding-attacks-lebanon",
+      "published_date": "2026-05-31T18:26:50+00:00",
       "category": "Military"
     },
     {
-      "title": "Hezbollah drone strike kills Israeli soldier, says army",
+      "title": "Israel coordinated Lebanon escalation with US: Report",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-drone-strike-kills-israeli-soldier-says-army",
-      "published_date": "2026-05-31T08:55:10+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-coordinated-lebanon-escalation-us-report",
+      "published_date": "2026-05-31T18:08:22+00:00",
       "category": "Military"
     },
     {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-547",
-      "published_date": "2026-05-31T07:11:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill several in southern Lebanon, state media reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-several-southern-lebanon-state-media-reports",
-      "published_date": "2026-05-31T06:49:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel broadcasts images of forces at Beaufort Castle after capture claim",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-broadcasts-images-forces-beaufort-castle-after-capture-claim",
-      "published_date": "2026-05-31T06:37:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel claims control of strategic Beaufort Castle in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-claims-control-strategic-beaufort-castle-southern-lebanon",
-      "published_date": "2026-05-31T06:26:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US soldiers injured during Iranian missile attack in Kuwait, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-soldiers-injured-during-iranian-missile-attack-kuwait-report-says",
-      "published_date": "2026-05-31T06:12:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Israeli strike hits crowded market in Gaza City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-strike-hits-crowded-market-gaza-city",
-      "published_date": "2026-05-31T05:46:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Situation in north ‘uncontrollable’ after Hezbollah barrage, Israeli media says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/situation-north-uncontrollable-after-hezbollah-barrage-israeli-media",
-      "published_date": "2026-05-31T00:05:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Israel to expand Lebanon invasion; US-Tehran deal in limbo",
+      "title": "Dozens killed in explosives depot blast in northeast Myanmar",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
-      "published_date": "2026-05-31T00:00:50+00:00",
+      "url": "https://www.aljazeera.com/news/2026/5/31/dozens-killed-in-blast-at-explosives-depot-in-northeastern-myanmar?traffic_source=rss",
+      "published_date": "2026-05-31T17:42:32+00:00",
       "category": "Military"
     },
     {
-      "title": "US Congress advances American-Israeli military integration plan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
-      "published_date": "2026-05-30T22:28:09+00:00",
+      "title": "Israeli strike on Gaza fishing port kills Palestinian",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-fishing-port-kills-palestinian",
+      "published_date": "2026-05-31T17:31:05+00:00",
       "category": "Military"
     },
     {
-      "title": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
-      "published_date": "2026-05-30T21:54:55+00:00",
+      "title": "Macron: Nothing justifies Israel's escalation in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-nothing-justifies-israels-escalation-lebanon",
+      "published_date": "2026-05-31T17:15:06+00:00",
       "category": "Military"
     },
     {
-      "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
-      "published_date": "2026-05-30T21:36:42+00:00",
+      "title": "Drone strike injures four in northern Israel as Hezbollah attacks intensify",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-strike-injures-four-northern-israel-hezbollah-attacks-intensify",
+      "published_date": "2026-05-31T16:20:43+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Iran restores access to most missile bases hit by Israeli-US strikes: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-restores-access-most-missile-bases-hit-israeli-us-strikes-report",
+      "published_date": "2026-05-31T15:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Juan Manuel Santos on Colombia’s peace process, 10 years on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/31/juan-manuel-santos-on-colombias-peace-process-10-years-on?traffic_source=rss",
+      "published_date": "2026-05-31T15:44:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon death toll rises to 3,412 as Israeli attacks continue",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-rises-3412-israeli-attacks-continue",
+      "published_date": "2026-05-31T15:32:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What’s at stake in Ethiopia’s elections?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/31/whats-at-stake-in-ethiopias-elections?traffic_source=rss",
+      "published_date": "2026-05-31T19:38:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Iran ⁠restores some gas production at South Pars facility",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
+      "published_date": "2026-05-31T16:38:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "Three offshore platforms reportedly resume production at Iran's South Pars gas field",
@@ -536,11 +550,39 @@
       "category": "Economy"
     },
     {
-      "title": "Bahrain court sentenced nine people to life in prison for working with IRGC",
+      "title": "The Bazaar of Return in Aida Refugee Camp",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-bazaar-of-return-in-aida-refugee-camp?traffic_source=rss",
+      "published_date": "2026-05-31T17:15:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ethiopia’s election: Parties, coalitions and candidates explained",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss",
+      "published_date": "2026-05-31T16:40:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel kills Palestinian worker as he climbed West Bank separation wall",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-court-convicts-suspects-working-irgc",
-      "published_date": "2026-05-24T23:46:05+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-palestinian-worker-he-climbed-west-bank-separation-wall",
+      "published_date": "2026-05-31T16:36:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel kills Palestinian worker as he climbed West Bank separation wall",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-kills-palestinian-worker-who-climbed-west-bank-separation-wall",
+      "published_date": "2026-05-31T16:03:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces kill Palestinian worker near Jerusalem aparthaid wall",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-worker-near-jerusalem-aparthaid-wall",
+      "published_date": "2026-05-31T15:17:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Why European enemies of Jews and Palestinians embraced Zionism",
@@ -645,41 +687,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/eight-students-arrested-in-deadly-kenyan-school-dorm-fire?traffic_source=rss",
       "published_date": "2026-05-29T17:34:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harvard Medical School graduate dedicates speech to Lebanon and Palestine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/harvard-medical-school-graduate-dedicates-speech-to-lebanon-and-palestine?traffic_source=rss",
-      "published_date": "2026-05-29T13:06:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN urges ‘urgent’ action to protect children online",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/un-urges-urgent-action-to-protect-children-online?traffic_source=rss",
-      "published_date": "2026-05-29T12:12:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Higher proportion of pro-Palestine than Labour candidates won at local elections",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/higher-proportion-pro-palestine-labour-candidates-won-local-elections",
-      "published_date": "2026-05-29T11:37:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss",
-      "published_date": "2026-05-29T10:37:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss",
-      "published_date": "2026-05-29T10:28:18+00:00",
       "category": "Local Events"
     }
   ]
