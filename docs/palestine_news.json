@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-03T15:24:50.345986+00:00",
+  "last_updated": "2026-06-04T01:45:19.036931+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "Trump seeks to split Lebanon talks from war on Iran negotiations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss",
+      "published_date": "2026-06-03T23:22:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump reiterates demand for Iran’s enriched uranium",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-reiterates-demand-irans-enriched-uranium",
+      "published_date": "2026-06-03T22:28:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US House passes Iran war powers resolution in rare pushback against Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
+      "published_date": "2026-06-03T22:10:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Expanding the Abraham Accords is a pipe dream. Except, maybe, in Kuwait",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/abraham-accords-kuwait-trump-iran/",
+      "published_date": "2026-06-03T21:22:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian foreign minister says contact with US not cut off",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-says-contact-us-not-cut",
+      "published_date": "2026-06-03T20:48:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio says US remains committed to Nato but wants major changes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-remains-committed-nato-wants-major-changes",
+      "published_date": "2026-06-03T19:50:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US House speaker says Trump focused on reopening Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-house-speaker-says-trump-focused-reopening-hormuz",
+      "published_date": "2026-06-03T18:33:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US cites forced labour concerns as grounds for new tariffs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss",
+      "published_date": "2026-06-03T17:10:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss",
+      "published_date": "2026-06-03T17:07:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rubio hopes Lebanon-Israel talks will produce action plan",
       "source": "Middle East Eye",
@@ -81,206 +144,143 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
+      "title": "Fire erupts after Israel targets residential area in Gaza City, at least six killed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-erupts-after-israel-targets-residential-area-gaza-city-least-six",
+      "published_date": "2026-06-04T00:51:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump considers ending ceasefire with Iran if American troops killed: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-considers-ending-ceasefire-iran-if-american-troops-killed-report",
+      "published_date": "2026-06-04T00:41:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tensions simmer after latest US-Iran clashes in Gulf",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
-      "published_date": "2026-06-02T19:05:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
+      "published_date": "2026-06-04T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rubio says US will only provide sanctions relief to Iran in exchange for nuclear concessions",
+      "title": "Israeli forces attack, advance into areas in south western Syria",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/rubio-says-us-will-only-provide-sanctions-relief-iran-exchange-nuclear-concessions",
-      "published_date": "2026-06-02T18:09:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-attack-advance-areas-south-western-syria",
+      "published_date": "2026-06-03T23:58:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Prominent Greek shipping mogul willing to pay Iranian transit toll in Hormuz",
+      "title": "Israel and Lebanon agree to implement a ceasefire",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/greek-shipping-mogul-says-he-would-pay-iranian-toll",
-      "published_date": "2026-06-02T17:25:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-and-lebanon-agree-implement-ceasefire",
+      "published_date": "2026-06-03T23:40:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Iran talks happening 'continuously'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-talks-happening-continuously",
-      "published_date": "2026-06-02T17:25:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hezbollah will not accept 'partial ceasefire' with Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-will-not-accept-partial-ceasefire-israel",
-      "published_date": "2026-06-02T17:11:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli attacks on Lebanon continue after Trump saying they’d stop",
+      "title": "Kuwait releases CCTV footage of deadly Iranian strike on airport",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-attacks-on-lebanon-continue-after-trump-saying-theyd-stop?traffic_source=rss",
-      "published_date": "2026-06-02T13:53:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss",
+      "published_date": "2026-06-03T23:02:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Fresh round of Israel-Lebanon ceasefire talks begin in Washington",
+      "title": "Israeli strike on medical team in southern Lebanon kills paramedic",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fresh-round-israel-lebanon-ceasefire-talks-begins-washington",
-      "published_date": "2026-06-02T13:51:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-medical-team-southern-lebanon-kills-paramedic",
+      "published_date": "2026-06-03T22:40:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli parliament advances bill to dissolve itself and trigger early elections",
+      "title": "Trump says Strait of Hormuz will reopen once deal is signed",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-parliament-advances-bill-dissolve-itself-and-trigger-early-elections",
-      "published_date": "2026-06-02T12:28:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-strait-hormuz-will-reopen-once-deal-signed",
+      "published_date": "2026-06-03T21:55:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Every world leader who has visited China in 2026 in one chart",
+      "title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/2/every-world-leader-who-has-visited-china-in-2026-in-one-chart?traffic_source=rss",
-      "published_date": "2026-06-02T11:28:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
+      "published_date": "2026-06-03T21:15:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says it hit US naval vessel, resumes talks with Washington",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-says-hit-us-naval-vessel-as-it-resumes-talks-washington",
+      "published_date": "2026-06-03T21:14:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US rejects Iranian claim its missile interceptor damaged Kuwait airport",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-rejects-iranian-claim-its-missile-interceptor-damaged-kuwait-airport",
+      "published_date": "2026-06-03T20:22:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah says it attacked Israeli forces at Beaufort Castle",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-attacked-israeli-forces-beaufort-castle",
+      "published_date": "2026-06-03T19:26:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Centcom says 125 vessels redirected under Iran port blockade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-125-vessels-redirected-under-iran-port-blockade",
+      "published_date": "2026-06-03T19:04:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gunfire erupts in Mogadishu before protests against Somali president’s rule",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss",
+      "published_date": "2026-06-03T18:45:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran faces a new energy imbalance, but its options are limited",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss",
+      "published_date": "2026-06-03T18:19:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran defends attacks on Kuwait and Bahrain as ‘self-defence’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-defends-attacks-kuwait-and-bahrain-self-defence",
+      "published_date": "2026-06-03T18:10:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Latest developments in Iran’s attacks on Kuwait and Bahrain",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/latest-developments-irans-attacks-kuwait-and-bahrain",
+      "published_date": "2026-06-03T17:27:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio says Iran’s military capabilities have been reduced but threat remains",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-irans-military-capabilities-have-been-reduced-threat-remains",
+      "published_date": "2026-06-03T17:05:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes hit several towns in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-hit-several-towns-southern-lebanon",
+      "published_date": "2026-06-03T16:44:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/pro-palestine-us-army-veteran-adam-hamawy-wins-new-jersey-primary?traffic_source=rss",
       "published_date": "2026-06-03T14:59:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three British navy personnel killed in helicopter crash in England",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/three-british-navy-personnel-killed-in-helicopter-crash-in-england?traffic_source=rss",
-      "published_date": "2026-06-03T14:57:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah claims rocket attack targeting troops in northern Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-rocket-attack-targeting-troops-northern-israel",
-      "published_date": "2026-06-03T14:03:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More Israelis leaving country than arriving: Press review",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/more-israelis-leaving-country-arriving-press-review",
-      "published_date": "2026-06-03T14:01:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel detains Palestine international women’s football player",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/3/israel-detains-palestine-international-football-player?traffic_source=rss",
-      "published_date": "2026-06-03T13:41:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kuwait says Iran launched 30 ballistic missiles and drones at country",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-says-iran-launched-30-ballistic-missiles-and-drones-country",
-      "published_date": "2026-06-03T13:14:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel intercepts two projectiles fired from Lebanon, military says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-intercepts-two-projectiles-fired-lebanon-military-says",
-      "published_date": "2026-06-03T13:02:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-and-bahrain-attacked-as-iran-launches-missile-and-drone-barrage?traffic_source=rss",
-      "published_date": "2026-06-03T12:56:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel is building more military posts in Gaza, satellite imagery shows",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/israel-is-building-more-military-posts-in-gaza-satellite-imagery-shows?traffic_source=rss",
-      "published_date": "2026-06-03T12:01:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 63 wounded in Iran's attack on Kuwait",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-63-wounded-irans-attack-kuwait",
-      "published_date": "2026-06-03T11:59:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, Kuwait, Bahrain hit: Is the war in the Gulf escalating again?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/iran-kuwait-bahrain-hit-is-the-war-in-the-gulf-escalating-again?traffic_source=rss",
-      "published_date": "2026-06-03T11:42:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s invasion of southern Lebanon devastates centuries of history",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/israels-invasion-of-southern-lebanon-devastates-centuries-of-history?traffic_source=rss",
-      "published_date": "2026-06-03T10:41:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed in Iranian attack on Kuwait",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-iranian-attack-kuwait",
-      "published_date": "2026-06-03T10:35:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel intercepts 'hostile aircraft' from Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-intercepts-hostile-aircraft-lebanon",
-      "published_date": "2026-06-03T10:16:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How social media changes the way we see war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/all-hail/2026/6/3/how-social-media-changes-the-way-we-see-war?traffic_source=rss",
-      "published_date": "2026-06-03T09:29:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
-      "published_date": "2026-06-03T01:26:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese health sector faces growing crisis as casualties mount",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-health-sector-faces-growing-crisis-casualties-mount",
-      "published_date": "2026-06-03T00:35:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why women go to war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/all-hail/2026/6/3/why-women-go-to-war?traffic_source=rss",
-      "published_date": "2026-06-03T00:26:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US denies Iranian claim of strike on Fifth Fleet headquarters",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-denies-iranian-claim-strike-fifth-fleet-headquarters",
-      "published_date": "2026-06-03T00:18:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC says US struck communications tower on Qeshm Island",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-us-struck-communications-tower-qeshm-island",
-      "published_date": "2026-06-03T00:11:15+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Bahrain arrests 15 people accused of links to IRGC",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-arrests-15-people-accused-links-irgc",
+      "published_date": "2026-06-03T21:09:15+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Drones light up Taipei’s night sky for Computex trade show",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/drones-light-up-taipeis-night-sky-for-computex-trade-show?traffic_source=rss",
@@ -550,11 +557,32 @@
       "category": "Economy"
     },
     {
-      "title": "Markets rally amid hopes of US-Iran deal",
+      "title": "Nigeria’s second-chance schools: women balancing study and survival",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
-      "published_date": "2026-05-27T21:14:12+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/6/4/nigerias-second-chance-schools-women-balancing-study-and-survival?traffic_source=rss",
+      "published_date": "2026-06-04T01:16:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/who-is-adam-hamawy-doctor-who-served-in-gaza-is-on-the-path-to-us-congress?traffic_source=rss",
+      "published_date": "2026-06-03T21:56:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strikes near Tyre hospital put youngest patient at risk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss",
+      "published_date": "2026-06-03T19:37:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli raids and settler attacks reported across occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-raids-and-settler-attacks-reported-across-occupied-west-bank",
+      "published_date": "2026-06-03T17:49:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Egyptian-born doctor and Gaza volunteer wins New Jersey Democratic primary",
@@ -666,34 +694,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/6/2/trapped-gaza-patients-flown-to-iraq-stuck-in-administrative-limbo?traffic_source=rss",
       "published_date": "2026-06-02T14:01:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egyptian activist in 'real danger' in Oman as she faces extradition over social media posts",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/oman-threatens-deportation-egyptian-woman-and-newborn-baby-days-after-giving-birth",
-      "published_date": "2026-06-02T13:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al-Aqsa imam warns against Israeli bill to ban Muslim call to prayer",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/al-aqsa-imam-warns-against-israeli-bill-aiming-ban-muslim-call-prayer",
-      "published_date": "2026-06-02T11:20:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How social media is turning African life into content at a cost",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost?traffic_source=rss",
-      "published_date": "2026-06-02T11:19:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US gunman kills six family members and takes his own life",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-gunman-kills-six-family-members-and-takes-his-own-life?traffic_source=rss",
-      "published_date": "2026-06-02T10:46:58+00:00",
       "category": "Local Events"
     }
   ]
