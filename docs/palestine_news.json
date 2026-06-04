@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-04T01:45:19.036931+00:00",
-  "story_count": 99,
+  "last_updated": "2026-06-04T13:54:08.429837+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "What do Turkiye and Indonesia want from bilateral talks?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/what-do-turkiye-and-indonesia-want-from-bilateral-talks?traffic_source=rss",
+      "published_date": "2026-06-04T12:59:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump condemns 'unpatriotic' US House vote to end war on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-condemns-unpatriotic-us-house-vote-end-war-iran",
+      "published_date": "2026-06-04T12:20:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon president says Wednesday's deal 'last chance' for comprehensive truce",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-wednesdays-deal-last-chance-comprehensive-truce",
+      "published_date": "2026-06-04T11:35:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exclusive: UK says Jordan Al-Aqsa custodianship 'must be respected'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-says-jordans-al-aqsa-custodianship-must-be-respected-after-reported-us-israeli-plans",
+      "published_date": "2026-06-04T10:47:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US House votes to end Trump’s Iran war: Does it matter?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/us-house-votes-to-end-trumps-iran-war-does-it-matter?traffic_source=rss",
+      "published_date": "2026-06-04T09:49:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Who is Khalilur Rahman, Bangladesh FM who beat Cyprus to UNGA presidency?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/who-is-khalilur-rahman-bangladesh-fm-who-beat-cyprus-to-unga-presidency?traffic_source=rss",
+      "published_date": "2026-06-04T08:50:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump seeks to split Lebanon talks from war on Iran negotiations",
       "source": "Al Jazeera",
@@ -102,46 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump says Iran has agreed to not have a nuclear weapon",
+      "title": "Polanski and Corbyn join calls for Britons who served in Israeli army to be tracked",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-has-agreed-not-have-nuclear-weapon",
-      "published_date": "2026-06-03T12:08:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/polanski-and-corbyn-join-calls-british-citizens-who-served-israeli-military-be-tracked",
+      "published_date": "2026-06-04T13:29:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump confirms he was 'perturbed' at Netanyahu over war in Lebanon",
+      "title": "Hezbollah chief demands 'comprehensive' ceasefire and Israeli withdrawal",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-confirms-he-was-perturbed-netanyahu-over-war-lebanon",
-      "published_date": "2026-06-03T11:11:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-demands-comprehensive-ceasefire-and-israeli-withdrawal",
+      "published_date": "2026-06-04T13:20:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "US says Lebanon-Israel talks progressing towards comprehensive agreement",
+      "title": "Revealed: Israel’s curriculum for ‘influencing public consciousness’",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/investigation-leaked-idf-propaganda-israel-intelligence/",
+      "published_date": "2026-06-04T12:47:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian press review: Iran’s inaction over Israel’s war in Lebanon questioned by critics",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-lebanon-israel-talks-progressing-towards-comprehensive-agreement",
-      "published_date": "2026-06-03T00:31:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/iranian-press-review-critics-question-irans-inaction-over-israels-war-lebanon",
+      "published_date": "2026-06-04T12:41:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump to attend delayed White House Correspondents’ Dinner after shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/trump-to-attend-delayed-white-house-correspondents-dinner-after-shooting?traffic_source=rss",
-      "published_date": "2026-06-03T00:11:17+00:00",
-      "category": "Diplomacy"
+      "title": "Hezbollah chief says northern Israel not safe as long as Lebanese villages are bombed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-northern-israel-not-safe-long-lebanese-villages-are",
+      "published_date": "2026-06-04T12:34:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
-      "published_date": "2026-06-02T21:59:47+00:00",
-      "category": "Diplomacy"
+      "title": "IRGC commander says Israel must withdraw to pre-war positions in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-israel-must-withdraw-pre-war-positions-lebanon",
+      "published_date": "2026-06-04T11:21:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump administration scraps $1.8bn ‘anti-weaponisation fund’",
+      "title": "Satellite imagery appears to show damage at US air base in Kuwait after Iranian attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/satellite-imagery-appears-show-damage-us-air-base-kuwait-following-iranian-attack",
+      "published_date": "2026-06-04T10:20:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon president says ceasefire may come into effect within a day of parties' approval",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-ceasefire-may-come-effect-within-day-parties",
+      "published_date": "2026-06-04T09:48:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One UN peacekeeper killed and two wounded in south Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-un-peacekeeper-killed-and-two-wounded-south-lebanon",
+      "published_date": "2026-06-04T09:23:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: US House of Representatives votes to block further war on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss",
-      "published_date": "2026-06-02T21:44:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/video-us-house-of-representatives-votes-to-block-further-war-on-iran?traffic_source=rss",
+      "published_date": "2026-06-04T08:38:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ban on Hasan Piker and Cenk Uygur should terrify the entire 'British public'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/ban-hasan-piker-and-cenk-uygur-should-terrify-entire-british-public",
+      "published_date": "2026-06-04T06:33:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-551",
+      "published_date": "2026-06-04T06:07:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Fire erupts after Israel targets residential area in Gaza City, at least six killed",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
+      "title": "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
-      "published_date": "2026-06-03T21:15:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says it hit US naval vessel, resumes talks with Washington",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-says-hit-us-naval-vessel-as-it-resumes-talks-washington",
-      "published_date": "2026-06-03T21:14:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US rejects Iranian claim its missile interceptor damaged Kuwait airport",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-rejects-iranian-claim-its-missile-interceptor-damaged-kuwait-airport",
-      "published_date": "2026-06-03T20:22:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah says it attacked Israeli forces at Beaufort Castle",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-attacked-israeli-forces-beaufort-castle",
-      "published_date": "2026-06-03T19:26:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Centcom says 125 vessels redirected under Iran port blockade",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-125-vessels-redirected-under-iran-port-blockade",
-      "published_date": "2026-06-03T19:04:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gunfire erupts in Mogadishu before protests against Somali president’s rule",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss",
-      "published_date": "2026-06-03T18:45:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran faces a new energy imbalance, but its options are limited",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss",
-      "published_date": "2026-06-03T18:19:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran defends attacks on Kuwait and Bahrain as ‘self-defence’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-defends-attacks-kuwait-and-bahrain-self-defence",
-      "published_date": "2026-06-03T18:10:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latest developments in Iran’s attacks on Kuwait and Bahrain",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/latest-developments-irans-attacks-kuwait-and-bahrain",
-      "published_date": "2026-06-03T17:27:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio says Iran’s military capabilities have been reduced but threat remains",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-irans-military-capabilities-have-been-reduced-threat-remains",
-      "published_date": "2026-06-03T17:05:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes hit several towns in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-hit-several-towns-southern-lebanon",
-      "published_date": "2026-06-03T16:44:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/pro-palestine-us-army-veteran-adam-hamawy-wins-new-jersey-primary?traffic_source=rss",
-      "published_date": "2026-06-03T14:59:47+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/4/who-is-the-indian-guru-venezuelan-acting-president-delcy-rodriguez-follows?traffic_source=rss",
+      "published_date": "2026-06-04T11:04:16+00:00",
+      "category": "Energy"
     },
     {
       "title": "Is Asia facing a new currency crisis?",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Bessent says oil prices could fall quickly after Hormuz deal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bessent-says-oil-prices-could-fall-quickly-after-hormuz-deal",
-      "published_date": "2026-05-28T20:00:00+00:00",
-      "category": "Energy"
+      "title": "Rights group sues South African government over US arms exports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/rights-group-sues-south-african-government-over-us-arms-exports?traffic_source=rss",
+      "published_date": "2026-06-04T13:23:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Monsoon rain reaches Kerala 3 days late but on time to save Indian harvests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/monsoon-rain-reaches-kerala-3-days-late-but-on-time-to-save-indian-harvests?traffic_source=rss",
+      "published_date": "2026-06-04T11:10:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Grossly unfair’: Meta slams Australia’s bid to make platforms pay for news",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/4/grossly-unfair-meta-slams-australias-bid-to-make-platforms-pay-for-news?traffic_source=rss",
+      "published_date": "2026-06-04T10:56:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "Bahrain arrests 15 people accused of links to IRGC",
@@ -543,18 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "US inflation surges to three-year high amid tensions with Iran",
+      "title": "Archaeologists find ancient matrilineal society in Turkiye’s Catalhoyuk",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
-      "published_date": "2026-05-28T16:54:57+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/6/4/archaeologists-find-ancient-matrilineal-society-in-turkiyes-catalhoyuk?traffic_source=rss",
+      "published_date": "2026-06-04T13:13:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The West Bank’s Youth Unemployment Crisis",
+      "title": "Israel’s Smotrich announces plan for 2,162 homes in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/the-west-banks-youth-unemployment-crisis?traffic_source=rss",
-      "published_date": "2026-05-28T10:51:06+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/4/israels-smotrich-announces-plan-for-2162-homes-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-06-04T12:06:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel seeks to recruit ultranationalists for police unit at Al-Aqsa Mosque",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-seeks-recruit-ultranationalists-police-unit-al-aqsa-mosque",
+      "published_date": "2026-06-04T11:37:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ireland’s Black community opens up about racism after ‘George Floyd moment’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/irelands-black-community-opens-up-about-racism-after-george-floyd-moment?traffic_source=rss",
+      "published_date": "2026-06-04T10:15:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian cartoonist Marjane Satrapi, creator of 'Persopolis', dies aged 56",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-cartoonist-marjane-satrapi-creator-persopolis-dies-aged-56",
+      "published_date": "2026-06-04T10:11:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian cartoonist Marjane Satrapi, creator of 'Persopolis', dies aged 56",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iranian-cartoonist-marjane-satrapi-creator-persopolis-dies-aged-56",
+      "published_date": "2026-06-04T10:05:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nepali Mount Everest guide found alive after being missing for six days",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/nepali-mount-everest-guide-found-alive-after-being-missing-for-six-days?traffic_source=rss",
+      "published_date": "2026-06-04T09:28:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘No reshape’: Algeria prepares for elections but few hold out hope for change",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/no-reshape-algeria-prepares-legislative-elections-few-hold-hope-for-change",
+      "published_date": "2026-06-04T08:15:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel kills nine Palestinians in overnight Gaza bombardment",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-kills-nine-palestinians-overnight-gaza-bombardment",
+      "published_date": "2026-06-04T07:38:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nigeria’s second-chance schools: women balancing study and survival",
@@ -631,69 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/unprecedented-attack-inside-israeli-foreign-influence-campaign-france-local-elections",
       "published_date": "2026-06-03T10:11:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eid in Gaza was another bloodbath. The ceasefire is a lie",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/gaza-eid-bloodbath-ceasefire-lie",
-      "published_date": "2026-06-03T10:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zimbabwe’s e-tricycle crackdown puts rural women’s livelihoods at risk",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/zimbabwes-e-tricycle-crackdown-puts-rural-womens-livelihoods-at-risk?traffic_source=rss",
-      "published_date": "2026-06-03T01:23:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thailand cracks down on foreign companies using fig leaf of local ownership",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/3/thailand-cracks-down-on-foreign-companies-using-fig-leaf-of-local-ownership?traffic_source=rss",
-      "published_date": "2026-06-03T00:06:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rania al‑Abbasi’s children: The truth revealed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/rania-al%e2%80%91abbasis-children-the-truth-revealed?traffic_source=rss",
-      "published_date": "2026-06-02T23:35:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon says Israeli strikes on south kill five, wound hospital staff",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-israeli-strikes-south-kill-5-wound-hospital-staff",
-      "published_date": "2026-06-02T21:48:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia launches massive overnight attack on Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/russia-launches-massive-overnight-attack-on-ukraine?traffic_source=rss",
-      "published_date": "2026-06-02T21:01:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers torch Palestinian homes in village near Ramallah",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-settlers-torch-palestinian-homes-in-village-near-ramallah?traffic_source=rss",
-      "published_date": "2026-06-02T19:01:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli fire kills four people in Gaza, medics say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-four-people-gaza-medics-say",
-      "published_date": "2026-06-02T18:26:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Trapped’: Gaza patients flown to Iraq stuck in administrative limbo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/2/trapped-gaza-patients-flown-to-iraq-stuck-in-administrative-limbo?traffic_source=rss",
-      "published_date": "2026-06-02T14:01:23+00:00",
       "category": "Local Events"
     }
   ]
