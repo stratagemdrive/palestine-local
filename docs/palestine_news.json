@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-06T00:13:53.833103+00:00",
-  "story_count": 94,
+  "last_updated": "2026-06-06T12:03:26.613472+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Iran's World Cup squad granted US visas but some staff blocked",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/irans-world-cup-squad-granted-us-visas-some-staff-blocked",
+      "published_date": "2026-06-06T09:46:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
+      "published_date": "2026-06-06T09:18:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says US and Israeli strikes to blame for partial loss of nuclear oversight",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-and-israeli-strikes-blame-partial-loss-nuclear-oversight",
+      "published_date": "2026-06-06T09:06:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi rejects claim that Iran is using Lebanon as leverage",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-rejects-claim-iran-using-lebanon-leverage",
+      "published_date": "2026-06-06T05:04:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US raises threat assessment level for Israeli spying of officials to 'critical'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-raises-threat-assessment-level-israeli-spying-officials-critical",
+      "published_date": "2026-06-06T04:48:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says agreement with Iran will take time",
       "source": "Middle East Eye",
@@ -109,39 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US raises pressure on Cuba as it sanctions President Diaz-Canel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/us-raises-pressure-on-cuba-as-it-sanctions-president-diaz-canel?traffic_source=rss",
-      "published_date": "2026-06-05T09:17:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's Araghchi says decisions on Hormuz Strait would be made jointly with Oman",
+      "title": "Israeli tanks and drone open fire near Gaza hospital",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-decisions-hormuz-strait-would-be-made-jointly-oman",
-      "published_date": "2026-06-04T23:51:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-tanks-and-drone-open-fire-near-gaza-hospital",
+      "published_date": "2026-06-06T11:43:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’",
+      "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/democrats-force-vote-on-trumps-1-8bn-settlement-fund-in-vote-a-rama?traffic_source=rss",
-      "published_date": "2026-06-04T22:57:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
+      "published_date": "2026-06-06T10:52:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
-      "published_date": "2026-06-04T21:40:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says he does not need deal with Iran to get enriched uranium",
+      "title": "Israeli strike kills two Lebanese officers and one soldier",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-does-not-need-deal-iran-get-enriched-uranium",
-      "published_date": "2026-06-04T21:29:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-two-lebanese-officers-and-one-soldier",
+      "published_date": "2026-06-06T10:29:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian executive says US using Strait of Hormuz to 'reshape' energy markets",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russian-ceo-says-us-using-strait-hormuz-reshape-energy-markets",
+      "published_date": "2026-06-06T10:16:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s nightly pro-government rallies reveal both unity and deep divisions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/irans-nightly-pro-government-rallies-reveal-unity-deep-division",
+      "published_date": "2026-06-06T08:56:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says Iranian radar sites hit in Goruk and Qeshm Island",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss",
+      "published_date": "2026-06-06T07:03:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-553",
+      "published_date": "2026-06-06T07:00:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea’s Kim orders navy to build 10,000-tonne destroyer: State media",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/north-koreas-kim-orders-navy-to-build-10000-tonne-destroyer-state-media?traffic_source=rss",
+      "published_date": "2026-06-06T06:55:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli soldier shoots Palestinian baby dead near Hebron",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss",
+      "published_date": "2026-06-06T04:58:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Independent says economic impact of Iran war is hitting Britain",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/independent-says-economic-impact-iran-war-hitting-britain",
+      "published_date": "2026-06-06T04:14:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel launches air strikes across southern Lebanon, officials say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-air-strikes-across-southern-lebanon-officials-say",
+      "published_date": "2026-06-06T03:48:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC claims strikes on Kuwait base and US Fifth Fleet in Bahrain",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-strikes-kuwait-base-and-us-fifth-fleet-bahrain",
+      "published_date": "2026-06-06T03:40:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
+      "published_date": "2026-06-06T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran adviser says US talks deadlocked as war risks widen",
+      "title": "Amnesty chief calls for release of Gaza hospital director Abu Safia",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-adviser-says-us-talks-deadlocked-war-risks-widen",
-      "published_date": "2026-06-05T17:55:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine and Russia exchange 185 prisoners of war each",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukraine-and-russia-exchange-185-prisoners-of-war-each?traffic_source=rss",
-      "published_date": "2026-06-05T17:54:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video shows moment Israeli air strike hits car in southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/video-shows-moment-israeli-air-strike-hits-car-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-06-05T17:44:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ballistics Putin’s ‘last argument’ as Ukraine brings his army to standstill",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/ballistics-putins-last-argument-as-ukraine-brings-his-army-to-standstill?traffic_source=rss",
-      "published_date": "2026-06-05T16:52:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel sent troops to 'Azerbaijan, UAE, Iraq and Somaliland' during Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-sent-troops-azerbaijan-uae-iraq-and-somaliland-during-iran-war",
-      "published_date": "2026-06-05T15:03:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah continues operations against Israeli military forces in Southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-continues-operations-against-israeli-military-forces-southern",
-      "published_date": "2026-06-05T14:54:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas political bureau: group will not lay down arms at this time",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-political-bureau-group-will-not-lay-down-arms-time",
-      "published_date": "2026-06-05T14:41:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US denies claim that Iran fired at American vessels",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-denies-claim-iran-fired-american-vessels",
-      "published_date": "2026-06-05T14:36:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian marine drone explodes at Romanian port",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukrainian-marine-drone-explodes-at-romanian-port?traffic_source=rss",
-      "published_date": "2026-06-05T13:22:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/how-the-us-naval-blockade-has-bled-iran-of-nearly-6bn-in-oil-revenues?traffic_source=rss",
-      "published_date": "2026-06-05T13:18:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India called on to arrest Israeli reservist holidaying in country",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/india-called-arrest-israeli-reservist-holidaying-in-country",
-      "published_date": "2026-06-05T13:14:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone explosion in Romanian port spurs Ukraine war spillover fears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/drone-explosion-in-romanian-port-spurs-ukraine-war-spillover-fears?traffic_source=rss",
-      "published_date": "2026-06-05T13:09:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside Syria’s fight against the Captagon trade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/inside-syrias-fight-against-the-captagon-trade?traffic_source=rss",
-      "published_date": "2026-06-05T13:08:38+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/amnesty-chief-calls-release-gaza-hospital-director-abu-safia",
+      "published_date": "2026-06-06T05:49:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "US energy secretary links lower fuel prices to Iran resolution",
@@ -410,20 +417,6 @@
       "category": "Energy"
     },
     {
-      "title": "Voting ongoing in snap elections in Malta, governing party expected to win",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/voting-ongoing-in-snap-elections-in-malta-governing-party-expected-to-win?traffic_source=rss",
-      "published_date": "2026-05-30T08:22:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Satire, social media and India’s Gen Z revolt",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/30/satire-social-media-and-indias-gen-z-revolt?traffic_source=rss",
-      "published_date": "2026-05-30T07:05:17+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "UN says Israeli attacks leave 1.4 million in Lebanon needing aid",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-israeli-attacks-leave-14-million-lebanon-needing-aid",
@@ -522,6 +515,55 @@
       "category": "Economy"
     },
     {
+      "title": "Cockroach Janta Party rallies at New Delhi for youth protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/6/youth-led-satire-cockroach-janta-party-protests-exam-system-failures?traffic_source=rss",
+      "published_date": "2026-06-06T11:07:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Supporters of the Cockroach People’s Party hold protest in New Delhi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
+      "published_date": "2026-06-06T09:13:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Settler attacks and Israeli raids across West Bank: Wafa",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wafa-reports-settler-attacks-and-israeli-raids-across-west-bank",
+      "published_date": "2026-06-06T06:45:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Israeli forces shoot infant in the occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-forces-shoot-infant-occupied-west-bank",
+      "published_date": "2026-06-06T06:14:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Palestinians in West Bank protest amid settler raids",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-palestinians-west-bank-protest-amid-settler-raids",
+      "published_date": "2026-06-06T05:50:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US lawmakers urge Rubio to act against West Bank settlement expansion",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmakers-urge-rubio-act-against-west-bank-settlement-expansion",
+      "published_date": "2026-06-06T04:02:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN rapporteur praises Slovenian president over Palestinian flag stance",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-rapporteur-praises-slovenian-president-over-palestinian-flag-stance",
+      "published_date": "2026-06-06T03:32:31+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Hamas condemns Israel’s killing of seven-month-old baby",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-condemns-israels-killing-seven-month-old-baby",
@@ -610,55 +652,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/israel-seeks-recruit-ultranationalists-police-unit-al-aqsa-mosque",
       "published_date": "2026-06-04T11:37:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ireland’s Black community opens up about racism after ‘George Floyd moment’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/irelands-black-community-opens-up-about-racism-after-george-floyd-moment?traffic_source=rss",
-      "published_date": "2026-06-04T10:15:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian cartoonist Marjane Satrapi, creator of 'Persopolis', dies aged 56",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-cartoonist-marjane-satrapi-creator-persopolis-dies-aged-56",
-      "published_date": "2026-06-04T10:11:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian cartoonist Marjane Satrapi, creator of 'Persopolis', dies aged 56",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iranian-cartoonist-marjane-satrapi-creator-persopolis-dies-aged-56",
-      "published_date": "2026-06-04T10:05:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepali Mount Everest guide found alive after being missing for six days",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/nepali-mount-everest-guide-found-alive-after-being-missing-for-six-days?traffic_source=rss",
-      "published_date": "2026-06-04T09:28:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘No reshape’: Algeria prepares for elections but few hold out hope for change",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/no-reshape-algeria-prepares-legislative-elections-few-hold-hope-for-change",
-      "published_date": "2026-06-04T08:15:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel kills nine Palestinians in overnight Gaza bombardment",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-kills-nine-palestinians-overnight-gaza-bombardment",
-      "published_date": "2026-06-04T07:38:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria’s second-chance schools: women balancing study and survival",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/4/nigerias-second-chance-schools-women-balancing-study-and-survival?traffic_source=rss",
-      "published_date": "2026-06-04T01:16:26+00:00",
       "category": "Local Events"
     }
   ]
