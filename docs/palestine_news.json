@@ -1,8 +1,29 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-07T00:10:50.381944+00:00",
-  "story_count": 94,
+  "last_updated": "2026-06-07T12:16:48.613162+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-criticizes-us-refusal-to-grant-visas-for-world-cup-delegation?traffic_source=rss",
+      "published_date": "2026-06-07T09:19:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader?traffic_source=rss",
+      "published_date": "2026-06-07T08:45:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hezbollah official rejects claims Lebanon is bargaining chip for Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-official-rejects-claims-lebanon-bargaining-chip-iran",
+      "published_date": "2026-06-07T05:28:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump pardons former US Congress member accused of insider trading",
       "source": "Al Jazeera",
@@ -123,165 +144,158 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US Senate passes $70bn ICE funding bill: What comes next?",
+      "title": "One killed, five wounded in shooting attack in Israel: Medics",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/us-senate-passes-70bn-ice-funding-bill-what-comes-next?traffic_source=rss",
-      "published_date": "2026-06-05T16:40:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US expands Iran sanctions as Israel-backed pressure campaign grows",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-expands-iran-sanctions-israel-backed-pressure-campaign-grows",
-      "published_date": "2026-06-05T16:01:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanese President: Iran is using Lebanon as a \"bargaining chip\" with US",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-president-iran-using-lebanon-bargaining-chip-us",
-      "published_date": "2026-06-05T13:28:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hezbollah says it carried out 22 attacks on Israeli forces in south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-carried-out-22-attacks-israeli-forces-south-lebanon",
-      "published_date": "2026-06-07T00:08:24+00:00",
+      "url": "https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics?traffic_source=rss",
+      "published_date": "2026-06-07T11:14:34+00:00",
       "category": "Military"
     },
     {
-      "title": "Pope Leo says war on Iran fails Catholic ‘just war’ criteria",
+      "title": "One killed and five wounded in shooting attack in central Israel",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pope-leo-says-war-iran-fails-catholic-just-war-criteria",
-      "published_date": "2026-06-06T23:56:56+00:00",
+      "url": "https://www.middleeasteye.net/news/one-killed-five-wounded-deadly-shooting-attack-central-israel",
+      "published_date": "2026-06-07T11:11:09+00:00",
       "category": "Military"
     },
     {
-      "title": "Palestinian detained after defending himself from Israeli settler attack",
+      "title": "Israeli army issues expulsion orders for Tyre residents",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-detained-after-defending-himself-israeli-settler-attack",
-      "published_date": "2026-06-06T22:32:47+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-issues-expulsion-orders-tyre-residents",
+      "published_date": "2026-06-07T11:04:46+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli army says two soldiers killed in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-two-soldiers-killed-southern-lebanon",
-      "published_date": "2026-06-06T21:17:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon said to raise threat level on Israel spying to ‘critical’",
+      "title": "1 killed and 5 injured in Israel shootings",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
-      "published_date": "2026-06-06T21:10:36+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/1-killed-and-5-injured-in-israel-shootings?traffic_source=rss",
+      "published_date": "2026-06-07T10:53:51+00:00",
       "category": "Military"
     },
     {
-      "title": "Rights group says drone strike kills 11 in central Sudan market",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss",
-      "published_date": "2026-06-06T20:54:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss",
-      "published_date": "2026-06-06T19:38:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon raises alarm over Israel’s ‘unhinged’ spying on US officials: Report",
+      "title": "Hamas, Palestinian Islamic Jihad says shooting 'natural consequence' of settler violence",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/pentagon-raises-alarm-over-israels-unhinged-spying-us-officials-report",
-      "published_date": "2026-06-06T18:49:45+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-palestinian-islamic-jihad-says-shooting-natural-consequence",
+      "published_date": "2026-06-07T09:54:47+00:00",
       "category": "Military"
     },
     {
-      "title": "Lebanon army chief heads to Pakistan amid Iran war mediation",
+      "title": "Israeli police confirm two shooting suspects killed",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-army-chief-heads-pakistan-amid-iran-war-mediation",
-      "published_date": "2026-06-06T17:40:22+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-confirm-two-shooting-suspects-killed",
+      "published_date": "2026-06-07T09:35:04+00:00",
       "category": "Military"
     },
     {
-      "title": "100 days into the war on Iran, Trump fails to rally US support",
+      "title": "Hundred days of the US-Israel war on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss",
-      "published_date": "2026-06-06T17:04:38+00:00",
+      "url": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
+      "published_date": "2026-06-07T09:34:16+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli attacks kill 3,593 people in Lebanon since March",
+      "title": "Israeli security officials say shooting suspect is Palestinian citizen of Israel",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-3593-people-lebanon-march",
-      "published_date": "2026-06-06T16:43:26+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-security-officials-say-shooter-suspect-arab-israeli",
+      "published_date": "2026-06-07T08:57:30+00:00",
       "category": "Military"
     },
     {
-      "title": "Activists disrupt German military exhibit over arms sales to Israel",
+      "title": "The accomplishments of 100 days of war on Iran are undeniable",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss",
-      "published_date": "2026-06-06T15:34:47+00:00",
+      "url": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss",
+      "published_date": "2026-06-07T08:55:20+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli attacks in Lebanon kill 12 people, including high-ranking officers",
+      "title": "Iran after 100 days of war: The triumph of survival",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
-      "published_date": "2026-06-06T15:30:53+00:00",
+      "url": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
+      "published_date": "2026-06-07T08:52:20+00:00",
       "category": "Military"
     },
     {
-      "title": "Videos show Kuwait intercepting ballistic missiles from Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss",
-      "published_date": "2026-06-06T15:09:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Streeting branded a hypocrite after accusing Starmer of ignoring Gaza war crimes",
+      "title": "One killed, five wounded in shooting attack in Israel",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/streeting-branded-hypocrite-accusing-starmer-gaza-war-crimes",
-      "published_date": "2026-06-06T15:06:41+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-five-wounded-shooting-attack-israel",
+      "published_date": "2026-06-07T08:46:39+00:00",
       "category": "Military"
     },
     {
-      "title": "Death toll from Israeli attack on Gaza City rises",
+      "title": "Israel claims killing of Hamas commander in southern Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-attack-gaza-city-rises",
-      "published_date": "2026-06-06T14:50:49+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-claims-killing-hamas-commander-southern-gaza",
+      "published_date": "2026-06-07T08:34:55+00:00",
       "category": "Military"
     },
     {
-      "title": "Lebanese president: Israel 'will never be able to achieve their objective'",
+      "title": "Israeli forces continue to pummel southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-president-israel-will-never-be-able-achieve-their-objective",
-      "published_date": "2026-06-06T14:12:37+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-continue-pound-southern-lebanon",
+      "published_date": "2026-06-07T08:27:56+00:00",
       "category": "Military"
     },
     {
-      "title": "Lebanon and Israel’s perpetual war machine",
+      "title": "Palestinian fisherman killed by Israeli fire off central Gaza coast",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-fisherman-killed-israeli-fire-central-gaza-coast",
+      "published_date": "2026-06-07T08:18:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least a dozen injured from shooting attack near Ohio festival",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss",
-      "published_date": "2026-06-06T13:31:49+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/at-least-a-dozen-injured-from-shooting-attack-near-ohio-festival?traffic_source=rss",
+      "published_date": "2026-06-07T08:18:10+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli tanks and drone open fire near Gaza hospital",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-tanks-and-drone-open-fire-near-gaza-hospital",
-      "published_date": "2026-06-06T11:43:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+      "title": "Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
-      "published_date": "2026-06-06T10:52:07+00:00",
+      "url": "https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel?traffic_source=rss",
+      "published_date": "2026-06-07T07:59:02+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss",
+      "published_date": "2026-06-07T07:33:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-554",
+      "published_date": "2026-06-07T07:03:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two killed, 22 wounded in Israeli strike on south Lebanon, ministry says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-22-wounded-israeli-strike-south-lebanon-ministry-says",
+      "published_date": "2026-06-07T06:31:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN peacekeepers say strike violated Lebanon’s sovereignty",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-peacekeepers-say-strike-violated-lebanons-sovereignty",
+      "published_date": "2026-06-07T06:04:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How have countries around the world responded to the US-Israel war on Iran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
+      "published_date": "2026-06-07T09:35:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Tehran raises concerns over strikes at IAEA board meeting",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-raises-concerns-over-strikes-iaea-board-meeting",
+      "published_date": "2026-06-07T06:13:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘Unacceptable situation’: Minister cries foul as Jamaica suffers blackout",
@@ -410,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Three offshore platforms reportedly resume production at Iran's South Pars gas field",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-offshore-platforms-reportedly-resume-production-irans-south-pars",
-      "published_date": "2026-05-31T11:59:40+00:00",
-      "category": "Energy"
+      "title": "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress?traffic_source=rss",
+      "published_date": "2026-06-07T09:39:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "What Afghanistan’s rotten apples tell us about its non-profit sector",
@@ -520,6 +534,27 @@
       "url": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know?traffic_source=rss",
       "published_date": "2026-06-01T10:13:39+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "One killed and five wounded in shooting attack in central Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-and-five-wounded-shooting-attack-central-israel",
+      "published_date": "2026-06-07T11:45:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "For Nigeria's Shia, the US-Israeli war on Iran is personal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/for-nigeria-shia-us-israeli-war-iran-personal",
+      "published_date": "2026-06-07T08:07:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Palestinian father buries his baby killed by Israeli fire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-palestinian-father-buries-his-baby-killed-israeli-fire",
+      "published_date": "2026-06-07T05:29:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli soldier kills seven-month-old Palestinian baby, then walks away",
@@ -638,27 +673,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmakers-urge-rubio-act-against-west-bank-settlement-expansion",
       "published_date": "2026-06-06T04:02:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN rapporteur praises Slovenian president over Palestinian flag stance",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-rapporteur-praises-slovenian-president-over-palestinian-flag-stance",
-      "published_date": "2026-06-06T03:32:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamas condemns Israel’s killing of seven-month-old baby",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-condemns-israels-killing-seven-month-old-baby",
-      "published_date": "2026-06-05T22:11:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian baby killed after Israeli forces fire on family car",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-baby-killed-after-israeli-forces-fire-family-car",
-      "published_date": "2026-06-05T20:45:19+00:00",
       "category": "Local Events"
     }
   ]
