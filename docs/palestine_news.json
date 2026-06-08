@@ -1,8 +1,57 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-07T12:16:48.613162+00:00",
-  "story_count": 96,
+  "last_updated": "2026-06-08T00:16:02.515758+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "White House pushing diplomacy over escalation, Axios reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-pushing-diplomacy-over-escalation-axios-reports",
+      "published_date": "2026-06-07T23:59:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Netanyahu has ‘no choice’ but to accept Iran deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-netanyahu-has-no-choice-accept-iran-deal",
+      "published_date": "2026-06-07T22:43:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s top diplomat briefs UK, Turkey and Pakistan after Israel strikes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-top-diplomat-briefs-uk-turkey-and-pakistan-after-israel-strikes",
+      "published_date": "2026-06-07T20:56:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump said he was 'not happy' with Israel’s Beirut attack, which triggered Iranian missile fire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-said-he-was-not-happy-israels-beirut-attack-which-triggered",
+      "published_date": "2026-06-07T20:18:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hezbollah MP: Resistance defends Lebanon where the state failed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss",
+      "published_date": "2026-06-07T19:13:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lawsuit seeks to stop Trump’s planned White House UFC match",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match?traffic_source=rss",
+      "published_date": "2026-06-07T18:53:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss",
+      "published_date": "2026-06-07T16:49:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
       "source": "Al Jazeera",
@@ -95,193 +144,151 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Slovenia’s new prime minister takes down Palestinian flag in pro-Israel turn",
+      "title": "IRGC reports operation against armed groups in northern Iraq",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/slovenias-new-prime-minister-takes-down-palestinian-flag-pro-israel-turn",
-      "published_date": "2026-06-05T21:56:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-reports-operation-against-armed-groups-northern-iraq",
+      "published_date": "2026-06-08T00:09:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
+      "title": "Iran war live: Trump urges restraint after Iranian missile attack on Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
-      "published_date": "2026-06-05T21:02:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
+      "published_date": "2026-06-08T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Slovenia’s new prime minister takes down Palestinian flag in pro-Israel turn",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/slovenias-new-prime-minister-takes-down-palestinian-flag-pro-israel-turn",
-      "published_date": "2026-06-05T20:37:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump hails jobs surge, says Iran talks ‘going well’",
+      "title": "North Korea’s Kim Jong Un inspects munitions at weapons factory",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
-      "published_date": "2026-06-05T20:36:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2?traffic_source=rss",
+      "published_date": "2026-06-07T22:38:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Judge strikes down Trump bar on asylum, visa processing for 39 countries",
+      "title": "Iran says it hit military targets in Israel after ceasefire violations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-hit-military-targets-israel-after-ceasefire-violations",
+      "published_date": "2026-06-07T22:18:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK urges Iran and Israel to de-escalate after renewed attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-urges-iran-and-israel-de-escalate-after-renewed-attacks",
+      "published_date": "2026-06-07T22:06:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel closes all Gaza crossings after Iranian missile fire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-closes-all-gaza-crossings-after-iranian-missile-fire",
+      "published_date": "2026-06-07T21:43:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-39-countries?traffic_source=rss",
-      "published_date": "2026-06-05T18:50:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss",
+      "published_date": "2026-06-07T21:33:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Is the latest US ceasefire deal for Lebanon meaningless?",
+      "title": "Israel vows to intensify attacks across Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-vows-intensify-attacks-across-lebanon",
+      "published_date": "2026-06-07T21:12:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
-      "published_date": "2026-06-05T18:45:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
+      "published_date": "2026-06-07T21:08:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump admin’s cancellation of wind energy projects causes business turmoil",
+      "title": "Iran, Iraq and Syria close airspace after missile fire at Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-iraq-and-syria-close-airspace-after-missile-fire-israel",
+      "published_date": "2026-06-07T20:52:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria shuts southern air space following Iranian missile attack on Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-shuts-southern-air-space-following-iranian-missile-attack-israel",
+      "published_date": "2026-06-07T20:37:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump tells Netanyahu not to retaliate after Iran missile fire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-tells-netanyahu-not-retaliate-after-iran-missile-fire",
+      "published_date": "2026-06-07T20:29:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran fires missiles at Israel after it attacked Beirut",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss",
-      "published_date": "2026-06-05T18:12:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
+      "published_date": "2026-06-07T20:12:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "One killed, five wounded in shooting attack in Israel: Medics",
+      "title": "Iran partially closes western airspace amid missile fire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-partially-closes-western-airspace-amid-missile-fire",
+      "published_date": "2026-06-07T20:10:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC says missile attack on Israel was a ‘warning’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-missile-attack-israel-was-warning",
+      "published_date": "2026-06-07T20:08:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC says it targeted Israel’s Ramat David airbase",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-targeted-israels-ramat-david-airbase",
+      "published_date": "2026-06-07T19:59:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel says air defences intercept all Iranian missiles fired so far",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-air-defences-intercept-all-iranian-missiles-fired-so-far",
+      "published_date": "2026-06-07T19:49:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian World Cup excitement dulled by war and economic crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics?traffic_source=rss",
-      "published_date": "2026-06-07T11:14:34+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
+      "published_date": "2026-06-07T19:43:42+00:00",
       "category": "Military"
     },
     {
-      "title": "One killed and five wounded in shooting attack in central Israel",
+      "title": "Iran fires missiles at Israel in retaliation for continued attacks on Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/one-killed-five-wounded-deadly-shooting-attack-central-israel",
-      "published_date": "2026-06-07T11:11:09+00:00",
+      "url": "https://www.middleeasteye.net/news/iran-fires-missiles-after-israeli-attacks-lebanon",
+      "published_date": "2026-06-07T19:41:03+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli army issues expulsion orders for Tyre residents",
+      "title": "Israel says it intercepted two Iranian ballistic missiles",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-issues-expulsion-orders-tyre-residents",
-      "published_date": "2026-06-07T11:04:46+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-intercepted-two-iranian-ballistic-missiles",
+      "published_date": "2026-06-07T19:26:45+00:00",
       "category": "Military"
     },
     {
-      "title": "1 killed and 5 injured in Israel shootings",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/1-killed-and-5-injured-in-israel-shootings?traffic_source=rss",
-      "published_date": "2026-06-07T10:53:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas, Palestinian Islamic Jihad says shooting 'natural consequence' of settler violence",
+      "title": "Oil producers approve supply boost as Middle East tensions persist",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-palestinian-islamic-jihad-says-shooting-natural-consequence",
-      "published_date": "2026-06-07T09:54:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli police confirm two shooting suspects killed",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-confirm-two-shooting-suspects-killed",
-      "published_date": "2026-06-07T09:35:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hundred days of the US-Israel war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
-      "published_date": "2026-06-07T09:34:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli security officials say shooting suspect is Palestinian citizen of Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-security-officials-say-shooter-suspect-arab-israeli",
-      "published_date": "2026-06-07T08:57:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The accomplishments of 100 days of war on Iran are undeniable",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss",
-      "published_date": "2026-06-07T08:55:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran after 100 days of war: The triumph of survival",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
-      "published_date": "2026-06-07T08:52:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed, five wounded in shooting attack in Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-five-wounded-shooting-attack-israel",
-      "published_date": "2026-06-07T08:46:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel claims killing of Hamas commander in southern Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-claims-killing-hamas-commander-southern-gaza",
-      "published_date": "2026-06-07T08:34:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces continue to pummel southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-continue-pound-southern-lebanon",
-      "published_date": "2026-06-07T08:27:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian fisherman killed by Israeli fire off central Gaza coast",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-fisherman-killed-israeli-fire-central-gaza-coast",
-      "published_date": "2026-06-07T08:18:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least a dozen injured from shooting attack near Ohio festival",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/at-least-a-dozen-injured-from-shooting-attack-near-ohio-festival?traffic_source=rss",
-      "published_date": "2026-06-07T08:18:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel?traffic_source=rss",
-      "published_date": "2026-06-07T07:59:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss",
-      "published_date": "2026-06-07T07:33:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-554",
-      "published_date": "2026-06-07T07:03:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two killed, 22 wounded in Israeli strike on south Lebanon, ministry says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-22-wounded-israeli-strike-south-lebanon-ministry-says",
-      "published_date": "2026-06-07T06:31:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN peacekeepers say strike violated Lebanon’s sovereignty",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-peacekeepers-say-strike-violated-lebanons-sovereignty",
-      "published_date": "2026-06-07T06:04:01+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-producers-approve-supply-boost-middle-east-tensions-persist",
+      "published_date": "2026-06-07T23:51:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "How have countries around the world responded to the US-Israel war on Iran?",
@@ -410,20 +417,6 @@
       "category": "Energy"
     },
     {
-      "title": "What’s at stake in Ethiopia’s elections?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/31/whats-at-stake-in-ethiopias-elections?traffic_source=rss",
-      "published_date": "2026-05-31T19:38:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran ⁠restores some gas production at South Pars facility",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
-      "published_date": "2026-05-31T16:38:31+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress?traffic_source=rss",
@@ -534,6 +527,27 @@
       "url": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know?traffic_source=rss",
       "published_date": "2026-06-01T10:13:39+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Nigerian forces rescue 360 captives from Boko Haram",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/nigerian-forces-rescue-360-captives-from-boko-haram?traffic_source=rss",
+      "published_date": "2026-06-07T16:58:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss",
+      "published_date": "2026-06-07T16:03:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s World Cup squad lands in Mexico amid US visa row",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss",
+      "published_date": "2026-06-07T15:20:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "One killed and five wounded in shooting attack in central Israel",
@@ -652,27 +666,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wafa-reports-settler-attacks-and-israeli-raids-across-west-bank",
       "published_date": "2026-06-06T06:45:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video: Israeli forces shoot infant in the occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-forces-shoot-infant-occupied-west-bank",
-      "published_date": "2026-06-06T06:14:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video: Palestinians in West Bank protest amid settler raids",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-palestinians-west-bank-protest-amid-settler-raids",
-      "published_date": "2026-06-06T05:50:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US lawmakers urge Rubio to act against West Bank settlement expansion",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmakers-urge-rubio-act-against-west-bank-settlement-expansion",
-      "published_date": "2026-06-06T04:02:05+00:00",
       "category": "Local Events"
     }
   ]
