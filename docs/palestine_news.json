@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-09T00:10:16.680570+00:00",
-  "story_count": 92,
+  "last_updated": "2026-06-09T13:39:06.240740+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Venezuelans flood capital Caracas streets, demanding free elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/venezuelans-flood-capital-caracas-streets-demanding-free-elections?traffic_source=rss",
+      "published_date": "2026-06-09T12:30:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/italys-foreign-minister-slams-israels-ben-gvir-over-flip-flop-comments?traffic_source=rss",
+      "published_date": "2026-06-09T12:00:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump booed ‘thunderously’ at NBA Finals: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/trump-booed-thunderously-at-nba-finals-what-we-know?traffic_source=rss",
+      "published_date": "2026-06-09T11:38:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/russian-attacks-kill-5-in-ukraine-as-zelenskyy-hails-talks-with-us-envoys?traffic_source=rss",
+      "published_date": "2026-06-09T10:18:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump courts boos at historic New York NBA Finals appearance",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/9/trump-courts-boos-at-historic-new-york-nba-finals-appearance?traffic_source=rss",
+      "published_date": "2026-06-09T09:40:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Iran deal in ‘final throes’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-says-iran-deal-in-final?traffic_source=rss",
+      "published_date": "2026-06-09T08:13:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China’s Xi, North Korea’s Kim pledge to boost ties at rare Pyongyang summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/9/xi-kim-pledge-to-boost-ties-at-rare-pyongyang-summit?traffic_source=rss",
+      "published_date": "2026-06-09T07:29:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss",
+      "published_date": "2026-06-09T07:25:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says US will declare ‘complete victory’ over Iran within two weeks",
       "source": "Middle East Eye",
@@ -88,60 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pezeshkian says Iran still at negotiating table",
+      "title": "Gaza flotilla activists considering legal action after pleas for help ignored by UK government",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-iran-still-negotiating-table",
-      "published_date": "2026-06-08T12:30:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/uk-flotilla-activists-considering-legal-action-against-foreign-office-after-pleas-help-ignored",
+      "published_date": "2026-06-09T12:57:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Israel and Iran want ‘immediate ceasefire’",
+      "title": "Houthis re-enter the war with Israel, leaving Yemenis torn between pride and fear",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-israel-and-iran-want-immediate-ceasefire",
-      "published_date": "2026-06-08T11:10:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/houthis-re-enter-war-israel-leaving-yemenis-torn-between-pride-and-fear",
+      "published_date": "2026-06-09T12:22:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump urges Israel and Iran to stop ‘shooting’ after renewed attacks",
+      "title": "At least eight killed by Israeli strike on Tyre before order",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-urges-israel-and-iran-stop-shooting-after-renewed-attacks",
-      "published_date": "2026-06-08T10:02:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-8-killed-israeli-strike-tyre-warning",
+      "published_date": "2026-06-09T12:08:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel’s strikes on Iran expose Trump’s failure to restrain Netanyahu",
+      "title": "Video captures Russian attack in Ukraine’s Zaporizhzhia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israels-strikes-on-iran-expose-trumps-failure-to-restrain-netanyahu?traffic_source=rss",
-      "published_date": "2026-06-08T09:16:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/video-captures-russian-attack-in-ukraines-zaporizhzhia?traffic_source=rss",
+      "published_date": "2026-06-09T12:05:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "White House pushing diplomacy over escalation, Axios reports",
+      "title": "Israel's Ben Gvir calls for abducting Lebanese 'women and youth' to pressure Hezbollah",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-pushing-diplomacy-over-escalation-axios-reports",
-      "published_date": "2026-06-07T23:59:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/israels-ben-gvir-proposes-arresting-lebanese-women-and-youth-pressure-hezbollah",
+      "published_date": "2026-06-09T11:32:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Netanyahu has ‘no choice’ but to accept Iran deal",
+      "title": "Iran buries two air defence personnel killed in Israeli raid",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-netanyahu-has-no-choice-accept-iran-deal",
-      "published_date": "2026-06-07T22:43:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-buries-two-air-defence-personnel-killed-israeli-raid",
+      "published_date": "2026-06-09T10:38:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran’s top diplomat briefs UK, Turkey and Pakistan after Israel strikes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-top-diplomat-briefs-uk-turkey-and-pakistan-after-israel-strikes",
-      "published_date": "2026-06-07T20:56:55+00:00",
-      "category": "Diplomacy"
+      "title": "Hundred days of Israel’s latest war on Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss",
+      "published_date": "2026-06-09T10:37:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump said he was 'not happy' with Israel’s Beirut attack, which triggered Iranian missile fire",
+      "title": "Hezbollah thanks Iran for retaliation, calls for closer Lebanon-Tehran ties",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-said-he-was-not-happy-israels-beirut-attack-which-triggered",
-      "published_date": "2026-06-07T20:18:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-thanks-iran-retaliation-calls-closer-lebanon-tehran-ties",
+      "published_date": "2026-06-09T10:26:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli air strikes continue in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-airstrikes-continue-southern-lebanon",
+      "published_date": "2026-06-09T08:52:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel expands forcible displacement orders in southern Lebanon's Tyre",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-expands-forcible-displacement-orders-southern-lebanons-tyre",
+      "published_date": "2026-06-09T06:55:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-556",
+      "published_date": "2026-06-09T06:38:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Quds Force chief announces ‘security belt’ from Hormuz to Red Sea",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/quds-force-chief-announces-security-belt-hormuz-red-sea",
+      "published_date": "2026-06-09T06:16:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Apache helicopter pilots safe after Hormuz incident",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-apache-helicopter-pilots-safe-after-hormuz-incident",
+      "published_date": "2026-06-09T05:59:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran will no longer accept endless talks. It is creating deterrence on its own terms",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/iran-will-no-longer-accept-endless-talks-it-creating-deterrence-its-own-terms",
+      "published_date": "2026-06-09T05:52:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Air defence infrastructure was priority in Iran strikes, Israeli media reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-defense-infrastructure-was-priority-iran-strikes-report-says",
+      "published_date": "2026-06-09T05:48:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting",
@@ -179,109 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "‘We basically lost’: Tel Aviv residents react after Israel-Iran strikes",
+      "title": "Indian crew rescued after attack on oil tanker off Oman",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/we-basically-lost-tel-aviv-residents-react-after-israel-iran-strikes?traffic_source=rss",
-      "published_date": "2026-06-08T20:54:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CCTV captures moment of deadly strike on Zaporizhzhia, Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/cctv-captures-moment-of-deadly-strike-on-zaporizhzhia-ukraine?traffic_source=rss",
-      "published_date": "2026-06-08T20:14:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Vulnerability exposed': War on Iran will change how the US bases troops in Gulf",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/vulnerability-exposed-war-iran-will-change-how-us-bases-troops-gulf",
-      "published_date": "2026-06-08T20:03:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Floods tear through homes and farmland in China’s Guizhou province",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/floods-tear-through-homes-and-farmland-in-chinas-guizhou-province?traffic_source=rss",
-      "published_date": "2026-06-08T20:02:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy investigates Israeli minister over abuse of Gaza flotilla activists",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-investigates-israeli-minister-over-abuse-gaza-flotilla-activists",
-      "published_date": "2026-06-08T20:02:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘If we go there, we’ll be killed’: Inside Israeli-occupied southern Lebanon",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/israeli-occupied-southern-lebanon-ceasefire-survival/",
-      "published_date": "2026-06-08T19:54:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says 'new security belt' will stretch across key sea routes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-new-security-belt-will-stretch-across-key-sea-routes",
-      "published_date": "2026-06-08T19:31:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO jets shoot down drone over Latvia, extending Ukraine spillover fears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/nato-jets-shoot-down-drone-over-latvia-extending-ukraine-spillover-fears?traffic_source=rss",
-      "published_date": "2026-06-08T18:54:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Moment Israeli helicopter fires missile on Gaza City target",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/moment-israeli-helicopter-fires-missile-on-gaza-city-target?traffic_source=rss",
-      "published_date": "2026-06-08T18:36:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's Ghalibaf says US tanker attack proves Washington rejects dialogue",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qalibaf-says-us-tanker-attack-proves-washington-rejects-dialogue",
-      "published_date": "2026-06-08T18:10:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maersk is still shipping weapons parts to Israel despite denial, new report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/maersk-still-shipping-weapons-parts-israel-despite-denial-last-year-report-says",
-      "published_date": "2026-06-08T17:00:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Republican lawmaker calls for new probe into Israel’s USS Liberty attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/republican-lawmaker-calls-new-probe-israels-uss-liberty-attack",
-      "published_date": "2026-06-08T16:53:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestine Action: Judge refuses recusing self from sentence hearing amid bias claims",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/judge-palestine-action-trial-refuses-remove-himself-sentencing-hearing-amid-bias-claims",
-      "published_date": "2026-06-08T16:30:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says Kerem Shalom crossing will reopen for 'Gaza aid'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-kerem-shalom-crossing-will-reopen-gaza-aid",
-      "published_date": "2026-06-08T16:29:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia says missile from Yemen was heading for regional country",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-yemen-missile-was-headed-regional-country",
-      "published_date": "2026-06-08T16:01:51+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/indian-crew-rescued-after-attack-on-oil-tanker-off-oman?traffic_source=rss",
+      "published_date": "2026-06-09T08:37:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "How extreme weather and heat could affect players at World Cup 2026",
@@ -382,18 +389,11 @@
       "category": "Energy"
     },
     {
-      "title": "How the war has made Iran’s water crisis worse",
+      "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/2/how-the-war-has-made-irans-water-crisis-worse?traffic_source=rss",
-      "published_date": "2026-06-02T11:13:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "If Muhammad will not go to the mountain, Trump will find him from space",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/if-muhammad-will-not-go-mountain-trump-will-find-him-space",
-      "published_date": "2026-06-02T07:24:37+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss",
+      "published_date": "2026-06-09T09:17:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "How significant is Xi Jinping’s visit to North Korea?",
@@ -494,18 +494,39 @@
       "category": "Economy"
     },
     {
-      "title": "Refugee women in CAR face childbirth risks amid US funding cuts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/2/refugee-women-in-car-face-childbirth-risks-amid-us-funding-cuts?traffic_source=rss",
-      "published_date": "2026-06-02T11:14:18+00:00",
-      "category": "Economy"
+      "title": "UK says there should be 'no economic involvement in illegal settlements' for first time",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-says-there-should-be-no-economic-involvement-illegal-settlements-first-time",
+      "published_date": "2026-06-09T13:16:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "China launches crackdown on trade secret leaks in AI and high-tech sectors",
+      "title": "UK sanctions entities linked to illegal West Bank settlements",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-launches-crackdown-trade-secret-leaks-ai-and-high-tech-sectors",
-      "published_date": "2026-06-02T10:50:29+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-sanctions-entities-linked-illegal-west-bank-settlements",
+      "published_date": "2026-06-09T11:50:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Study shows Gaza a major reason for collapse in support for Labour",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/study-shows-gaza-major-reason-collapse-labour-support",
+      "published_date": "2026-06-09T11:01:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza Health Ministry demands release of detained medics",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-health-ministry-demands-release-detained-medics",
+      "published_date": "2026-06-09T08:47:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Israeli forces arrest Palestinian man and use him as human shield",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-forces-arrest-palestinian-man-and-use-him-human-shield",
+      "published_date": "2026-06-09T06:03:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gaza cancer patient waits for a chance at life",
@@ -610,41 +631,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-palestinian-father-buries-his-baby-killed-israeli-fire",
       "published_date": "2026-06-07T05:29:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli soldier kills seven-month-old Palestinian baby, then walks away",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-kills-seven-month-old-palestinian-baby-then-walks-away",
-      "published_date": "2026-06-06T23:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France pushes sanctions over West Bank settler violence",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-pushes-sanctions-over-west-bank-settler-violence",
-      "published_date": "2026-06-06T22:20:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli attack on Gaza tent camp kills eight people",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-gaza-tent-camp-kills-eight-people",
-      "published_date": "2026-06-06T21:39:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli soldier kills seven-month-old Palestinian baby, then walks away",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-soldier-kills-seven-month-old-baby-then-walks-away",
-      "published_date": "2026-06-06T20:30:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US doctor recovers from Ebola in Germany as DRC cases surge to 488",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/us-doctor-recovers-from-ebola-in-germany-as-drc-cases-surge-to-488?traffic_source=rss",
-      "published_date": "2026-06-06T20:01:29+00:00",
       "category": "Local Events"
     }
   ]
