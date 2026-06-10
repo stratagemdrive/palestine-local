@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-09T13:39:06.240740+00:00",
-  "story_count": 90,
+  "last_updated": "2026-06-10T00:19:37.725074+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "US bombardment of Iran 'proportional and limited', says congressman Mike Johnson",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-bombardment-iran-proportional-and-limited-says-congressman-mike",
+      "published_date": "2026-06-09T23:54:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
+      "published_date": "2026-06-09T21:17:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada confirms opening of Gordie Howe Bridge, despite Trump’s threats",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/canada-confirms-opening-of-gordie-howe-bridge-despite-trumps-threats?traffic_source=rss",
+      "published_date": "2026-06-09T21:01:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says downing of US helicopter not a big deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-downing-us-helicopter-no-big-deal",
+      "published_date": "2026-06-09T20:39:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran foreign minister says foreign forces face 'constant risk' of being caught in crossfire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-says-foreign-forces-face-constant-risk-being",
+      "published_date": "2026-06-09T19:52:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says foreign forces in proximity to its territory should leave",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-foreign-forces-proximity-its-territory-should-leave",
+      "published_date": "2026-06-09T18:52:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why ICC prosecutor Karim Khan was suspended - and what could happen next",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/why-icc-prosecutor-karim-khan-was-suspended-and-what-could-happen-next",
+      "published_date": "2026-06-09T17:11:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US attacks Iran after Trump calls for response to Apache helicopter downing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss",
+      "published_date": "2026-06-09T16:54:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Does Trump have real leverage over Netanyahu — and could he use it?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/did-netanyahu-really-defy-trump-in-bombing-iran?traffic_source=rss",
+      "published_date": "2026-06-09T14:48:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Venezuelans flood capital Caracas streets, demanding free elections",
       "source": "Al Jazeera",
@@ -81,67 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran says talks with US continue through Pakistan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-talks-us-continue-through-pakistan",
-      "published_date": "2026-06-08T22:35:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ICC bureau suspends Prosecutor Karim Khan pending final vote on misconduct probe",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/icc-bureau-suspends-prosecutor-karim-khan-pending-vote-on-misconduct",
-      "published_date": "2026-06-08T22:03:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’",
+      "title": "US military launches ‘self-defence strikes’ targeting Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/un-human-rights-leader-calls-for-cuba-sanctions-to-be-lifted-immediately?traffic_source=rss",
-      "published_date": "2026-06-08T21:43:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss",
+      "published_date": "2026-06-09T23:55:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump urged Netanyahu to limit Iran strikes, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-urged-netanyahu-limit-iran-strikes-report-says",
-      "published_date": "2026-06-08T21:30:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU planning to add to $1.5 trillion sanctions hit on Russia",
+      "title": "Afghan authorities open fire on protesters over women’s dress code",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia?traffic_source=rss",
-      "published_date": "2026-06-08T21:25:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss",
+      "published_date": "2026-06-09T23:51:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says it has ‘no trust’ in US as peace talks stall",
+      "title": "Iran foreign minister vows that no US attack or threat will be left 'unanswered'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-has-no-trust-us-peace-talks-stall",
-      "published_date": "2026-06-08T20:24:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-vows-no-us-attack-or-threat-will-be-left",
+      "published_date": "2026-06-09T23:28:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "China’s Xi Jinping and North Korea’s Kim Jong Un meet in Pyongyang",
+      "title": "Lebanon says 11 killed in Israeli strikes on Tyre",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-11-killed-israeli-strikes-tire",
+      "published_date": "2026-06-09T22:44:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Explosions in Hormozgan as Centcom says Iran strikes underway, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-hormozgan-centcom-says-iran-strikes-underway-report-says",
+      "published_date": "2026-06-09T22:04:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/chinas-xi-jinping-and-north-koreas-kim-jong-un-meet-in-pyongyang?traffic_source=rss",
-      "published_date": "2026-06-08T19:36:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss",
+      "published_date": "2026-06-09T22:03:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hezbollah official says group had no direct contact with Trump",
+      "title": "Opinion: How a regional defence pact could deal the final blow to Israel's violent expansionism",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-official-says-group-had-no-direct-contact-trump",
-      "published_date": "2026-06-08T13:57:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-how-regional-defence-pact-could-deal-final-blow-israels-violent",
+      "published_date": "2026-06-09T21:49:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel halts strikes on Iran at Trump's request, says report",
+      "title": "US says it is striking Iran in response to helicopter shootdown",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-halts-strikes-iran-trumps-request-says-report",
-      "published_date": "2026-06-08T12:32:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-striking-iran-response-helicopter-shootdown",
+      "published_date": "2026-06-09T21:36:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces kill nine in Tyre after issuing forced displacement orders",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss",
+      "published_date": "2026-06-09T21:01:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What will the fallout be from the unrest in Pakistan-administered Kashmir?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
+      "published_date": "2026-06-09T19:31:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran shot down 'highly sophisticated' attack helicopter, Trump says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-shot-down-highly-sophisticated-attack-helicopter-trump-says",
+      "published_date": "2026-06-09T19:03:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran shot down 'highly sophisticated' attack helicopter, Trump says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-shot-down-highly-sophisticated-attack-helicopter-trump-says",
+      "published_date": "2026-06-09T18:41:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NASA announces astronauts for Artemis III spaceflight, scheduled for 2027",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/nasa-announces-astronauts-for-artemis-iii-spaceflight-scheduled-for-2027?traffic_source=rss",
+      "published_date": "2026-06-09T18:35:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel preventing more than 16,500 Palestinians from accessing medical treatment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/israel-preventing-more-than-16500-palestinians-from-accessing-medical-treatment?traffic_source=rss",
+      "published_date": "2026-06-09T18:08:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Anything but normal’: Uncertainty as Iranians try to get by amid US war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/anything-but-normal-uncertainty-as-iranians-try-to-get-by-amid-us-war?traffic_source=rss",
+      "published_date": "2026-06-09T17:59:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How a regional defence pact could deal the final blow to Israel's violent expansionism",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/how-regional-defence-pact-could-deal-final-blow-israels-violent-expansionism",
+      "published_date": "2026-06-09T17:38:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Where are the mediators?’: Gazans decry ongoing displacement despite ceasefire",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/gaza-displacement-ceasefire-yellow-line-israel/",
+      "published_date": "2026-06-09T16:01:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza flotilla activists considering legal action after pleas for help ignored by UK government",
@@ -165,123 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Video captures Russian attack in Ukraine’s Zaporizhzhia",
+      "title": "US judge halts execution by nitrogen gas, ruling it unconstitutional",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/video-captures-russian-attack-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "published_date": "2026-06-09T12:05:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel's Ben Gvir calls for abducting Lebanese 'women and youth' to pressure Hezbollah",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israels-ben-gvir-proposes-arresting-lebanese-women-and-youth-pressure-hezbollah",
-      "published_date": "2026-06-09T11:32:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran buries two air defence personnel killed in Israeli raid",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-buries-two-air-defence-personnel-killed-israeli-raid",
-      "published_date": "2026-06-09T10:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hundred days of Israel’s latest war on Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss",
-      "published_date": "2026-06-09T10:37:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah thanks Iran for retaliation, calls for closer Lebanon-Tehran ties",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-thanks-iran-retaliation-calls-closer-lebanon-tehran-ties",
-      "published_date": "2026-06-09T10:26:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air strikes continue in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-airstrikes-continue-southern-lebanon",
-      "published_date": "2026-06-09T08:52:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel expands forcible displacement orders in southern Lebanon's Tyre",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-expands-forcible-displacement-orders-southern-lebanons-tyre",
-      "published_date": "2026-06-09T06:55:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-556",
-      "published_date": "2026-06-09T06:38:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Quds Force chief announces ‘security belt’ from Hormuz to Red Sea",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/quds-force-chief-announces-security-belt-hormuz-red-sea",
-      "published_date": "2026-06-09T06:16:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Apache helicopter pilots safe after Hormuz incident",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-apache-helicopter-pilots-safe-after-hormuz-incident",
-      "published_date": "2026-06-09T05:59:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran will no longer accept endless talks. It is creating deterrence on its own terms",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/iran-will-no-longer-accept-endless-talks-it-creating-deterrence-its-own-terms",
-      "published_date": "2026-06-09T05:52:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Air defence infrastructure was priority in Iran strikes, Israeli media reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-defense-infrastructure-was-priority-iran-strikes-report-says",
-      "published_date": "2026-06-09T05:48:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss",
-      "published_date": "2026-06-09T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Global nuclear weapons spending hits record high, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/global-nuclear-weapons-spending-hits-record-high-report-says",
-      "published_date": "2026-06-08T23:36:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Survivors recall Israeli raid that killed 274 in Gaza refugee camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/survivors-recall-israeli-raid-that-killed-274-in-gaza-refugee-camp?traffic_source=rss",
-      "published_date": "2026-06-08T22:58:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says it intercepted aerial target from Yemen",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-intercepted-aerial-target-yemen",
-      "published_date": "2026-06-08T22:09:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill seven in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-seven-southern-lebanon",
-      "published_date": "2026-06-08T21:43:39+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss",
+      "published_date": "2026-06-09T23:06:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Indian crew rescued after attack on oil tanker off Oman",
@@ -375,20 +382,6 @@
       "category": "Energy"
     },
     {
-      "title": "US petrol prices jump 42.2% from year ago amid oil market turmoil",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-petrol-prices-jump-422-year-ago-amid-oil-market-turmoil",
-      "published_date": "2026-06-03T00:04:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "IAEA says it is offering technical support to UAE after attack on nuclear plant",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iaea-says-it-offering-technical-support-uae-after-attack-nuclear-plant",
-      "published_date": "2026-06-02T17:56:15+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss",
@@ -466,32 +459,60 @@
       "category": "Economy"
     },
     {
-      "title": "Drones light up Taipei’s night sky for Computex trade show",
+      "title": "Iran war live: US strikes after downing of helicopter, Tehran vows response",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/drones-light-up-taipeis-night-sky-for-computex-trade-show?traffic_source=rss",
-      "published_date": "2026-06-02T21:59:46+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
+      "published_date": "2026-06-10T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rubio says US will only provide sanctions relief to Iran in exchange for nuclear concessions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-will-only-provide-sanctions-relief-iran-exchange-nuclear",
-      "published_date": "2026-06-02T20:08:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US sanctions Iran's largest crypto exchange over IRGC links",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-irans-largest-crypto-exchange-over-irgc-links",
-      "published_date": "2026-06-02T19:53:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Inside the billion-dollar business of getting a visa",
+      "title": "Bear captured after days of panic and school closures in Japan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/2/aje-onl-tt_glb_vfs_video-020626?traffic_source=rss",
-      "published_date": "2026-06-02T19:43:32+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/bear-captured-after-days-of-panic-and-school-closures-in-japan?traffic_source=rss",
+      "published_date": "2026-06-09T20:58:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meet the Mamdani-endorsed candidate that could become the first Palestinian in New York Senate",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/meet-mamdani-endorsed-candidate-could-become-first-palestinian-new-york-senate",
+      "published_date": "2026-06-09T20:27:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Child killed in Israeli attack on Gaza City",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-killed-israeli-attack-gaza-city",
+      "published_date": "2026-06-09T20:15:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stripping Jordan of Al-Aqsa custodianship would trigger 'outbreak of violence', expert says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/stripping-jordan-al-aqsa-custodianship-would-trigger-outbreak-violence",
+      "published_date": "2026-06-09T18:01:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians confront Israeli settlers over land grab near Hebron",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/palestinians-confront-israeli-settlers-over-land-grab-near-hebron?traffic_source=rss",
+      "published_date": "2026-06-09T17:55:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenya’s police crack down on protest against US Ebola centre in Nanyuki",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/9/kenyas-police-crack-down-on-protest-against-us-ebola-centre-in-nanyuki?traffic_source=rss",
+      "published_date": "2026-06-09T16:16:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six countries sanction enablers of settler violence in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/six-countries-sanction-networks-enabling-settler-violence-in-west-bank?traffic_source=rss",
+      "published_date": "2026-06-09T15:07:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UK says there should be 'no economic involvement in illegal settlements' for first time",
@@ -575,62 +596,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/smoke-rises-in-illegal-israeli-settlement-after-iranian-missile-attack?traffic_source=rss",
       "published_date": "2026-06-08T11:56:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children and fisherman among 13 killed by Israel in Gaza bombing",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-kills-least-10-over-past-day-deadly-escalation-across-gaza",
-      "published_date": "2026-06-08T11:02:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel kills 14 people in attacks across Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
-      "published_date": "2026-06-08T10:23:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigerian forces rescue 360 captives from Boko Haram",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/nigerian-forces-rescue-360-captives-from-boko-haram?traffic_source=rss",
-      "published_date": "2026-06-07T16:58:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss",
-      "published_date": "2026-06-07T16:03:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s World Cup squad lands in Mexico amid US visa row",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss",
-      "published_date": "2026-06-07T15:20:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One killed and five wounded in shooting attack in central Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-and-five-wounded-shooting-attack-central-israel",
-      "published_date": "2026-06-07T11:45:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "For Nigeria's Shia, the US-Israeli war on Iran is personal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/for-nigeria-shia-us-israeli-war-iran-personal",
-      "published_date": "2026-06-07T08:07:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video: Palestinian father buries his baby killed by Israeli fire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-palestinian-father-buries-his-baby-killed-israeli-fire",
-      "published_date": "2026-06-07T05:29:34+00:00",
       "category": "Local Events"
     }
   ]
