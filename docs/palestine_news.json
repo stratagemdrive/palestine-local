@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-11T00:21:40.847547+00:00",
-  "story_count": 84,
+  "last_updated": "2026-06-11T14:31:49.436307+00:00",
+  "story_count": 82,
   "stories": [
+    {
+      "title": "Israeli MP Ariel Kellner declares Turkey an ‘enemy state’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-mp-ariel-kellner-declares-turkey-enemy-state",
+      "published_date": "2026-06-11T12:50:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/did-us-sneak-100-million-barrels-of-oil-out-of-hormuz-as-trump-claims?traffic_source=rss",
+      "published_date": "2026-06-11T12:25:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Illegal wars, racism and genocide: USA World Cup 2026 should be boycotted",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/usa-illegal-wars-racism-genocide-why-world-cup-should-be-boycotted",
+      "published_date": "2026-06-11T12:01:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar negotiators depart Tehran after mediating talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-negotiators-depart-tehran-after-mediating-talks",
+      "published_date": "2026-06-11T09:18:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Iran talks still on track despite trading attacks, CNN reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-talks-still-track-despite-trading-attacks-cnn-reports",
+      "published_date": "2026-06-11T08:53:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US bombs Iran after Trump threat, Tehran closes Hormuz Strait to all ships",
       "source": "Al Jazeera",
@@ -109,179 +144,151 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Netanyahu to run in upcoming election, Likud says following Trump’s comments",
+      "title": "India calls for end to attacks on ships after three nationals killed",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-run-upcoming-election-despite-trumps-comments-likud-says",
-      "published_date": "2026-06-10T09:09:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/india-calls-end-attacks-ships-after-three-nationals-killed",
+      "published_date": "2026-06-11T14:24:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "US and Israel undermine diplomatic process by violating ceasefire: Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-israel-undermine-diplomatic-process-violating-ceasefire-iran",
-      "published_date": "2026-06-10T08:57:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tony Blair's latest intervention reveals a man who learned nothing from Iraq",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/tony-blairs-latest-rare-intervention-reveals-man-who-learned-nothing-iraq",
-      "published_date": "2026-06-10T07:35:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US bombardment of Iran 'proportional and limited', says congressman Mike Johnson",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-bombardment-iran-proportional-and-limited-says-congressman-mike",
-      "published_date": "2026-06-09T23:54:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
+      "title": "Palestine Action activists could face UK ‘terror’ sentences: What we know",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
-      "published_date": "2026-06-09T21:17:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran warns it will attack any vessels transiting Hormuz Strait",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-it-will-attack-any-vessels-transiting-hormuz-strait",
-      "published_date": "2026-06-11T00:05:01+00:00",
+      "url": "https://www.aljazeera.com/news/2026/6/11/palestine-action-activists-could-face-uk-terror-sentences-what-we-know?traffic_source=rss",
+      "published_date": "2026-06-11T12:58:08+00:00",
       "category": "Military"
     },
     {
-      "title": "Iran war live: US launches attacks on ‘multiple’ Iranian targets",
+      "title": "At least 22 killed as Pakistani military helicopter crashes in Kashmir",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
-      "published_date": "2026-06-11T00:00:00+00:00",
+      "url": "https://www.aljazeera.com/news/2026/6/11/at-least-22-killed-as-pakistani-military-helicopter-crashes-in-kashmir?traffic_source=rss",
+      "published_date": "2026-06-11T12:51:47+00:00",
       "category": "Military"
     },
     {
-      "title": "Trump says US will strike Iran 'very hard' if no nuclear deal is reached",
+      "title": "Israeli military raids Syrian villages in western Deraa",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-will-strike-iran-very-hard-if-no-nuclear-deal-reached",
-      "published_date": "2026-06-10T23:57:24+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-raids-syrian-villages-western-deraa",
+      "published_date": "2026-06-11T12:37:40+00:00",
       "category": "Military"
     },
     {
-      "title": "Opinion: As World Cup host, the US is sportsmaxxing through war and genocide",
+      "title": "US confirms it disabled third tanker off Oman this week",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-world-cup-host-us-sportsmaxxing-through-war-and-genocide",
-      "published_date": "2026-06-10T22:24:14+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-confirms-it-disabled-third-tanker-oman-week",
+      "published_date": "2026-06-11T12:27:43+00:00",
       "category": "Military"
     },
     {
-      "title": "US military says carrying out strikes against Iran",
+      "title": "She survived an Israeli raid that left babies decomposing. Now she awaits treatment",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-carrying-out-strikes-against-iran",
-      "published_date": "2026-06-10T21:45:14+00:00",
+      "url": "https://www.middleeasteye.net/news/gaza-child-survived-israeli-raid-left-babies-decomposing-now-she-awaits-treatment",
+      "published_date": "2026-06-11T12:19:54+00:00",
       "category": "Military"
     },
     {
-      "title": "Pentagon chief says strikes on Iran will be 'strong' and 'clear'",
+      "title": "US attack kills three Indian sailors in Gulf of Oman",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-chief-say-strikes-iran-will-be-strong-and-clear",
-      "published_date": "2026-06-10T21:24:41+00:00",
+      "url": "https://www.middleeasteye.net/news/us-attack-kills-three-indian-sailors-gulf-oman",
+      "published_date": "2026-06-11T12:12:36+00:00",
       "category": "Military"
     },
     {
-      "title": "Saudi crown prince orders resumption of Lebanese exports",
+      "title": "Third suspected US strike this week hits Indian-crewed tanker off Oman",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-crown-prince-orders-resumption-lebanese-exports",
-      "published_date": "2026-06-10T21:06:11+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/third-suspected-us-strike-week-hits-indian-crewed-tanker-oman",
+      "published_date": "2026-06-11T11:45:56+00:00",
       "category": "Military"
     },
     {
-      "title": "Opinion: Israel's military adventures have backfired - and the public is losing patience",
+      "title": "US and Iran trade strikes as ceasefire comes under renewed strain",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-israels-military-adventures-have-backfired-and-public-losing",
-      "published_date": "2026-06-10T20:36:15+00:00",
+      "url": "https://www.middleeasteye.net/news/us-and-iran-trade-strikes-ceasefire-comes-under-renewed-strain",
+      "published_date": "2026-06-11T11:37:16+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli attack kills three in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-kills-three-lebanons-deir-ez-zahrani",
-      "published_date": "2026-06-10T19:49:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike on a car kills two in Sidon, Lebanon",
+      "title": "Ethiopia must not be dragged back into war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/israeli-strike-on-a-car-kills-two-in-sidon-lebanon?traffic_source=rss",
-      "published_date": "2026-06-10T19:23:23+00:00",
+      "url": "https://www.aljazeera.com/opinions/2026/6/11/ethiopia-must-not-be-dragged-back-into-war?traffic_source=rss",
+      "published_date": "2026-06-11T11:31:08+00:00",
       "category": "Military"
     },
     {
-      "title": "Gwyneth Paltrow faces backlash over Israeli luxury real estate campaign",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gwyneth-paltrow-faces-backlash-over-israeli-luxury-real-estate-campaign",
-      "published_date": "2026-06-10T19:21:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gwyneth Paltrow faces backlash over Israeli luxury real estate campaign",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/gwyneth-paltrow-faces-backlash-over-israeli-luxury-real-estate-campaign",
-      "published_date": "2026-06-10T19:19:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Lebanon remains caught up in the Israel-Iran conflict",
+      "title": "Britain’s defence ⁠secretary Healey quits over defence spending",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/10/aje-onl-aj_tt_irn_next100day-100626?traffic_source=rss",
-      "published_date": "2026-06-10T18:54:40+00:00",
+      "url": "https://www.aljazeera.com/news/2026/6/11/britains-defence-%e2%81%a0minister-healey-quits-over-defence-spending?traffic_source=rss",
+      "published_date": "2026-06-11T11:24:17+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli strikes on south Lebanon kill 12",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-south-lebanon-kill-12",
-      "published_date": "2026-06-10T18:18:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says damage sustained to key air base during Iran attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-damage-caused-airbase-during-iran-attacks",
-      "published_date": "2026-06-10T17:53:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India summons top US diplomat in protest against tanker attack off Oman, sources say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/india-summons-top-us-diplomat-protest-tanker-attack-oman-sources-say",
-      "published_date": "2026-06-10T17:20:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel 'emptying' Al-Aqsa facilities to undermine Waqf, watchdog warns",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-emptying-al-aqsa-facilities-undermine-waqf-watchdog-warns",
-      "published_date": "2026-06-10T13:56:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel 'emptying' Al-Aqsa facilities to undermine Waqf, watchdog warns",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-emptying-al-aqsa-facilities-undermine-waqf-watchdog-warns",
-      "published_date": "2026-06-10T12:55:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia",
+      "title": "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/ukraine-made-flamingo-missile-hits-target-900-km-inside-russia?traffic_source=rss",
-      "published_date": "2026-06-10T12:44:09+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss",
+      "published_date": "2026-06-11T11:23:18+00:00",
       "category": "Military"
     },
     {
-      "title": "Pakistan military helicopter crashes in Kashmir, all on board killed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed?traffic_source=rss",
-      "published_date": "2026-06-10T12:30:19+00:00",
+      "title": "Hamas condemns Palestinian Authority for occupied West Bank arrests",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-condemns-palestinian-authority-occupied-west-bank-arrests",
+      "published_date": "2026-06-11T11:17:22+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Lebanon: Life in Tripoli as War Displaces Over a Million",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/witness/2026/6/11/lebanon-life-in-tripoli-as-war-displaces-over-a-million?traffic_source=rss",
+      "published_date": "2026-06-11T11:07:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US administration investigating Iran war critic Trita Parsi, says report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-administration-investigating-iran-war-critic-trita-parsi-report",
+      "published_date": "2026-06-11T10:44:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three Indian sailors killed in US strike on oil tanker",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/three-indian-sailors-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
+      "published_date": "2026-06-11T10:02:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World celebrates, but Gaza watches the World Cup from a distance",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/6/11/world-celebrates-but-gaza-watches-the-world-cup-from-a-distance?traffic_source=rss",
+      "published_date": "2026-06-11T09:15:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran seeks frozen funds as US interim deal appears close",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-seeks-frozen-funds-us-interim-deal-appears-close",
+      "published_date": "2026-06-11T09:04:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three Indian seafarers killed in US attack off Oman coast: Indian minister",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-indian-seafarers-killed-us-attack-oman-coast-indian-minister",
+      "published_date": "2026-06-11T08:49:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ceasefires and construction: How Israel is cementing its presence in Lebanon and Syria",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/ceasefires-and-construction-how-israel-cementing-its-presence-lebanon-and-syria",
+      "published_date": "2026-06-11T08:34:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran shuts Hormuz strait: But wasn’t it already closed?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed?traffic_source=rss",
+      "published_date": "2026-06-11T12:57:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pezeshkian says Iran ‘will stand firm against any pressure or threat’",
@@ -375,11 +382,11 @@
       "category": "Energy"
     },
     {
-      "title": "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?",
+      "title": "India’s workers are training AI robots to take their jobs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/who-is-the-indian-guru-venezuelan-acting-president-delcy-rodriguez-follows?traffic_source=rss",
-      "published_date": "2026-06-04T11:04:16+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs?traffic_source=rss",
+      "published_date": "2026-06-11T10:50:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
@@ -431,25 +438,53 @@
       "category": "Economy"
     },
     {
-      "title": "Rights group sues South African government over US arms exports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/rights-group-sues-south-african-government-over-us-arms-exports?traffic_source=rss",
-      "published_date": "2026-06-04T13:23:17+00:00",
-      "category": "Economy"
+      "title": "World Cup 2026: Five players from the Middle East to watch out for",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/discover/world-cup-2026-five-players-middle-east-watch-out",
+      "published_date": "2026-06-11T13:26:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Monsoon rain reaches Kerala 3 days late but on time to save Indian harvests",
+      "title": "World chess body suspends Russia over activities in occupied-Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/monsoon-rain-reaches-kerala-3-days-late-but-on-time-to-save-indian-harvests?traffic_source=rss",
-      "published_date": "2026-06-04T11:10:33+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/6/11/world-chess-body-suspends-russia-over-activities-in-occupied-ukraine?traffic_source=rss",
+      "published_date": "2026-06-11T13:23:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Grossly unfair’: Meta slams Australia’s bid to make platforms pay for news",
+      "title": "Embattled Palestinian president of Oxford Union: ‘I’m not resigning’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/4/grossly-unfair-meta-slams-australias-bid-to-make-platforms-pay-for-news?traffic_source=rss",
-      "published_date": "2026-06-04T10:56:33+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/11/arwa-elrayyess-oxford?traffic_source=rss",
+      "published_date": "2026-06-11T12:02:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The university must not become a supply chain for AI",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/11/the-university-must-not-become-a-supply-chain-for-ai?traffic_source=rss",
+      "published_date": "2026-06-11T11:45:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belfast 'hit list' of migrants' homes circulated ahead of second night of riots",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/hit-list-migrant-homes-circulated-ahead-second-night-riots-belfast",
+      "published_date": "2026-06-11T11:43:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel to approve new funds for illegal settlement expansion in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-approve-new-funds-illegal-settlement-expansion-west-bank",
+      "published_date": "2026-06-11T11:34:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Detained Gaza doctor Hussam Abu Safia shows signs of torture, family says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/detained-gaza-doctor-hussam-abu-safia-shows-signs-of-torture-family-says?traffic_source=rss",
+      "published_date": "2026-06-11T11:08:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Canada introduces bill to ban social media for children under 16",
@@ -540,55 +575,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
       "published_date": "2026-06-10T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bear captured after days of panic and school closures in Japan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/bear-captured-after-days-of-panic-and-school-closures-in-japan?traffic_source=rss",
-      "published_date": "2026-06-09T20:58:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meet the Mamdani-endorsed candidate that could become the first Palestinian in New York Senate",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/meet-mamdani-endorsed-candidate-could-become-first-palestinian-new-york-senate",
-      "published_date": "2026-06-09T20:27:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child killed in Israeli attack on Gaza City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-killed-israeli-attack-gaza-city",
-      "published_date": "2026-06-09T20:15:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stripping Jordan of Al-Aqsa custodianship would trigger 'outbreak of violence', expert says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/stripping-jordan-al-aqsa-custodianship-would-trigger-outbreak-violence",
-      "published_date": "2026-06-09T18:01:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians confront Israeli settlers over land grab near Hebron",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/palestinians-confront-israeli-settlers-over-land-grab-near-hebron?traffic_source=rss",
-      "published_date": "2026-06-09T17:55:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya’s police crack down on protest against US Ebola centre in Nanyuki",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/9/kenyas-police-crack-down-on-protest-against-us-ebola-centre-in-nanyuki?traffic_source=rss",
-      "published_date": "2026-06-09T16:16:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six countries sanction enablers of settler violence in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/six-countries-sanction-networks-enabling-settler-violence-in-west-bank?traffic_source=rss",
-      "published_date": "2026-06-09T15:07:32+00:00",
       "category": "Local Events"
     }
   ]
