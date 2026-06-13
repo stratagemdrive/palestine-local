@@ -1,8 +1,127 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-12T13:58:40.591943+00:00",
-  "story_count": 84,
+  "last_updated": "2026-06-13T00:22:36.543309+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Judge keeps order in place to remove Trump’s name from Kennedy Center",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/judge-keeps-order-in-place-to-remove-trumps-name-from-kennedy-center?traffic_source=rss",
+      "published_date": "2026-06-12T21:32:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU agrees launch of accession process for Ukraine and Moldova",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova?traffic_source=rss",
+      "published_date": "2026-06-12T20:58:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France says positive signs growing in US-Iran talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-says-positive-signs-growing-us-iran-talks",
+      "published_date": "2026-06-12T20:57:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Will there be a deal to end the Iran war this time?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
+      "published_date": "2026-06-12T20:44:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UAE paid Iran billions of dollars to halt strikes: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uae-paid-iran-billions-dollars-halt-strikes-report",
+      "published_date": "2026-06-12T20:41:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says nuclear and sanctions issues remain undecided",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-nuclear-and-sanctions-issues-remain-undecided",
+      "published_date": "2026-06-12T20:31:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian foreign affairs minister says Strait of Hormuz will not return to pre-war status",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-says-strait-hormuz-will-not-return-pre-war",
+      "published_date": "2026-06-12T20:11:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says MoU includes mechanism for frozen funds",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-mou-includes-mechanism-frozen-funds",
+      "published_date": "2026-06-12T19:56:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Congressman says Trump won’t send loads of money to Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/us-congressman-says-trump-wont-send-loads-of-money-to-iran?traffic_source=rss",
+      "published_date": "2026-06-12T19:53:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK court jails Palestine Action activists on ‘terrorism’ charges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/uk-court-jails-palestinian-action-activists-on-terrorism-charges?traffic_source=rss",
+      "published_date": "2026-06-12T19:27:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran and US confirm they are on cusp of new ceasefire, as they fight to frame terms",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-and-us-confirm-they-are-cusp-new-ceasefire-they-fight-frame-terms",
+      "published_date": "2026-06-12T19:03:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UAE agrees to release billions for Iran amid US-Israeli war: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-agrees-release-billions-iran-amid-us-israeli-war-report",
+      "published_date": "2026-06-12T18:51:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US judge refuses to block Trump’s White House UFC fight",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/us-judge-refuses-to-block-ufc-fight-at-white-house-event?traffic_source=rss",
+      "published_date": "2026-06-12T18:32:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistani foreign minister heads to Geneva amid US-Iran talks: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-foreign-minister-heads-geneva-amid-us-iran-talks-report",
+      "published_date": "2026-06-12T18:25:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN adopts treaty setting standards for gig economy workers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/un-adopts-treaty-setting-standards-for-gig-economy-workers?traffic_source=rss",
+      "published_date": "2026-06-12T18:12:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US officials say Hormuz oil flows reaching half of pre-war levels",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-officials-say-hormuz-oil-flows-reaching-half-pre-war-levels",
+      "published_date": "2026-06-12T18:11:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Switzerland offers to host possible US-Iran MoU signing",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/switzerland-offers-host-possible-us-iran-mou-signing",
+      "published_date": "2026-06-12T18:08:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Palestinian foreign ministry condemns deportation of French journalist by Israel",
       "source": "Middle East Eye",
@@ -25,123 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israeli spyware firm targeted Whatsapp users despite US court order",
+      "title": "Israeli forces use tear gas and stun grenades on Palestinians near Bethlehem",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-founded-spyware-firm-targeted-whatsapp-users-despite-us-court-order",
-      "published_date": "2026-06-12T12:16:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-use-tear-gas-and-stun-grenades-palestenians-near",
+      "published_date": "2026-06-12T23:59:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli firm BlackCore meddled in US and Scottish elections, French watchdog says",
+      "title": "UN observes heavy Israeli troop and air movements near border",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/nyc-and-scotland-elections-also-targeted-israeli-firm-blackcore-french-watchdog-says",
-      "published_date": "2026-06-12T10:23:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-observes-heavy-israeli-troop-and-air-movements-near-border",
+      "published_date": "2026-06-12T23:52:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "USA vs Paraguay: World Cup 2026 group match – Trump, schedule, lineups",
+      "title": "UAE paid Iran billions of dollars to halt strikes: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-paid-iran-billions-dollars-halt-strikes-report",
+      "published_date": "2026-06-12T21:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says MoU will end war on all fronts, including Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-mou-will-end-war-all-fronts-including-lebanon",
+      "published_date": "2026-06-12T19:38:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the Gulf will manage collective security after the Iran war ends",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/12/usa-vs-paraguay-world-cup-2026-group-match-trump-schedule-lineups?traffic_source=rss",
-      "published_date": "2026-06-12T09:39:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss",
+      "published_date": "2026-06-12T18:48:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt urges US, Iran to seize 'available opportunity' for deal after Trump cancels strikes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-urges-us-iran-seize-available-opportunity-deal-after-trump-cancels",
-      "published_date": "2026-06-12T09:02:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Stocks surge after Trump signals end to planned Iran strikes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/stocks-surge-after-trump-signals-end-planned-iran-strikes",
-      "published_date": "2026-06-12T07:04:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanon says it will not allow others to negotiate on its behalf",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-it-will-not-allow-others-negotiate-its-behalf",
-      "published_date": "2026-06-12T00:18:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
+      "title": "At least one killed and nine hospitalised in Midland, Texas shooting",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
-      "published_date": "2026-06-12T00:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says US and Iran have reached a ‘great settlement’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss",
-      "published_date": "2026-06-11T23:29:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran says no final decision has been made on proposed agreement",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-final-decision-has-been-made-proposed-agreement",
-      "published_date": "2026-06-11T22:26:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says US invasion of Kharg Island off the table",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-invasion-kharg-island-table",
-      "published_date": "2026-06-11T21:58:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
-      "published_date": "2026-06-11T21:49:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says 'settlement' reached to end war on Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-says-settlement-reached-end-war-iran-netanyahu-issuing-muted-statement",
-      "published_date": "2026-06-11T21:10:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says Iran deal could be signed in Europe this weekend",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-deal-could-be-signed-europe-weekend",
-      "published_date": "2026-06-11T21:02:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says he believes Iran’s supreme leader has approved deal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-believes-irans-supreme-leader-has-approved-deal",
-      "published_date": "2026-06-11T20:41:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump administration sanctions Cuba’s national oil company, blasts Castros",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros?traffic_source=rss",
-      "published_date": "2026-06-11T20:21:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says scheduled US strikes on Iran have been cancelled",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-planned-us-strikes-iran-have-been-cancelled",
-      "published_date": "2026-06-11T20:21:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump to pick US attorney Jay Clayton for director of national intelligence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/trump-to-pick-us-attorney-jay-clayton-for-director-of-national-intelligence?traffic_source=rss",
-      "published_date": "2026-06-11T19:56:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/12/at-least-one-killed-and-nine-hospitalised-in-texas-shooting?traffic_source=rss",
+      "published_date": "2026-06-12T18:11:35+00:00",
+      "category": "Military"
     },
     {
       "title": "US has redirected 136 commercial vessels in Strait of Hormuz to date",
@@ -242,46 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Report says Israeli military responsible for majority of explosive weapons deaths in 2025",
+      "title": "US officials say Hormuz oil flows reaching half of pre-war levels",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-says-israeli-military-responsible-majority-explosive-weapon",
-      "published_date": "2026-06-11T21:35:40+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-officials-say-hormuz-oil-flows-reaching-half-pre-war-levels",
+      "published_date": "2026-06-12T22:31:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel releases Hamas co-founder after two years in detention",
+      "title": "Clashes break out at DRC rally against presidential term-limit change",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/israel-releases-hamas-co-founder-after-two-years-in-detention?traffic_source=rss",
-      "published_date": "2026-06-11T20:25:52+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/12/violence-breaks-out-at-drc-rally-against-presidential-term-limit-change?traffic_source=rss",
+      "published_date": "2026-06-12T19:51:53+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump says final points of Iran deal approved by regional partners",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-final-points-iran-deal-approved-regional-partners",
-      "published_date": "2026-06-11T19:57:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel deports French journalist accused of supporting Hamas",
+      "title": "Putin admits Ukraine attacks hitting Russian economy, society",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/israel-deports-french-journalist-accused-of-supporting-hamas?traffic_source=rss",
-      "published_date": "2026-06-11T19:52:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/12/putin-admits-ukraine-attacks-hitting-russian-economy-society?traffic_source=rss",
+      "published_date": "2026-06-12T19:30:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "CENTCOM says Strait of Hormuz remains open despite Iranian claims",
+      "title": "Qatar reportedly offered Iran gas shutdown during US-Israeli war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-strait-hormuz-remains-open-despite-iranian-claims",
-      "published_date": "2026-06-11T19:24:08+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-reportedly-offered-iran-gas-shutdown-during-us-israeli-war",
+      "published_date": "2026-06-12T19:25:20+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump threatens to invade Iran's Kharg Island, then says Americans lack the 'stomach for it'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-threatens-invade-kharg-island-iran-then-says-americans-lack-stomach-for-it",
-      "published_date": "2026-06-11T19:16:50+00:00",
-      "category": "Military"
+      "title": "Venezuela hits out at Trinidad and Tobago in oil spill spat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/venezuela-hits-out-at-trinidad-and-tobago-in-oil-spill-spat?traffic_source=rss",
+      "published_date": "2026-06-12T18:25:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
@@ -361,18 +396,11 @@
       "category": "Energy"
     },
     {
-      "title": "US energy secretary links lower fuel prices to Iran resolution",
+      "title": "UAE denies releasing or moving frozen Iranian funds",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-energy-secretary-links-lower-fuel-prices-iran-resolution",
-      "published_date": "2026-06-05T23:53:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "IAEA chief says US and Iran close to nuclear framework",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iaea-chief-says-us-and-iran-close-nuclear-framework",
-      "published_date": "2026-06-05T16:49:08+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-denies-releasing-or-moving-frozen-iranian-funds",
+      "published_date": "2026-06-12T21:50:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Indonesian students protest gov’t policies amid economic strain",
@@ -438,18 +466,32 @@
       "category": "Economy"
     },
     {
-      "title": "UN says Israeli attacks leave 1.4 million in Lebanon needing aid",
+      "title": "Hezbollah MP says Lebanon included in reported US-Iran understanding",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-israeli-attacks-leave-14-million-lebanon-needing-aid",
-      "published_date": "2026-06-05T22:45:28+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-mp-says-lebanon-included-reported-us-iran-understanding",
+      "published_date": "2026-06-13T00:10:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Albanians protest against Kushner-backed project threatening the environment",
+      "title": "London mayor backs calls to ban Israeli settlement property event",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/albanians-protest-against-kushner-backed-project-threatening-environment",
-      "published_date": "2026-06-05T16:01:15+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/london-mayor-backs-calls-ban-israeli-settlement-property-event",
+      "published_date": "2026-06-12T22:19:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Medical coalition tells UK government not to enforce 'chilling' NHS censorship on Palestine",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/medical-coalition-tells-uk-government-not-enforce-chilling-nhs",
+      "published_date": "2026-06-12T19:10:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amnesty calls for Israel boycott over aggression in the occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/amnesty-calls-for-israel-boycott-over-aggression-in-the-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-06-12T17:59:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Palestinians dying for work",
@@ -561,34 +603,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/6/11/world-chess-body-suspends-russia-over-activities-in-occupied-ukraine?traffic_source=rss",
       "published_date": "2026-06-11T13:23:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Embattled Palestinian president of Oxford Union: ‘I’m not resigning’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/arwa-elrayyess-oxford?traffic_source=rss",
-      "published_date": "2026-06-11T12:02:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The university must not become a supply chain for AI",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/11/the-university-must-not-become-a-supply-chain-for-ai?traffic_source=rss",
-      "published_date": "2026-06-11T11:45:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belfast 'hit list' of migrants' homes circulated ahead of second night of riots",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/hit-list-migrant-homes-circulated-ahead-second-night-riots-belfast",
-      "published_date": "2026-06-11T11:43:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel to approve new funds for illegal settlement expansion in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-approve-new-funds-illegal-settlement-expansion-west-bank",
-      "published_date": "2026-06-11T11:34:06+00:00",
       "category": "Local Events"
     }
   ]
