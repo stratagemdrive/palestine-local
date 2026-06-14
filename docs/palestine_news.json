@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-14T00:14:27.652026+00:00",
-  "story_count": 87,
+  "last_updated": "2026-06-14T12:57:41.691299+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
+      "published_date": "2026-06-14T11:15:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's UN defeat is a verdict on its complicity in genocide",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/germanys-un-defeat-verdict-its-complicity-genocide",
+      "published_date": "2026-06-14T10:22:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Signing of US-Iran deal not on Trump’s public schedule",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule?traffic_source=rss",
+      "published_date": "2026-06-14T07:56:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
+      "published_date": "2026-06-14T07:24:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli leader thanks Trump for confronting ‘Iran’s empire of evil’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-leader-thanks-trump-confronting-irans-empire-evil",
+      "published_date": "2026-06-14T05:28:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "America250 versus Freedom 250: What to know about the US semiquincentennial",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/america250-versus-freedom250-what-to-know-about-the-us-semiquincentennial?traffic_source=rss",
+      "published_date": "2026-06-14T00:11:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar and Kuwait back progress in US-Iran talks",
       "source": "Middle East Eye",
@@ -102,185 +144,143 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Norway: International law is worth defending, even when allies break it",
+      "title": "Thousands of Palestinians buried under rubble in Gaza 'may never be identified', says Red Cross",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/video/norway-international-law-worth-defending-even-when-allies-break-it",
-      "published_date": "2026-06-13T07:57:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/thousands-palestinians-buried-under-rubble-gaza-may-never-be-identified-says-red-cross",
+      "published_date": "2026-06-14T12:45:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump seeks ‘off-ramp’ from war in ‘Iran deal’",
+      "title": "At least three killed in Israeli strike on Lebanon's capital",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-three-killed-israeli-strike-lebanons-capital",
+      "published_date": "2026-06-14T12:39:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In pictures: Aftermath of Israeli assault on Beirut's southern suburbs",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pictures-aftermath-israeli-assault-beiruts-southern-suburbs",
+      "published_date": "2026-06-14T12:14:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel confirms attacks on Beirut's southern suburbs",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-confirms-attacks-beiruts-southern-suburbs",
+      "published_date": "2026-06-14T11:15:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian official says draft US deal includes nuclear limits and asset release: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-says-draft-us-deal-includes-nuclear-limits-and-asset",
+      "published_date": "2026-06-14T11:01:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Continued Israeli assault on Gaza kills over 72,996 Palestinians",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/continued-israeli-assault-gaza-kills-over-72996-palestinians",
+      "published_date": "2026-06-14T10:26:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel attacks southern Beirut after alleged Hezbollah drone fire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-seeks-off-ramp-from-war-in-iran?traffic_source=rss",
-      "published_date": "2026-06-13T07:23:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-06-14T10:25:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
+      "published_date": "2026-06-14T09:18:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel launches attacks across southern Lebanon, one killed in Sidon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-attacks-across-southern-lebanon-one-killed-sidon",
+      "published_date": "2026-06-14T08:47:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK forces seize suspected Russian shadow fleet tanker in English Channel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel?traffic_source=rss",
+      "published_date": "2026-06-14T07:38:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pro-Palestine protesters arrested under counter-terrorism laws at London rally",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestine-protesters-arrested-under-counter-terrorism-laws-london",
+      "published_date": "2026-06-14T06:56:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Morning update",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-560",
-      "published_date": "2026-06-13T06:48:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-561",
+      "published_date": "2026-06-14T06:50:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Judge keeps order in place to remove Trump’s name from Kennedy Center",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/judge-keeps-order-in-place-to-remove-trumps-name-from-kennedy-center?traffic_source=rss",
-      "published_date": "2026-06-12T21:32:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU agrees launch of accession process for Ukraine and Moldova",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova?traffic_source=rss",
-      "published_date": "2026-06-12T20:58:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France says positive signs growing in US-Iran talks",
+      "title": "Pezeshkian says 12-day war 'symbol of national solidarity'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-says-positive-signs-growing-us-iran-talks",
-      "published_date": "2026-06-12T20:57:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-12-day-war-symbol-national-solidarity",
+      "published_date": "2026-06-14T06:24:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Opinion: Iran and Hezbollah’s resilience defeated the US and Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-iran-and-hezbollahs-resilience-defeated-us-and-israel",
+      "published_date": "2026-06-14T05:50:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two drones crash in northern Israel after crossing from Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-drones-crash-northern-israel-after-crossing-lebanon",
+      "published_date": "2026-06-14T05:46:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NYT: Iran’s leadership became more risk-tolerant after conflict",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nyt-irans-leadership-became-more-risk-tolerant-after-conflict",
+      "published_date": "2026-06-14T05:17:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian diplomat says country emerged stronger after war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-diplomat-says-country-emerged-stronger-after-war",
+      "published_date": "2026-06-14T04:42:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two killed in Israeli strike on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
+      "published_date": "2026-06-14T01:11:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is the price of gold trending down?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss",
+      "published_date": "2026-06-14T00:56:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strikes hit south Lebanon despite US-Iran diplomacy",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-hit-south-lebanon-despite-us-iran-diplomacy",
       "published_date": "2026-06-13T22:34:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel pushes ‘Yellow Line’ deeper into Gaza City, rights group says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-pushes-yellow-line-deeper-gaza-city-rights-group-says",
-      "published_date": "2026-06-13T22:13:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack on Khan Younis kills two Palestinians",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-khan-younis-kills-two-palestinians",
-      "published_date": "2026-06-13T21:15:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli opposition leader says emerging Iran deal marks Netanyahu failure",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-says-emerging-iran-deal-marks-netanyahu",
-      "published_date": "2026-06-13T21:03:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel fears US-Iran MoU could weaken pressure on Tehran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-fears-us-iran-mou-could-weaken-pressure-tehran",
-      "published_date": "2026-06-13T19:29:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
-      "published_date": "2026-06-13T15:43:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranians divided on peace prospects after US-Iran say a deal is near",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss",
-      "published_date": "2026-06-13T15:19:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll in Lebanon rises to 3,756, health ministry says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-lebanon-rises-3756-health-ministry-says",
-      "published_date": "2026-06-13T15:05:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly military plane crash in India’s Assam",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
-      "published_date": "2026-06-13T12:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll in Gaza nears 73,000",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-gaza-nears-73000",
-      "published_date": "2026-06-13T12:04:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five Indian air force staff killed as transport plane crashes in Assam",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam?traffic_source=rss",
-      "published_date": "2026-06-13T11:29:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan says US-Iran peace deal likely finalised within 24 hours",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-us-iran-peace-deal-likely-finalised-within-24-hours",
-      "published_date": "2026-06-13T11:27:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's slain supreme leader Ali Khamenei to be buried 9 July",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-slain-supreme-leader-ali-khamenei-be-buried-9-july",
-      "published_date": "2026-06-13T11:01:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike in Nabatieh kills one",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-nabatieh-kills-one",
-      "published_date": "2026-06-13T09:47:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
-      "published_date": "2026-06-13T09:12:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel strikes south Lebanon following expulsion orders",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-south-lebanon-following-expulsion-orders",
-      "published_date": "2026-06-13T09:10:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon war victims among 117M people displaced worldwide",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/lebanon-war-victims-among-117m-people-displaced-worldwide?traffic_source=rss",
-      "published_date": "2026-06-13T07:56:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five killed as Israel hits south Lebanon, issues forced displacement orders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss",
-      "published_date": "2026-06-13T07:33:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President says Lebanon faces ‘fateful choice’ over state authority",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/president-says-lebanon-faces-fateful-choice-over-state-authority",
-      "published_date": "2026-06-13T07:07:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US strike killed Tren de Aragua gang boss with Venezuelan help",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help?traffic_source=rss",
-      "published_date": "2026-06-13T06:50:06+00:00",
       "category": "Military"
     },
     {
@@ -389,20 +389,6 @@
       "category": "Energy"
     },
     {
-      "title": "How have countries around the world responded to the US-Israel war on Iran?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
-      "published_date": "2026-06-07T09:35:31+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Tehran raises concerns over strikes at IAEA board meeting",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-raises-concerns-over-strikes-iaea-board-meeting",
-      "published_date": "2026-06-07T06:13:35+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Maritime body says tanker struck off the coast of Oman",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/maritime-body-says-tanker-struck-coast-oman",
@@ -466,11 +452,25 @@
       "category": "Economy"
     },
     {
-      "title": "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
+      "title": "Palestinian prisoner dies in Israeli jail after 24 years in detention",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-citizen-israel-announced-dead-israeli-custody",
+      "published_date": "2026-06-14T09:40:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Smiles all around as Morocco, Brazil share spoils and Knicks make history",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress?traffic_source=rss",
-      "published_date": "2026-06-07T09:39:09+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/6/14/smiles-all-around-as-morocco-brazil-share-spoils-and-knicks-make-history?traffic_source=rss",
+      "published_date": "2026-06-14T06:30:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Costs, careers and choice: Why Indians are having fewer children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/costs-careers-and-choice-why-indians-are-having-fewer-children?traffic_source=rss",
+      "published_date": "2026-06-14T06:09:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Legal notice sent to London synagogue hosting Great Israeli Real Estate Event",
@@ -589,27 +589,6 @@
       "source": "+972 Magazine",
       "url": "https://www.972mag.com/palestinians-west-bank-separation-wall-work/",
       "published_date": "2026-06-12T13:35:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London mayor slams event touting illegal Israeli settlement land sales",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/london-mayor-slams-event-touting-illegal-israeli-settlement-land-sales?traffic_source=rss",
-      "published_date": "2026-06-12T13:01:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I hope Rama resigns’: Why Albania’s Flamingo Revolution isn’t actually about flamingos",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/i-hope-rama-resigns-why-albanias-flamingo-revolution-isnt-actually-about-flamingos",
-      "published_date": "2026-06-12T12:33:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sadiq Khan says he told Met Police to investigate Great Israeli Real Estate event",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/sadiq-khan-says-he-spoke-met-police-about-great-israeli-real-estate-event",
-      "published_date": "2026-06-12T12:15:36+00:00",
       "category": "Local Events"
     }
   ]
