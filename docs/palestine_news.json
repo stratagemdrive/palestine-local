@@ -1,8 +1,99 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-17T00:25:25.389505+00:00",
-  "story_count": 86,
+  "last_updated": "2026-06-17T14:23:19.173595+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Obama tried to ‘bribe his way out’ of 2015 Iran nuclear deal: Trump",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/obama-tried-bribe-his-way-out-2015-iran-nuclear-deal-trump",
+      "published_date": "2026-06-17T13:40:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland denies reports of Israeli military base",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/somaliland-denies-reports-israeli-military-base",
+      "published_date": "2026-06-17T13:23:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-accuses-obama-of-bribing-iran-in-2015-nuclear-deal-at-g7-summit?traffic_source=rss",
+      "published_date": "2026-06-17T13:21:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia's Lavrov discusses US-Iran framework deal with Iranian counterpart",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russias-lavrov-discusses-us-iran-framework-deal-iranian-counterpart",
+      "published_date": "2026-06-17T13:00:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump denies reports of US funding as part of Iran deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-denies-reports-us-funding-part-iran-deal",
+      "published_date": "2026-06-17T12:53:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump threatens 'dropping bombs on their head' if Iran doesn't 'behave'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-dropping-bombs-their-head-if-iran-doesnt-behave",
+      "published_date": "2026-06-17T11:19:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "War on Iran: How the Gulf stepped in to clean up America's mess",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/war-iran-how-gulf-stepped-clean-americas-mess",
+      "published_date": "2026-06-17T09:46:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The election that could reshape Colombia’s relationship with Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/election-could-reshape-colombias-relationship-israel",
+      "published_date": "2026-06-17T09:35:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss",
+      "published_date": "2026-06-17T08:50:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Iran deal can be 'game changer', says Canadian PM",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-deal-can-be-game-changer-says-canadian-pm",
+      "published_date": "2026-06-17T08:36:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US primaries in Oklahoma, Georgia, others: Key takeaways from the results",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/17/us-primaries-in-oklahoma-georgia-others-key-takeaways-from-the-results?traffic_source=rss",
+      "published_date": "2026-06-17T08:24:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World Cup 2026: For some fans, the tournament ends at the US border",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/world-cup-2026-some-fans-tournament-ends-us-border",
+      "published_date": "2026-06-17T08:00:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Georgia Republican primary delivers mixed results for Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/17/georgia-republican-primary-delivers-mixed-results-for-trump?traffic_source=rss",
+      "published_date": "2026-06-17T07:28:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pope Leo says US-Iran accord is better than returning to war",
       "source": "Middle East Eye",
@@ -53,95 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US refused to share Iran deal text with Israel: Report",
+      "title": "Israeli official says Iran war may not have been worth launching",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-has-refused-share-iran-deal-text-israel-report",
-      "published_date": "2026-06-16T20:00:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/israeli-official-says-iran-war-may-not-have-been-worth-launching-report",
+      "published_date": "2026-06-17T11:47:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "US judge upholds conviction of ex-judge who helped man evade federal agents",
+      "title": "Trump's U-turn on Iran war has ended Israel's Middle East dream",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/trump-u-turn-iran-war-ended-israel-middle-east-dream",
+      "published_date": "2026-06-17T11:26:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'They're not all Hezbollah': Trump criticises Israel killing civilians in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/theyre-not-all-hezbollah-trump-criticises-israel-killing-civilians",
+      "published_date": "2026-06-17T10:30:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'They're not all Hezbollah': Trump criticises Israel killing civilians in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/not-hezbollah-trump-criticises-israel-killing-civilians-southern-lebanon",
+      "published_date": "2026-06-17T09:51:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian tankers exit US blockade zone before talks to end war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/16/us-judge-upholds-conviction-of-ex-judge-who-helped-man-evade-federal-agents?traffic_source=rss",
-      "published_date": "2026-06-16T19:17:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/17/first-iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks?traffic_source=rss",
+      "published_date": "2026-06-17T08:57:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump told Israel to let Syria attack Hezbollah in Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-told-israel-let-syria-attack-hezbollah-lebanon",
-      "published_date": "2026-06-16T17:55:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli strikes kill four in southern Lebanon amid ceasefire talks",
+      "title": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/16/israeli-strikes-kill-four-in-southern-lebanon-amid-ceasefire-talks?traffic_source=rss",
-      "published_date": "2026-06-16T17:42:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump suggests Syria could take on Hezbollah",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-suggests-syria-could-take-hezbollah",
-      "published_date": "2026-06-16T17:35:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump slams Israeli attacks on Lebanon at G7 summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-slams-israeli-attacks-on-lebanon-at-g7-summit?traffic_source=rss",
-      "published_date": "2026-06-16T16:55:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China says next stage of US-Iran talks will be ‘more difficult’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-says-next-stage-us-iran-talks-will-be-more-difficult",
-      "published_date": "2026-06-16T15:43:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Optics of peace first, details later: The US-Iran 60-day challenge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/16/optics-of-peace-first-details-later-the-us-iran-60-day-challenge?traffic_source=rss",
-      "published_date": "2026-06-16T15:39:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "From JCPOA exit to the 2026 deal: How US-Iran ties soured under Trump",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/16/from-jcpoa-exit-to-the-2026-deal-how-us-iran-ties-soured-under-trump?traffic_source=rss",
-      "published_date": "2026-06-16T15:21:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-Iran deal signing scheduled for Friday in Switzerland",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-deal-signing-scheduled-friday-switzerland",
-      "published_date": "2026-06-16T14:31:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli air strikes hit southern Lebanon despite US pressure to stop attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-hit-southern-lebanon-despite-us-pressure-stop",
-      "published_date": "2026-06-16T13:57:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump ‘wouldn’t mind’ sending Iran deal to Congress",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-wouldnt-mind-sending-iran-deal-congress",
-      "published_date": "2026-06-16T13:39:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hezbollah says Iran pledged to ensure Israeli withdrawal from Lebanon in US negotiations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-iran-pledged-ensure-israeli-withdrawal-lebanon-us",
-      "published_date": "2026-06-16T13:09:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-06-17T07:44:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza death toll rises above 73,000 as bodies continue to be recovered",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "London's Met Police not investigating Great Israeli Real Estate Event",
+      "title": "‘A fantasy’: How the Palestine Action ruling whitewashed the history of civil disobedience",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/londons-met-police-not-investigating-great-israeli-real-estate-event",
-      "published_date": "2026-06-16T14:35:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Opinion: Iran dealt Israel a crushing defeat and vindicated America's anti-war majority",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-iran-dealt-israel-crushing-defeat-and-vindicated-americas-anti",
-      "published_date": "2026-06-16T14:21:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Brazil police arrest bungee jumping operators after woman dies",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/brazil-police-arrest-bungee-jumping-operators-after-woman-dies?traffic_source=rss",
-      "published_date": "2026-06-16T14:11:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese leaders discuss preparations for new round of Israel talks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-leaders-discuss-preparations-new-round-israel-talks",
-      "published_date": "2026-06-16T14:09:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli court rules to keep prominent Palestinian doctor in detention",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/16/israeli-court-rules-to-keep-prominent-palestinian-doctor-in-detention?traffic_source=rss",
-      "published_date": "2026-06-16T13:24:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rights groups call for a halt of AI tech use in the military",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-groups-call-halt-ai-tech-use-military",
-      "published_date": "2026-06-16T12:46:31+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/fantasy-how-palestine-action-ruling-whitewashed-history-civil-disobedience",
+      "published_date": "2026-06-17T10:31:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "IEA warns Southeast Asia faces soaring energy costs after war-related disruptions",
@@ -375,6 +382,20 @@
       "category": "Energy"
     },
     {
+      "title": "China pledges new humanitarian aid packages for Lebanon and Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/china-pledges-new-humanitarian-aid-packages-for-lebanon-and-iran?traffic_source=rss",
+      "published_date": "2026-06-17T12:26:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Vietnam police rescue more than 400 cats from animal theft crime ring",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/17/vietnam-police-rescue-over-400-cats-from-illegal-meat-trade?traffic_source=rss",
+      "published_date": "2026-06-17T08:58:04+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Merz says US-Iran peace deal must hold as G7 backs accord",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/merz-says-us-iran-peace-deal-must-hold-g7-backs-accord",
@@ -466,6 +487,76 @@
       "category": "Economy"
     },
     {
+      "title": "Israeli settlers set fire to a mosque in the occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/israeli-settlers-set-fire-to-a-mosque-in-the-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-06-17T14:04:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘He wanted to burn me alive’: 92-year-old recounts West Bank settler attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/17/he-wanted-to-burn-me-alive-92-year-old-recounts-west-bank-settler-attack?traffic_source=rss",
+      "published_date": "2026-06-17T14:03:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel takes control of Hebron’s Ibrahimi Mosque: What this means",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/17/israel-takes-control-of-hebrons-ibrahimi-mosque-what-next?traffic_source=rss",
+      "published_date": "2026-06-17T11:41:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Belfast, ancient grudges and new furies leave a city burned",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-belfast-riots-ancient-grudges-new-furies-city-burned",
+      "published_date": "2026-06-17T11:31:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran team blames US for 'disastrous' restrictions at World Cup",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-team-blames-us-disastrous-restrictions-world-cup",
+      "published_date": "2026-06-17T11:26:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/17/zidane-iqbal-the-footballer-who-gave-pakistan-its-first-world-cup-moment?traffic_source=rss",
+      "published_date": "2026-06-17T10:57:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran team blames US for 'disastrous' restrictions at World Cup",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-team-blames-us-disastrous-restrictions-world-cup",
+      "published_date": "2026-06-17T10:33:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London real estate event admits promoting Israeli settlement property 'by mistake'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/london-real-estate-event-admits-promoting-israeli-settlement-property-defends-itself",
+      "published_date": "2026-06-17T10:06:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers set fire to mosque in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-set-fire-mosque-west-bank",
+      "published_date": "2026-06-17T09:32:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK minister accused of 'baiting' Zack Polanski into committing terror offence",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-minister-accused-trying-bait-zack-polanski-committing-terror-offence",
+      "published_date": "2026-06-17T09:30:59+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Palestinian Bedouin villagers demolish homes after Israeli orders",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/palestinian-bedouin-villagers-demolish-homes-after-israeli-orders?traffic_source=rss",
@@ -533,76 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon?traffic_source=rss",
       "published_date": "2026-06-15T20:21:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Algeria and Kansas became the World Cup’s most unlikely love story",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/how-algeria-and-lawrence-kansas-became-world-cups-most-unlikely-love-story",
-      "published_date": "2026-06-15T20:19:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In NYC's Little Senegal, World Cup excitement meets exclusion and economic strain",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/little-senegal-world-cup-excitement-meets-exclusion-economic-strain",
-      "published_date": "2026-06-15T19:58:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exclusive: Illegal settlements promoted in London at Great Israeli Real Estate Event",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/exclusive-illegal-settlements-promoted-london-great-israeli-real-estate-event",
-      "published_date": "2026-06-15T15:12:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death toll in Gaza surpasses 73,000 as Israel continues post-ceasefire killings",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/death-toll-gaza-surpasses-73000-amid-ongoing-israeli-attacks",
-      "published_date": "2026-06-15T13:31:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola risk for World Cup is ‘extremely low’, but US is ready, experts say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/15/ebola-risk-for-world-cup-is-extremely-low-but-us-is-ready-experts-say?traffic_source=rss",
-      "published_date": "2026-06-15T12:20:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Britain announces sweeping social media ban for under-16s",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/15/britain-announces-sweeping-social-media-ban-for-under-16s?traffic_source=rss",
-      "published_date": "2026-06-15T10:01:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The slow death of Goldsmiths is a warning to British universities",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/15/the-slow-death-of-goldsmiths-is-a-warning-to-british-universities?traffic_source=rss",
-      "published_date": "2026-06-15T09:54:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India beat Pakistan by 64 runs to open Women’s T20 World Cup campaign",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/14/india-beat-pakistan-by-64-runs-to-open-womens-t20-world-cup-campaign?traffic_source=rss",
-      "published_date": "2026-06-14T21:34:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza mourns four killed in Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
-      "published_date": "2026-06-14T20:57:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Medical teams in Goma face mistrust from relatives of Ebola victims",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/medical-teams-in-goma-face-mistrust-from-relatives-of-ebola-victims?traffic_source=rss",
-      "published_date": "2026-06-14T20:23:29+00:00",
       "category": "Local Events"
     }
   ]
