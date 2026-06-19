@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-18T13:58:08.170002+00:00",
-  "story_count": 87,
+  "last_updated": "2026-06-19T01:46:17.825025+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "EU won’t lift key Iran sanctions until formal nuclear deal reached",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/eu-wont-lift-key-iran-sanctions-until-formal-nuclear-deal-reached?traffic_source=rss",
+      "published_date": "2026-06-19T00:41:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Are prices really dropping in the US, as Trump claims?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
+      "published_date": "2026-06-18T21:30:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump?traffic_source=rss",
+      "published_date": "2026-06-18T20:26:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MoU’s $300bn Iran reconstruction fund becomes US political flashpoint",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss",
+      "published_date": "2026-06-18T19:52:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says US expects 'complete ceasefire on all fronts' following Iran deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-expects-complete-ceasefire-all-fronts-following-iran-deal",
+      "published_date": "2026-06-18T18:42:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exclusive: ICC member states to vote on Karim Khan probe in New York on 24 July",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-icc-member-states-vote-karim-khan-probe-new-york-24-july",
+      "published_date": "2026-06-18T18:39:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian supreme leader says direct talks with US do 'not mean accepting its views'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-supreme-leader-says-direct-talks-us-do-not-mean-accepting-its-views",
+      "published_date": "2026-06-18T18:19:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exclusive: ICC member states to vote on Karim Khan probe in New York on 24 July",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/exclusive-icc-member-states-vote-karim-khan-probe-new-york-24-july",
+      "published_date": "2026-06-18T17:16:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel 'will be at war with Syria sooner or later', says Likud minister",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-will-be-war-syria-sooner-or-later-says-likud-minister",
+      "published_date": "2026-06-18T17:10:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US-Iran deal leaves Israel isolated and Netanyahu exposed",
       "source": "Middle East Eye",
@@ -81,67 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Switzerland says US-Iran talks planned for Friday",
+      "title": "Trump says war on Iran showed 'no limits' to his power",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/switzerland-says-us-iran-talks-planned-friday",
-      "published_date": "2026-06-18T06:54:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-war-iran-showed-no-limits-his-power",
+      "published_date": "2026-06-19T00:20:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war live: Trump, Pezeshkian sign MoU to end fighting, reopen Hormuz",
+      "title": "Iran war live: JD Vance defends Iran deal as US says naval blockade lifted",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
-      "published_date": "2026-06-18T00:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/19/iran-war-live-jd-vance-defends-iran-deal-as-us-says-naval-blockade-lifted?traffic_source=rss",
+      "published_date": "2026-06-19T00:00:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump to Netanyahu: Use a ‘softer’ touch on Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-to-netanyahu-use-a-softer-touch-on-lebanon?traffic_source=rss",
-      "published_date": "2026-06-17T23:57:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says it’s ‘unfair’ for Iran to lack ballistic missiles",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-says-its-unfair-for-iran-to-lack-ballistic-missiles?traffic_source=rss",
-      "published_date": "2026-06-17T23:56:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump signs US-Iran memorandum of understanding",
+      "title": "Iranian official says breaches of deal with US will 'receive an even harder slap'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-signs-us-iran-memorandum-understanding",
-      "published_date": "2026-06-17T23:27:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-says-us-will-receive-even-harder-slap-if-deal-breached",
+      "published_date": "2026-06-18T23:46:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says partnership with Netanyahu 'amazing', but 'little dispute' over Lebanon",
+      "title": "US says it lifted blockade on Iranian ports",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-partnership-netanyahu-amazing-little-dispute-over-lebanon",
-      "published_date": "2026-06-17T23:23:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-lifted-blockade-iranian-ports",
+      "published_date": "2026-06-18T23:40:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss",
-      "published_date": "2026-06-17T20:14:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump justifies Iran deal as a way to prevent 'economic catastrophe'",
+      "title": "Israeli artillery shelling kill Palestinian in central Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-justifies-iran-deal-way-prevent-economic-catastrophe",
-      "published_date": "2026-06-17T20:06:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-artillery-shelling-kill-palestinian-central-gaza",
+      "published_date": "2026-06-18T22:22:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump eyes US-Iran ‘peace deal’ signing",
+      "title": "Death toll from Israeli attacks on Gaza since ceasefire passes 1,000",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-attacks-gaza-ceasefire-passes-1000",
+      "published_date": "2026-06-18T21:22:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'We have lost': Trump's Iran pact seen as a strategic defeat in Washington",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/we-have-lost-trump-iran-pact-seen-strategic-defeat-washington",
+      "published_date": "2026-06-18T21:18:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Myanmar military airstrike kills seven civilians in Rakhine state",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-eyes-us-iran-peace-deal-signing?traffic_source=rss",
-      "published_date": "2026-06-17T19:14:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss",
+      "published_date": "2026-06-18T21:15:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army reservist 'flees' India after war crimes allegation filed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-reservist-flees-india-after-war-crimes-allegation-filed",
+      "published_date": "2026-06-18T20:49:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army reservist 'flees' India after war crimes allegation filed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-army-reservist-flees-india-after-war-crimes-allegation-filed",
+      "published_date": "2026-06-18T20:40:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza fans chase World Cup joy amid blackout, displacement and war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/gaza-fans-chase-world-cup-joy-amid-blackout-displacement-and-war?traffic_source=rss",
+      "published_date": "2026-06-18T20:18:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military says it has lifted naval blockade of Iranian ports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss",
+      "published_date": "2026-06-18T19:43:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon says Israeli strikes kill three",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-reports-fresh-clashes-lebanon-says-israeli-strikes-kill-three",
+      "published_date": "2026-06-18T19:35:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel plans expanded occupation of Lebanon in defiance of US-Iran pact",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-plans-expanded-occupation-lebanon-defiance-us-iran-pact",
+      "published_date": "2026-06-18T19:29:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel plans expanded occupation of Lebanon in defiance of US-Iran pact",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-plans-expanded-lebanese-occupation-zone-defiance-us-iran-pact",
+      "published_date": "2026-06-18T18:32:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah lawmaker says Israel's war failed to crush group",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-lawmaker-says-israels-war-failed-crush-group",
+      "published_date": "2026-06-18T17:45:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli forces kill three people in southern Lebanon",
@@ -172,116 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "'This was not easy': Trump and Iran sign interim ceasefire deal in France",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-and-iran-pezeshkian-electronically-sign-mou-ceasefire",
-      "published_date": "2026-06-18T11:26:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hormuz vessels must still coordinate with IRGC navy, Iranian state TV says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-vessels-must-still-coordinate-irgc-navy-iranian-state-tv-says",
-      "published_date": "2026-06-18T11:21:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian press review: Conflict revived Iran’s regional power, says anti-war analyst",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iranian-press-review-conflict-revived-irans-regional-power-anti-war-analyst",
-      "published_date": "2026-06-18T11:09:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth: US can reimpose blockade if Iran doesn't fulfil commitments",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-us-can-reimpose-blockade-if-iran-doesnt-fulfil-commitments",
-      "published_date": "2026-06-18T11:05:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military: Our forces are operating in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-our-forces-are-operating-southern-lebanon",
-      "published_date": "2026-06-18T10:28:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth announces review of US troop deployment in Europe",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-announces-review-us-troop-deployment-europe",
-      "published_date": "2026-06-18T09:44:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "World Cup 2026: Bosnia's diaspora generation unites a nation still healing from war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/world-cup-2026-bosnia-diaspora-generation-unites-nation-still-healing-war",
-      "published_date": "2026-06-18T07:45:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 111: Tehran warns US as 14-point plan takes effect",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/iran-war-day-111-tehran-warns-us-as-14-point-plan-takes-effect?traffic_source=rss",
-      "published_date": "2026-06-18T07:38:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan's Prime Minister says US-Iran MoU will enter into force immediately",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistans-sharif-says-us-iran-mou-will-enter-force-immediately",
-      "published_date": "2026-06-18T00:03:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera journalist reunited with family in Khartoum after years of war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
-      "published_date": "2026-06-17T21:34:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US used Musk’s Grok AI to deploy 2,000 munitions during Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-used-musks-grok-deploy-2000-munitions-during-iran-war",
-      "published_date": "2026-06-17T21:20:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump thanks China's Xi, Russia's Putin for being 'neutral' in Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-thanks-chinas-xi-russias-putin-being-neutral-iran-war",
-      "published_date": "2026-06-17T21:02:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran says considering plan for Iran, US presidents to sign deal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-considering-plan-iran-us-presidents-sign-deal",
-      "published_date": "2026-06-17T20:38:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran and US to end fighting and maritime blockades in the Gulf area, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-us-end-fighting-and-maritime-blockades-gulf-area-mou-report",
-      "published_date": "2026-06-17T20:13:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "MEE correspondent Mohammed Amin, refused UK visa, wins One World Media Award",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/mee-correspondent-mohammed-amin-wins-one-world-media-award",
-      "published_date": "2026-06-17T20:12:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump justifies Iran deal as a way to prevent 'economic catastrophe'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-defends-iran-deal-way-prevent-economic-catastrophe",
-      "published_date": "2026-06-17T19:45:26+00:00",
-      "category": "Military"
+      "title": "The Palestine movement must seek power over purity",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/palestine-bds-power-purity/",
+      "published_date": "2026-06-18T14:37:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘A fantasy’: How the Palestine Action ruling whitewashed the history of civil disobedience",
@@ -366,6 +373,20 @@
       "url": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss",
       "published_date": "2026-06-12T09:35:08+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Cuba’s Communist Party approves opening economy in unprecedented move",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss",
+      "published_date": "2026-06-18T21:28:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Brazil executes warrant against Lula ally in widening financial scandal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal?traffic_source=rss",
+      "published_date": "2026-06-18T21:13:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Huawei CFO’s admissions can be used at criminal trial, US judge rules",
@@ -466,11 +487,25 @@
       "category": "Economy"
     },
     {
-      "title": "China bars Philippines defence chief as South China Sea spat sails onwards",
+      "title": "Iranian negotiators delay Switzerland talks trip after Israeli strikes in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-nuclear-team-delays-departure-switzerland-talks-over-israeli",
+      "published_date": "2026-06-18T22:31:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lionel Messi’s father undergoing treatment for health issues, family says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/china-bars-philippines-defence-chief-as-south-china-sea-spat-sails-onwards?traffic_source=rss",
-      "published_date": "2026-06-11T19:46:22+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/6/18/lionel-messis-father-undergoing-treatment-for-health-issues-family-says?traffic_source=rss",
+      "published_date": "2026-06-18T20:02:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doctor charged with 'spreading false news' in Egypt after highlighting obstetric violence in hospitals",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/trending/doctor-charged-egypt-highlighting-obstetric-violence-hospitals",
+      "published_date": "2026-06-18T19:10:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel's Ben Gvir set to attend UN policing conference in New York next month",
@@ -589,27 +624,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/uk-minister-accused-trying-bait-zack-polanski-committing-terror-offence",
       "published_date": "2026-06-17T09:30:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian Bedouin villagers demolish homes after Israeli orders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/palestinian-bedouin-villagers-demolish-homes-after-israeli-orders?traffic_source=rss",
-      "published_date": "2026-06-16T20:42:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: Iraq's long-awaited return sparks pride at home and abroad",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/world-cup-2026-iraq-long-awaited-return-sparks-pride-home-and-abroad",
-      "published_date": "2026-06-16T18:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel seizes power over occupied West Bank mosque from Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/16/israel-seizes-power-over-occupied-west-bank-mosque-from-palestinians?traffic_source=rss",
-      "published_date": "2026-06-16T17:23:12+00:00",
       "category": "Local Events"
     }
   ]
