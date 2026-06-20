@@ -1,8 +1,99 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-19T13:58:09.115700+00:00",
-  "story_count": 89,
+  "last_updated": "2026-06-20T00:15:04.211850+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
+      "published_date": "2026-06-20T00:00:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US judge rejects Joe Biden’s lawsuit asking to withhold memoir recordings",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/us-judge-rejects-joe-bidens-lawsuit-asking-to-withhold-memoir-recordings?traffic_source=rss",
+      "published_date": "2026-06-19T23:11:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'All of Lebanon must burn,' Israeli minister Ben Gvir declares",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/all-lebanon-must-burn-israeli-minister-ben-gvir-declares",
+      "published_date": "2026-06-19T22:54:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran lawmaker warns US over ceasefire violations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-lawmaker-warns-us-over-ceasefire-violations",
+      "published_date": "2026-06-19T22:22:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/does-trump-have-to-submit-the-iran-memorandum-of-understanding-to-congress?traffic_source=rss",
+      "published_date": "2026-06-19T21:10:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italian Prime Minister says she didn’t ‘beg’ Trump for G7 photograph",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/italian-prime-minister-says-she-didnt-beg-trump-for-g7-photograph?traffic_source=rss",
+      "published_date": "2026-06-19T20:53:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'This must end': Norway moves to cut trade with illegal Israeli settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/norway-moves-cut-trade-ties-israels-illegal-settlement-economy",
+      "published_date": "2026-06-19T20:41:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran deputy FM says ‘ready to move forward’ in deal with US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/iran-deputy-fm-says-ready-to-move-forward-in-deal-with-us?traffic_source=rss",
+      "published_date": "2026-06-19T20:03:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump heads to Camp David as Iran talks stall",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-heads-camp-david-iran-talks-stall",
+      "published_date": "2026-06-19T19:15:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he urged Israel to accept Hezbollah ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-urged-israel-accept-hezbollah-ceasefire",
+      "published_date": "2026-06-19T17:42:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran plans to charge insurance fees to vessels in Hormuz after US deal expires",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-plans-charge-insurance-fee-vessels-transiting-hormuz-after-us-deal-expires",
+      "published_date": "2026-06-19T17:21:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/italys-top-diplomat-nixes-us-trip-after-meloni-says-trump-fabricated-story?traffic_source=rss",
+      "published_date": "2026-06-19T16:38:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran denies inviting IAEA to inspect nuclear sites",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-inviting-iaea-inspect-nuclear-sites",
+      "published_date": "2026-06-19T16:21:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel and Hezbollah agree to ceasefire deal",
       "source": "Middle East Eye",
@@ -53,95 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France warns UN sanctions on Iran won't lift without its sign-off",
+      "title": "Iran accuses French foreign minister of hypocrisy over war comments",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-warns-un-sanctions-iran-wont-lift-without-its-sign",
-      "published_date": "2026-06-19T09:42:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-lawmaker-accuses-us-violating-first-clause-mou",
+      "published_date": "2026-06-19T23:47:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "US export ban on Anthropic’s AI models further strains alliances",
+      "title": "Iran agreement sparks debate across Capitol Hill",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-agreement-sparks-debate-across-capitol-hill",
+      "published_date": "2026-06-19T23:37:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US announces new round of Israel-Lebanon talks in Washington next week",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/us-export-ban-on-anthropics-ai-models-further-strains-alliances?traffic_source=rss",
-      "published_date": "2026-06-19T09:05:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss",
+      "published_date": "2026-06-19T21:02:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt's foreign minister hosting Pakistani, Saudi and Turkish counterparts on Sunday",
+      "title": "Trump boasts of Iran attacks at Air Force One event",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypts-foreign-minister-hosting-pakistani-saudi-and-turkish-counterparts",
-      "published_date": "2026-06-19T06:47:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-boasts-iran-attacks-air-force-one-event",
+      "published_date": "2026-06-19T20:52:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU won’t lift key Iran sanctions until formal nuclear deal reached",
+      "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/eu-wont-lift-key-iran-sanctions-until-formal-nuclear-deal-reached?traffic_source=rss",
-      "published_date": "2026-06-19T00:41:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
+      "published_date": "2026-06-19T20:50:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Are prices really dropping in the US, as Trump claims?",
+      "title": "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
-      "published_date": "2026-06-18T21:30:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/head-to-head/2026/6/19/iran-war-success-or-disaster-mehdi-hasan-and-david-des-roches?traffic_source=rss",
+      "published_date": "2026-06-19T19:05:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
+      "title": "UN calls on RSF to cease imminent offensive on Sudan’s el-Obeid",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/un-calls-rsf-cease-imminent-offensive-sudans-el-obeid",
+      "published_date": "2026-06-19T18:52:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One person killed, several injured as two trains collide north of London",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump?traffic_source=rss",
-      "published_date": "2026-06-18T20:26:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss",
+      "published_date": "2026-06-19T18:32:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "MoU’s $300bn Iran reconstruction fund becomes US political flashpoint",
+      "title": "Israeli strike on Gaza tent wounds five Palestinians",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-tent-wounds-five-palestinians",
+      "published_date": "2026-06-19T17:19:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'All of Lebanon must burn,' Israeli minister Ben Gvir declares",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/all-lebanon-must-burn-israeli-minister-ben-gvir-declares",
+      "published_date": "2026-06-19T16:03:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel continues attacks on Lebanon despite agreeing to ceasefire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss",
-      "published_date": "2026-06-18T19:52:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says US expects 'complete ceasefire on all fronts' following Iran deal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-expects-complete-ceasefire-all-fronts-following-iran-deal",
-      "published_date": "2026-06-18T18:42:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Exclusive: ICC member states to vote on Karim Khan probe in New York on 24 July",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-icc-member-states-vote-karim-khan-probe-new-york-24-july",
-      "published_date": "2026-06-18T18:39:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian supreme leader says direct talks with US do 'not mean accepting its views'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-supreme-leader-says-direct-talks-us-do-not-mean-accepting-its-views",
-      "published_date": "2026-06-18T18:19:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Exclusive: ICC member states to vote on Karim Khan probe in New York on 24 July",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/exclusive-icc-member-states-vote-karim-khan-probe-new-york-24-july",
-      "published_date": "2026-06-18T17:16:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel 'will be at war with Syria sooner or later', says Likud minister",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-will-be-war-syria-sooner-or-later-says-likud-minister",
-      "published_date": "2026-06-18T17:10:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-Iran deal leaves Israel isolated and Netanyahu exposed",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-iran-deal-leaves-israel-isolated-and-netanyahu-exposed",
-      "published_date": "2026-06-18T13:55:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/19/israel-continues-attacks-on-lebanon-despite-agreeing-to-ceasefire?traffic_source=rss",
+      "published_date": "2026-06-19T15:47:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel kills dozens in Lebanon as minister calls to 'open the gates of hell'",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "For one Yemeni, World Cup serves as a marker of war and peace",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/19/for-one-yemeni-world-cup-serves-as-a-marker-of-war-and-peace?traffic_source=rss",
-      "published_date": "2026-06-19T08:49:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US kills 3 in strike on alleged drug smuggling boat in Eastern Pacific",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/us-kills-3-in-strike-on-alleged-drug-smuggling-boat-in-eastern-pacific?traffic_source=rss",
-      "published_date": "2026-06-19T08:23:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Revealed: How a German-US corporate giant became the world’s largest foreign financier of Israel’s wars",
+      "title": "Trump warns Iran must reach deal within 60 days",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/revealed-how-german-us-corporate-giant-became-worlds-largest-foreign-financier-israels-wars",
-      "published_date": "2026-06-19T08:07:12+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-warns-iran-must-reach-deal-within-60-days",
+      "published_date": "2026-06-19T21:20:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "British official calls on Israel to withdraw from southern Lebanon",
+      "title": "Trump thanks China for staying out of Iran conflict",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/british-official-calls-israel-withdraw-southern-lebanon",
-      "published_date": "2026-06-19T07:01:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/iran-war-day-112-vance-defends-tehran-deal-but-switzerland-trips-are-off?traffic_source=rss",
-      "published_date": "2026-06-19T06:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says war on Iran showed 'no limits' to his power",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-war-iran-showed-no-limits-his-power",
-      "published_date": "2026-06-19T00:20:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: JD Vance defends Iran deal as US says naval blockade lifted",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/19/iran-war-live-jd-vance-defends-iran-deal-as-us-says-naval-blockade-lifted?traffic_source=rss",
-      "published_date": "2026-06-19T00:00:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian official says breaches of deal with US will 'receive an even harder slap'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-says-us-will-receive-even-harder-slap-if-deal-breached",
-      "published_date": "2026-06-18T23:46:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says it lifted blockade on Iranian ports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-lifted-blockade-iranian-ports",
-      "published_date": "2026-06-18T23:40:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli artillery shelling kill Palestinian in central Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-artillery-shelling-kill-palestinian-central-gaza",
-      "published_date": "2026-06-18T22:22:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll from Israeli attacks on Gaza since ceasefire passes 1,000",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-attacks-gaza-ceasefire-passes-1000",
-      "published_date": "2026-06-18T21:22:28+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-thanks-china-staying-out-iran-conflict",
+      "published_date": "2026-06-19T20:16:16+00:00",
+      "category": "Energy"
     },
     {
       "title": "How can Andy Burnham become prime minister and what comes next for Britain?",
@@ -354,39 +368,25 @@
       "category": "Energy"
     },
     {
-      "title": "US officials say Hormuz oil flows reaching half of pre-war levels",
+      "title": "Norway seeks to ban trade with illegal Israeli settlements in Palestine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/norway-seeks-to-ban-trade-with-illegal-israeli-settlements-in-palestine?traffic_source=rss",
+      "published_date": "2026-06-19T19:18:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/more-than-70-medics-infected-with-ebola-as-drc-outbreak-spreads-fast?traffic_source=rss",
+      "published_date": "2026-06-19T18:04:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Norway moves to ban trade with Israeli settlements",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-officials-say-hormuz-oil-flows-reaching-half-pre-war-levels",
-      "published_date": "2026-06-12T22:31:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Clashes break out at DRC rally against presidential term-limit change",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/violence-breaks-out-at-drc-rally-against-presidential-term-limit-change?traffic_source=rss",
-      "published_date": "2026-06-12T19:51:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Putin admits Ukraine attacks hitting Russian economy, society",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/putin-admits-ukraine-attacks-hitting-russian-economy-society?traffic_source=rss",
-      "published_date": "2026-06-12T19:30:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Qatar reportedly offered Iran gas shutdown during US-Israeli war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-reportedly-offered-iran-gas-shutdown-during-us-israeli-war",
-      "published_date": "2026-06-12T19:25:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Venezuela hits out at Trinidad and Tobago in oil spill spat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/venezuela-hits-out-at-trinidad-and-tobago-in-oil-spill-spat?traffic_source=rss",
-      "published_date": "2026-06-12T18:25:49+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/norway-moves-ban-trade-israeli-settlements",
+      "published_date": "2026-06-19T15:55:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "Cuba’s Communist Party approves opening economy in unprecedented move",
@@ -480,11 +480,53 @@
       "category": "Economy"
     },
     {
-      "title": "UAE denies releasing or moving frozen Iranian funds",
+      "title": "Israel seizes church land in East Jerusalem, Palestinian Authority says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-denies-releasing-or-moving-frozen-iranian-funds",
-      "published_date": "2026-06-12T21:50:17+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-seizes-greek-orthodox-church-land-east-jerusalem-palestinian",
+      "published_date": "2026-06-20T00:02:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers vandalise Palestinian home in West Bank, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-vandalise-palestinian-home-west-bank-report-says",
+      "published_date": "2026-06-19T23:44:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thirty dead at DRC displacement camp as Ebola threat grows",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_thirty-dead-at-drc-displacement-camp-ebola-threat-190626?traffic_source=rss",
+      "published_date": "2026-06-19T22:27:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'This must end': Norway moves to cut trade with illegal Israeli settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/must-end-norway-moves-cut-trade-illegal-israeli-settlements",
+      "published_date": "2026-06-19T21:50:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Backlash for UK MP who linked England World Cup result to women’s safety",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/backlash-for-uk-mp-who-linked-england-world-cup-result-to-womens-safety?traffic_source=rss",
+      "published_date": "2026-06-19T18:30:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dramatic rescue as fire rips through school in Japan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_dramatic-rescue-fire-rips-through-school-in-japan-190626?traffic_source=rss",
+      "published_date": "2026-06-19T17:35:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "An organisation in 'crisis': Jewish anti-Zionists hit back at Board of Deputies",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/organisation-crisis-jewish-anti-zionists-hit-back-board-of-deputies",
+      "published_date": "2026-06-19T16:52:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli forces conduct raids in occupied West Bank as Israeli settlers attack infrastructure",
@@ -575,55 +617,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/israeli-settlers-set-fire-to-a-mosque-in-the-occupied-west-bank?traffic_source=rss",
       "published_date": "2026-06-17T14:04:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘He wanted to burn me alive’: 92-year-old recounts West Bank settler attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/17/he-wanted-to-burn-me-alive-92-year-old-recounts-west-bank-settler-attack?traffic_source=rss",
-      "published_date": "2026-06-17T14:03:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel takes control of Hebron’s Ibrahimi Mosque: What this means",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/17/israel-takes-control-of-hebrons-ibrahimi-mosque-what-next?traffic_source=rss",
-      "published_date": "2026-06-17T11:41:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Belfast, ancient grudges and new furies leave a city burned",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-belfast-riots-ancient-grudges-new-furies-city-burned",
-      "published_date": "2026-06-17T11:31:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran team blames US for 'disastrous' restrictions at World Cup",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-team-blames-us-disastrous-restrictions-world-cup",
-      "published_date": "2026-06-17T11:26:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/17/zidane-iqbal-the-footballer-who-gave-pakistan-its-first-world-cup-moment?traffic_source=rss",
-      "published_date": "2026-06-17T10:57:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran team blames US for 'disastrous' restrictions at World Cup",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-team-blames-us-disastrous-restrictions-world-cup",
-      "published_date": "2026-06-17T10:33:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London real estate event admits promoting Israeli settlement property 'by mistake'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/london-real-estate-event-admits-promoting-israeli-settlement-property-defends-itself",
-      "published_date": "2026-06-17T10:06:33+00:00",
       "category": "Local Events"
     }
   ]
