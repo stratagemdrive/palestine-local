@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-21T00:14:14.153525+00:00",
-  "story_count": 87,
+  "last_updated": "2026-06-21T13:02:08.142713+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Qatar confirms launch of US-Iran talks in Switzerland",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-confirms-launch-us-iran-talks-switzerland",
+      "published_date": "2026-06-21T11:55:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "JD Vance in Switzerland for Iran talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jd-vance-switzerland-iran-talks",
+      "published_date": "2026-06-21T09:54:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The deal with Iran may be imperfect but it is what the American people want",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/21/the-deal-with-iran-may-be-imperfect-but-it-is-what-the-american-people-want?traffic_source=rss",
+      "published_date": "2026-06-21T09:17:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan army chief arrives in Switzerland for US-Iran talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-army-chief-arrives-switzerland-us-iran-talks",
+      "published_date": "2026-06-21T06:34:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump official says Iran World Cup visa approval ‘amazing’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/aje-onl-nf_trump-official-says-iran-visa-approval-amazing-210626?traffic_source=rss",
+      "published_date": "2026-06-21T06:28:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US, Iranian and Pakistani delegations converge in Switzerland",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iranian-and-pakistani-delegations-converge-switzerland",
+      "published_date": "2026-06-21T04:59:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Former Saudi intelligence chief urges stronger GCC unity",
       "source": "Middle East Eye",
@@ -102,46 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump’s Iran deal, Israel’s meltdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss",
-      "published_date": "2026-06-20T09:45:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan's interior minister to meet Iran's foreign minister in Tehran",
+      "title": "Ninety-two percent of Israelis think Iran has won war, new poll finds",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-and-iranian-officials-meet-during-tehran-visit",
-      "published_date": "2026-06-20T09:05:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ninety-two-percent-israelis-think-iran-has-won-war-new-poll-finds",
+      "published_date": "2026-06-21T12:44:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli strikes kill 22 in Lebanon, putting US-Iran peace talks in peril",
+      "title": "There is 'no restriction on Israeli soldiers to act on threats' in Lebanon, says Katz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/there-no-restriction-israeli-soldiers-act-threats-lebanon-says-katz",
+      "published_date": "2026-06-21T12:30:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ninety-two percent of Israelis think Iran has won war, new poll finds",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/ninety-two-percent-israelis-think-iran-has-won-war-new-poll-finds",
+      "published_date": "2026-06-21T12:15:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vast majority of Israelis believe Iran has won war, poll finds",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vast-majority-israelis-believe-iran-has-won-war-poll-finds",
+      "published_date": "2026-06-21T11:03:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks?traffic_source=rss",
-      "published_date": "2026-06-20T07:02:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
+      "published_date": "2026-06-21T10:30:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Kind, principled’: Colleagues remember Gaza journalist killed by Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss",
+      "published_date": "2026-06-21T10:30:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Stop ‘Greater Israel’ to make peace",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/21/stop-greater-israel-to-make-peace?traffic_source=rss",
+      "published_date": "2026-06-21T10:11:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mother of Al Jazeera’s Ahmed Wishah mourns his killing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/mother-of-al-jazeeras-ahmed-wishah-mourns-his-killing?traffic_source=rss",
+      "published_date": "2026-06-21T10:01:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran talks in Switzerland: Is Lebanon top of agenda; who is attending?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/us-iran-talks-in-switzerland-is-lebanon-top-of-agenda-who-is-attending?traffic_source=rss",
+      "published_date": "2026-06-21T09:10:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vance arrives in Switzerland for US-Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss",
+      "published_date": "2026-06-21T07:39:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 114: US, Iranian delegations in Switzerland for key talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks?traffic_source=rss",
+      "published_date": "2026-06-21T07:22:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Morning update",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-566",
-      "published_date": "2026-06-20T06:47:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-567",
+      "published_date": "2026-06-21T06:28:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Somaliland president visits Israel after recognition agreement",
+      "title": "Video: Lebanese villagers describe life under Israeli control in Halta",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/somaliland-president-visits-israel-after-recognition-agreement",
-      "published_date": "2026-06-20T05:45:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-lebanese-villagers-describe-life-under-israeli-control-halta",
+      "published_date": "2026-06-21T05:48:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence",
+      "title": "Israeli attacks kill at least seven in Lebanon's Western Beqaa and Tyre",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-least-seven-lebanons-western-bekaa-and-tyre",
+      "published_date": "2026-06-21T05:46:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/israel-fetes-somalilands-leader-as-it-seeks-to-expand-red-sea-influence?traffic_source=rss",
-      "published_date": "2026-06-20T04:30:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/al-jazeera-cameraman-ahmed-wishah-killed-in-targeted-israeli-strike?traffic_source=rss",
+      "published_date": "2026-06-21T05:35:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strike kills journalist in central Gaza",
@@ -179,109 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Bolivia declares state of emergency amid blockade crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss",
-      "published_date": "2026-06-20T16:41:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills children in Gaza despite ceasefire claims",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/israeli-strike-kills-children-in-gaza-despite-ceasefire-claims?traffic_source=rss",
-      "published_date": "2026-06-20T16:39:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran negotiators leave for Switzerland to discuss US deal",
+      "title": "Strait of Hormuz won't reopen 'until Lebanon ceasefire holds and oil waivers issued'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-negotiators-leave-switzerland-discuss-us-deal",
-      "published_date": "2026-06-20T16:27:17+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/strait-hormuz-wont-reopen-until-lebanon-ceasefire-holds-and-oil-waivers",
+      "published_date": "2026-06-21T11:36:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Netanyahu, Katz order forces to cease southern Lebanon attacks",
+      "title": "Oil sector could become early test of US-Iran accord, minister says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-katz-order-forces-cease-southern-lebanon-attacks",
-      "published_date": "2026-06-20T15:42:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran recloses Strait of Hormuz after Israeli attacks on Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-recloses-strait-hormuz-after-israeli-attacks-lebanon",
-      "published_date": "2026-06-20T15:13:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah says Israel bears 'full responsibility' for truce violations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israel-bears-full-responsibility-truce-violations",
-      "published_date": "2026-06-20T15:11:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nine left in critical condition after UK train collision that killed driver",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/nine-left-in-critical-condition-after-uk-train-collision-that-killed-driver?traffic_source=rss",
-      "published_date": "2026-06-20T14:50:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran recloses Strait of Hormuz after Israeli attacks on Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-re-closes-strait-hormuz-after-israeli-attacks-lebanon",
-      "published_date": "2026-06-20T14:31:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah says it confronted Israeli 'infiltration attempt' in south",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-confronted-israeli-infiltration-attempt-south",
-      "published_date": "2026-06-20T11:35:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike near Sidon in southern Lebanon kills seven",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-near-sidon-southern-lebanon-kills-seven",
-      "published_date": "2026-06-20T11:27:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill 16 people in Lebanon’s Nabatieh",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/16-killed-ongoing-israeli-strikes-lebanons-nabatieh-area",
-      "published_date": "2026-06-20T09:40:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military says it is striking Hezbollah targets in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-it-striking-hezbollah-targets-south-lebanon",
-      "published_date": "2026-06-20T09:33:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Family of four killed in Israeli strike on southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/family-four-massacred-israeli-strike-southern-lebanon",
-      "published_date": "2026-06-20T08:42:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Fear, panic and exhaustion': Women in Syria's Roj camp report worsening abuse",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/fear-panic-and-exhaustion-women-syrias-roj-camp-report-worsening-abuse",
-      "published_date": "2026-06-20T08:40:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah parliamentarian says ceasefire ‘meaningless’ while Israeli forces occupy Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-parliamentarian-says-ceasefire-meaningless-while-israeli",
-      "published_date": "2026-06-20T08:39:31+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-sector-could-become-early-test-us-iran-accord-minister-says",
+      "published_date": "2026-06-21T07:03:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "US Centcom says 55 vessels passed through Hormuz today",
@@ -473,6 +487,41 @@
       "category": "Economy"
     },
     {
+      "title": "I am a doctor in the occupied West Bank. Our hospitals are dying",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/i-am-doctor-occupied-west-bank-our-hospitals-are-dying",
+      "published_date": "2026-06-21T12:28:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where is the outrage over US-Israeli destruction of historic sites?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/where-outrage-over-us-israeli-destruction-historic-sites",
+      "published_date": "2026-06-21T11:10:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Systemic discrimination’: Veiled women in France face mounting barriers to employment",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/systemic-discrimination-muslim-women-veil-france-face-mounting-barriers-employment",
+      "published_date": "2026-06-21T10:17:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel and the US are erasing Iran and Lebanon's ancient heritage",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/israel-and-us-are-erasing-iran-and-lebanons-ancient-heritage",
+      "published_date": "2026-06-21T08:44:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Israel kills journalist Ahmed Wishah in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-journalist-ahmed-wishah-gaza-two-months-after-brother",
+      "published_date": "2026-06-21T05:01:27+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Outcry after several injured in attacks targeting Muslims in Edinburgh",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/outcry-after-several-injured-violent-anti-muslim-attacks-edinburgh",
@@ -575,41 +624,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_dramatic-rescue-fire-rips-through-school-in-japan-190626?traffic_source=rss",
       "published_date": "2026-06-19T17:35:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An organisation in 'crisis': Jewish anti-Zionists hit back at Board of Deputies",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/organisation-crisis-jewish-anti-zionists-hit-back-board-of-deputies",
-      "published_date": "2026-06-19T16:52:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces conduct raids in occupied West Bank as Israeli settlers attack infrastructure",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-conduct-raids-occupied-west-bank-israeli-settlers-attack",
-      "published_date": "2026-06-19T12:56:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: Why Sahrawis are rallying behind Algeria and not Morocco",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/world-cup-2026-why-sahrawis-rallying-behind-algeria-and-not-morocco",
-      "published_date": "2026-06-19T10:10:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian negotiators delay Switzerland talks trip after Israeli strikes in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-nuclear-team-delays-departure-switzerland-talks-over-israeli",
-      "published_date": "2026-06-18T22:31:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lionel Messi’s father undergoing treatment for health issues, family says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/18/lionel-messis-father-undergoing-treatment-for-health-issues-family-says?traffic_source=rss",
-      "published_date": "2026-06-18T20:02:07+00:00",
       "category": "Local Events"
     }
   ]
