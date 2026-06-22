@@ -1,8 +1,85 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-21T13:02:08.142713+00:00",
-  "story_count": 89,
+  "last_updated": "2026-06-22T00:17:48.321252+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
+      "published_date": "2026-06-22T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says messages continue through mediators after refusing to rejoin talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-messages-continue-through-mediators-after-refusing-rejoin",
+      "published_date": "2026-06-21T22:25:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are the end goals of Iran-US negotiations?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss",
+      "published_date": "2026-06-21T20:59:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkish minister warns of Israeli sabotage risk to US-Iran deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-minister-warns-israeli-sabotage-risk-us-iran-deal",
+      "published_date": "2026-06-21T20:33:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran delegation 'remains engaged' in Switzerland talks, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-delegation-remains-engaged-switzerland-talks-report-says",
+      "published_date": "2026-06-21T19:49:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says talks covered frozen assets, oil sanctions relief proposal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-us-talks-switzerland-paused-not-ended-iranian-source-says",
+      "published_date": "2026-06-21T18:29:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sanctions waivers for Iranian oil to be issued soon, says Iranian negotiator",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sanctions-waivers-iranian-oil-be-issued-soon-says-iranian-negotiator",
+      "published_date": "2026-06-21T17:27:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US hopes to turn over 'new leaf' with Iran, but Trump threatens to resume bombing",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-hopes-turn-over-new-leaf-iran-trump-threatens-resume-bombing",
+      "published_date": "2026-06-21T16:03:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran state media says nuclear programme not discussed in US talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-state-media-says-nuclear-programme-not-discussed-us-talks",
+      "published_date": "2026-06-21T16:01:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Iran negotiations in Switzerland kick off",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-negotiations-in-switzerland-kick-off?traffic_source=rss",
+      "published_date": "2026-06-21T15:16:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran-US launch historic peace talks with 60-day roadmap",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/iran-u-s-launch-historic-peace-talks-with-60-day-roadmap?traffic_source=rss",
+      "published_date": "2026-06-21T14:54:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar confirms launch of US-Iran talks in Switzerland",
       "source": "Middle East Eye",
@@ -67,81 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iranian delegation arrives in Switzerland for US peace talks",
+      "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iranian-delegation-arrives-in-switzerland-for-us-peace-talks?traffic_source=rss",
-      "published_date": "2026-06-20T23:39:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
+      "published_date": "2026-06-21T21:45:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says only US could impose Hormuz transit charges",
+      "title": "Syria president denies wanting to intervene in Lebanon after Trump remarks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-there-will-be-no-hormuz-tolls-during-ceasefire",
-      "published_date": "2026-06-20T23:32:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-president-denies-wanting-intervene-lebanon-after-trump-remarks",
+      "published_date": "2026-06-21T21:11:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
+      "title": "Mourners gather to remember Lebanese conservationist killed by Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
-      "published_date": "2026-06-20T21:54:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss",
+      "published_date": "2026-06-21T20:21:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranian delegation arrives in Switzerland",
+      "title": "Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/remembering-al-jazeera-cameraman-ahmed-wishahs-lifes-work?traffic_source=rss",
+      "published_date": "2026-06-21T20:11:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Loud boom heard in Doha as explosion at factory reported",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-delegation-arrives-switzerland",
-      "published_date": "2026-06-20T21:16:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/loud-boom-heard-doha-factory-explosion-reported",
+      "published_date": "2026-06-21T19:58:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump threatens US tolls on Hormuz strait if Iran talks fail",
+      "title": "Israeli defence minister says Israel has 'no intention of withdrawing' from southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-us-tolls-hormuz-strait-if-iran-talks-fail",
-      "published_date": "2026-06-20T19:51:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defense-minister-says-israel-has-no-intention-withdrawing",
+      "published_date": "2026-06-21T19:41:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss",
-      "published_date": "2026-06-20T17:39:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US forces monitoring Strait of Hormuz to ensure it stays open",
+      "title": "Israel lifts all war-related restrictions on northern border areas",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-forces-monitoring-strait-hormuz-ensure-it-stays-open",
-      "published_date": "2026-06-20T17:03:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lifts-all-war-related-restrictions-northern-border-areas",
+      "published_date": "2026-06-21T19:04:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘You could’ve been the greatest’: Trump faces Israeli anger over Iran deal",
+      "title": "What’s next in the Strait of Hormuz crisis?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/you-could-have-been-the-greatest-trump-faces-israeli-anger-over-iran-deal?traffic_source=rss",
-      "published_date": "2026-06-20T16:38:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss",
+      "published_date": "2026-06-21T17:36:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump insists Italy’s Meloni sought photos with him to boost popularity",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/trump-insists-italys-meloni-sought-photos-with-him-to-boost?traffic_source=rss",
-      "published_date": "2026-06-20T15:58:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan says US-Iran talks to take place in Switzerland on Sunday",
+      "title": "Iran warns US to 'be careful' after Trump threat",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-us-iran-follow-talks-take-place-switzerland-sunday",
-      "published_date": "2026-06-20T14:50:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-be-careful-after-trump-threat",
+      "published_date": "2026-06-21T16:55:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Slave trade reenacted on Juneteenth as leaders demand reparations",
+      "title": "Hezbollah chief rejects any Israeli security zone in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon",
+      "published_date": "2026-06-21T16:29:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah chief says would respond to any violation from Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-would-respond-any-violation-israel",
+      "published_date": "2026-06-21T16:10:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US hopes to turn over 'new leaf' with Iran, but Trump threatens to resume bombing",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-hopes-turn-over-new-leaf-iran-trump-threatens-resume-bombing",
+      "published_date": "2026-06-21T15:32:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bolivian authorities say no active blockades after state of emergency decree",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/slave-trade-reenacted-on-juneteenth-as-leaders-demand-reparations?traffic_source=rss",
-      "published_date": "2026-06-20T11:50:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/21/bolivian-authorities-say-no-active-blockades-after-state-of-emergency-decree?traffic_source=rss",
+      "published_date": "2026-06-21T14:27:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Ninety-two percent of Israelis think Iran has won war, new poll finds",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Mother of Al Jazeera’s Ahmed Wishah mourns his killing",
+      "title": "Ethiopian prime minister’s party easily wins parliamentary election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/mother-of-al-jazeeras-ahmed-wishah-mourns-his-killing?traffic_source=rss",
-      "published_date": "2026-06-21T10:01:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran talks in Switzerland: Is Lebanon top of agenda; who is attending?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/us-iran-talks-in-switzerland-is-lebanon-top-of-agenda-who-is-attending?traffic_source=rss",
-      "published_date": "2026-06-21T09:10:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Vance arrives in Switzerland for US-Iran talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss",
-      "published_date": "2026-06-21T07:39:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 114: US, Iranian delegations in Switzerland for key talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks?traffic_source=rss",
-      "published_date": "2026-06-21T07:22:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-567",
-      "published_date": "2026-06-21T06:28:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Lebanese villagers describe life under Israeli control in Halta",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-lebanese-villagers-describe-life-under-israeli-control-halta",
-      "published_date": "2026-06-21T05:48:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks kill at least seven in Lebanon's Western Beqaa and Tyre",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-least-seven-lebanons-western-bekaa-and-tyre",
-      "published_date": "2026-06-21T05:46:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/al-jazeera-cameraman-ahmed-wishah-killed-in-targeted-israeli-strike?traffic_source=rss",
-      "published_date": "2026-06-21T05:35:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills journalist in central Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-journalist-central-gaza-0",
-      "published_date": "2026-06-20T22:51:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes in Lebanon kill seven",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-lebanon-kill-seven",
-      "published_date": "2026-06-20T22:47:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill at least 20 in Lebanon hours after ceasefire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-least-20-lebanon-hours-after-ceasefire",
-      "published_date": "2026-06-20T19:22:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills journalist in central Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-strike-kills-journalist-central-gaza",
-      "published_date": "2026-06-20T19:03:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
-      "published_date": "2026-06-20T18:07:09+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss",
+      "published_date": "2026-06-21T17:07:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Strait of Hormuz won't reopen 'until Lebanon ceasefire holds and oil waivers issued'",
@@ -487,6 +494,41 @@
       "category": "Economy"
     },
     {
+      "title": "Israeli army says killed two Palestinians near Hebron",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-killed-two-palestinians-near-hebron",
+      "published_date": "2026-06-21T22:12:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli attacks kill nine people in Gaza in past 24 hours",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-nine-people-gaza-past-24-hours",
+      "published_date": "2026-06-21T21:17:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serena Williams to play women’s singles at Wimbledon as wildcard entrant",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/21/serena-williams-to-play-womens-singles-at-wimbledon-as-wildcard-entrant?traffic_source=rss",
+      "published_date": "2026-06-21T20:05:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India’s ‘Cockroach’ movement camps out until education minister resigns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss",
+      "published_date": "2026-06-21T16:37:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanon death toll rises to 4,106",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-rises-2",
+      "published_date": "2026-06-21T15:15:57+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "I am a doctor in the occupied West Bank. Our hospitals are dying",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/opinion/i-am-doctor-occupied-west-bank-our-hospitals-are-dying",
@@ -589,41 +631,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-seizes-greek-orthodox-church-land-east-jerusalem-palestinian",
       "published_date": "2026-06-20T00:02:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers vandalise Palestinian home in West Bank, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-vandalise-palestinian-home-west-bank-report-says",
-      "published_date": "2026-06-19T23:44:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thirty dead at DRC displacement camp as Ebola threat grows",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_thirty-dead-at-drc-displacement-camp-ebola-threat-190626?traffic_source=rss",
-      "published_date": "2026-06-19T22:27:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'This must end': Norway moves to cut trade with illegal Israeli settlements",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/must-end-norway-moves-cut-trade-illegal-israeli-settlements",
-      "published_date": "2026-06-19T21:50:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Backlash for UK MP who linked England World Cup result to women’s safety",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/backlash-for-uk-mp-who-linked-england-world-cup-result-to-womens-safety?traffic_source=rss",
-      "published_date": "2026-06-19T18:30:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dramatic rescue as fire rips through school in Japan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_dramatic-rescue-fire-rips-through-school-in-japan-190626?traffic_source=rss",
-      "published_date": "2026-06-19T17:35:45+00:00",
       "category": "Local Events"
     }
   ]
