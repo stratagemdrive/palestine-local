@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-24T13:12:45.704373+00:00",
-  "story_count": 95,
+  "last_updated": "2026-06-25T00:18:04.703109+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss",
+      "published_date": "2026-06-24T23:47:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
+      "published_date": "2026-06-24T23:25:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top European leaders vow ‘strong’ support for Ukraine ahead of NATO summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/top-european-leaders-vow-strong-support-for-ukraine-ahead-of-nato-summit?traffic_source=rss",
+      "published_date": "2026-06-24T20:24:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US judge blocks Trump subpoenas into transgender care at New York hospitals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/us-judge-blocks-trump-subpoenas-into-transgender-care-at-new-york-hospitals?traffic_source=rss",
+      "published_date": "2026-06-24T20:12:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio: US ‘completely aligned’ with Gulf allies on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/rubio-us-completely-aligned-with-gulf-allies-on-iran?traffic_source=rss",
+      "published_date": "2026-06-24T19:59:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio says US will coordinate closely with Gulf allies on Iran talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-will-coordinate-closely-gulf-allies-iran-talks",
+      "published_date": "2026-06-24T17:34:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brent crude drops below $75 for first time since war on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/brent-crude-drops-below-75-first-time-start-us-israeli-war-iran",
+      "published_date": "2026-06-24T17:08:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US embassy in Kuwait resumes operations after wartime suspension",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-kuwait-resumes-operations-after-wartime-suspension",
+      "published_date": "2026-06-24T16:43:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Former EU vice president Borrell accuses body of abandoning Kaja Kallas over Israel spat",
       "source": "Middle East Eye",
@@ -88,60 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IAEA chief says Iran nuclear inspections will go ahead soon",
+      "title": "Two years on, Kenyan families still seek justice after Gen Z protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/two-years-on-kenyan-families-still-seek-justice-after-gen-z-protests?traffic_source=rss",
+      "published_date": "2026-06-25T00:11:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Venezuela struck by back-to-back earthquakes, many casualties feared",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-struck-by-back-to-back-earthquakes-high-casualties-feared?traffic_source=rss",
+      "published_date": "2026-06-25T00:07:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
+      "published_date": "2026-06-25T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump criticises European allies over lack of support during war on Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iaea-chief-says-iran-nuclear-inspections-will-go-ahead-soon",
-      "published_date": "2026-06-24T09:26:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-criticises-european-allies-over-lack-support-during-war-iran",
+      "published_date": "2026-06-24T22:47:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine’s recovery to be deliberated in Poland amid Kyiv-Warsaw spat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/ukraines-recovery-to-be-deliberated-in-poland-amid-kyiv-warsaw-spat?traffic_source=rss",
-      "published_date": "2026-06-24T08:27:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Donald Trump to attend World Cup final, present trophy: Infantino",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/23/donald-trump-to-attend-world-cup-final-present-trophy-infantino?traffic_source=rss",
-      "published_date": "2026-06-23T21:44:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump allies reassure Israelis amid tensions on US-Iran deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss",
-      "published_date": "2026-06-23T21:19:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump disputes Iran’s rejection of nuclear inspectors",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-disputes-irans-rejection-of-nuclear-inspectors?traffic_source=rss",
-      "published_date": "2026-06-23T20:11:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran’s president arrives in Pakistan for peace talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/irans-president-arrives-in-pakistan-for-peace-talks?traffic_source=rss",
-      "published_date": "2026-06-23T19:57:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US Senate votes to halt Iran war",
+      "title": "Trump casts doubt on US responsibility for deadly Iran school strike",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senate-votes-halt-iran-war",
-      "published_date": "2026-06-23T19:53:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-casts-doubt-us-responsibility-deadly-iran-school-strike",
+      "published_date": "2026-06-24T22:26:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "US Senate votes to pass Iran war powers resolution in blow to Trump",
+      "title": "UN nuclear chief says inspections in Iran will go ahead despite Tehran's caution",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-nuclear-chief-says-inspections-iran-will-go-ahead-despite-tehrans",
+      "published_date": "2026-06-24T21:34:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army says it struck two people in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-struck-two-people-southern-lebanon",
+      "published_date": "2026-06-24T21:00:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least three killed in drone strikes in Russian controlled Horlivka",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss",
-      "published_date": "2026-06-23T19:50:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/at-least-three-killed-in-drone-strikes-in-russian-controlled-horlivka?traffic_source=rss",
+      "published_date": "2026-06-24T20:07:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and Iranian technical teams to meet again in Switzerland",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iranian-technical-teams-meet-again-switzerland",
+      "published_date": "2026-06-24T19:56:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN reports no air strikes in Lebanon for 16 hours despite Israeli military activity",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-peacekeepers-report-no-air-strikes-16-hours-despite-ongoing-israeli",
+      "published_date": "2026-06-24T19:23:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran rejects Rubio's claims on regional instability",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-rejects-rubios-claims-regional-instability",
+      "published_date": "2026-06-24T18:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN: RSF used rape and sexual slavery as weapons of war in Sudan since 2023",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/un-rsf-used-rape-and-sexual-slavery-weapons-war-sudan-three-years",
+      "published_date": "2026-06-24T18:19:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu says Israel will continue operations against Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-will-remain-southern-lebanon",
+      "published_date": "2026-06-24T15:52:51+00:00",
+      "category": "Military"
     },
     {
       "title": "'Constant targeting': Pro-Israel legal group slammed for reporting Oxford Union president to police",
@@ -193,95 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Diabetes patients in Gaza face survival battle amid war shortages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
-      "published_date": "2026-06-24T06:04:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protesters sentenced to decades in US prison over alleged antifa ties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/protesters-sentenced-to-decades-in-us-prison-over-alleged-antifa-ties?traffic_source=rss",
-      "published_date": "2026-06-23T23:22:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN report: Israel committing genocide in Gaza by deliberately targeting children",
+      "title": "US says 20 million barrels of crude passed through Hormuz in past day",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-report-says-israel-committing-genocide-gaza-deliberately-targeting",
-      "published_date": "2026-06-23T21:44:14+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-20-million-barrels-crude-passed-through-hormuz-past-day",
+      "published_date": "2026-06-24T20:30:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-06-23T21:00:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oman announces temporary maritime corridor to bypass Hormuz blockade",
+      "title": "Rubio rejects proposal to charge ships for using Strait of Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-announces-temporary-maritime-corridor-bypass-hormuz-blockade",
-      "published_date": "2026-06-23T20:54:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's ballistic missiles were 'never on the table' in US talks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/irans-ballistic-missiles-were-never-table-us-talks",
-      "published_date": "2026-06-23T20:20:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Alibaba sues US military over labelling it a ‘Chinese military company’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss",
-      "published_date": "2026-06-23T20:12:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Without missiles Iran would have ended up ‘like Gaza’, Iranian president says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/without-missiles-iran-would-have-ended-gaza-says-iranian-president",
-      "published_date": "2026-06-23T19:41:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Israeli troops seen patrolling Syrian countryside",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/video-israeli-troops-seen-patrolling-syrian-countryside?traffic_source=rss",
-      "published_date": "2026-06-23T18:56:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah chief demands full timetable for Israeli withdrawal from Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-demands-full-timetabled-israeli-withdrawal-lebanon",
-      "published_date": "2026-06-23T18:06:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN moves to crack down on attacks on peacekeepers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-moves-crack-down-attacks-peacekeepers",
-      "published_date": "2026-06-23T17:28:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel-Lebanon ceasefire talks a ‘train wreck’, Israeli ambassador to US says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says",
-      "published_date": "2026-06-23T17:04:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Haredi draft revolt threatening to bring Israel to a standstill",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/haredi-draft-revolt-israel-militarism/",
-      "published_date": "2026-06-23T16:59:15+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-rejects-proposal-charge-ships-using-strait-hormuz",
+      "published_date": "2026-06-24T18:04:34+00:00",
+      "category": "Energy"
     },
     {
       "title": "What does Pakistan stand to gain from helping broker the US-Iran deal?",
@@ -410,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "The Palestine movement must seek power over purity",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/palestine-bds-power-purity/",
-      "published_date": "2026-06-18T14:37:31+00:00",
-      "category": "Energy"
+      "title": "Aipac rebuffed as Mamdani-backed candidates sweep NYC Democratic primaries",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/trending/aipac-rebuffed-mamdani-backed-candidates-sweep-nyc-democratic-primaries",
+      "published_date": "2026-06-24T20:22:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "South Africa’s crises will not be solved by blaming migrants",
@@ -522,11 +536,53 @@
       "category": "Economy"
     },
     {
-      "title": "Huawei CFO’s admissions can be used at criminal trial, US judge rules",
+      "title": "From cafes to fan zones: World Cup fever sweeps NYC and New Jersey",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/cafes-fan-zones-world-cup-fever-sweeps-nyc-and-new-jersey",
+      "published_date": "2026-06-24T20:55:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss",
-      "published_date": "2026-06-17T21:32:43+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/economy/2026/6/24/family-sues-tesla-for-wrongful-death-in-autopilot-crash-in-texas-us?traffic_source=rss",
+      "published_date": "2026-06-24T20:44:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US public health agency concludes hantavirus response as outbreak eases",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases?traffic_source=rss",
+      "published_date": "2026-06-24T20:34:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/wins-by-mamdani-backed-candidates-deal-blow-to-pro-israel-camp-in-us?traffic_source=rss",
+      "published_date": "2026-06-24T19:33:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Genocidaires’ delight’: Israeli Ben & Jerry’s flavour sparks social media backlash",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/trending/genocidaires-delight-israeli-ben-jerrys-flavour-sparks-social-media-backlash",
+      "published_date": "2026-06-24T17:25:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian man killed by Israeli forces near Jenin",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-killed-israeli-forces-near-jenin",
+      "published_date": "2026-06-24T16:15:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of Bedouin left homeless as Israel ramps up Naqab expulsions",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/tel-arad-a-sir-bedouin-naqab-demolitions/",
+      "published_date": "2026-06-24T15:05:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Andy Burnham chooses Labour Friends of Israel ex-chair as chief of staff, report says",
@@ -617,55 +673,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-warns-palestinian-children-defenceless-amid-israeli-crackdown-ngos",
       "published_date": "2026-06-23T19:30:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN warns Palestinian children 'defenceless' amid Israeli crackdown on NGOs",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/un-warns-palestinian-children-defenceless-amid-crackdown-ngos",
-      "published_date": "2026-06-23T19:08:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN inquiry: Israel deliberately targeted Palestinian children as part of genocide",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-deliberately-targeted-palestinian-children-part-genocide-un-inquiry-finds",
-      "published_date": "2026-06-23T13:12:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Killed pursuing her dream’: Gaza girl on her way to school dies in Israeli drone strike",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/killed-pursuing-her-dream-gaza-girl-her-way-school-dies-israeli-drone-strike",
-      "published_date": "2026-06-23T09:35:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Itamar Ben Gvir: How the man keeping Netanyahu in office rose to power",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/profile/israel-itamar-ben-gvir",
-      "published_date": "2026-06-23T09:22:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss",
-      "published_date": "2026-06-22T20:47:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a New Jersey town has struggled to embrace Morocco’s World Cup team",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-small-town-missed-opportunity-fully-embrace-morocco-football-team",
-      "published_date": "2026-06-22T20:41:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This sport has taught us not to lower our eyes in fear’",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/boxing-girls-gaza-city-photo-essay/",
-      "published_date": "2026-06-22T19:32:46+00:00",
       "category": "Local Events"
     }
   ]
