@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-25T13:12:06.731757+00:00",
-  "story_count": 99,
+  "last_updated": "2026-06-26T00:15:17.747218+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "US official says frozen Iranian funds have not been released",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-official-says-frozen-iranian-funds-have-not-been-released",
+      "published_date": "2026-06-25T22:28:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Supreme Court allows Trump to end protections for Haitian and Syrian migrants",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-supreme-court-allows-trump-end-protections-haitian-and-syrian",
+      "published_date": "2026-06-25T22:00:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Italy propose coalition to replace UNIFIL in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-and-italy-propose-coalition-replace-unifil-lebanon",
+      "published_date": "2026-06-25T20:57:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainian attack on Crimea kills five, Russian officials say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss",
+      "published_date": "2026-06-25T17:12:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
+      "published_date": "2026-06-25T17:11:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rubio says Europe’s refusal of military bases weakens transatlantic alliance with US",
       "source": "Middle East Eye",
@@ -109,39 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Former EU vice president Borrell accuses body of abandoning Kaja Kallas over Israel spat",
+      "title": "Oil prices rise after vessel targeted near Strait of Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/former-eu-vice-president-accuses-body-abandoning-kaja-kallas-over-israel-spat",
-      "published_date": "2026-06-24T13:00:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-rise-after-vessel-targeted-near-strait-hormuz",
+      "published_date": "2026-06-26T00:06:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranians cautiously optimistic about thorny deal with US",
+      "title": "Trump says Iran has agreed not to pursue nuclear weapons",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-has-agreed-not-pursue-nuclear-weapons",
+      "published_date": "2026-06-26T00:05:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah says Israeli strike killed two civilians in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israeli-strike-killed-two-civilians-southern-lebanon",
+      "published_date": "2026-06-25T22:51:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/iranians-cautiously-optimistic-about-thorny-deal-with-us?traffic_source=rss",
-      "published_date": "2026-06-24T12:44:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/netanyahu-we-will-remain-in-lebanon-syria-and-gaza-as-long-as?traffic_source=rss",
+      "published_date": "2026-06-25T20:34:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia expected to host Gulf-Iran reconciliation talks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-expected-host-gulf-iran-reconciliation-talks",
-      "published_date": "2026-06-24T12:37:32+00:00",
-      "category": "Diplomacy"
+      "title": "Ashura ceremonies intertwine faith and support for state in Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss",
+      "published_date": "2026-06-25T20:12:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Likud minister says Turkey and Syria 'far more concerning than Iran'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/likud-minister-says-turkey-and-syria-far-more-concerning-iran",
-      "published_date": "2026-06-24T11:57:43+00:00",
-      "category": "Diplomacy"
+      "title": "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/truly-terrifying-caracas-confronts-the-aftermath-of-venezuela-earthquake?traffic_source=rss",
+      "published_date": "2026-06-25T19:44:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Iran has told US no tolls being sought at Strait of Hormuz",
+      "title": "World Cup 2026: Bosnia advances to next round surrounded by 'Free Palestine' chants",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-has-told-us-no-tolls-being-sought-strait-hormuz",
-      "published_date": "2026-06-24T11:50:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/trending/bosnia-advances-world-cup-free-palestine-chants-fans-go-viral-once-again",
+      "published_date": "2026-06-25T19:43:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cargo ship hit by unidentified projectile in Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cargo-ship-hit-unidentified-projectile-strait-hormuz",
+      "published_date": "2026-06-25T19:17:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kenya arrests more than 350 as people mark anniversary of deadly protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/kenya-arrests-more-than-350-as-people-mark-anniversary-of-deadly-protests?traffic_source=rss",
+      "published_date": "2026-06-25T18:55:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC warns ships to use Iran-approved routes through Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-ships-use-iran-approved-routes-through-strait-hormuz",
+      "published_date": "2026-06-25T18:47:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
+      "published_date": "2026-06-25T18:24:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Majority of US voters think Iran war 'not worth it', new poll finds",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/majority-us-voters-think-iran-war-not-worth-it-new-poll-finds",
+      "published_date": "2026-06-25T17:50:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and Gulf states say Palestinians must not be forced out of Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-gulf-states-say-palestinians-must-not-be-forced-out-gaza",
+      "published_date": "2026-06-25T17:41:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel says it will remain in southern Lebanon until Hezbollah disarms",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-will-remain-southern-lebanon-until-hezbollah-disarms",
+      "published_date": "2026-06-25T17:11:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gulf stock markets fall as oil prices return to pre-war levels",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-stock-markets-fall-oil-prices-return-pre-war-levels",
+      "published_date": "2026-06-25T16:40:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italy denies authorising use of airbases for US attacks on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-denies-authorising-use-airbases-us-attacks-iran",
+      "published_date": "2026-06-25T16:18:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Two people killed in Israeli drone strike on car in South Lebanon",
@@ -169,118 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/uk-prize-draw-players-funding-israeli-billionaire-who-finances-military",
       "published_date": "2026-06-25T11:11:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How minesweeping in the Strait of Hormuz works: A visual guide",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide?traffic_source=rss",
-      "published_date": "2026-06-25T11:08:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Erdogan applauds Iraqi Kurds' neutrality during Iran war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/erdogan-applauds-iraqi-kurds-neutrality-during-iran-war",
-      "published_date": "2026-06-25T10:54:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil prices back to pre-war levels on rising Middle East supply",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss",
-      "published_date": "2026-06-25T10:04:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Katz says Israel will not withdraw from Lebanon even if US demands it",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/katz-says-israel-will-not-withdraw-lebanon-even-if-us-demands-it",
-      "published_date": "2026-06-25T09:26:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tucker Carlson: After 9/11, I was 'hysterical' about Islam",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tucker-carlson-after-911-i-was-hysterical-about-islam",
-      "published_date": "2026-06-25T09:04:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Moments of panic as earthquakes strike Venezuela",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/moments-of-panic-as-earthquakes-strike-venezuela?traffic_source=rss",
-      "published_date": "2026-06-25T08:39:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders?traffic_source=rss",
-      "published_date": "2026-06-25T08:28:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two years on, Kenyan families still seek justice after Gen Z protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/two-years-on-kenyan-families-still-seek-justice-after-gen-z-protests?traffic_source=rss",
-      "published_date": "2026-06-25T00:11:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Venezuela struck by back-to-back earthquakes, many casualties feared",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-struck-by-back-to-back-earthquakes-high-casualties-feared?traffic_source=rss",
-      "published_date": "2026-06-25T00:07:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
-      "published_date": "2026-06-25T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump criticises European allies over lack of support during war on Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-criticises-european-allies-over-lack-support-during-war-iran",
-      "published_date": "2026-06-24T22:47:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump casts doubt on US responsibility for deadly Iran school strike",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-casts-doubt-us-responsibility-deadly-iran-school-strike",
-      "published_date": "2026-06-24T22:26:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN nuclear chief says inspections in Iran will go ahead despite Tehran's caution",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-nuclear-chief-says-inspections-iran-will-go-ahead-despite-tehrans",
-      "published_date": "2026-06-24T21:34:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army says it struck two people in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-struck-two-people-southern-lebanon",
-      "published_date": "2026-06-24T21:00:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least three killed in drone strikes in Russian controlled Horlivka",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/at-least-three-killed-in-drone-strikes-in-russian-controlled-horlivka?traffic_source=rss",
-      "published_date": "2026-06-24T20:07:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Iranian technical teams to meet again in Switzerland",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iranian-technical-teams-meet-again-switzerland",
-      "published_date": "2026-06-24T19:56:29+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,34 @@
       "category": "Energy"
     },
     {
+      "title": "UN suspends Hormuz evacuation mission after reported ship attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-suspends-hormuz-evacuation-mission-after-reported-ship-attack",
+      "published_date": "2026-06-26T00:10:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A battle of narratives emerges as Mamdani-backed candidates sweep NYC primaries",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/battle-narratives-mamdani-backed-candidates-sweep-primaries-nyc",
+      "published_date": "2026-06-25T21:21:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Economic losses mount as Venezuela earthquake death toll grows",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss",
+      "published_date": "2026-06-25T21:12:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF says prices have eased since US-Iran agreement but Gulf trade remains disrupted",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-says-prices-have-eased-us-iran-agreement-gulf-trade-remains",
+      "published_date": "2026-06-25T19:49:36+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Venezuela quakes: How will sanctions impact aid operations?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss",
@@ -536,25 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Norway moves to ban trade with Israeli settlements",
+      "title": "India defeat Bangladesh to maintain Women’s T20 World Cup semifinal bid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/25/india-defeat-bangladesh-to-maintain-womens-t20-world-cup-semifinal-bid?traffic_source=rss",
+      "published_date": "2026-06-25T22:45:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IMO suspends Hormuz evacuation plan after vessel hit near Oman",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/norway-moves-ban-trade-israeli-settlements",
-      "published_date": "2026-06-19T15:55:15+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-suspends-hormuz-evacuation-plan-after-vessel-hit-near-oman",
+      "published_date": "2026-06-25T21:31:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Cuba’s Communist Party approves opening economy in unprecedented move",
+      "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss",
-      "published_date": "2026-06-18T21:28:00+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
+      "published_date": "2026-06-25T20:55:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Brazil executes warrant against Lula ally in widening financial scandal",
+      "title": "Bedouins protest Israel’s home demolition policy in the Negev desert",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal?traffic_source=rss",
-      "published_date": "2026-06-18T21:13:00+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/bedouins-protest-israels-home-demolition-policy-in-the-negev-desert?traffic_source=rss",
+      "published_date": "2026-06-25T18:50:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Drones and decomposing babies: What's in UN report on Israel's genocide of Palestinian children",
@@ -666,34 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/yemeni-women-marry-abroad-better-life-many-left-disappointed",
       "published_date": "2026-06-24T11:44:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli police detain Palestinian community leader over 2022 speech",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-police-detain-palestinian-community-leader-over-2022-speech",
-      "published_date": "2026-06-24T11:23:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France confirms first Ebola case in doctor returning from DR Congo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo?traffic_source=rss",
-      "published_date": "2026-06-24T10:19:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How to stay cool and treat heatstroke during a heatwave",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/how-to-stay-cool-and-treat-heatstroke-during-a-heatwave?traffic_source=rss",
-      "published_date": "2026-06-24T10:07:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli soldiers ‘celebrate’ inside displaced Lebanese family’s home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/israeli-soldiers-celebrate-inside-displaced-lebanese-familys-home?traffic_source=rss",
-      "published_date": "2026-06-24T09:38:09+00:00",
       "category": "Local Events"
     }
   ]
