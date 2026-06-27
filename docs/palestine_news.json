@@ -1,8 +1,15 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-27T00:14:07.393855+00:00",
+  "last_updated": "2026-06-27T12:05:05.482996+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Kuwait condemns Iranian attack on Bahrain",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-condemns-iranian-attack-bahrain",
+      "published_date": "2026-06-27T11:31:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "JD Vance defends US strikes, warns Iran against escalation",
       "source": "Middle East Eye",
@@ -137,150 +144,143 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US ends deportation protections (TPS) for Haitians and Syrians",
+      "title": "Hezbollah supporters protest in Beirut against Israel deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-supporters-protest-beirut-against-israel-deal",
+      "published_date": "2026-06-27T11:21:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah supporters protest in Beirut against Israel deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/hezbollah-supporters-protest-beirut-against-israel-deal",
+      "published_date": "2026-06-27T11:13:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli media: Israel’s ‘goal from the start’ was leading Lebanon into civil war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-leading-lebanon-civil-war-israels-goal-start",
+      "published_date": "2026-06-27T11:10:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drone strikes southern Lebanon day after security deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-southern-lebanon-day-after-security-deal",
+      "published_date": "2026-06-27T10:32:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian adviser says US violation of agreement will be met with swift and decisive response",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-advisor-says-us-violation-mou-will-be-met-swift-and-decisive",
+      "published_date": "2026-06-27T10:25:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian official says cargo clearance from UAE port resumes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-cargo-clearance-uae-port-resumes",
+      "published_date": "2026-06-27T10:12:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
+      "published_date": "2026-06-27T09:54:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Child succumbs to injuries from Israeli attack on Gaza as death toll rises to 73,043",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-succumbs-injuries-israeli-attack-gaza-death-toll-rises-73043",
+      "published_date": "2026-06-27T09:29:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says any violation of shipping instructions through strait will be met decisively",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-any-violation-shipping-instructions-through-strait-will-be-met",
+      "published_date": "2026-06-27T09:20:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
+      "published_date": "2026-06-27T09:15:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone targets Iranian Kurdish opposition camp in Iraq: Reuters",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-targets-iranian-kurdish-opposition-camp-iraq-reuters-reports",
+      "published_date": "2026-06-27T09:13:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bahrain condemns Iranian drone attacks on its territory",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-condemns-iranian-drone-attacks-its-territory",
+      "published_date": "2026-06-27T09:11:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran agreement amounts to 'conditional surrender', analyst says on Tucker Carlson's show",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-agreement-amounts-conditional-surrender-analyst-says-tucker",
+      "published_date": "2026-06-27T08:54:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran accuses US of ‘blatant violation’ of peace deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-us-blatant-violation-peace-deal",
+      "published_date": "2026-06-27T08:52:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thai police arrest Australian over killing of teenager found in suitcase",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
-      "published_date": "2026-06-26T05:25:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/27/thai-police-arrest-australian-over-killing-of-teenager-found-in-suitcase?traffic_source=rss",
+      "published_date": "2026-06-27T08:13:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somali intelligence helps US arrest alleged leader of Minnesota fraud",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/somali-intelligence-helps-us-arrest-alleged-ringleader-of-minnesota-fraud?traffic_source=rss",
+      "published_date": "2026-06-27T07:20:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+      "published_date": "2026-06-27T07:20:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon’s state-owned NNA reports Israeli bombing near border",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-state-owned-nna-reports-israeli-bombing-near-border",
+      "published_date": "2026-06-27T07:10:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Belgium reach World Cup knockouts as New Zealand exit tournament",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/belgium-new-zealand-fifa-world-cup-2026-trossard-lukaku-de-bruyne-saelemaekers?traffic_source=rss",
+      "published_date": "2026-06-27T07:04:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Hezbollah supporters block Beirut road to protest Israel-Lebanon agreement",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-supporters-block-beirut-road-burn-tires-protest-israel-lebanon",
       "published_date": "2026-06-26T23:45:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Washington violated commitments’: IRGC says it targeted US forces in the region",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/washington-violated-commitments-irgc-says-it-targeted-us-forces-region",
-      "published_date": "2026-06-26T23:23:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/4-9-earthquake-detected-in-venezuela-just-days-after-major-quakes?traffic_source=rss",
-      "published_date": "2026-06-26T23:13:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon and Israel sign 'framework agreement' to end war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-sign-framework-agreement-end-war",
-      "published_date": "2026-06-26T21:41:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US confirms strikes on Iran, Tehran vows swift response",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-confirms-strikes-against-iran-tehran-vows-swift-response",
-      "published_date": "2026-06-26T21:37:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes Iran in response to drone strike on commercial ship",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss",
-      "published_date": "2026-06-26T21:08:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon president says Israel deal first step to restoring sovereignty",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-israel-deal-first-step-restoring-sovereignty",
-      "published_date": "2026-06-26T20:08:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pro-Israel rabbis demand Mamdani apologise for likening Aipac to 'monsters'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/pro-israel-rabbis-demand-mamdani-apologise-likening-aipac-monsters",
-      "published_date": "2026-06-26T19:56:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu says Israeli military to stay in southern Lebanon until Hezbollah 'disarm'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israeli-military-stay-southern-lebanon-until-hezbollah",
-      "published_date": "2026-06-26T19:15:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah lawmaker warns Lebanese authorities against enforcing agreement with Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-hezbollah-lawmaker-warns-lebanese-authorities-against-enforcing",
-      "published_date": "2026-06-26T19:02:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The only logical outcome of a completely irrational war",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/us-iran-agreement-irrational-war-israel/",
-      "published_date": "2026-06-26T18:29:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon and Israel sign 'framework agreement' to end war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/lebanon-israel-sign-framework-agreement-end-war",
-      "published_date": "2026-06-26T17:56:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'I was doxxed': UK doctors welcome BMA protections for criticism of Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/i-was-doxxed-uk-doctors-welcome-bma-protections-criticism-israel",
-      "published_date": "2026-06-26T16:33:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eastern Libyan government releases Gaza convoy activists after month of imprisonment",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/eastern-libyan-government-releases-gaza-convoy-activists-after-month-detention",
-      "published_date": "2026-06-26T12:51:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel will remain in Lebanon, Syria and Gaza 'without time limit'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-will-remain-lebanon-syria-and-gaza-without-time-limit",
-      "published_date": "2026-06-26T12:37:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu and Katz say Israel will remain in Lebanon, Syria and Gaza 'without time limit'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/netanyahu-and-katz-say-israel-remain-lebanon-syria-and-gaza-without-time-limit",
-      "published_date": "2026-06-26T11:18:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Asad versus 7 Dogs: Two starkly different movies compete to be the summer Arab blockbuster",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/discover/seven-dogs-versus-asad-two-very-different-kinds-movies-compete-be-arab-blockbuster-year",
-      "published_date": "2026-06-26T10:25:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who has profited most from the war on Iran?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/who-has-profited-most-from-the-war-on-iran?traffic_source=rss",
-      "published_date": "2026-06-26T10:25:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/russia-reports-downing-660-ukrainian-drones-denies-seeking-belarus-war-aid?traffic_source=rss",
-      "published_date": "2026-06-26T10:12:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US considering moving Gulf bases damaged by Iran to Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-considering-moving-gulf-bases-damaged-iran-israel",
-      "published_date": "2026-06-26T10:11:25+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
+      "published_date": "2026-06-27T10:32:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tanker hit by unidentified projectile in Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-unidentified-projectile-strait-hormuz",
+      "published_date": "2026-06-27T09:52:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
+      "published_date": "2026-06-27T07:00:13+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "How much disaster aid will the US provide to Venezuela?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/inside-story/2026/6/26/how-much-disaster-aid-will-the-u-s-provide-to-venezuela?traffic_source=rss",
@@ -543,25 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100",
+      "title": "Childhood interrupted: Family awaits justice 8 years after baby was raped",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/22/former-us-federal-reserve-chairman-alan-greenspan-dies-at-age-100?traffic_source=rss",
-      "published_date": "2026-06-22T15:12:01+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/longform/2026/6/27/childhood-interrupted-family-awaits-justice-8-years-after-baby-was-raped?traffic_source=rss",
+      "published_date": "2026-06-27T11:36:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Once Keir Starmer had beaten the left, he had no plan for government",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/once-keir-starmer-had-beaten-left-he-had-no-plan-government",
-      "published_date": "2026-06-22T14:49:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Vance’s warning to Israel signals a new phase in US-Israeli relations",
+      "title": "No school, living in a tent, but it’s exam time in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/22/vances-warning-to-israel-signals-a-new-phase-in-us-israeli-relations?traffic_source=rss",
-      "published_date": "2026-06-22T10:43:16+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
+      "published_date": "2026-06-27T11:29:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli attack on car in central Gaza kills three Palestinians",
@@ -687,20 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases?traffic_source=rss",
       "published_date": "2026-06-24T20:34:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/wins-by-mamdani-backed-candidates-deal-blow-to-pro-israel-camp-in-us?traffic_source=rss",
-      "published_date": "2026-06-24T19:33:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Genocidaires’ delight’: Israeli Ben & Jerry’s flavour sparks social media backlash",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/genocidaires-delight-israeli-ben-jerrys-flavour-sparks-social-media-backlash",
-      "published_date": "2026-06-24T17:25:29+00:00",
       "category": "Local Events"
     }
   ]
