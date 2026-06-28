@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-28T00:08:07.706309+00:00",
+  "last_updated": "2026-06-28T12:12:50.048289+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UAE condemns Iranian strikes on Bahrain and Kuwait",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-strikes-bahrain-and-kuwait",
+      "published_date": "2026-06-28T12:07:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IRGC says it will respond to US attacks 'more strongly than before'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-will-respond-us-attacks-more-strongly",
+      "published_date": "2026-06-28T10:30:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rights groups criticise Turkey protest ban ahead of Nato summit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/rights-group-criticise-turkey-protest-ban-ahead-nato-summit",
+      "published_date": "2026-06-28T10:20:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran urges US to force Israel to stop attacking Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-urges-us-force-israel-stop-attacking-lebanon",
+      "published_date": "2026-06-28T09:23:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's foreign minister says Hormuz is under total Iranian control",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-under-total-iranian-control-says-araghchi",
+      "published_date": "2026-06-28T08:54:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's Aragchi to 'discuss regional developments' with Iraqi officials",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-aragchi-discuss-regional-developments-iraqi-officials",
+      "published_date": "2026-06-28T05:44:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu says 'there is no room for two states'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-there-no-room-two-states",
+      "published_date": "2026-06-28T04:03:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu calls Lebanon deal a ‘massive blow’ to Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-calls-lebanon-deal-massive-blow-iran",
+      "published_date": "2026-06-28T03:31:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
+      "published_date": "2026-06-28T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canada condemns alleged Iranian attacks on Bahrain",
       "source": "Middle East Eye",
@@ -81,67 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
+      "title": "Uganda’s military chief orders shutdown of two media outlets",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
-      "published_date": "2026-06-26T20:58:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/28/ugandas-military-chief-orders-shutdown-of-two-media-outlets?traffic_source=rss",
+      "published_date": "2026-06-28T11:08:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "After progressive US primary wins, Trump takes aim at ‘godless communists’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/after-progressive-us-primary-wins-trump-takes-aim-at-godless-communists?traffic_source=rss",
-      "published_date": "2026-06-26T20:29:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian media report sound of explosion in southern Iran's Sirik",
+      "title": "Israeli soldier killed in southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-report-sound-explosion-southern-irans-sirik",
-      "published_date": "2026-06-26T20:24:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-killed-southern-lebanon",
+      "published_date": "2026-06-28T10:51:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump threatens tariffs for countries that levy digital tax on US firms",
+      "title": "Iraq security forces arrest several officials in anticorruption crackdown",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/trump-threatens-tariffs-for-countries-that-levy-digital-tax-on-us-firms?traffic_source=rss",
-      "published_date": "2026-06-26T19:38:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss",
+      "published_date": "2026-06-28T10:05:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
+      "title": "Israel bombs southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-bombs-southern-lebanon",
+      "published_date": "2026-06-28T08:52:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Residential building damaged in Iranian strike, says Bahrain ministry",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/residential-building-damaged-iranian-strike-says-bahrain-ministry",
+      "published_date": "2026-06-28T06:55:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-572",
+      "published_date": "2026-06-28T06:54:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-06-26T19:26:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
+      "published_date": "2026-06-28T06:14:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel, Lebanon sign framework peace deal after US-mediated talks",
+      "title": "Israel says troops killed armed fighters in southern Syria and Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-sign-framework-peace-deal-after-us-mediated-talks",
-      "published_date": "2026-06-26T18:39:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-troops-killed-armed-fighters-southern-syria-and-lebanon",
+      "published_date": "2026-06-28T05:44:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Iran attacks on ships violation of ceasefire",
+      "title": "Bahrain condemns Iranian strikes, urges UN to hold emergency meet",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-attacks-ships-violation-ceasefire",
-      "published_date": "2026-06-26T17:30:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-condemns-iranian-strikes-seeks-un-security-council-emergency",
+      "published_date": "2026-06-28T05:06:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Italy's Meloni rejects Rutte claims of ‘massive’ Italian support for Iran war",
+      "title": "Bahrain calls on residents to seek shelter after warning",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/italys-meloni-rejects-rutte-claims-massive-italian-support-iran-war",
-      "published_date": "2026-06-26T12:37:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-sounds-sirens-after-iranian-claims-gulf-attacks",
+      "published_date": "2026-06-28T04:11:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "New synthetic drugs, cocaine and meth booming, warns UN",
+      "title": "US says no casualties reported in Bahrain and Kuwait attacks by Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-no-casualties-reported-bahrain-and-kuwait-attacks-iran",
+      "published_date": "2026-06-28T03:41:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran resisting US pressure over Hormuz routes, analyst says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-resisting-us-pressure-over-hormuz-routes-analyst-says",
+      "published_date": "2026-06-28T03:23:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hind Rajab Foundation requests US Justice Department to prosecute Ben-Gvir",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hind-rajab-foundation-requests-us-justice-department-prosecute-ben-gvir",
+      "published_date": "2026-06-28T03:21:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anger grows in Venezuela as citizens blocked from aiding earthquake rescue",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/new-synthetic-drugs-cocaine-and-meth-booming-warns-un?traffic_source=rss",
-      "published_date": "2026-06-26T11:58:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/anger-grows-in-venezuela-as-citizens-blocked-from-aiding-earthquake-rescue?traffic_source=rss",
+      "published_date": "2026-06-28T00:09:46+00:00",
+      "category": "Military"
     },
     {
       "title": "US hits Iranian military sites after Hormuz tanker strike, Centcom says",
@@ -183,104 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
       "published_date": "2026-06-27T22:07:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oman weighs Strait of Hormuz fees after war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-weighs-strait-hormuz-fees-after-war",
-      "published_date": "2026-06-27T21:48:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s far-right finance minister boasts of army’s destruction of Lebanese infrastructure",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-far-right-finance-minister-boasts-armys-destruction-lebanese",
-      "published_date": "2026-06-27T20:40:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu says he wants broad coalition after Israel election",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-he-wants-broad-coalition-after-israel-election",
-      "published_date": "2026-06-27T19:41:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Crimea critical to the Russia–Ukraine war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
-      "published_date": "2026-06-27T19:22:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss",
-      "published_date": "2026-06-27T19:12:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss",
-      "published_date": "2026-06-27T18:50:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kenya rights groups say protesters found dumped, tortured after arrests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
-      "published_date": "2026-06-27T18:46:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli far-right minister Ben-Gvir attacks Lebanon deal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-far-right-minister-ben-gvir-attacks-lebanon-deal",
-      "published_date": "2026-06-27T18:29:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese army urges calm as protests grow over Israel deal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-urges-calm-protests-grow-over-israel-deal",
-      "published_date": "2026-06-27T18:13:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-army-chief-holds-uk-talks-ceasefire-and-border-security",
-      "published_date": "2026-06-27T17:25:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says troops will occupy southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-troops-will-occupy-southern-lebanon",
-      "published_date": "2026-06-27T17:05:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three security personnel killed in attack in Pakistan’s Karachi",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
-      "published_date": "2026-06-27T17:04:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel strikes southern Lebanon after US-brokered security deal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-southern-lebanon-after-us-brokered-security-deal",
-      "published_date": "2026-06-27T16:56:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese army commander meets UK defence chiefs",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-commander-meets-uk-defence-chiefs",
-      "published_date": "2026-06-27T16:07:40+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Iran inflation nears 89% as war strains economy",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-inflation-nears-89-war-strains-economy",
+      "published_date": "2026-06-28T04:39:59+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
@@ -557,11 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Trump says released Iranian assets will return through food purchases",
+      "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
+      "published_date": "2026-06-28T07:39:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian injured by Israeli fire in Jerusalem camp, 13 detained during raids",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-released-iranian-assets-will-return-through-food-purchases",
-      "published_date": "2026-06-23T00:10:05+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-injured-israeli-fire-jerusalem-camp-13-detained-during-raids",
+      "published_date": "2026-06-28T06:27:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Between English and mother tongue: Kenya’s education language dilemma",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/28/between-english-and-mother-tongue-kenyas-education-language-dilemma?traffic_source=rss",
+      "published_date": "2026-06-28T05:24:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
@@ -680,27 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crimson-thread-new-israeli-separation-wall-cuts-through-breadbasket",
       "published_date": "2026-06-25T12:14:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crimson Thread: The new Israeli separation wall that cuts through the 'breadbasket of Palestine'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/crimson-thread-israel-separation-wall-cuts-through-palestine-west-bank",
-      "published_date": "2026-06-25T12:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces kill unarmed man 'in bedroom' during West Bank home raid",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-forces-kill-unarmed-man-west-bank-home-raid",
-      "published_date": "2026-06-25T10:35:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK doctors reject IHRA definition and back protections for staff speaking on Palestine",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-doctors-reject-ihra-definition-and-back-protections-staff-speaking-palestine",
-      "published_date": "2026-06-25T10:19:56+00:00",
       "category": "Local Events"
     }
   ]
