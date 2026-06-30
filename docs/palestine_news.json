@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-06-30T00:11:39.260888+00:00",
+  "last_updated": "2026-06-30T13:05:20.961416+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK journalists and NGOs risk terrorism prosecutions under new security bill",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-journalists-and-ngos-risk-terrorism-prosecutions-under-new-security-bill",
+      "published_date": "2026-06-30T12:45:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
+      "published_date": "2026-06-30T11:57:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No direct US-Iran talks in Doha, Qatari official says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-direct-us-iran-talks-doha-qatari-official-says-0",
+      "published_date": "2026-06-30T11:00:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Supreme Court hands Trump 3-1 defeat in key rulings: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-hands-trump-3-1-defeat-in-key-rulings-what-we-know?traffic_source=rss",
+      "published_date": "2026-06-30T10:22:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Advocacy groups file complaint against Ghana over Trump deportations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/advocacy-groups-file-complaint-against-ghana-over-trump-deportations?traffic_source=rss",
+      "published_date": "2026-06-30T10:03:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-574",
+      "published_date": "2026-06-30T06:57:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi discusses memorandum with French foreign minister",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-discusses-memorandum-french-foreign-minister",
+      "published_date": "2026-06-30T05:45:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oman does not support transit fee on ships in Hormuz, minister says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-does-not-support-transit-fee-ships-hormuz-minister-says",
+      "published_date": "2026-06-30T05:29:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Talks with Iran could fail and diplomacy may not succeed, Rubio tells Congress",
       "source": "Middle East Eye",
@@ -88,60 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump says Iran meeting to be held tomorrow in Doha",
+      "title": "How the UAE continued supporting Sudan's RSF through Haftar and Libya",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-meeting-be-held-tomorrow-doha",
-      "published_date": "2026-06-29T11:57:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/how-uae-continued-supporting-sudans-rsf-through-haftar-and-libya",
+      "published_date": "2026-06-30T12:30:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
+      "title": "Israeli army raids Palestinian charity in Nablus, orders year-long closure",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-raids-palestinian-charity-nablus-orders-year-long-closure",
+      "published_date": "2026-06-30T10:38:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drones, warplanes target southern Lebanon towns",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drones-warplanes-target-southern-lebanon-towns",
+      "published_date": "2026-06-30T10:20:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eight Palestinians killed by Israeli strikes in Gaza over past 24 hours",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-palestinians-killed-israeli-strikes-gaza-over-past-24-hours",
+      "published_date": "2026-06-30T10:10:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Man in Gaza survives double tap Israeli strike on vehicle",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss",
-      "published_date": "2026-06-29T11:05:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/man-in-gaza-survives-double-tap-israeli-strike-on-vehicle?traffic_source=rss",
+      "published_date": "2026-06-30T10:09:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says technical meetings under MoU not scheduled this week",
+      "title": "Has Greece become Israel's Trojan Horse in the Gulf?",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-technical-meetings-under-mou-not-scheduled-week",
-      "published_date": "2026-06-29T10:34:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/opinion/has-greece-become-israels-trojan-horse-gulf",
+      "published_date": "2026-06-30T07:59:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Azerbaijan issues rare rebuke against key ally Israel over Armenian genocide recognition",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/azerbaijan-issues-rare-rebuke-against-key-ally-israel-over-armenian",
-      "published_date": "2026-06-29T10:04:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
+      "title": "At the World Cup, the media has set up a moral checkpoint",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
-      "published_date": "2026-06-29T09:58:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/6/30/at-the-world-cup-the-media-has-set-up-a-moral-checkpoint?traffic_source=rss",
+      "published_date": "2026-06-30T07:49:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Azerbaijan issues rare rebuke against key ally Israel over Armenian genocide recognition",
+      "title": "Iran lawmaker says US role in region has ended",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-faces-rare-azerbaijani-rebuke-over-armenian-genocide-recognition",
-      "published_date": "2026-06-29T09:53:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-lawmaker-says-us-role-region-has-ended",
+      "published_date": "2026-06-30T06:13:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia rejects Turkish ceasefire push in Ukraine ahead of Nato summit, sources say",
+      "title": "Moody's economist: Iran war has cost average American household $1,000",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/russia-rejects-turkish-ceasefire-push-ukraine-ahead-nato-summit",
-      "published_date": "2026-06-29T09:46:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-war-has-cost-average-american-household-1000-moody-economist",
+      "published_date": "2026-06-30T05:59:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Half of Iranian assets in Qatar to be released, Pezeshkian says",
+      "title": "Hamas denounces international silence after Gaza attack",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/half-iranian-assets-qatar-be-released-pezeshkian-says",
-      "published_date": "2026-06-29T09:11:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-denounces-international-silence-after-gaza-attack",
+      "published_date": "2026-06-30T05:30:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey, Arab nations condemn Israeli incursions into Syria",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkiye-arab-nations-condemn-israeli-incursions-syria",
+      "published_date": "2026-06-30T05:08:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: Far-right Israeli minister Smotrich calls for Jewish settlements in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-far-right-israeli-minister-smotrich-calls-jewish-settlements-gaza",
+      "published_date": "2026-06-30T04:41:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Shipping continues through Hormuz despite regional tensions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shipping-continues-through-hormuz-despite-regional-tensions",
+      "published_date": "2026-06-30T04:19:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Centcom commander meets Lebanese president, US troops",
@@ -193,95 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israel launches attacks and incursions inside southern Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss",
-      "published_date": "2026-06-29T18:43:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Opinion: The morning after the Lebanon 'agreement'",
+      "title": "Assassination of Al-Arabiya journalist highlights tensions in southern Yemen",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-morning-after-lebanon-agreement",
-      "published_date": "2026-06-29T16:55:52+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/assassination-al-arabiya-journalist-tensions-southern-yemen",
+      "published_date": "2026-06-30T11:21:32+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Afghan families mourn loved ones as border tensions with Pakistan rise",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss",
-      "published_date": "2026-06-29T16:15:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon-Israel deal could block war crimes accountability, experts warn",
+      "title": "Report: US tells Israel to proceed with Gaza reconstruction even if Hamas stays armed",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-lebanon-deal-could-mean-end-hopes-war-crimes-accountability",
-      "published_date": "2026-06-29T14:02:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is the Israeli military deliberately targeting children in Gaza?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/29/is-the-israeli-military-deliberately-targeting-children-in-gaza?traffic_source=rss",
-      "published_date": "2026-06-29T13:55:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian missile and drone attacks kill at least eight in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/russian-missile-and-drone-attacks-kill-at-least-eight-in-ukraine?traffic_source=rss",
-      "published_date": "2026-06-29T13:54:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Pakistan’s Afghan air strikes aren’t stopping armed attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/why-pakistans-afghan-air-strikes-arent-stopping-armed-attacks?traffic_source=rss",
-      "published_date": "2026-06-29T13:51:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senior UAE and regional officials referred to ICC over role in Sudan atrocities",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/senior-uae-and-regional-officials-referred-icc-alleged-role-darfur-atrocities",
-      "published_date": "2026-06-29T13:47:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Like living in hell’: The Iran war leaves Indian seafarers dead and trapped at sea",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/living-hell-iran-war-leaves-indian-seafarers-dead-and-trapped-sea",
-      "published_date": "2026-06-29T13:35:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five killed in shooting at youth welfare centre in Germany’s Stade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/five-killed-in-shooting-at-youth-welfare-centre-in-germanys-stade?traffic_source=rss",
-      "published_date": "2026-06-29T13:05:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel killing Palestinian children in the West Bank at highest rate since 1967: B'Tselem",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-killing-palestinian-children-west-bank-highest-rate-1967-btselem",
-      "published_date": "2026-06-29T12:46:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel killing Palestinian children in the West Bank at highest rate since 1967, B'Tselem says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-killing-palestinian-children-highest-rate-1967-btselem-says",
-      "published_date": "2026-06-29T12:30:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack in Gaza kills three, including a child",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
-      "published_date": "2026-06-29T12:02:35+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-tells-israel-proceed-gaza-reconstruction-even-if-hamas-stays",
+      "published_date": "2026-06-30T07:04:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "Energy shipments in Hormuz continue despite recent tanker attacks",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Massive fire rips through Indonesia sandal factory",
+      "title": "EU gets tough on China as trade imbalance stokes deindustrialisation fears",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/massive-fire-rips-through-indonesia-sandal-factory?traffic_source=rss",
-      "published_date": "2026-06-23T21:14:16+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/6/30/eu-gets-tough-on-china-as-trade-imbalance-stokes-deindustrialisation-fears?traffic_source=rss",
+      "published_date": "2026-06-30T08:30:52+00:00",
+      "category": "Economy"
     },
     {
-      "title": "France records hottest-ever night as 40 drown trying to escape heatwave",
+      "title": "Millions in India’s Bengal risk losing welfare benefits over voter deletion",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe?traffic_source=rss",
-      "published_date": "2026-06-23T08:35:09+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/6/30/food-security-fears-as-indias-bengal-links-welfare-schemes-to-voter-rolls?traffic_source=rss",
+      "published_date": "2026-06-30T08:25:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How each prime minister broke Britain’s economy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/money-works/2026/6/30/how-each-prime-minister-broke-britains-economy?traffic_source=rss",
+      "published_date": "2026-06-30T07:52:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
@@ -543,25 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "US says Iran will buy its goods: What could US-Iran trade look like?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/25/us-says-iran-will-buy-its-goods-what-could-us-iran-trade-look-like?traffic_source=rss",
-      "published_date": "2026-06-25T09:43:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Aipac rebuffed as Mamdani-backed candidates sweep NYC Democratic primaries",
+      "title": "How Andy Burnham can win back the Muslim voters Labour has lost",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/aipac-rebuffed-mamdani-backed-candidates-sweep-nyc-democratic-primaries",
-      "published_date": "2026-06-24T20:22:49+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/how-andy-burnham-win-back-Muslim-voters-Labour-lost",
+      "published_date": "2026-06-30T12:13:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "South Africa’s crises will not be solved by blaming migrants",
+      "title": "How six months in Israeli jail changed this Palestinian journalist’s life forever",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/how-six-months-israeli-jail-changed-palestinian-journalists-life-forever",
+      "published_date": "2026-06-30T11:44:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gojek co-founder Nadiem Makarim sentenced to 10 years for corruption",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/24/south-africas-crises-will-not-be-solved-by-blaming-migrants?traffic_source=rss",
-      "published_date": "2026-06-24T09:22:45+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/economy/2026/6/30/gojek-co-founder-nadiem-makarim-sentenced-to-10-years-for-corruption?traffic_source=rss",
+      "published_date": "2026-06-30T11:19:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
+      "published_date": "2026-06-30T09:10:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caracas park helps children cope through activities after twin quakes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/caracas-park-helps-children-cope-through-activities-after-twin-quakes?traffic_source=rss",
+      "published_date": "2026-06-30T08:43:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UN official condemns Israeli attacks on Gaza, occupied West Bank",
@@ -666,41 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/racist-far-right-israeli-lawmakers-visit-sparks-school-strike",
       "published_date": "2026-06-27T20:14:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia to double fines on Big Tech as children bypass social media ban",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/australia-to-double-fines-on-big-tech-as-children-bypass-social-media-ban?traffic_source=rss",
-      "published_date": "2026-06-27T17:29:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Childhood interrupted: Family awaits justice 8 years after baby was raped",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/6/27/childhood-interrupted-family-awaits-justice-8-years-after-baby-was-raped?traffic_source=rss",
-      "published_date": "2026-06-27T11:36:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No school, living in a tent, but it’s exam time in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
-      "published_date": "2026-06-27T11:29:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli attack on car in central Gaza kills three Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
-      "published_date": "2026-06-26T19:49:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strike kills three civilians in central Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-three-civilians-central-strip",
-      "published_date": "2026-06-26T17:44:58+00:00",
       "category": "Local Events"
     }
   ]
