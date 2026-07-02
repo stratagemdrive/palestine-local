@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-02T00:14:56.174352+00:00",
-  "story_count": 98,
+  "last_updated": "2026-07-02T12:53:45.478701+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Lebanese president says will not yield 'a single inch' of territory to Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-president-says-will-not-yield-single-inch-territory-israel",
+      "published_date": "2026-07-02T12:10:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India will send a minister and state governor to Ali Khamenei funeral",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/india-will-send-minister-and-state-governor-ali-khamenei-funeral",
+      "published_date": "2026-07-02T11:33:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "An extra 229,000 deaths: Is that the cost of US-UK drugs deal?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/an-extra-229000-deaths-is-that-the-cost-of-us-uk-drugs-deal?traffic_source=rss",
+      "published_date": "2026-07-02T10:22:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says record boats leaving Hormuz, calls communism ‘biggest threat’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss",
+      "published_date": "2026-07-02T08:19:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan says US-Iran talks make progress in Doha",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-us-iran-talks-make-progress-doha",
+      "published_date": "2026-07-02T07:04:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar says US-Iran talks made ‘positive progress’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-us-iran-talks-made-positive-progress",
+      "published_date": "2026-07-02T06:47:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran tells UN Israel is normalising ‘state terrorism’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-tells-un-israel-normalising-state-terrorism",
+      "published_date": "2026-07-02T05:55:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/taiwan-needs-to-become-a-hornets-nest-of-drones-us-diplomat-says?traffic_source=rss",
+      "published_date": "2026-07-02T05:40:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Airlines restore some Middle East flights as suspensions continue",
       "source": "Middle East Eye",
@@ -88,60 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran says talks in Qatar have concluded",
+      "title": "Iranian press review: Calls grow to maintain military pressure on Gulf states",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-talks-qatar-concluded",
-      "published_date": "2026-07-01T18:28:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-press-review-calls-grow-maintain-military-pressure-gulf-states",
+      "published_date": "2026-07-02T10:50:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Europe to fill gaps left by US in Nato defence plans, Reuters reports",
+      "title": "Iranian press review: Calls grow to maintain military pressure on Gulf states",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/europe-fill-gaps-left-us-nato-defence-plans-reuters-reports",
-      "published_date": "2026-07-01T17:15:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/iranian-press-review-calls-grow-maintain-military-pressure-gulf-states",
+      "published_date": "2026-07-02T10:43:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Iran talks expose the collapse of US diplomacy",
+      "title": "Iran warns US against interference in Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-against-interference-strait-hormuz",
+      "published_date": "2026-07-02T10:07:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eight Thai monks killed after child drives truck into procession",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss",
-      "published_date": "2026-07-01T17:05:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss",
+      "published_date": "2026-07-02T10:04:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "US Supreme Court upholds birthright citizenship: Who wins, who loses?",
+      "title": "Pakistan PM Sharif to attend funeral of Iran's Ali Khamenei",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-sharif-attend-funeral-irans-ali-khamenei",
+      "published_date": "2026-07-02T09:06:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's Ghalibaf calls to avenge Khamenei death with massive funeral turnout",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-ghalibaf-calls-avenge-khamenei-death-massive-funeral-turnout",
+      "published_date": "2026-07-02T08:46:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two reported killed, dozens hurt in hospital fire in Germany",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-upholds-birthright-citizenship-who-wins-who-loses?traffic_source=rss",
-      "published_date": "2026-07-01T12:24:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/2/two-reported-killed-dozens-hurt-in-hospital-fire-in-germany?traffic_source=rss",
+      "published_date": "2026-07-02T08:36:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Araghchi warns Israel against threatening Iran’s leader",
+      "title": "Seafarers face ‘significant risk’ in Strait of Hormuz, unions say",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-warns-israel-against-threatening-irans-leader",
-      "published_date": "2026-07-01T11:41:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seafarers-face-significant-risk-strait-hormuz-unions-say",
+      "published_date": "2026-07-02T06:18:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump made $1.4B from crypto ventures in first year back in office",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/trump-made-1-4b-from-crypto-ventures-in-first-year-back-in-office?traffic_source=rss",
-      "published_date": "2026-07-01T11:18:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran-US indirect talks continue in Doha",
+      "title": "Iran plans six-day state funeral for Ali Khamenei",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-us-indirect-talks-continue-doha",
-      "published_date": "2026-07-01T10:34:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran pushes for formal control over Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-pushes-formal-control-over-strait-hormuz",
-      "published_date": "2026-07-01T09:49:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-plans-six-day-state-funeral-ali-khamenei",
+      "published_date": "2026-07-02T06:03:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Hormuz shipping may take months to return to normal, French shipping company says",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "How Israeli president's advisor worked to set up Reform Friends of Israel group",
+      "title": "Israel's largest oil refineries to undergo years of repairs after Iranian strikes, report says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-israeli-presidents-advisor-worked-set-reform-friends-israel-group",
-      "published_date": "2026-07-01T12:44:13+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/israel-haifa-refinery-require-years-repairs-after-iranian-strikes-report-says",
+      "published_date": "2026-07-02T10:30:10+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Several people killed in fire at apartment block in Belgium’s Antwerp",
+      "title": "‘The crisis is deep’: The view from Russia as fuel shortages worsen",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/several-killed-in-fire-at-apartment-block-in-belgiums-antwerp?traffic_source=rss",
-      "published_date": "2026-07-01T12:02:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Board of Peace’ to launch ‘Hamas-free’ camps as Israel tightens grip on Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/board-peace-launch-hamas-free-camps-israel-tightens-grip-gaza",
-      "published_date": "2026-07-01T11:51:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Board of Peace’ to launch ‘Hamas-free’ camps as Israel tightens grip on Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trumps-board-peace-launch-hamas-free-shelters-while-israel-tightens-grip-gaza",
-      "published_date": "2026-07-01T11:12:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel threatens third attack on Iran despite diplomacy",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-threatens-third-attack-iran-despite-diplomacy",
-      "published_date": "2026-07-01T11:06:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settler group calls for seizing crops in occupied Syrian land",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-settler-group-advertises-sale-stolen-syrian-goods",
-      "published_date": "2026-07-01T10:55:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Airlines told to avoid Iraq and Lebanon airspace",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/airlines-told-avoid-iraq-and-lebanon-airspace",
-      "published_date": "2026-07-01T10:16:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
-      "published_date": "2026-07-01T09:38:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former Israeli general says Gaza war could have ended earlier",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/former-israeli-general-says-gaza-war-could-have-ended-earlier",
-      "published_date": "2026-07-01T09:29:22+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss",
+      "published_date": "2026-07-02T08:06:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iranian parliament speaker says IAEA barred from bombed nuclear sites",
@@ -389,25 +403,25 @@
       "category": "Energy"
     },
     {
-      "title": "Europe faces another day of extreme heat after more temperature records set",
+      "title": "German coalition agrees on sweeping reform package in key breakthrough",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set?traffic_source=rss",
-      "published_date": "2026-06-25T10:52:47+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough?traffic_source=rss",
+      "published_date": "2026-07-02T10:46:35+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iran, India discuss expanding energy ties after years of reduced trade",
+      "title": "How Zohran Mamdani is the Daredevil of a new generation",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-india-discuss-expanding-energy-ties-after-years-reduced-trade",
-      "published_date": "2026-06-25T10:28:55+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/opinion/how-zohran-mamdani-daredevil-new-generation",
+      "published_date": "2026-07-02T07:56:17+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iran warns against Hormuz crossings without authorisation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
-      "published_date": "2026-06-25T08:49:36+00:00",
-      "category": "Energy"
+      "title": "Iran’s oil exports gain pace after US sanctions waiver",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-oil-exports-gain-pace-after-us-sanctions-waiver",
+      "published_date": "2026-07-02T07:54:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "State of emergency: Bolivia’s currency plummets as anger simmers",
@@ -529,25 +543,39 @@
       "category": "Economy"
     },
     {
-      "title": "World aids rescue effort as Venezuela quake death toll hits 589",
+      "title": "Trump's Board of Peace says Unrwa has 'no place' in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-board-peace-says-unrwa-has-no-place-gaza",
+      "published_date": "2026-07-02T12:03:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump's Board of Peace says Unrwa has 'no place' in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/trumps-board-peace-says-unrwa-has-no-place-gaza",
+      "published_date": "2026-07-02T11:45:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Palestinian home inside a cage",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/neighbours-aid-rescue-effort-as-venezuela-quake-death-toll-hits-235?traffic_source=rss",
-      "published_date": "2026-06-26T08:02:28+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/a-palestinian-home-inside-a-cage?traffic_source=rss",
+      "published_date": "2026-07-02T10:19:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UN suspends Hormuz evacuation mission after reported ship attack",
+      "title": "Israel arrests five women activists in the occupied West Bank",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-suspends-hormuz-evacuation-mission-after-reported-ship-attack",
-      "published_date": "2026-06-26T00:10:57+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-arrests-five-women-activists-occupied-west-bank-0",
+      "published_date": "2026-07-02T09:04:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "A battle of narratives emerges as Mamdani-backed candidates sweep NYC primaries",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/battle-narratives-mamdani-backed-candidates-sweep-primaries-nyc",
-      "published_date": "2026-06-25T21:21:09+00:00",
-      "category": "Economy"
+      "title": "In Pictures: Hunger, despair as Venezuela quake death toll rises",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/7/2/in-pictures-hunger-despair-as-venezuela-quake-death-toll-rises?traffic_source=rss",
+      "published_date": "2026-07-02T07:48:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pro-Palestine immigrant ousts 30-year veteran in Colorado Democratic primary",
@@ -652,41 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss",
       "published_date": "2026-06-30T20:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Healthcare situation in DR Congo improves amidst Ebola crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/healthcare-situation-in-dr-congo-improves-amidst-ebola-crisis?traffic_source=rss",
-      "published_date": "2026-06-30T19:31:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza emerges as a defining issue for Gen Z voters in New York Democratic primaries",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/new-york-democratic-primaries-gaza-emerges-defining-issue-gen-z-voters",
-      "published_date": "2026-06-30T16:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How six months in Israeli jail changed this Palestinian journalist’s life forever",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/how-six-months-israeli-jail-changed-palestinian-journalists-life-forever",
-      "published_date": "2026-06-30T13:13:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Andy Burnham can win back the Muslim voters Labour has lost",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-andy-burnham-win-back-Muslim-voters-Labour-lost",
-      "published_date": "2026-06-30T12:13:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Andy Burnham can win back the Muslim voters Labour has lost",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-andy-burnham-win-back-muslim-voters-labour-lost",
-      "published_date": "2026-06-30T12:13:57+00:00",
       "category": "Local Events"
     }
   ]
