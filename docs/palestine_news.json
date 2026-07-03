@@ -1,8 +1,85 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-02T12:53:45.478701+00:00",
+  "last_updated": "2026-07-03T00:11:50.009407+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism?traffic_source=rss",
+      "published_date": "2026-07-02T23:31:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's Gharibabadi: 3 July reminder of crime in which American took 290 lives",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-gharibabadi-3-july-reminder-crime-which-american-took-290-lives",
+      "published_date": "2026-07-02T23:13:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran envoy: US military bases in the Gulf caused ‘nothing but insecurity’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-envoy-us-military-bases-gulf-nothing-insecurity",
+      "published_date": "2026-07-02T22:25:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US envoy warns Iran over Hormuz closure",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-envoy-warns-iran-over-hormuz-closure",
+      "published_date": "2026-07-02T22:02:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanese security official, Unifil head meet in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-security-official-unifil-head-meet-lebanon",
+      "published_date": "2026-07-02T21:47:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian foreign minister, UN chief hold call to discuss regional developments",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-un-chief-call-discuss-regional-developments",
+      "published_date": "2026-07-02T21:25:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could water become a flashpoint between Islamabad and New Delhi?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss",
+      "published_date": "2026-07-02T21:01:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump administration aims to cut regulations on US commercial fishing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/2/trump-administration-aims-to-cut-regulations-on-us-commercial-fishing?traffic_source=rss",
+      "published_date": "2026-07-02T20:20:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump administration renews pressure on International Criminal Court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-renews-pressure-on-international-criminal-court?traffic_source=rss",
+      "published_date": "2026-07-02T19:39:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exclusive: ICC bureau changes rules to lower threshold for Khan's removal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-icc-bureau-changes-rules-lower-threshold-khans-removal",
+      "published_date": "2026-07-02T18:22:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan, Saudi Arabia call to discuss US-Iran mediation in Doha",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-saudi-arabia-call-discuss-us-iran-mediation-doha",
+      "published_date": "2026-07-02T18:06:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lebanese president says will not yield 'a single inch' of territory to Israel",
       "source": "Middle East Eye",
@@ -67,81 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US judge sides with NAACP over proposed mail-in ballot restrictions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss",
-      "published_date": "2026-07-01T22:53:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oil prices fall as US leaders strike positive note on Iran talks",
+      "title": "Trump: US removed 22 tankers from Hormuz ‘in complete radio silence’",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-fall-us-leaders-strike-positive-note-iran-talks",
-      "published_date": "2026-07-01T22:22:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-us-removed-22-tankers-hormuz-complete-radio-silence",
+      "published_date": "2026-07-02T23:59:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
-      "published_date": "2026-07-01T21:45:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanon walks into Israel’s trap",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/lebanon-israel-trap-withdrawal-sovereignty/",
-      "published_date": "2026-07-01T21:27:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
-      "published_date": "2026-07-01T21:09:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
-      "published_date": "2026-07-01T20:55:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian deputy foreign minister says channel to be set up for MoU breaches",
+      "title": "Israeli drone attack wounds people in southern Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-deputy-foreign-minister-says-channel-be-set-mou-breaches",
-      "published_date": "2026-07-01T20:30:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-attack-wounds-people-southern-gaza",
+      "published_date": "2026-07-02T19:57:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
-      "published_date": "2026-07-01T20:26:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli opposition signal foreign policy change in style, but not substance",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/israeli-opposition-signal-foreign-policy-change-in-style-but-not-substance?traffic_source=rss",
-      "published_date": "2026-07-01T20:14:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US signs agreement for construction of permanent embassy in Jerusalem",
+      "title": "Likely next UK PM Andy Burnham set to ban Palantir from NHS",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-signs-agreement-construction-permanent-embassy-jerusalem",
-      "published_date": "2026-07-01T19:14:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/likely-next-uk-pm-andy-burnham-set-ban-palantir-nhs",
+      "published_date": "2026-07-02T19:47:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranian president insists supreme leader did not bar negotiations",
+      "title": "Nine Buddhist monks killed by child driving truck in Thailand",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/nine-buddhist-monks-killed-by-child-driving-truck-in-thailand?traffic_source=rss",
+      "published_date": "2026-07-02T19:31:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian foreign minister hits back at US-led military talks in Bahrain",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-president-insists-supreme-leader-did-not-bar-negotiations",
-      "published_date": "2026-07-01T18:40:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-hits-back-us-led-military-talks-bahrain",
+      "published_date": "2026-07-02T19:23:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fears of new massacre in Sudan’s el-Obeid: What do we know?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss",
+      "published_date": "2026-07-02T18:59:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian Journalists Syndicate condemns Israel discrediting Gaza journalists’s profession",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-journalists-syndicate-condemns-israel-discrediting-gaza",
+      "published_date": "2026-07-02T18:56:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli protestors hold rally in Tel Aviv to mark 1,000 days since 7 October 2023 attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-protestors-hold-rally-tel-aviv-mark-1000-days-october-7-attack",
+      "published_date": "2026-07-02T18:17:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian goalkeeper killed by Israel in Gaza as Fifa faces fresh calls to act",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/trending/world-cup-takes-centre-stage-social-media-mourns-palestinian-goalkeeper-killed-israeli-army-gaza",
+      "published_date": "2026-07-02T18:08:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns ‘forceful response’ to ships failing to comply with approved Hormuz routes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-forceful-response-ships-failing-comply-approved-hormuz-routes",
+      "published_date": "2026-07-02T18:00:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
+      "published_date": "2026-07-02T17:36:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss",
+      "published_date": "2026-07-02T17:34:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What’s behind the deadly bombing of a crowded Damascus cafe?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss",
+      "published_date": "2026-07-02T17:22:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Iranian press review: Calls grow to maintain military pressure on Gulf states",
@@ -190,97 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/2/two-reported-killed-dozens-hurt-in-hospital-fire-in-germany?traffic_source=rss",
       "published_date": "2026-07-02T08:36:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seafarers face ‘significant risk’ in Strait of Hormuz, unions say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seafarers-face-significant-risk-strait-hormuz-unions-say",
-      "published_date": "2026-07-02T06:18:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran plans six-day state funeral for Ali Khamenei",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-plans-six-day-state-funeral-ali-khamenei",
-      "published_date": "2026-07-02T06:03:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hormuz shipping may take months to return to normal, French shipping company says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-shipping-may-take-months-return-normal-french-shipping-company",
-      "published_date": "2026-07-01T22:57:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Centcom leads regional security dialogue with Middle East military officials",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-leads-regional-security-dialogue-middle-east-military-officials",
-      "published_date": "2026-07-01T21:29:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "RSF committed crimes against humanity in Sudan's el-Fasher, Amnesty says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/rsf-committed-crimes-against-humanity-and-ethnic-cleansing-sudans-el-fasher-amnesty-concludes",
-      "published_date": "2026-07-01T21:24:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army detonates large explosion in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-detonates-large-explosion-southern-lebanon",
-      "published_date": "2026-07-01T20:56:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seven more sentenced over Texas ICE detention centre shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/seven-more-sentenced-over-texas-ice-detention-centre-shooting?traffic_source=rss",
-      "published_date": "2026-07-01T19:41:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon’s president defends Lebanon-Israel framework agreement",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-president-defends-lebanon-israel-framework-agreement",
-      "published_date": "2026-07-01T19:30:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
-      "published_date": "2026-07-01T19:29:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Crew member missing after US naval helicopter conducts emergency landing in Arabian Sea",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crew-member-missing-after-us-naval-helicopter-conducts-emergency-landing",
-      "published_date": "2026-07-01T18:20:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Sudan’s Rapid Support Forces take control of el-Obeid?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss",
-      "published_date": "2026-07-01T17:39:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
-      "published_date": "2026-07-01T17:36:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What military capabilities does Iran possess as it negotiates with US?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
-      "published_date": "2026-07-01T17:19:55+00:00",
       "category": "Military"
     },
     {
@@ -401,6 +401,20 @@
       "url": "https://www.aljazeera.com/news/2026/6/26/venezuela-earthquakes-why-is-caracas-so-vulnerable?traffic_source=rss",
       "published_date": "2026-06-26T09:36:27+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss",
+      "published_date": "2026-07-02T20:34:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK’s likely next PM Andy Burnham faces defence funding gap",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/uk-leader-hopeful-andy-burnham-faces-defence-funding-gap?traffic_source=rss",
+      "published_date": "2026-07-02T18:59:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "German coalition agrees on sweeping reform package in key breakthrough",
@@ -529,18 +543,46 @@
       "category": "Economy"
     },
     {
-      "title": "Which countries have pledged aid to Venezuela after powerful earthquakes?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/which-countries-have-pledged-aid-to-venezuela-after-powerful-earthquakes?traffic_source=rss",
-      "published_date": "2026-06-26T12:43:08+00:00",
-      "category": "Economy"
+      "title": "Gaza's breast cancer patients face immediate mastectomies as doctors plead for end to blockade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gazas-breast-cancer-patients-face-immediate-mastectomies-doctors-plead",
+      "published_date": "2026-07-02T21:53:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Affordability crisis’: How the Western housing crisis spiralled",
+      "title": "Hind Rajab Foundation calls on top prosecutor to investigate Ben Gvir ahead of NYC visit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hind-rajab-foundation-calls-top-prosecutor-investigate-ben-gvir-ahead",
+      "published_date": "2026-07-02T21:51:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hind Rajab Foundation calls on top prosecutor to investigate Ben Gvir ahead of NYC visit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/hind-rajab-foundation-calls-top-prosecutor-investigate-ben-gvir-ahead-new-york-visit",
+      "published_date": "2026-07-02T21:26:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jerusalem governorate warns against Israeli approval of 13 new settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jerusalem-governorate-warns-over-israeli-approval-13-new-settlements",
+      "published_date": "2026-07-02T21:15:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza's breast cancer patients face immediate mastectomies as doctors plead for end to blockade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/gaza-breat-cancer-patients-immediate-mastectomies-doctors-please%20end-blockade",
+      "published_date": "2026-07-02T21:07:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rally for Luxembourg teacher fired over pro-Gaza posts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/26/affordability-crisis-how-the-western-housing-crisis-spiralled?traffic_source=rss",
-      "published_date": "2026-06-26T08:36:52+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss",
+      "published_date": "2026-07-02T17:35:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump's Board of Peace says Unrwa has 'no place' in Gaza",
@@ -638,48 +680,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-order-closure-nablus-charity-one-year",
       "published_date": "2026-06-30T23:40:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria's president condemns Israeli attacks near Golan Heights",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrias-president-condemns-israeli-attacks-near-golan-heights",
-      "published_date": "2026-06-30T23:16:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why India’s viral youth party is still protesting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/why-indias-viral-youth-party-is-still-protesting?traffic_source=rss",
-      "published_date": "2026-06-30T22:14:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court rejects Trump's effort to limit birthright citizenship",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-supreme-court-rejects-trump-effort-limit-birthright-citizenship",
-      "published_date": "2026-06-30T21:00:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian Authority warns against Israeli settlement plans in E1 area",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-warns-against-israeli-settlement-plans-e1-area",
-      "published_date": "2026-06-30T20:58:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 30 students remain missing after Nigeria school attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/more-than-30-students-remain-missing-after-nigeria-school-attack?traffic_source=rss",
-      "published_date": "2026-06-30T20:55:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescuers find more bodies under rubble as Venezuela death toll rises",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss",
-      "published_date": "2026-06-30T20:50:00+00:00",
       "category": "Local Events"
     }
   ]
