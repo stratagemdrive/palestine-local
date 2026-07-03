@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-03T00:11:50.009407+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-03T12:52:02.098760+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "$500m for Trump, access for Pakistan: How a crypto-diplomatic bet paid off",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off?traffic_source=rss",
+      "published_date": "2026-07-03T08:41:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gaza genocide: How many UN findings will the West ignore?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/gaza-genocide-how-many-un-findings-will-west-ignore",
+      "published_date": "2026-07-03T07:25:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-575",
+      "published_date": "2026-07-03T06:44:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump on Nato: Ridiculous for US to continue along this one-sided path",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-nato-ridiculous-us-continue-along-one-sided-path",
+      "published_date": "2026-07-03T06:42:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli jets entered Iranian airspace to attack negotiators' plane after talks in Islamabad",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-entered-iranian-airspace-attack-negotiators-plane-after",
+      "published_date": "2026-07-03T06:17:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli jets entered Iran to attack negotiator plane after Islamabad talks, NYT reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-jets-entered-iranian-airspace-assasinate-negotiators-amid-peace-talks-nyt-reports",
+      "published_date": "2026-07-03T05:00:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
       "source": "Al Jazeera",
@@ -102,46 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump says record boats leaving Hormuz, calls communism ‘biggest threat’",
+      "title": "Palantir: How a US spy-tech firm with links to Israel’s genocide infiltrated the British state",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/palantir-how-us-spy-tech-firm-links-israels-genocide-infiltrated-british-state",
+      "published_date": "2026-07-03T09:47:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC chief makes first public appearance since war began",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-chief-makes-first-public-appearance-war-began",
+      "published_date": "2026-07-03T09:40:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five killed in Ukraine a day after deadliest Russian attacks this year",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss",
-      "published_date": "2026-07-02T08:19:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss",
+      "published_date": "2026-07-03T09:26:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan says US-Iran talks make progress in Doha",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-us-iran-talks-make-progress-doha",
-      "published_date": "2026-07-02T07:04:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar says US-Iran talks made ‘positive progress’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-us-iran-talks-made-positive-progress",
-      "published_date": "2026-07-02T06:47:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran tells UN Israel is normalising ‘state terrorism’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-tells-un-israel-normalising-state-terrorism",
-      "published_date": "2026-07-02T05:55:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says",
+      "title": "Ukraine strike hits Belgorod, causing fire and power outages",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/taiwan-needs-to-become-a-hornets-nest-of-drones-us-diplomat-says?traffic_source=rss",
-      "published_date": "2026-07-02T05:40:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/ukraine-strike-hits-belgorod-causing-fire-and-power-outages?traffic_source=rss",
+      "published_date": "2026-07-03T07:48:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Airlines restore some Middle East flights as suspensions continue",
+      "title": "IRGC caretaker chief Vahidi makes first public appearance",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/airlines-restore-some-middle-east-flights-suspensions-continue",
-      "published_date": "2026-07-01T23:26:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-caretaker-chief-vahidi-makes-first-public-appearance",
+      "published_date": "2026-07-03T06:57:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: Palestinians in Gaza mark 1,000 days since Israel launched full-scale war on Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-palestinians-gaza-mark-1000-days-israel-launched-full-scale-war",
+      "published_date": "2026-07-03T06:20:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Khamenei’s body arrives in Tehran for funeral ceremonies",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/khameneis-body-arrives-imam-khomeini-grand-mosalla-tehran-funeral",
+      "published_date": "2026-07-03T05:44:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sanders says billionaire-funded groups like Aipac threaten US democracy",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sanders-says-billionaire-funded-groups-aipac-threaten-us-democracy",
+      "published_date": "2026-07-03T05:33:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drone strikes wound two people in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-injure-two-people-southern-lebanon",
+      "published_date": "2026-07-03T04:43:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump: US removed 22 tankers from Hormuz ‘in complete radio silence’",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
+      "title": "What is Nayara, the Indian firm Russia is reportedly importing oil from?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss",
-      "published_date": "2026-07-02T17:34:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s behind the deadly bombing of a crowded Damascus cafe?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss",
-      "published_date": "2026-07-02T17:22:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian press review: Calls grow to maintain military pressure on Gulf states",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-press-review-calls-grow-maintain-military-pressure-gulf-states",
-      "published_date": "2026-07-02T10:50:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian press review: Calls grow to maintain military pressure on Gulf states",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iranian-press-review-calls-grow-maintain-military-pressure-gulf-states",
-      "published_date": "2026-07-02T10:43:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns US against interference in Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-against-interference-strait-hormuz",
-      "published_date": "2026-07-02T10:07:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eight Thai monks killed after child drives truck into procession",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss",
-      "published_date": "2026-07-02T10:04:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan PM Sharif to attend funeral of Iran's Ali Khamenei",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-sharif-attend-funeral-irans-ali-khamenei",
-      "published_date": "2026-07-02T09:06:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's Ghalibaf calls to avenge Khamenei death with massive funeral turnout",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-ghalibaf-calls-avenge-khamenei-death-massive-funeral-turnout",
-      "published_date": "2026-07-02T08:46:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two reported killed, dozens hurt in hospital fire in Germany",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/two-reported-killed-dozens-hurt-in-hospital-fire-in-germany?traffic_source=rss",
-      "published_date": "2026-07-02T08:36:50+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/3/what-is-nayara-the-indian-firm-russia-is-reportedly-importing-oil-from?traffic_source=rss",
+      "published_date": "2026-07-03T10:53:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Israel's largest oil refineries to undergo years of repairs after Iranian strikes, report says",
@@ -375,32 +382,11 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine decimates Russian logistics, bringing chaos to Crimea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/ukraine-decimates-russian-logistics-bringing-chaos-to-crimea?traffic_source=rss",
-      "published_date": "2026-06-26T12:34:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Climate change the culprit for Europe’s ‘most severe’ heatwave: Report",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/climate-change-the-culprit-for-europes-most-severe-heatwave-report?traffic_source=rss",
-      "published_date": "2026-06-26T11:42:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Can Europe’s historic cities survive a warming climate?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/26/can-europes-historic-cities-survive-a-warming-climate?traffic_source=rss",
-      "published_date": "2026-06-26T11:06:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Venezuela earthquakes: Why is Caracas so vulnerable?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/venezuela-earthquakes-why-is-caracas-so-vulnerable?traffic_source=rss",
-      "published_date": "2026-06-26T09:36:27+00:00",
-      "category": "Energy"
+      "title": "UK Islamic finance sector worth £6bn and drives Gulf investment, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uks-islamic-finance-sector-worth-ps6bn-and-drives-gulf-investment-finds-new-report",
+      "published_date": "2026-07-03T12:17:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
@@ -536,11 +522,67 @@
       "category": "Economy"
     },
     {
-      "title": "How much disaster aid will the US provide to Venezuela?",
+      "title": "An AIDS-free generation is within reach, but not guaranteed",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/26/how-much-disaster-aid-will-the-u-s-provide-to-venezuela?traffic_source=rss",
-      "published_date": "2026-06-26T19:41:23+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/opinions/2026/7/3/an-aids-free-generation-is-within-reach-but-not-guaranteed?traffic_source=rss",
+      "published_date": "2026-07-03T11:28:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Settler project for 'Greater Israel' sets its eyes on Syria",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-settler-movement-pushing-greater-israel-southern-syria",
+      "published_date": "2026-07-03T11:15:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grooming gangs report: How Rupert Lowe turned child abuse into anti-Muslim propaganda",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/grooming-gangs-report-how-rupert-lowe-turned-child-abuse-anti-muslim-propaganda",
+      "published_date": "2026-07-03T10:59:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Citizen Vigilante: Complaint written to UK regulator over anti-migrant film",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/citizen-vigilante-complaint-written-uk-regulator-over-anti-migrant-film",
+      "published_date": "2026-07-03T10:41:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel approves plan to establish 13 new settlements in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/3/israel-approves-plan-to-establish-13-new-settlements-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-07-03T09:59:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palace in the Mist: The inside story of the 1908 Young Turk revolution",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/discover/palace-mist-ottoman-princess-inside-story-dynasty-during-1908-revolution",
+      "published_date": "2026-07-03T09:58:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How New York’s ‘Little Egypt’ celebrates the World Cup",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/how-new-yorks-little-egypt-celebrates-the-world-cup?traffic_source=rss",
+      "published_date": "2026-07-03T08:04:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Report: EU lawmaker who probed surveillance was hacked by Israeli spyware",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-eu-lawmaker-who-probed-surveillance-was-hacked-israeli-spyware",
+      "published_date": "2026-07-03T06:13:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro-Palestinian protesters convicted of misdemeanour charges in 2024 US protest",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestinian-protesters-convicted-misdemeanour-charges-2024-us",
+      "published_date": "2026-07-03T04:56:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gaza's breast cancer patients face immediate mastectomies as doctors plead for end to blockade",
@@ -617,69 +659,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/gallery/2026/7/2/in-pictures-hunger-despair-as-venezuela-quake-death-toll-rises?traffic_source=rss",
       "published_date": "2026-07-02T07:48:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Palestine immigrant ousts 30-year veteran in Colorado Democratic primary",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestine-immigrant-ousts-30-year-veteran-colorado-democratic",
-      "published_date": "2026-07-01T18:33:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How AI is being weaponised against India’s Muslim women",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss",
-      "published_date": "2026-07-01T18:06:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Palestine immigrant ousts 30-year veteran in Colorado Democratic primary",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/pro-palestine-immigrant-ousts-30-year-veteran-us-congress-colorado-democratic-primary",
-      "published_date": "2026-07-01T17:55:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three dead after massive World Cup celebrations in Mexico City",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/three-dead-after-massive-world-cup-celebrations-in-mexico-city?traffic_source=rss",
-      "published_date": "2026-07-01T17:45:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel arrests five women activists in the occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-arrests-five-women-activists-west-bank",
-      "published_date": "2026-07-01T13:29:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel is carrying out 'reproductive genocide' against Palestinians",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-carrying-out-reproductive-genocide-against-palestinians",
-      "published_date": "2026-07-01T12:02:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer's legacy: Labour has a mountain to climb to recover its Muslim voters",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/starmers-legacy-labour-has-mountain-climb-recover-its-muslim-voters",
-      "published_date": "2026-07-01T10:48:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces arrest at least 20 Palestinians in West Bank raids",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-arrest-least-20-palestinians-west-bank-raids",
-      "published_date": "2026-07-01T07:50:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces order closure of Nablus charity for one year",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-order-closure-nablus-charity-one-year",
-      "published_date": "2026-06-30T23:40:42+00:00",
       "category": "Local Events"
     }
   ]
