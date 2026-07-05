@@ -1,8 +1,29 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-04T12:01:43.904423+00:00",
-  "story_count": 94,
+  "last_updated": "2026-07-05T00:05:47.282259+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Iran says Khamenei commemoration drew delegates from 70 countries",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-khamenei-commemoration-drew-delegates-70-countries",
+      "published_date": "2026-07-04T21:59:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A politically charged holiday: The US celebrates its 250th anniversary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/7/4/a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary?traffic_source=rss",
+      "published_date": "2026-07-04T19:43:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/4/trump-hints-israels-benjamin-netanyahu-may-visit-us-as-early-as-next-week?traffic_source=rss",
+      "published_date": "2026-07-04T18:17:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump praises army, rails against communism in US 250th anniversary speech",
       "source": "Al Jazeera",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israeli jets entered Iran to attack negotiator plane after Islamabad talks, NYT reports",
+      "title": "Iran’s funeral diplomacy: The Quran verses that ranked allies, rivals and sent Saudi Arabia a message",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-jets-entered-iranian-airspace-assasinate-negotiators-amid-peace-talks-nyt-reports",
-      "published_date": "2026-07-03T05:00:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/irans-funeral-diplomacy-quran-verses-ranked-allies-rivals-and-message-saudi-arabia",
+      "published_date": "2026-07-04T21:15:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
+      "title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism?traffic_source=rss",
-      "published_date": "2026-07-02T23:31:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-04T16:23:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran's Gharibabadi: 3 July reminder of crime in which American took 290 lives",
+      "title": "Iran begins six-day state funeral for Ali Khamenei",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-gharibabadi-3-july-reminder-crime-which-american-took-290-lives",
-      "published_date": "2026-07-02T23:13:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/iran-begins-six-day-state-funeral-ali-khamenei",
+      "published_date": "2026-07-04T14:01:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Mali’s army says rebels launch new attacks on towns and cities",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Pakistan bus crash kills 40",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss",
-      "published_date": "2026-07-03T17:44:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Iran and the U.S. talk, Israel chooses eternal war",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/us-iran-talks-israel-eternal-war/",
-      "published_date": "2026-07-03T16:52:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi deputy foreign minister in Tehran for Khamenei funeral",
+      "title": "Iran's envoy to China says friendly nations to get ‘special’ Hormuz fee treatment",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-deputy-foreign-minister-tehran-khamenei-funeral",
-      "published_date": "2026-07-03T16:24:28+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-envoy-china-says-friendly-nations-get-special-hormuz-fee-treatment",
+      "published_date": "2026-07-04T23:14:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
+      "published_date": "2026-07-04T19:19:18+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss",
+      "published_date": "2026-07-04T13:38:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
@@ -386,13 +407,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss",
       "published_date": "2026-06-28T18:53:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "With water cuts looming in Arizona in US, locals fight data centres",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
-      "published_date": "2026-06-27T15:11:37+00:00",
       "category": "Energy"
     },
     {
@@ -522,6 +536,34 @@
       "category": "Economy"
     },
     {
+      "title": "Palestinian official calls for international intervention as settler violence escalates in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-official-calls-international-intervention-settler-violence",
+      "published_date": "2026-07-05T00:03:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli NGO warns Gaza hospital director’s life is in danger in detention",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-ngo-warns-gaza-hospital-directors-life-danger-detention",
+      "published_date": "2026-07-04T22:26:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In photos: Egypt fever sweeps Gaza as World Cup draws crowds",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/egypt-fever-sweeps-gaza-world-cup-draws-crowds",
+      "published_date": "2026-07-04T12:42:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why closure matters at the end of life",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss",
+      "published_date": "2026-07-04T12:41:19+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Thousands protest in Germany as far-right AfD party meets",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets?traffic_source=rss",
@@ -631,34 +673,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/opinion/grooming-gangs-report-how-rupert-lowe-turned-child-abuse-anti-muslim-propaganda",
       "published_date": "2026-07-03T10:59:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Citizen Vigilante: Complaint written to UK regulator over anti-migrant film",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/citizen-vigilante-complaint-written-uk-regulator-over-anti-migrant-film",
-      "published_date": "2026-07-03T10:41:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel approves plan to establish 13 new settlements in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/israel-approves-plan-to-establish-13-new-settlements-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-07-03T09:59:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palace in the Mist: The inside story of the 1908 Young Turk revolution",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/discover/palace-mist-ottoman-princess-inside-story-dynasty-during-1908-revolution",
-      "published_date": "2026-07-03T09:58:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How New York’s ‘Little Egypt’ celebrates the World Cup",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/how-new-yorks-little-egypt-celebrates-the-world-cup?traffic_source=rss",
-      "published_date": "2026-07-03T08:04:30+00:00",
       "category": "Local Events"
     }
   ]
