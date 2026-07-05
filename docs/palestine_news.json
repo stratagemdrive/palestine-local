@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-05T00:05:47.282259+00:00",
+  "last_updated": "2026-07-05T12:10:27.822019+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "Trump praises US military as it marks 250 years of independence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss",
+      "published_date": "2026-07-05T11:06:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss",
+      "published_date": "2026-07-05T08:09:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says?traffic_source=rss",
+      "published_date": "2026-07-05T08:06:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey eyes US green light for fighter jet engines at NATO summit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-eyes-us-green-light-fighter-jet-engines-nato-summit",
+      "published_date": "2026-07-05T06:51:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-577",
+      "published_date": "2026-07-05T06:34:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump lauds Americans in storm-delayed 250th anniversary speech",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_trump-lauds-americans-in-250th-anniversary-speech-050726?traffic_source=rss",
+      "published_date": "2026-07-05T05:18:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan to host new round of US-Iran talks, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/Pakistan-host-new-round-US-Iran-talks",
+      "published_date": "2026-07-05T05:01:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Severe weather disrupts US’s 250th celebrations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations?traffic_source=rss",
+      "published_date": "2026-07-05T02:54:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "White nationalists march in Washington, DC, area during July 4 festivities",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
+      "published_date": "2026-07-04T23:57:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran says Khamenei commemoration drew delegates from 70 countries",
       "source": "Middle East Eye",
@@ -81,67 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pope Leo, Mamdani send pro-immigrant message for US’s 250th anniversary",
+      "title": "Iran and Qatar resume maritime trade: Iranian state media",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-qatar-resume-maritime-trade-iranian-state-media",
+      "published_date": "2026-07-05T11:47:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu vows to not rebuild Gaza until Hamas surrenders its weapons",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-not-rebuild-gaza-until-hamas-surrenders-its-weapons",
+      "published_date": "2026-07-05T11:45:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China and Russia to hold annual joint naval drills",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/pope-leo-mamdani-send-pro-immigrant-message-for-uss-250th-anniversary?traffic_source=rss",
-      "published_date": "2026-07-03T18:30:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/5/china-and-russia-to-hold-annual-joint-naval-drills?traffic_source=rss",
+      "published_date": "2026-07-05T11:03:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "More on Netanyahu-Trump phone call",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-netanyahu-trump-phone-call",
-      "published_date": "2026-07-03T17:45:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Netanyahu and Trump held phone call on Friday, Israeli leader's office says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-and-trump-held-phone-call-friday-israeli-leaders-office-says",
-      "published_date": "2026-07-03T17:10:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France weighs up resetting Turkey ties as Europe's security landscape shifts",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/france-weighs-resetting-turkey-ties-europe-security-shifts",
-      "published_date": "2026-07-03T15:39:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "$500m for Trump, access for Pakistan: How a crypto-diplomatic bet paid off",
+      "title": "Release Dr Hussam Abu Safia immediately!",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/500m-for-trump-access-for-pakistan-how-a-crypto-diplomatic-bet-paid-off?traffic_source=rss",
-      "published_date": "2026-07-03T08:41:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/7/5/release-dr-hussam-abu-safia-immediately?traffic_source=rss",
+      "published_date": "2026-07-05T10:56:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Gaza genocide: How many UN findings will the West ignore?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/gaza-genocide-how-many-un-findings-will-west-ignore",
-      "published_date": "2026-07-03T07:25:46+00:00",
-      "category": "Diplomacy"
+      "title": "China releases underground church pastor after months in detention",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention?traffic_source=rss",
+      "published_date": "2026-07-05T08:54:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Morning update",
+      "title": "Araghchi meets Hamas and Hezbollah delegations in Tehran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-575",
-      "published_date": "2026-07-03T06:44:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-meets-hamas-and-hezbollah-delegations-tehran",
+      "published_date": "2026-07-05T06:57:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump on Nato: Ridiculous for US to continue along this one-sided path",
+      "title": "Tehran metro records seven million trips for Khamenei funeral",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-nato-ridiculous-us-continue-along-one-sided-path",
-      "published_date": "2026-07-03T06:42:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-metro-records-7-million-trips-khamenei-funeral",
+      "published_date": "2026-07-05T06:22:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli jets entered Iranian airspace to attack negotiators' plane after talks in Islamabad",
+      "title": "Israeli minister confirms Iron Dome battery deployed to UAE during war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-entered-iranian-airspace-attack-negotiators-plane-after",
-      "published_date": "2026-07-03T06:17:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-minister-confirms-iron-dome-battery-deployed-uae-during-war",
+      "published_date": "2026-07-05T06:16:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Funeral prayers held for Khamenei’s infant granddaughter killed in US-Israeli strike",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/funeral-prayers-held-khameneis-infant-granddaughter-killed-us-israeli",
+      "published_date": "2026-07-05T06:10:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Native Americans Resisting ICE",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/witness/2026/7/5/native-americans-resisting-ice?traffic_source=rss",
+      "published_date": "2026-07-05T06:02:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Funeral ceremonies continue for Khamenei, senior officials join",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/funeral-ceremonies-continue-khamenei-senior-officials-join",
+      "published_date": "2026-07-05T05:30:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two Palestinians killed, several injured in Israeli drone strikes in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-several-injured-israeli-drone-strikes-gaza",
+      "published_date": "2026-07-05T04:56:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "OPEC+ tipped to raise quotas again as Middle East calms",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opec-tipped-raise-quotas-again-middle-east-calms",
+      "published_date": "2026-07-05T03:50:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "This immigrant served in the US military. Now he faces deportation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss",
+      "published_date": "2026-07-05T00:49:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
+      "published_date": "2026-07-05T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran’s funeral diplomacy: The Quran verses that ranked allies, rivals and sent Saudi Arabia a message",
@@ -176,111 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-576",
       "published_date": "2026-07-04T06:46:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Foreign leaders and delegations attend Khamenei’s funeral ceremony",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-foreign-leaders-and-delegations-attend-khameneis-funeral-ceremony",
-      "published_date": "2026-07-04T05:49:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Israel really build settlements in Gaza?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-      "published_date": "2026-07-04T05:41:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Gave them a week off’: Trump says US paused operations for Khamenei funeral",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gave-them-week-offtrump-says-us-paused-operations-khamenei-funeral",
-      "published_date": "2026-07-04T05:05:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian citizen of Israel killed in shooting in Haifa, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-citizen-israel-killed-shooting-maghar-report-says",
-      "published_date": "2026-07-04T03:21:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN condemns 'extrajudicial execution' of Palestinian accused of collaboration",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-condemns-extrajudicial-execution-palestinian-accused-collaboration",
-      "published_date": "2026-07-04T02:53:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi-led coalition warns Houthis after airport threats",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-warns-houthis-after-airport-threats",
-      "published_date": "2026-07-04T00:08:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Complaint filed in Italy against Israeli soldier for Gaza genocide, HRF says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/complaint-filed-italy-against-israeli-soldier-gaza-genocide-hrf-says",
-      "published_date": "2026-07-03T23:56:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK and France back efforts to secure Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-and-france-back-efforts-secure-strait-hormuz",
-      "published_date": "2026-07-03T23:55:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explosion reported in Lebanon’s Kounine",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-reported-lebanons-kounine",
-      "published_date": "2026-07-03T21:36:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "High security night vigil ahead of official Khamenei funeral",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/high-security-night-vigil-ahead-official-funeral-khamenei",
-      "published_date": "2026-07-03T21:15:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says multiple Hezbollah sites hit in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-multiple-hezbollah-sites-hit-southern-lebanon",
-      "published_date": "2026-07-03T20:20:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Baseless': Cair sues Florida governor for terrorism designation alongside drug cartels",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/baseless-cair-sues-florida-governor-terrorism-designation-alongside-drug-cartels",
-      "published_date": "2026-07-03T20:19:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
-      "published_date": "2026-07-03T19:27:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
-      "published_date": "2026-07-03T18:39:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Birmingham University accused of weakening restrictions on investing in arms companies",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/birmingham-university-accused-weakening-restrictions-investing-arms",
-      "published_date": "2026-07-03T18:32:06+00:00",
       "category": "Military"
     },
     {
@@ -410,6 +410,13 @@
       "category": "Energy"
     },
     {
+      "title": "Cargo vessel attacked near Yemen's Hodeidah, UK maritime agency says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cargo-vessel-attacked-near-yemens-hodeidah-uk-maritime-agency-says",
+      "published_date": "2026-07-05T10:15:01+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Heavy rain floods Mumbai during intense monsoon spell",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss",
@@ -529,11 +536,53 @@
       "category": "Economy"
     },
     {
-      "title": "Iran inflation nears 89% as war strains economy",
+      "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
+      "published_date": "2026-07-05T11:24:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Slain Ayatollah’s son attends funeral as current Ayatollah stays away",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-inflation-nears-89-war-strains-economy",
-      "published_date": "2026-06-28T04:39:59+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/slain-ayatollahs-son-attends-funeral-current-ayatollah-stays-away",
+      "published_date": "2026-07-05T09:28:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IRNA: Funeral prayers offered for Khamenei and family members, bodies shifted to 'designated site'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irna-funeral-prayers-offered-khamenei-and-family-members-bodies-shifted",
+      "published_date": "2026-07-05T05:19:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Israeli settlers storm Hebron's Old City under protection of Israeli forces",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-settlers-storm-hebrons-old-city-under-protection-israeli",
+      "published_date": "2026-07-05T05:03:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 140 Palestinian citizens of Israel killed this year",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-140-palestinian-citizens-israel-killed-year",
+      "published_date": "2026-07-05T04:02:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A name, a document, a future: Cameroon’s fight to register every child",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss",
+      "published_date": "2026-07-05T03:55:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
+      "published_date": "2026-07-05T00:08:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palestinian official calls for international intervention as settler violence escalates in West Bank",
@@ -624,55 +673,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-eight-palestinians-west-bank",
       "published_date": "2026-07-03T22:26:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Settler attack injures several Palestinians near Hebron",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/settler-attack-injures-several-palestinians-near-hebron",
-      "published_date": "2026-07-03T19:30:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss",
-      "published_date": "2026-07-03T18:34:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers injure five Palestinians in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-five-palestinians-occupied-west-bank",
-      "published_date": "2026-07-03T16:43:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 600,000 displaced Lebanese return home amid ceasefire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/over-600000-displaced-lebanese-return-home-amid-ceasefire",
-      "published_date": "2026-07-03T16:05:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An AIDS-free generation is within reach, but not guaranteed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/3/an-aids-free-generation-is-within-reach-but-not-guaranteed?traffic_source=rss",
-      "published_date": "2026-07-03T11:28:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Settler project for 'Greater Israel' sets its eyes on Syria",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-settler-movement-pushing-greater-israel-southern-syria",
-      "published_date": "2026-07-03T11:15:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grooming gangs report: How Rupert Lowe turned child abuse into anti-Muslim propaganda",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/grooming-gangs-report-how-rupert-lowe-turned-child-abuse-anti-muslim-propaganda",
-      "published_date": "2026-07-03T10:59:10+00:00",
       "category": "Local Events"
     }
   ]
