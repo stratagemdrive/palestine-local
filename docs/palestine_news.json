@@ -1,8 +1,85 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-07T00:14:24.850895+00:00",
+  "last_updated": "2026-07-07T13:12:48.292506+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Trump joins NATO summit amid Ukraine, spending tensions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-joins-nato-summit-amid-ukraine-spending-tensions",
+      "published_date": "2026-07-07T12:24:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ships attacked in the Strait of Hormuz: What that means for ongoing talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks?traffic_source=rss",
+      "published_date": "2026-07-07T12:19:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'This is our sport, not theirs': Klopp attacks Fifa chief over Balogun red card reversal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/klopp-criticises-infantino-belgium-beat-us-after-balogun-red-card-debacle",
+      "published_date": "2026-07-07T12:02:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What does Trump want from his NATO allies?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/what-does-trump-want-from-his-nato-allies?traffic_source=rss",
+      "published_date": "2026-07-07T11:23:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Belgium considers becoming latest EU country to recognise Palestinian statehood",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/belgium-moves-towards-recognising-palestinian-statehood-after-hamas-dissolves-government-body",
+      "published_date": "2026-07-07T10:19:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato foreign ministers to meet Gulf Arab counterparts to discuss Hormuz tensions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nato-foreign-ministers-meet-gulf-arab-counterparts-discuss-hormuz",
+      "published_date": "2026-07-07T09:34:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What to expect from Trump's meetings with Erdogan and Sharaa in Ankara",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/nato-ankara-summit-what-expect-trump-meetings-erdogan-and-sharaa",
+      "published_date": "2026-07-07T08:00:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain styles itself as Israel's most fervent adversary, but its sanctions are far from comprehensive",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/beyond-symbolism-has-spain-become-israels-most-fervent-adversary",
+      "published_date": "2026-07-07T07:52:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
+      "published_date": "2026-07-07T07:09:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "On its 250th birthday, America must leave behind the illusion of primacy",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/250-its-time-awaken-dream-american-primacy",
+      "published_date": "2026-07-07T07:04:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
+      "published_date": "2026-07-07T06:12:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘If you win, it’s a stain’: Americans react to FIFA-Balogun controversy",
       "source": "Al Jazeera",
@@ -67,81 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Palestinian technocratic committee says ready to govern Gaza",
+      "title": "Israeli strikes kill two Palestinians in Gaza, wound seven including two children",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-technocratic-committee-says-ready-govern-gaza",
-      "published_date": "2026-07-06T11:35:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-two-palestinians-gaza-wound-seven-including-two",
+      "published_date": "2026-07-07T11:53:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "World Cup 2026: Did hydration breaks foil the campaigns of Arab teams?",
+      "title": "Qatari LNG tanker and Saudi crude oil ship damaged in Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/world-cup-2026-did-hydration-breaks-foil-campaigns-arab-teams",
-      "published_date": "2026-07-06T08:50:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-lng-tanker-and-saudi-crude-oil-ship-damaged-hormuz",
+      "published_date": "2026-07-07T10:54:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkiye gears up for its first NATO summit in 22 years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss",
-      "published_date": "2026-07-05T21:42:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
-      "published_date": "2026-07-05T20:50:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump thanks FIFA as it suspends Balogun’s ban for Belgium World Cup match",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/5/trump-thanks-fifa-as-it-suspends-baloguns-ban-for-belgium-world-cup-match?traffic_source=rss",
-      "published_date": "2026-07-05T18:28:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump praises US military as it marks 250 years of independence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss",
-      "published_date": "2026-07-05T11:06:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss",
-      "published_date": "2026-07-05T08:09:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says?traffic_source=rss",
-      "published_date": "2026-07-05T08:06:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkey eyes US green light for fighter jet engines at NATO summit",
+      "title": "Rima Hassan denounces 'political and judicial harassment' over Israel criticism",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-eyes-us-green-light-fighter-jet-engines-nato-summit",
-      "published_date": "2026-07-05T06:51:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/french-palestinian-mep-rima-hassan-denounces-political-judicial-harassment-suppress-israel-criticism",
+      "published_date": "2026-07-07T10:47:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Morning update",
+      "title": "Poll: 30 percent of American Jews believe Israel committed genocide in Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-577",
-      "published_date": "2026-07-05T06:34:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/poll-30-percent-american-jews-believe-israel-committed-genocide-gaza",
+      "published_date": "2026-07-07T10:18:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump lauds Americans in storm-delayed 250th anniversary speech",
+      "title": "Syria says 18 wounded in Damascus blasts during Macron visit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-says-18-wounded-damascus-blasts-during-macron-visit",
+      "published_date": "2026-07-07T09:42:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mourners bid farewell to Ayatollah Khamenei in Qom",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mourners-bid-farewell-ayatollah-khamenei-iranian-holy-city-qom",
+      "published_date": "2026-07-07T08:57:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "After Iran war upheaval, global shipping eyes return to status quo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_trump-lauds-americans-in-250th-anniversary-speech-050726?traffic_source=rss",
-      "published_date": "2026-07-05T05:18:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/7/7/after-iran-war-upheaval-global-shipping-eyes-return-to-status-quo?traffic_source=rss",
+      "published_date": "2026-07-07T08:31:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia touts ‘war with NATO’ amid losses in Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/russia-touts-war-with-nato-amid-losses-in-ukraine?traffic_source=rss",
+      "published_date": "2026-07-07T08:22:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Explosion heard in Damascus during French president's visit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-heard-damascus-during-french-presidents-visit",
+      "published_date": "2026-07-07T07:53:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
+      "published_date": "2026-07-07T07:32:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Tanker hit by unknown projectile 8 nautical miles away from Oman's Limah, maritime body says",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Lethal weapon: How Bollywood's 'Chauhaan' trivialises the suffering of Kashmiris maimed by Indian forces",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/lethal-weapon-bollywood-movie-chauhan-trivialises-pellet-gun-victims-Kashmir",
-      "published_date": "2026-07-06T14:14:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The pitfalls of institutionalising US military aid to Israel",
+      "title": "Ukrainian drones hit Russian fuel tankers",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/6/the-pitfalls-of-institutionalising-us-military-aid-to-israel?traffic_source=rss",
-      "published_date": "2026-07-06T14:13:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas announces dissolution of Gaza governing body",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body?traffic_source=rss",
-      "published_date": "2026-07-06T13:36:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Refugees killed in landslides at Rohingya camps in Bangladesh",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss",
-      "published_date": "2026-07-06T13:07:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian staff set to return to Iran's Bushehr nuclear plant",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russian-staff-set-return-irans-bushehr-nuclear-plant",
-      "published_date": "2026-07-06T12:58:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon president says Israeli occupation in south preventing army deployment",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-israeli-occupation-south-preventing-army",
-      "published_date": "2026-07-06T12:23:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher?traffic_source=rss",
-      "published_date": "2026-07-06T12:21:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump, Turkey and Nato: What's at stake at the Ankara summit?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/nato-ankara-summit-what-is-at-stake",
-      "published_date": "2026-07-06T12:19:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Number of dead in Gaza rises to 73,098: health ministry",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/number-dead-gaza-rises-73098-health-ministry",
-      "published_date": "2026-07-06T11:05:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon state media says Israeli strike on south kills four people",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-state-media-says-israeli-strike-south-kills-four-people",
-      "published_date": "2026-07-06T11:03:41+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
+      "published_date": "2026-07-07T10:41:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Opec+ countries to raise oil output after prices fall",
@@ -403,18 +410,32 @@
       "category": "Energy"
     },
     {
-      "title": "Assassination of Al-Arabiya journalist highlights tensions in southern Yemen",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/assassination-al-arabiya-journalist-tensions-southern-yemen",
-      "published_date": "2026-06-30T11:21:32+00:00",
-      "category": "Energy"
+      "title": "Displaced Gaza farmers turn to dirt near tents to grow crops",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss",
+      "published_date": "2026-07-07T12:56:19+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Report: US tells Israel to proceed with Gaza reconstruction even if Hamas stays armed",
+      "title": "Will the Iran-US MoU reshape economic relations in the Gulf?",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-tells-israel-proceed-gaza-reconstruction-even-if-hamas-stays",
-      "published_date": "2026-06-30T07:04:04+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/will-iran-us-mou-reshape-economic-relations-gulf",
+      "published_date": "2026-07-07T10:58:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'We were scared to die': The West Bank workers hiding in bins to reach Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/palestine-west-bank-workers-risking-their-lives-reach-israel",
+      "published_date": "2026-07-07T09:54:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China sentences former local official to death in $324m corruption case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/7/china-sentences-former-local-official-to-death-in-324m-corruption-case?traffic_source=rss",
+      "published_date": "2026-07-07T06:01:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "Survivors and bodies still being pulled from rubble days after twin quakes",
@@ -522,25 +543,39 @@
       "category": "Economy"
     },
     {
-      "title": "EU gets tough on China as trade imbalance stokes deindustrialisation fears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/30/eu-gets-tough-on-china-as-trade-imbalance-stokes-deindustrialisation-fears?traffic_source=rss",
-      "published_date": "2026-06-30T08:30:52+00:00",
-      "category": "Economy"
+      "title": "Peace Now report: 2025 witnessed largest West Bank settlement expansion",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/peace-now-report-2025-witnessed-largest-west-bank-settlement-expansion",
+      "published_date": "2026-07-07T13:01:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Millions in India’s Bengal risk losing welfare benefits over voter deletion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/food-security-fears-as-indias-bengal-links-welfare-schemes-to-voter-rolls?traffic_source=rss",
-      "published_date": "2026-06-30T08:25:02+00:00",
-      "category": "Economy"
+      "title": "UN report: Gaza recorded 9,300 chickenpox cases in just two weeks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-report-gaza-recorded-9300-chickenpox-cases-just-two-weeks",
+      "published_date": "2026-07-07T11:37:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How each prime minister broke Britain’s economy",
+      "title": "Bangladesh landslides kill nine, including eight Rohingya in refugee camp",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/money-works/2026/6/30/how-each-prime-minister-broke-britains-economy?traffic_source=rss",
-      "published_date": "2026-06-30T07:52:29+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/7/bangladesh-landslides-kill-nine-including-eight-rohingya-in-refugee-camp?traffic_source=rss",
+      "published_date": "2026-07-07T10:41:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is the new Gaza administration as Hamas dissolves government?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+      "published_date": "2026-07-07T10:38:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces demolish two houses in Ramallah, detain four Palestinians in Jenin",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-demolish-two-houses-ramallah-detain-four-palestinians",
+      "published_date": "2026-07-07T08:09:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Over 5,500 children displaced by fighting in Sudan’s el-Obeid, charity says",
@@ -645,41 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss",
       "published_date": "2026-07-05T22:03:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia thrash England to win record seventh Women’s T20 World Cup",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/5/australia-thrash-england-to-win-record-seventh-womens-t20-world-cup?traffic_source=rss",
-      "published_date": "2026-07-05T19:46:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/russia-says-ukraine-rejects-local-ceasefire-in-dispute-over-kostiantynivka?traffic_source=rss",
-      "published_date": "2026-07-05T19:06:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians rally outside Al-Shifa hospital, demanding medical evacuation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuation?traffic_source=rss",
-      "published_date": "2026-07-05T18:40:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel eyes return to Gaza war within months, Channel 12 reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-eyes-return-gaza-war-within-months-channel-12-reports",
-      "published_date": "2026-07-05T14:19:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
-      "published_date": "2026-07-05T11:24:18+00:00",
       "category": "Local Events"
     }
   ]
