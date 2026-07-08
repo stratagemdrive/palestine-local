@@ -1,8 +1,85 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-08T00:03:05.620062+00:00",
+  "last_updated": "2026-07-08T12:14:45.194070+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UN maritime head says 6,000 seafarers 'remain stranded' in Gulf",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-maritime-head-says-6000-seafarers-remain-stranded-gulf",
+      "published_date": "2026-07-08T10:59:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Erdogan calls for two-state solution at Nato summit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-calls-two-state-solution-nato-summit",
+      "published_date": "2026-07-08T10:52:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss",
+      "published_date": "2026-07-08T10:06:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European MPs call for probe of FIFA boss Infantino over red card suspension",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/european-mps-call-for-probe-of-fifa-boss-infantino-over-red-card-suspension?traffic_source=rss",
+      "published_date": "2026-07-08T09:24:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'No obligation to provide': Israel accused of withholding water from Jordan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/no-obligation-provide-israel-withholds-water-jordan",
+      "published_date": "2026-07-08T09:16:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says MoU with ‘vicious, violent’ Iran is over",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-mou-with-vicious-violent-iran-is-over?traffic_source=rss",
+      "published_date": "2026-07-08T09:14:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oil prices jump 5 percent after Trump says Iran ceasefire over",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-jump-5-percent-after-trump-says-iran-ceasefire-over",
+      "published_date": "2026-07-08T09:06:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump on Iran ceasefire: 'I think it is over, they're scum, liars'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-iran-ceasefire-over-it-waste-time-dealing-them",
+      "published_date": "2026-07-08T08:33:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump criticises Nato allies for lack of support in war on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-criticises-nato-allies-lack-support-war-iran",
+      "published_date": "2026-07-08T07:10:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO summit live: Trump rips NATO allies; calls Spain ‘a terrible partner’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/8/nato-summit-live-trump-world-leaders-meet-in-turkiyes-ankara?traffic_source=rss",
+      "published_date": "2026-07-08T07:05:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss",
+      "published_date": "2026-07-08T05:18:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran accuses US of breaching MoU over oil sanctions waiver",
       "source": "Middle East Eye",
@@ -67,81 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lawsuit accuses Trump administration of sharing Iranian asylum seeker data",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lawsuit-accuses-trump-administration-sharing-iranian-asylum-seeker-data",
-      "published_date": "2026-07-07T16:30:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump praises Turkey as 'great ally' of US",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-praises-turkiye-great-ally-us",
-      "published_date": "2026-07-07T15:27:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump joins NATO summit amid Ukraine, spending tensions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-joins-nato-summit-amid-ukraine-spending-tensions",
-      "published_date": "2026-07-07T12:24:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ships attacked in the Strait of Hormuz: What that means for ongoing talks",
+      "title": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks?traffic_source=rss",
-      "published_date": "2026-07-07T12:19:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss",
+      "published_date": "2026-07-08T11:22:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "'This is our sport, not theirs': Klopp attacks Fifa chief over Balogun red card reversal",
+      "title": "Explosions heard in Bahrain as Iran says any site enabling US attack is 'legitimate target'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/klopp-criticises-infantino-belgium-beat-us-after-balogun-red-card-debacle",
-      "published_date": "2026-07-07T12:02:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-bahrain-iran-says-any-site-enabling-us-attack",
+      "published_date": "2026-07-08T09:49:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "What does Trump want from his NATO allies?",
+      "title": "Why have half a million Russians gone bankrupt amid Ukraine war?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/what-does-trump-want-from-his-nato-allies?traffic_source=rss",
-      "published_date": "2026-07-07T11:23:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/7/8/why-have-half-a-million-russians-gone-bankrupt-amid-ukraine-war?traffic_source=rss",
+      "published_date": "2026-07-08T08:41:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Belgium considers becoming latest EU country to recognise Palestinian statehood",
+      "title": "Iraq's anti-corruption crackdown faces scepticism despite dramatic raids",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/belgium-moves-towards-recognising-palestinian-statehood-after-hamas-dissolves-government-body",
-      "published_date": "2026-07-07T10:19:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nato foreign ministers to meet Gulf Arab counterparts to discuss Hormuz tensions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nato-foreign-ministers-meet-gulf-arab-counterparts-discuss-hormuz",
-      "published_date": "2026-07-07T09:34:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What to expect from Trump's meetings with Erdogan and Sharaa in Ankara",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/nato-ankara-summit-what-expect-trump-meetings-erdogan-and-sharaa",
-      "published_date": "2026-07-07T08:00:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain styles itself as Israel's most fervent adversary, but its sanctions are far from comprehensive",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/beyond-symbolism-has-spain-become-israels-most-fervent-adversary",
-      "published_date": "2026-07-07T07:52:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
-      "published_date": "2026-07-07T07:09:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/iraq-anti-corruption-crackdown-faces-scepticism-despite-dramatic-raids",
+      "published_date": "2026-07-08T08:00:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Watch: Hamas announces dissolution of Gaza government after nearly two decades",
+      "title": "Four oil and gas tankers turn back from Hormuz after vessel attacks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-hamas-announces-dissolution-gaza-government-after-nearly-two",
-      "published_date": "2026-07-06T23:43:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada picks Germany’s TKMS for new submarines",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/6/canada-picks-germanys-tkms-for-new-submarines?traffic_source=rss",
-      "published_date": "2026-07-06T22:13:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel restricts flow of goods into Gaza at Karem Abu Salem crossing",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-flow-goods-gaza-karem-abu-salem-crossing",
-      "published_date": "2026-07-06T22:11:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morocco says it has dismantled ISIL-linked cell planning attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/morocco-says-it-has-dismantled-isil-linked-cell-planning-attack?traffic_source=rss",
-      "published_date": "2026-07-06T21:51:23+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-oil-and-gas-tankers-turn-back-hormuz-after-vessel-attacks",
+      "published_date": "2026-07-08T08:48:44+00:00",
+      "category": "Energy"
     },
     {
       "title": "Qatar summons Iranian diplomat over attack on LNG tanker",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Israeli minister vows ‘100 percent’ control over Gaza",
+      "title": "Danish prime minister, EU reject Trump's Greenland takeover remarks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-minister-vows-100-percent-control-over-gaza",
-      "published_date": "2026-07-01T08:14:50+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/danish-prime-minister-eu-reject-trumps-greenland-takeover-remarks",
+      "published_date": "2026-07-08T12:06:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Businesses report blocked payments from Saudi Arabia to the UAE, raising fears of worsening ties",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/saudi-uae-rift-spills-payments-businesses-report-delays-report",
+      "published_date": "2026-07-08T11:02:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran’s economy faces long road to recovery as fragile truce tested",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss",
+      "published_date": "2026-07-08T06:03:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "South Africans line up for jobs after exodus of foreign workers",
@@ -543,25 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "As Venezuela responds to earthquake devastation, volunteers take charge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
-      "published_date": "2026-07-01T18:42:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Iran president says some financial restrictions eased, Trump hails 'excellent meeting' with Tehran",
+      "title": "Report: Trump's Board of Peace plans pilot Gaza 'humanitarian zone'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-president-says-some-financial-restrictions-eased-trump-hails",
-      "published_date": "2026-07-01T12:45:17+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-trumps-board-peace-plans-pilot-gaza-humanitarian-zone",
+      "published_date": "2026-07-08T10:12:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Nearly three in four US scam victims report mental health harm, poll finds",
+      "title": "Israel kills Gaza elder tasked with broadcasting Egypt-Argentina game",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-kills-egyptian-relief-committee-director-cairo-hosts-ceasefire-talks",
+      "published_date": "2026-07-08T09:18:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Egypt coach condemns silence on killing of Palestinian children",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/scams-cost-us-victims-68bn-in-2025-harm-to-mental-health-poll-finds?traffic_source=rss",
-      "published_date": "2026-07-01T11:35:53+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/egypt-coach-condemns-silence-on-killing-of-palestinian-children?traffic_source=rss",
+      "published_date": "2026-07-08T08:22:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The UK public is not shy to call out genocide. Will the new prime minister join them?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/uk-public-not-shy-call-out-genocide-will-government-join-them",
+      "published_date": "2026-07-08T08:07:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Abandoned and left to die’: Family of Hussam Abu Safiya says he has been betrayed by rights groups",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/abandoned-and-left-die-family-hussam-abu-safiya-say-he-has-been-betrayed-rights-groups",
+      "published_date": "2026-07-08T07:47:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Childhood on hold: How Gaza’s children spend a summer without play",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/8/childhood-on-hold-how-gazas-children-spend-a-summer-without-play?traffic_source=rss",
+      "published_date": "2026-07-08T05:13:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UK summons Iranian diplomat over attack on journalist",
@@ -659,48 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-palestinian-homes-and-farmland-occupied-west",
       "published_date": "2026-07-06T21:43:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nearly 50,000 receive medical treatment during Khamenei funeral procession in Tehran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-50000-treated-during-khamenei-funeral-procession-tehran",
-      "published_date": "2026-07-06T20:18:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli finance minister says settlement 'revolution' has only just begun",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-finance-minister-says-settlement-revolution-has-only-just-begun",
-      "published_date": "2026-07-06T19:48:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nephew of PA vice president arrested over Gaza smuggling with Israeli soldiers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/nephew-pa-vice-president-arrested-over-gaza-smuggling-israeli-soldiers",
-      "published_date": "2026-07-06T15:12:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baby dies after Israeli troops block emergency journey to hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss",
-      "published_date": "2026-07-06T13:13:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The West must to act to save Dr Hussam Abu Safiya from being killed by Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/gaza-west-must-act-save-hussam-abu-safiya-risk-killed-captivity",
-      "published_date": "2026-07-06T12:53:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's death towers: Gaza civilians killed by remote attacks during ceasefire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/death-towers-gaza-civilians-killed-remote-israeli-attacks-during-ceasefire",
-      "published_date": "2026-07-06T12:18:07+00:00",
       "category": "Local Events"
     }
   ]
