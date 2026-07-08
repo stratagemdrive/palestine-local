@@ -1,8 +1,85 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-07T13:12:48.292506+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-08T00:03:05.620062+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Iran accuses US of breaching MoU over oil sanctions waiver",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-us-breaching-mou-over-oil-sanctions-waiver",
+      "published_date": "2026-07-07T22:52:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Robbed’: Egypt-Argentina match sparks accusations of World Cup bias",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/trending/robbed-egypt-argentina-match-upset-sparks-accusations-world-cup-bias",
+      "published_date": "2026-07-07T21:28:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US cancels waiver allowing Iran oil sales as Gulf vessels attacked",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-cancels-waiver-allowing-iran-oil-sales-gulf-vessels-attacked",
+      "published_date": "2026-07-07T21:19:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No 'magic wand': Trump faces layers of resistance on Turkey F-35 deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/no-magic-wand-trump-has-multiple-layers-resistance-overcome-turkey-f-35-deal",
+      "published_date": "2026-07-07T20:52:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US revokes licence authorising sale of Iranian oil",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-revokes-licence-authorising-sale-iranian-oil",
+      "published_date": "2026-07-07T20:24:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump lashes out at NATO as first day of summit wraps in Turkiye",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye?traffic_source=rss",
+      "published_date": "2026-07-07T20:08:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump criticises NATO allies over Iran conflict support",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trump-criticises-nato-allies-over-iran-conflict-support?traffic_source=rss",
+      "published_date": "2026-07-07T19:16:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he is working to remove Turkey from US sanctions list",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/trump-says-he-working-remove-turkey-us-sanctions-list",
+      "published_date": "2026-07-07T18:50:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US prosecutors seek leniency for Turkish-Iranian sanctions case witness",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-tankers-hit-projectiles-strait-hormuz",
+      "published_date": "2026-07-07T17:08:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lawsuit accuses Trump administration of sharing Iranian asylum seeker data",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lawsuit-accuses-trump-administration-sharing-iranian-asylum-seeker-data",
+      "published_date": "2026-07-07T16:30:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump praises Turkey as 'great ally' of US",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-praises-turkiye-great-ally-us",
+      "published_date": "2026-07-07T15:27:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump joins NATO summit amid Ukraine, spending tensions",
       "source": "Middle East Eye",
@@ -67,81 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "On its 250th birthday, America must leave behind the illusion of primacy",
+      "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+      "published_date": "2026-07-07T22:53:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CENTCOM says US forces launching new strikes against Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/250-its-time-awaken-dream-american-primacy",
-      "published_date": "2026-07-07T07:04:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-us-forces-launching-new-strikes-against-iran",
+      "published_date": "2026-07-07T22:22:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
+      "title": "Deadly  landslide buries tunnel construction site in India",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
-      "published_date": "2026-07-07T06:12:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/deadly-landslide-buries-tunnel-construction-site-in-india?traffic_source=rss",
+      "published_date": "2026-07-07T19:55:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘If you win, it’s a stain’: Americans react to FIFA-Balogun controversy",
+      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/6/usa-fans-mamdani-experts-react-to-fifa-trump-balogun-red-card-controversy?traffic_source=rss",
-      "published_date": "2026-07-06T22:11:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss",
+      "published_date": "2026-07-07T17:23:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN welcomes Hamas dissolution of Gaza governing body",
+      "title": "Three tankers struck within hours in Hormuz, Qatar slams Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-welcomes-hamas-dissolution-gaza-governing-body",
-      "published_date": "2026-07-06T21:06:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss",
-      "published_date": "2026-07-06T20:50:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron visits Syria in first major western leader trip under new leadership",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-visits-syria-first-major-western-leader-trip-under-new-leadership",
-      "published_date": "2026-07-06T19:18:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "World Cup 2026: Trump says he intervened to overturn red card in what has become a historic scandal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/world-cup-2026-trump-says-intervened-to-overturn-red-card-historic-scandal",
-      "published_date": "2026-07-06T17:27:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "England boss jokes Trump could help lift defender’s suspension",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/england-boss-jokes-trump-could-help-lift-defenders-suspension?traffic_source=rss",
-      "published_date": "2026-07-06T13:31:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Large-scale Russian attack on Ukraine before NATO summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss",
-      "published_date": "2026-07-06T12:55:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "USA vs Belgium – World Cup last 16: Trump, Balogun, prediction, start time",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/6/usa-vs-belgium-world-cup-last-16-balogun-trossard-prediction-kickoff?traffic_source=rss",
-      "published_date": "2026-07-06T11:58:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why FIFA’s Balogun red card suspension after Trump call is so controversial",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/why-fifas-balogun-red-card-suspension-after-trump-call-is-so-controversial?traffic_source=rss",
-      "published_date": "2026-07-06T11:49:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-tankers-struck-within-hours-hormuz-qatar-slams-iran",
+      "published_date": "2026-07-07T15:34:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strikes kill two Palestinians in Gaza, wound seven including two children",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "US needs to move bases from Gulf to Israel, former Centcom commander says",
+      "title": "Qatar summons Iranian diplomat over attack on LNG tanker",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-needs-move-bases-from-gulf-to-israel-former-centcom-commander-says",
-      "published_date": "2026-07-06T21:02:19+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-summons-iranian-diplomat-over-attack-lng-tanker",
+      "published_date": "2026-07-07T21:55:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Hamas decision to dissolve Gaza government is a nod to Trump, expert says",
+      "title": "Saudi Arabia condemns Iran over attack on tanker in Strait of Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/hamas-decision-dissolve-gaza-government-a-nod-trump-expert-says",
-      "published_date": "2026-07-06T18:46:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian parliament speaker says ceasefire agreement is 'difficult, but achievable'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-parliament-speaker-says-ceasefire-agreement-difficult-achievable",
-      "published_date": "2026-07-06T17:29:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces strike southern Lebanon town after funeral attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-strike-southern-lebanon-town-after-funeral-attack",
-      "published_date": "2026-07-06T16:15:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army says it targeted vehicle near southern Lebanon 'security zone'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-targeted-vehicle-near-southern-lebanon-security",
-      "published_date": "2026-07-06T15:23:36+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-iran-over-attack-tanker-strait-hormuz",
+      "published_date": "2026-07-07T19:57:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukrainian drones hit Russian fuel tankers",
@@ -408,6 +422,13 @@
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-minister-vows-100-percent-control-over-gaza",
       "published_date": "2026-07-01T08:14:50+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "South Africans line up for jobs after exodus of foreign workers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/south-africans-line-up-for-jobs-after-exodus-of-foreign-workers?traffic_source=rss",
+      "published_date": "2026-07-07T17:11:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Displaced Gaza farmers turn to dirt near tents to grow crops",
@@ -543,6 +564,55 @@
       "category": "Economy"
     },
     {
+      "title": "UK summons Iranian diplomat over attack on journalist",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-summons-iranian-diplomat-over-attack-journalist",
+      "published_date": "2026-07-07T21:28:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Irish lower house passes bill banning settlement goods",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irish-lower-house-passes-bill-banning-settlement-goods",
+      "published_date": "2026-07-07T20:49:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN experts call for release of detained Gaza doctor",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-experts-call-release-detained-gaza-doctor",
+      "published_date": "2026-07-07T19:12:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘They brought me here to kill me’ says Gaza doctor in Israeli prison",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/they-brought-me-here-to-kill-me-says-gaza-doctor-in-israeli-prison?traffic_source=rss",
+      "published_date": "2026-07-07T18:44:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli police investigate officer filmed throwing stun grenade into car",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-investigate-officer-filmed-throwing-stun-grenade-car",
+      "published_date": "2026-07-07T18:38:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Let Palestinians live’: Egypt coach wins global praise after emotional speech",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/trending/let-palestinians-live-egypt-coach-wins-global-praise-after-emotional-speech",
+      "published_date": "2026-07-07T16:54:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strikes kill at least three Palestinians in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-least-three-palestinians-gaza",
+      "published_date": "2026-07-07T15:58:31+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Peace Now report: 2025 witnessed largest West Bank settlement expansion",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/peace-now-report-2025-witnessed-largest-west-bank-settlement-expansion",
@@ -631,55 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/death-towers-gaza-civilians-killed-remote-israeli-attacks-during-ceasefire",
       "published_date": "2026-07-06T12:18:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill at least 6 as ‘ceasefire’ violations continue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/israeli-attacks-on-gaza-kill-at-least-6-as-ceasefire-violations-continue?traffic_source=rss",
-      "published_date": "2026-07-06T12:15:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scorching heat worsens suffering in Gaza’s displacement camps",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/scorching-heat-worsens-suffering-in-gazas-displacement-camps?traffic_source=rss",
-      "published_date": "2026-07-06T11:44:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After the frontlines: Palmyra’s fight for cultural and economic revival",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/after-frontlines-palmyra-fight-cultural-economic-revival",
-      "published_date": "2026-07-06T08:50:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian ministry says Israeli forces kill teen in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-ministry-says-israeli-forces-kill-teen-west-bank",
-      "published_date": "2026-07-06T08:43:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces kill Palestinian teen in the West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-teen-west-bank",
-      "published_date": "2026-07-05T23:54:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu says Christians in Lebanon 'asked to be annexed' to Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-christians-lebanon-asked-be-annexed-israel",
-      "published_date": "2026-07-05T23:30:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss",
-      "published_date": "2026-07-05T22:03:52+00:00",
       "category": "Local Events"
     }
   ]
