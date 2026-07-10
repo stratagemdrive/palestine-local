@@ -1,8 +1,36 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-10T00:10:53.383883+00:00",
-  "story_count": 98,
+  "last_updated": "2026-07-10T13:05:30.266471+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss",
+      "published_date": "2026-07-10T11:51:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Iran war: Will peace talks resume, and when?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss",
+      "published_date": "2026-07-10T11:43:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/trump-grants-kyiv-patriots-licences-whats-next-in-the-russia-ukraine-war?traffic_source=rss",
+      "published_date": "2026-07-10T09:25:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US is building a new pressure architecture against Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss",
+      "published_date": "2026-07-10T07:29:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Venezuela earthquakes toll rises to 3,889 as risk of disease grows",
       "source": "Al Jazeera",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump administration moves to rescind Syria terrorism designation",
+      "title": "Israeli army says it killed Hamas commander in Gaza strike",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-administration-moves-rescind-syria-terrorism-designation",
-      "published_date": "2026-07-08T21:37:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-killed-hamas-commander-gaza-strike",
+      "published_date": "2026-07-10T11:39:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
-      "published_date": "2026-07-08T21:36:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Earth shifting': Trump begins process to remove Syria from state sponsors of terrorism list",
+      "title": "Israeli drone strikes car in southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-administration-begins-formal-process-remove-syria-state-sponsors-terror-list",
-      "published_date": "2026-07-08T21:07:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-car-southern-lebanon",
+      "published_date": "2026-07-10T11:15:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump departs NATO summit on older Air Force One",
+      "title": "Israeli and Egyptian military officials 'watched Argentina match together' during Cairo meeting",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-army-officials-meet-egyptian-counterparts-cairo",
+      "published_date": "2026-07-10T11:06:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Hamas Governed Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-departs-nato-summit-on-older-air-force-one?traffic_source=rss",
-      "published_date": "2026-07-08T20:46:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/how-hamas-governed-gaza?traffic_source=rss",
+      "published_date": "2026-07-10T10:11:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Energy agency expects global oil demand to fall in 2026",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/energy-agency-expects-global-oil-demand-fall-2026",
+      "published_date": "2026-07-10T08:49:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Degree but no job: The battle against unemployment in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-10T08:48:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s late supreme leader Khamenei buried in Mashhad after week-long funeral",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/irans-late-supreme-leader-khamenei-buried-after-week-long-funeral",
+      "published_date": "2026-07-10T08:37:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Administration without sovereignty will not free Palestine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss",
+      "published_date": "2026-07-10T08:03:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World Cup 2026: How Fifa is publicly endorsing US imperialism",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/world-cup-2026-how-fifa-publicly-endorsing-us-imperialism",
+      "published_date": "2026-07-10T06:58:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Waiting for Moses: Africa’s sons in Russia’s war",
@@ -221,67 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Likely new British PM Burnham says UK ‘needs to do better’ on Gaza",
+      "title": "UK maritime agency keeps Hormuz security threat at highest level",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/likely-new-british-pm-burnham-says-uk-needs-do-better-gaza",
-      "published_date": "2026-07-09T18:53:45+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-maritime-agency-keeps-hormuz-security-threat-highest-level",
+      "published_date": "2026-07-10T12:37:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Several explosions heard across southern Iran",
+      "title": "Iran says it will respond against Israel if infrastructure attacked",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-explosions-reportedly-heard-across-southern-iran",
-      "published_date": "2026-07-09T18:37:19+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-will-respond-against-israel-if-infrastructure-attacked",
+      "published_date": "2026-07-10T12:04:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "'We must now do more': Andy Burnham apologises for Labour's response to Gaza",
+      "title": "Greece cuts fuel prices as Iran war strains household budgets",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/we-must-now-do-more-andy-burnham-apologises-labours-response-gaza",
-      "published_date": "2026-07-09T18:29:33+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/geece-cuts-fuel-prices-iran-war-strains-household-budgets",
+      "published_date": "2026-07-10T10:56:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Lebanese army to control 'pilot zone' in area occupied by Israeli forces, US official says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-control-pilot-zone-area-occupied-israeli-forces-us",
-      "published_date": "2026-07-09T18:10:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill six people despite ‘ceasefire’",
+      "title": "How an Egypt-Argentina World Cup game became a referendum on Palestine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss",
-      "published_date": "2026-07-09T18:04:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/7/10/how-an-egypt-argentina-world-cup-game-became-a-referendum-on-palestine?traffic_source=rss",
+      "published_date": "2026-07-10T10:27:06+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran fired ten ballistic missiles on Jordan's Azraq military base",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-fired-ten-ballistic-missiles-jordans-azraq-military-base",
-      "published_date": "2026-07-09T13:33:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Khamenei's body arrives in Mashhad for burial after week of processions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/khameneis-body-arrives-irans-mashhad-burial-after-week-long-mass-processions",
-      "published_date": "2026-07-09T13:33:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesian farmer goes viral using a drone as transportation",
+      "title": "India is becoming a shaping power",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/indonesian-farmer-goes-viral-using-a-drone-as-transportation?traffic_source=rss",
-      "published_date": "2026-07-09T13:07:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu’s son Yair adopts new name in latest family name change",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-son-yair-adopts-new-name-latest-family-name-change",
-      "published_date": "2026-07-09T12:59:45+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/7/10/india-is-becoming-a-shaping-power?traffic_source=rss",
+      "published_date": "2026-07-10T10:07:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
@@ -389,39 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "The World Cup must pay its carbon bill",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/6/the-world-cup-must-pay-its-carbon-bill?traffic_source=rss",
-      "published_date": "2026-07-06T12:48:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran's envoy to China says friendly nations to get ‘special’ Hormuz fee treatment",
+      "title": "UN warns one million women and girls lose access to support amid US aid cuts",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-envoy-china-says-friendly-nations-get-special-hormuz-fee-treatment",
-      "published_date": "2026-07-04T23:14:00+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-warns-one-million-women-and-girls-lose-access-support-amid-us-aid",
+      "published_date": "2026-07-10T11:49:40+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
+      "title": "Fall in funding cuts aid to 1 million women: UN",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
-      "published_date": "2026-07-04T19:19:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss",
-      "published_date": "2026-07-04T13:38:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
-      "published_date": "2026-07-04T10:29:19+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/10/fall-in-funding-cuts-aid-to-1-million-women-un?traffic_source=rss",
+      "published_date": "2026-07-10T10:14:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "South African protesters intimidate migrants as aid group issues warning",
@@ -543,11 +557,74 @@
       "category": "Economy"
     },
     {
-      "title": "UK Islamic finance sector worth £6bn and drives Gulf investment, report says",
+      "title": "Israeli forces detain Al-Aqsa Mosque religious leader after Friday prayers",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uks-islamic-finance-sector-worth-ps6bn-and-drives-gulf-investment-finds-new-report",
-      "published_date": "2026-07-03T12:17:24+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-al-aqsa-mosque-religious-leader-after-friday",
+      "published_date": "2026-07-10T12:01:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Smotrich: Steve Witkoff called Gaza Palestinians ‘two million Nazis’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-steve-witkoff-called-gaza-palestinians-two-million-nazis",
+      "published_date": "2026-07-10T11:33:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel announces theft of Palestinian land in West Bank to expand road for settlers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-announces-theft-palestinian-land-west-bank-expand-road-settlers",
+      "published_date": "2026-07-10T11:31:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Smotrich: Steve Witkoff called Gaza Palestinians ‘two million Nazis’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/smotrich-says-witkoff-called-gazas-people-two-million-nazis-0",
+      "published_date": "2026-07-10T11:28:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Settlement stays and army days: How UK charities promote migration to Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/settlement-stays-and-army-days-how-uk-charities-promote-migration-israel",
+      "published_date": "2026-07-10T11:20:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel announces theft of Palestinian land in West Bank to expand road for settlers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-announces-theft-palestinian-land-occupied-west-bank-expand-road-settlers",
+      "published_date": "2026-07-10T09:32:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EU states do not need ‘consensus’ to hold Israel accountable",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/10/eu-states-do-not-need-consensus-to-hold-israel-accountable?traffic_source=rss",
+      "published_date": "2026-07-10T09:28:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Farcical reality’: Healthcare workers respond to targeting over pro-Palestine symbols",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/farcical-reality-healthcare-workers-respond-being-targeted-displaying-pro-palestine-symbols",
+      "published_date": "2026-07-10T08:44:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thai sailors sue shipping firm after Strait of Hormuz attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/thai-sailors-sue-shipping-firm-after-strait-hormuz-attack",
+      "published_date": "2026-07-10T08:21:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces beat Palestinian family and fire tear gas into home",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-beat-palestinian-family-and-fire-tear-gas-home",
+      "published_date": "2026-07-10T08:05:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palestinian education ministry condemns Israeli demolition of West Bank primary school",
@@ -617,76 +694,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/egypt-coach-condemns-silence-on-killing-of-palestinian-children?traffic_source=rss",
       "published_date": "2026-07-08T08:22:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The UK public is not shy to call out genocide. Will the new prime minister join them?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/uk-public-not-shy-call-out-genocide-will-government-join-them",
-      "published_date": "2026-07-08T08:07:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Abandoned and left to die’: Family of Hussam Abu Safiya says he has been betrayed by rights groups",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/abandoned-and-left-die-family-hussam-abu-safiya-say-he-has-been-betrayed-rights-groups",
-      "published_date": "2026-07-08T07:47:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Childhood on hold: How Gaza’s children spend a summer without play",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/8/childhood-on-hold-how-gazas-children-spend-a-summer-without-play?traffic_source=rss",
-      "published_date": "2026-07-08T05:13:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK summons Iranian diplomat over attack on journalist",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-summons-iranian-diplomat-over-attack-journalist",
-      "published_date": "2026-07-07T21:28:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irish lower house passes bill banning settlement goods",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irish-lower-house-passes-bill-banning-settlement-goods",
-      "published_date": "2026-07-07T20:49:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN experts call for release of detained Gaza doctor",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-experts-call-release-detained-gaza-doctor",
-      "published_date": "2026-07-07T19:12:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘They brought me here to kill me’ says Gaza doctor in Israeli prison",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/they-brought-me-here-to-kill-me-says-gaza-doctor-in-israeli-prison?traffic_source=rss",
-      "published_date": "2026-07-07T18:44:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli police investigate officer filmed throwing stun grenade into car",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-investigate-officer-filmed-throwing-stun-grenade-car",
-      "published_date": "2026-07-07T18:38:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Let Palestinians live’: Egypt coach wins global praise after emotional speech",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/let-palestinians-live-egypt-coach-wins-global-praise-after-emotional-speech",
-      "published_date": "2026-07-07T16:54:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strikes kill at least three Palestinians in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-least-three-palestinians-gaza",
-      "published_date": "2026-07-07T15:58:31+00:00",
       "category": "Local Events"
     }
   ]
