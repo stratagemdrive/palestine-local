@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-09T13:43:57.045099+00:00",
+  "last_updated": "2026-07-10T00:10:53.383883+00:00",
   "story_count": 98,
   "stories": [
+    {
+      "title": "Venezuela earthquakes toll rises to 3,889 as risk of disease grows",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/venezuela-earthquakes-toll-rises-to-3889-as-risk-of-disease-grows?traffic_source=rss",
+      "published_date": "2026-07-09T23:25:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New Mexico accuses US Justice Department of impeding Epstein investigation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/new-mexico-accuses-us-justice-department-of-impeding-epstein-investigation?traffic_source=rss",
+      "published_date": "2026-07-09T23:25:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump airport name change sparks backlash  in Florida",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/trump-airport-name-change-sparks-backlash-in-florida?traffic_source=rss",
+      "published_date": "2026-07-09T21:26:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Democrats urge debate on US-Israel ties before advancing military legislation",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-democrats-urge-debate-us-israel-ties-advancing-military-legislation",
+      "published_date": "2026-07-09T20:27:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence?traffic_source=rss",
+      "published_date": "2026-07-09T20:20:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu, Trump agree to continue coordination in phone call, Israel PM office says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-trump-agree-continue-coordination-phone-call-israel-pm-office",
+      "published_date": "2026-07-09T20:09:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Erdogan gifts revolvers to Nato leaders, prompting customs and security questions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/erdogans-revolver-gifts-nato-leaders-prompt-customs-and-security-questions",
+      "published_date": "2026-07-09T19:23:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is Syria stable enough to engage with the world?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/9/is-syria-stable-enough-to-engage-with-the-world?traffic_source=rss",
+      "published_date": "2026-07-09T18:56:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestinian legislative elections set for November 28",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/palestinian-legislative-elections-set-for-november-28?traffic_source=rss",
+      "published_date": "2026-07-09T17:32:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump targets Spain, NATO backs Ukraine: Is the alliance still united?",
       "source": "Al Jazeera",
@@ -81,67 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US says conducting new wave of strikes on Iran as ceasefire falters",
+      "title": "Waiting for Moses: Africa’s sons in Russia’s war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss",
-      "published_date": "2026-07-08T20:40:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/7/9/waiting-for-moses-africas-sons-in-russias-war?traffic_source=rss",
+      "published_date": "2026-07-09T22:59:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Centcom says US forces launching additional strikes on Iran",
+      "title": "US Senator urges Congress to cut off funding for Trump’s ‘reckless war’ with Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-us-forces-launching-additional-strikes-iran",
-      "published_date": "2026-07-08T20:31:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-urges-congress-cut-funding-trumps-reckless-war-iran",
+      "published_date": "2026-07-09T22:53:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump ordered to pay E Jean Carroll $5.8m after failed appeal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/trump-ordered-to-pay-e-jean-carroll-5-8m-after-failed-appeal?traffic_source=rss",
-      "published_date": "2026-07-08T19:58:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Five key takeaways from the NATO summit in Ankara",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara?traffic_source=rss",
-      "published_date": "2026-07-08T19:06:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says US ‘may take over Kharg Island’: Here’s what you need to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-us-may-take-over-kharg-island-heres-what-you-need-to-know?traffic_source=rss",
-      "published_date": "2026-07-08T18:52:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says he ‘may be gone’ as he declares himself Iran’s No. 1 target",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-he-may-be-gone-as-he-declares-himself-irans-no-1-target?traffic_source=rss",
-      "published_date": "2026-07-08T18:33:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian deputy foreign minister says Trump remarks show failure of US policy",
+      "title": "US military says it facilitated 380 million barrels of oil transiting Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-deputy-foreign-minister-says-trump-remarks-show-failure-us",
-      "published_date": "2026-07-08T18:04:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-it-facilitated-380m-barrels-oil-transiting-hormiz",
+      "published_date": "2026-07-09T22:35:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Not even a single American soldier will return alive', Iranian lawmaker says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/not-even-single-american-soldier-will-return-alive-iranian-lawmaker-says",
-      "published_date": "2026-07-08T17:43:49+00:00",
-      "category": "Diplomacy"
+      "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
+      "published_date": "2026-07-09T21:39:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN maritime head says 6,000 seafarers 'remain stranded' in Gulf",
+      "title": "US military denies involvement after explosions heard in Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
+      "published_date": "2026-07-09T21:14:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Local official confirms strikes targeted naval site in Iran's Korarak",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-maritime-head-says-6000-seafarers-remain-stranded-gulf",
-      "published_date": "2026-07-08T10:59:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/local-official-confirms-strikes-targeted-naval-site-irans-korarak",
+      "published_date": "2026-07-09T20:42:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRNA says Bushehr military site hit by US-Israel strike, denies reports of Bandar Abbas explosions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irna-says-bushehr-military-site-hit-us-israel-strike-denies-reports",
+      "published_date": "2026-07-09T19:45:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US reportedly not conducting strikes on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-reportedly-not-conducting-strikes-iran",
+      "published_date": "2026-07-09T19:43:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany tells Israel US-Iran MoU ‘best chance for stability’ in the region",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-tells-israel-us-iran-mou-best-chance-stability-region",
+      "published_date": "2026-07-09T19:29:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Source of explosion in Bushehr under investigation, governor says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/source-explosion-bushehr-under-investigation-governor-says",
+      "published_date": "2026-07-09T19:05:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran fast-tracks 11 million barrels of oil as Trump threatens blockade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-fast-tracks-11-million-barrels-oil-trump-threatens-blockade",
+      "published_date": "2026-07-09T18:59:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Likely new British PM Burnham says UK ‘needs to do better’ on Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/likely-new-british-pm-burnham-says-uk-needs-do-better-gaza",
+      "published_date": "2026-07-09T18:53:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Several explosions heard across southern Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-explosions-reportedly-heard-across-southern-iran",
+      "published_date": "2026-07-09T18:37:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'We must now do more': Andy Burnham apologises for Labour's response to Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/we-must-now-do-more-andy-burnham-apologises-labours-response-gaza",
+      "published_date": "2026-07-09T18:29:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese army to control 'pilot zone' in area occupied by Israeli forces, US official says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-control-pilot-zone-area-occupied-israeli-forces-us",
+      "published_date": "2026-07-09T18:10:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks on Gaza kill six people despite ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss",
+      "published_date": "2026-07-09T18:04:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran fired ten ballistic missiles on Jordan's Azraq military base",
@@ -172,116 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Iran says US attacks disrupt reopening of Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-attacks-disrupt-reopening-strait-hormuz",
-      "published_date": "2026-07-09T12:48:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey 'prevented Kurdish invasion' of Iran during Israeli-US war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-prevented-kurdish-invasion-iran-during-israeli-us-war",
-      "published_date": "2026-07-09T12:34:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone attack hits Iranian Kurdish opposition group's camp in Iraq",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attack-hits-iranian-kurdish-opposition-groups-camp-iraq",
-      "published_date": "2026-07-09T12:29:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine targets Russian oil depots and tankers in drone attacks",
+      "title": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/ukraine-targets-russian-oil-depots-and-tankers-in-drone-attacks?traffic_source=rss",
-      "published_date": "2026-07-09T12:24:20+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/9/canadian-pm-visits-saudi-arabia-to-strengthen-energy-mining-partnerships?traffic_source=rss",
+      "published_date": "2026-07-09T20:06:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Mediator Pakistan says renewed US-Iran conflict is ‘in no one’s interest’",
+      "title": "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/mediator-pakistan-says-renewed-us-iran-conflict-is-in-no-ones-interest?traffic_source=rss",
-      "published_date": "2026-07-09T11:47:46+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/9/why-the-us-strategic-petroleum-reserve-matters-amid-us-iran-tensions?traffic_source=rss",
+      "published_date": "2026-07-09T20:03:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Jordan says sirens sound after missiles from Iran detected in airspace",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-says-sirens-sound-after-missiles-iran-detected-airspace",
-      "published_date": "2026-07-09T11:40:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly US strikes trigger Iranian attacks on Gulf states",
+      "title": "US expands Iran strikes Iran hitting  fishing piers near nuclear plant",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-us-strikes-trigger-iranian-attacks-on-gulf-states?traffic_source=rss",
-      "published_date": "2026-07-09T11:23:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu’s son Yair adopts new name in latest family name change",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/netanyahus-son-yair-adopts-new-name-latest-family-name-change",
-      "published_date": "2026-07-09T11:20:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey 'prevented Kurdish invasion' of Iran during Israeli-US war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/turkey-prevented-kurdish-invasion-iran-aimed-toppling-government-during-israeli-us-war",
-      "published_date": "2026-07-09T11:05:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Air raid sirens in Bahrain after uneasy night of US-Iran strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/air-raid-sirens-in-bahrain-after-uneasy-night-of-us-iran-strikes?traffic_source=rss",
-      "published_date": "2026-07-09T10:06:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strike reportedly hits bridge on China-Iran rail corridor also used by Russia",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strike-reportedly-hits-bridge-china-iran-rail-corridor-also-used",
-      "published_date": "2026-07-09T10:03:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says US strikes on civilian infrastructure a 'gross war crime'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-strikes-civilian-infrastructure-gross-war-crime",
-      "published_date": "2026-07-09T09:55:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia, India strike deal on uranium exports during PM Modi’s visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/australia-india-strike-deal-on-uranium-exports-during-pm-modis-visit?traffic_source=rss",
-      "published_date": "2026-07-09T09:36:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Iran launch more attacks as mediators urge both sides to uphold MoU",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/us-iran-launch-more-attacks-as-mediators-urge-warring-sides-to-uphold-mou?traffic_source=rss",
-      "published_date": "2026-07-09T09:04:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Firefighter killed in US attack on Iranian airport",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/firefighter-killed-us-attack-iranian-airport",
-      "published_date": "2026-07-08T23:41:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US expands military strikes on Iran after Trump says he’ll ‘hit them hard’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_us-expands-military-strike-on-iran-080726?traffic_source=rss",
-      "published_date": "2026-07-08T22:52:48+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss",
+      "published_date": "2026-07-09T18:17:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran says US projectile hit area around Bushehr nuclear plant",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Iran warns against ‘extra-regional’ military presence in Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-against-extra-regional-military-presence-strait-hormuz",
-      "published_date": "2026-07-04T09:28:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "A hot shower, running water, light: In exile, each one returns me to Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/hot-shower-running-water-light-exile-each-one-returns-me-gaza",
-      "published_date": "2026-07-04T09:01:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US heatwave raises alarms over AI data centre energy demands",
+      "title": "South African protesters intimidate migrants as aid group issues warning",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/3/us-heatwave-raises-alarms-over-ai-data-centre-energy-demands?traffic_source=rss",
-      "published_date": "2026-07-03T19:48:44+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/9/south-african-protesters-intimidate-migrants-as-aid-group-issues-warning?traffic_source=rss",
+      "published_date": "2026-07-09T20:03:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran fast-tracks 11 million barrels of oil as Trump threatens blockade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-fast-tracks-11-million-barrels-oil-trump-threatens-blockade",
+      "published_date": "2026-07-09T18:51:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "World Cup 2026: Iraq returned, but it will take years to bridge the gulf with football's elite",
@@ -536,18 +550,18 @@
       "category": "Economy"
     },
     {
-      "title": "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss",
-      "published_date": "2026-07-02T20:34:39+00:00",
-      "category": "Economy"
+      "title": "Palestinian education ministry condemns Israeli demolition of West Bank primary school",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-education-ministry-condemns-israeli-demolition-west-bank",
+      "published_date": "2026-07-09T20:50:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK’s likely next PM Andy Burnham faces defence funding gap",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/uk-leader-hopeful-andy-burnham-faces-defence-funding-gap?traffic_source=rss",
-      "published_date": "2026-07-02T18:59:33+00:00",
-      "category": "Economy"
+      "title": "Can an exhibition be ‘explicitly political’ at Israel’s preeminent art school?",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/the-splinter-bezalel-academy-vienna-boycott/",
+      "published_date": "2026-07-09T17:49:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Teenage Palestinian girls held in Israeli prison have their futures put on hold",
@@ -673,20 +687,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-least-three-palestinians-gaza",
       "published_date": "2026-07-07T15:58:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peace Now report: 2025 witnessed largest West Bank settlement expansion",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/peace-now-report-2025-witnessed-largest-west-bank-settlement-expansion",
-      "published_date": "2026-07-07T13:01:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN report: Gaza recorded 9,300 chickenpox cases in just two weeks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-report-gaza-recorded-9300-chickenpox-cases-just-two-weeks",
-      "published_date": "2026-07-07T11:37:49+00:00",
       "category": "Local Events"
     }
   ]
