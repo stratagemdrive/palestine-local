@@ -1,8 +1,92 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-10T13:05:30.266471+00:00",
-  "story_count": 99,
+  "last_updated": "2026-07-11T00:03:27.676936+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Report: US expects Iran to announce 'Hormuz open toll free, we messed up'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-expects-iran-announce-hormuz-open-toll-free-we-messed",
+      "published_date": "2026-07-10T23:31:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's Gharibabadi says 'UAE must be held accountable'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-gharibabadi-says-uae-rewarded-aiding-war-iran-must-be-held",
+      "published_date": "2026-07-10T23:08:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian foreign minister to visit Oman for talks on Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-visit-oman-talks-strait-hormuz",
+      "published_date": "2026-07-10T21:31:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran denies requesting US talks after Trump says dialogue will continue",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-requesting-us-talks-after-trump-says-dialogue-continue",
+      "published_date": "2026-07-10T20:49:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump removes final members of independent US election commission",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss",
+      "published_date": "2026-07-10T20:12:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why are politicians and sanctioned states embracing crypto?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss",
+      "published_date": "2026-07-10T19:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar emir, Pakistan PM discuss US-Iran talks and regional security, statement says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-emir-pakistan-pm-discuss-us-iran-talks-and-regional-security",
+      "published_date": "2026-07-10T19:25:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt deepens Horn of Africa maritime alignment with Somalia MoU",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/egypt-deepens-horn-of-africa-maritime-alignment-with-somalia-mou",
+      "published_date": "2026-07-10T19:17:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Witnesses contest the Trump administration’s account of Texas ICE killing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/witnesses-contest-the-trump-administrations-account-of-texas-ice-killing?traffic_source=rss",
+      "published_date": "2026-07-10T19:09:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Shared ambitions': Canada, Saudi Arabia sign deals on defence, investment, and AI",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/shared-ambitions-canada-saudi-arabia-sign-deals-defence-investment-ai",
+      "published_date": "2026-07-10T18:45:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran top negotiator Ghalibaf says war will not end with Iran's surrender",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-top-negotiator-ghalibaf-says-war-will-not-end-irans-surrender",
+      "published_date": "2026-07-10T17:24:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Opinion: Nato summit: How a fractured alliance is fuelling a permanent war economy",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-nato-summit-how-fractured-alliance-fuelling-permanent-war",
+      "published_date": "2026-07-10T17:11:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
       "source": "Al Jazeera",
@@ -60,88 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
+      "title": "US strikes killed 17 people in Iran, health ministry says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strikes-killed-17-people-iran-health-ministry-says",
+      "published_date": "2026-07-10T22:45:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq's new PM wants business deals with Trump, but militias cloud visit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iraq-new-pm-wants-business-deals-trump-militias-cloud-visit",
+      "published_date": "2026-07-10T21:26:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese state media says Israeli strike on south kills one",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-state-media-says-israeli-strike-south-kills-one",
+      "published_date": "2026-07-10T20:14:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel suspends attacks on Lebanon under American pressure, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-suspends-attacks-lebanon-under-american-pressure-report-says",
+      "published_date": "2026-07-10T20:10:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We just disappeared’: Palestine Action defendant recalls ‘horrifying’ arrest",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-just-disappeared-palestine-action-defendant-recalls-horrifying-arrest",
+      "published_date": "2026-07-10T18:29:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK police arrest man suspected of murdering former MP Ann Widdecombe",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/uk-labours-burnham-apologises-for-response-to-israels-gaza-violence?traffic_source=rss",
-      "published_date": "2026-07-09T20:20:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/10/uk-police-arrest-man-suspected-of-murdering-former-mp-ann-widdecombe?traffic_source=rss",
+      "published_date": "2026-07-10T18:18:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu, Trump agree to continue coordination in phone call, Israel PM office says",
+      "title": "‘We just disappeared’: Palestine Action defendant recalls ‘horrifying’ arrest",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-trump-agree-continue-coordination-phone-call-israel-pm-office",
-      "published_date": "2026-07-09T20:09:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/we-just-disappeared-palestine-action-defendant-recalls-horrifying-arrest",
+      "published_date": "2026-07-10T18:16:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Erdogan gifts revolvers to Nato leaders, prompting customs and security questions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/erdogans-revolver-gifts-nato-leaders-prompt-customs-and-security-questions",
-      "published_date": "2026-07-09T19:23:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is Syria stable enough to engage with the world?",
+      "title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/9/is-syria-stable-enough-to-engage-with-the-world?traffic_source=rss",
-      "published_date": "2026-07-09T18:56:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Palestinian legislative elections set for November 28",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/palestinian-legislative-elections-set-for-november-28?traffic_source=rss",
-      "published_date": "2026-07-09T17:32:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump targets Spain, NATO backs Ukraine: Is the alliance still united?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/trump-targets-spain-nato-backs-ukraine-is-the-alliance-still-united?traffic_source=rss",
-      "published_date": "2026-07-09T13:02:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Britain must sanction Netanyahu",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/why-britain-must-sanction-netanyahu",
-      "published_date": "2026-07-09T11:43:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Democratic hopeful Rahm Emanuel calls for end to unconditional US aid to Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/potential-democratic-candidate-rahm-emanuel-calls-end-unconditional-us-aid-israel",
-      "published_date": "2026-07-09T11:32:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran summons UK ambassador over stabbing allegation",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-summons-uk-ambassador-over-stabbing-allegation",
-      "published_date": "2026-07-09T10:59:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says he expects recent military escalation in Iran to be 'over very quickly'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-expects-recent-military-escalation-iran-be-over-very",
-      "published_date": "2026-07-09T00:03:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oil prices rise after Trump remarks on Iran ceasefire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-rise-after-trump-remarks-iran-ceasefire",
-      "published_date": "2026-07-08T22:48:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says Iran strikes were retaliation for ship attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-strikes-were-retaliation-ship-attacks",
-      "published_date": "2026-07-08T21:57:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss",
+      "published_date": "2026-07-10T18:01:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli army says it killed Hamas commander in Gaza strike",
@@ -228,60 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
+      "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
-      "published_date": "2026-07-09T21:39:54+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
+      "published_date": "2026-07-10T23:18:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US military denies involvement after explosions heard in Iran",
+      "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
-      "published_date": "2026-07-09T21:14:30+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
+      "published_date": "2026-07-10T20:23:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Local official confirms strikes targeted naval site in Iran's Korarak",
+      "title": "UAE oil production hits record high after leaving Opec",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/local-official-confirms-strikes-targeted-naval-site-irans-korarak",
-      "published_date": "2026-07-09T20:42:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IRNA says Bushehr military site hit by US-Israel strike, denies reports of Bandar Abbas explosions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irna-says-bushehr-military-site-hit-us-israel-strike-denies-reports",
-      "published_date": "2026-07-09T19:45:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US reportedly not conducting strikes on Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-reportedly-not-conducting-strikes-iran",
-      "published_date": "2026-07-09T19:43:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany tells Israel US-Iran MoU ‘best chance for stability’ in the region",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-tells-israel-us-iran-mou-best-chance-stability-region",
-      "published_date": "2026-07-09T19:29:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Source of explosion in Bushehr under investigation, governor says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/source-explosion-bushehr-under-investigation-governor-says",
-      "published_date": "2026-07-09T19:05:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran fast-tracks 11 million barrels of oil as Trump threatens blockade",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-fast-tracks-11-million-barrels-oil-trump-threatens-blockade",
-      "published_date": "2026-07-09T18:59:03+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/uae-oil-production-hits-record-after-leaving-opec",
+      "published_date": "2026-07-10T17:03:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK maritime agency keeps Hormuz security threat at highest level",
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Opec+ countries to raise oil output after prices fall",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opec-countries-raise-oil-output-after-prices-fall",
-      "published_date": "2026-07-06T17:54:50+00:00",
-      "category": "Energy"
+      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
+      "published_date": "2026-07-10T23:00:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Nearly a third of Hormuz crossings used Omani route, tracking data shows",
+      "title": "US issues fresh Iran-related sanctions",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-third-hormuz-crossings-used-omani-route-tracking-data-shows",
-      "published_date": "2026-07-06T16:46:17+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-issues-fresh-iran-related-sanctions",
+      "published_date": "2026-07-10T22:00:41+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Russian nuclear firm to send staff back to Iran's Bushehr plant",
+      "title": "Iraq's new PM wants business deals with Trump, but militias cloud visit",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russian-nuclear-firm-send-staff-back-irans-bushehr-plant",
-      "published_date": "2026-07-06T15:50:44+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqs-new-pm-wants-business-deals-trump-militias-cloud-visit",
+      "published_date": "2026-07-10T21:47:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU countries to discuss trade ban on Israeli settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-countries-discuss-trade-ban-israeli-settlements",
+      "published_date": "2026-07-10T18:46:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "UN warns one million women and girls lose access to support amid US aid cuts",
@@ -536,25 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Former UK minister demands reparations from Britain’s ex-colonies",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/former-uk-minister-demands-reparations-britains-ex-colonies",
-      "published_date": "2026-07-05T17:08:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Cargo vessel attacked near Yemen's Hodeidah, UK maritime agency says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cargo-vessel-attacked-near-yemens-hodeidah-uk-maritime-agency-says",
-      "published_date": "2026-07-05T10:15:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Heavy rain floods Mumbai during intense monsoon spell",
+      "title": "Canada’s Bill C-36 tackles AI privacy. Is it enough?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss",
-      "published_date": "2026-07-03T16:27:20+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough?traffic_source=rss",
+      "published_date": "2026-07-10T22:12:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers injure eight Palestinians near Hebron",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-eight-palestinians-near-hebron",
+      "published_date": "2026-07-10T17:49:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli forces detain Al-Aqsa Mosque religious leader after Friday prayers",
@@ -680,20 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-trumps-board-peace-plans-pilot-gaza-humanitarian-zone",
       "published_date": "2026-07-08T10:12:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel kills Gaza elder tasked with broadcasting Egypt-Argentina game",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-kills-egyptian-relief-committee-director-cairo-hosts-ceasefire-talks",
-      "published_date": "2026-07-08T09:18:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egypt coach condemns silence on killing of Palestinian children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/egypt-coach-condemns-silence-on-killing-of-palestinian-children?traffic_source=rss",
-      "published_date": "2026-07-08T08:22:36+00:00",
       "category": "Local Events"
     }
   ]
