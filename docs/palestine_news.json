@@ -1,8 +1,29 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-12T00:02:17.406630+00:00",
+  "last_updated": "2026-07-12T11:52:04.876980+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Oman condemns attack on its territory",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-condemns-attack-its-territory",
+      "published_date": "2026-07-12T08:45:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "One Indian national missing after attack on vessel off Oman",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-indian-national-missing-after-attack-vessel-oman",
+      "published_date": "2026-07-12T08:29:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lindsey Graham, key Trump ally, dies after sudden illness",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lindsey-graham-key-trump-ally-dies-after-sudden-illness",
+      "published_date": "2026-07-12T06:41:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
       "source": "Al Jazeera",
@@ -123,25 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US actions clear breach of commitments, Araghchi says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-actions-clear-breach-commitments-aragchi-says",
-      "published_date": "2026-07-11T04:36:41+00:00",
-      "category": "Diplomacy"
+      "title": "IRGC releases video of retaliatory missile strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
+      "published_date": "2026-07-12T11:07:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says US ready to 'completely decimate' Iran if he is targeted",
+      "title": "Iran strikes American military assets in Gulf and Jordan, after US hits Iranian cities",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-ready-completely-decimate-iran-if-he-targeted",
-      "published_date": "2026-07-11T04:24:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-strikes-american-military-assets-gulf-and-jordan-after-us-hits",
+      "published_date": "2026-07-12T10:57:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Report: US expects Iran to announce 'Hormuz open toll free, we messed up'",
+      "title": "Overnight US strikes killed Iranian soldier",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-expects-iran-announce-hormuz-open-toll-free-we-messed",
-      "published_date": "2026-07-10T23:31:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/overnight-us-strikes-killed-iranian-soldier",
+      "published_date": "2026-07-12T10:54:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran strikes American military assets in Gulf and Jordan, after US hits Iranian cities",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-strikes-military-assets-gulf-and-jordan-after-us-hits-iranian-cities",
+      "published_date": "2026-07-12T10:35:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss",
+      "published_date": "2026-07-12T09:13:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kuwait military says responding to aerial attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-military-says-responding-aerial-attacks",
+      "published_date": "2026-07-12T08:41:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jordan army says three Iranian missiles fell inside country",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-army-says-three-iranian-missiles-fell-inside-country",
+      "published_date": "2026-07-12T08:35:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-141",
+      "published_date": "2026-07-12T07:00:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UKMTO says crew of container ship struck off Omani coast rescued",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-crew-container-ship-struck-omani-coast-rescued",
+      "published_date": "2026-07-12T06:05:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel uses land takeover orders to expand settler control, commission says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-uses-land-takeover-orders-expand-settler-control-commission-says",
+      "published_date": "2026-07-12T05:36:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran launches attacks across the Gulf after more US strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
+      "published_date": "2026-07-12T04:59:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC claims attacks on US Gulf military assets, stops second ship in Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-attacks-us-military-assets-gulf-countries-stops-another-ship",
+      "published_date": "2026-07-12T04:26:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Centcom claims 140 Iranian military targets struck in latest strikes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-claims-140-iranian-military-targets-struck-latest-strikes",
+      "published_date": "2026-07-12T03:56:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC says 'US imposing its will on Oman', warns of 'severe responses'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-us-imposing-its-will-oman-warns-severe-responses",
+      "published_date": "2026-07-12T03:44:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC hits Jordan's Prince Hassan Air Base, Qatar 'intercepts missile'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-hits-jordans-prince-hassan-air-base-qatar-intercepts-missile",
+      "published_date": "2026-07-12T03:27:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Indian tourists killed after speedboat capsizes in Vietnam",
@@ -179,109 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
+      "title": "Hormuz escalation: Five Iranian cities hit, Qatar says three injured",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-escalation-five-iranian-cities-hit-qatar-says-three-injured",
+      "published_date": "2026-07-12T06:21:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Sheikh Hamad bin Khalifa Al Thani, the architect of modern Qatar",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss",
-      "published_date": "2026-07-11T17:28:08+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss",
+      "published_date": "2026-07-12T06:01:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Seven wounded in Israeli strikes on south Lebanon town",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-wounded-israeli-strikes-south-lebanon-town",
-      "published_date": "2026-07-11T17:17:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settlers held US lawmaker Ro Khanna at gunpoint in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-settlers-held-us-lawmaker-ro-khanna-gunpoint-occupied-west-bank",
-      "published_date": "2026-07-11T16:04:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's supreme leader vows killers of father 'will be held accountable'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/irans-supreme-leader-vows-killers-father-will-be-held-accountable",
-      "published_date": "2026-07-11T14:54:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US delegation in Lebanon to discuss Israel 'pilot zone' withdrawal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-delegation-lebanon-discuss-israel-pilot-zone-withdrawal",
-      "published_date": "2026-07-11T14:12:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed and four wounded in Israeli attack on central Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-and-four-wounded-israeli-attack-central-gaza",
-      "published_date": "2026-07-11T13:23:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pro-Palestinian groups urge 'decisive action' after Burnham's Gaza apology",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestinian-groups-urge-decisive-action-after-burnhams-gaza-apology",
-      "published_date": "2026-07-11T13:06:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What is going on in Yemen?",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
-      "published_date": "2026-07-11T12:53:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mojtaba Khamenei vows revenge after father’s funeral",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mojtaba-khamenei-vows-revenge-after-fathers-funeral",
-      "published_date": "2026-07-11T11:21:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US ready to ‘destroy’ Iran after Israeli intelligence warns of 'assassination plot'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-says-us-ready-destroy-iran-after-israeli-intelligence-warns-assassination-plot",
-      "published_date": "2026-07-11T10:43:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's supreme leader to issue message about slain father's funeral",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-issue-message-about-slain-fathers-funeral",
-      "published_date": "2026-07-11T09:43:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian missile attacks wound 11 in Kyiv",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
-      "published_date": "2026-07-11T08:53:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explosion in eastern Tehran 'was controlled ammunition disposal'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-heard-eastern-part-tehran-province-says-report",
-      "published_date": "2026-07-11T08:36:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian official hails military for 'keeping enemy movement under surveillance'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-hails-armed-forces-keeping-enemy-movement-under",
-      "published_date": "2026-07-11T06:03:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘We are the lost generation of Sudan’: Students in exile",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/we-are-the-lost-generation-of-sudan-students-in-exile?traffic_source=rss",
-      "published_date": "2026-07-11T04:41:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
+      "published_date": "2026-07-12T05:15:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE oil production hits record high after leaving Opec",
@@ -400,27 +421,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-projectile-hit-area-around-bushehr-nuclear-plant",
       "published_date": "2026-07-09T11:39:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "India floods sweep away thousands of gas cylinders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/india-floods-sweep-away-thousands-of-gas-cylinders?traffic_source=rss",
-      "published_date": "2026-07-09T11:32:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Explosions heard in Iran's Bushehr, says report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-irans-bushehr-says-report",
-      "published_date": "2026-07-09T10:21:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US summer travel slumps under rising fares and fuel expenses",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/8/us-summer-travel-slumps-under-rising-fares-and-fuel-expenses?traffic_source=rss",
-      "published_date": "2026-07-08T20:15:05+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,20 @@
       "category": "Economy"
     },
     {
+      "title": "Former Qatari emir Sheikh Hamad dies at 74",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/former-qatari-emir-sheikh-hamad-dies-74",
+      "published_date": "2026-07-12T09:07:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria rescues dozens of abducted school children in Oyo state",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
+      "published_date": "2026-07-12T01:56:01+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss",
@@ -687,20 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/thai-sailors-sue-shipping-firm-after-strait-hormuz-attack",
       "published_date": "2026-07-10T08:21:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces beat Palestinian family and fire tear gas into home",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-beat-palestinian-family-and-fire-tear-gas-home",
-      "published_date": "2026-07-10T08:05:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian education ministry condemns Israeli demolition of West Bank primary school",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-education-ministry-condemns-israeli-demolition-west-bank",
-      "published_date": "2026-07-09T20:50:19+00:00",
       "category": "Local Events"
     }
   ]
