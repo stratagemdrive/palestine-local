@@ -1,8 +1,78 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-11T11:45:21.817574+00:00",
+  "last_updated": "2026-07-12T00:02:17.406630+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump?traffic_source=rss",
+      "published_date": "2026-07-11T23:31:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss",
+      "published_date": "2026-07-11T21:53:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran warns it could abandon US memorandum over violations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-it-could-abandon-us-memorandum-over-violations",
+      "published_date": "2026-07-11T20:21:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump administration subpoenas New York Times reporters over coverage",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
+      "published_date": "2026-07-11T18:46:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar joins Iran-Oman talks on reopening Strait of Hormuz passage",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-joins-iran-oman-talks-reopening-strait-hormuz-passage-0",
+      "published_date": "2026-07-11T17:14:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
+      "published_date": "2026-07-11T16:05:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss",
+      "published_date": "2026-07-11T15:54:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algeria and Mali restore diplomatic ties following yearlong rift",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss",
+      "published_date": "2026-07-11T15:29:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran warns it will not be bound by deal with US if violations continue",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-it-will-not-be-bound-deal-us-if-violations-continue",
+      "published_date": "2026-07-11T14:57:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran warns it will 'no longer be bound' by memorandum of understanding if attacks continue",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-warns-it-will-no-longer-be-bound-mou-if-attacks-continue",
+      "published_date": "2026-07-11T13:04:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Speedboat accident in southern Vietnam kills 15 Indian tourists",
       "source": "Al Jazeera",
@@ -74,74 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran's Gharibabadi says 'UAE must be held accountable'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-gharibabadi-says-uae-rewarded-aiding-war-iran-must-be-held",
-      "published_date": "2026-07-10T23:08:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian foreign minister to visit Oman for talks on Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-visit-oman-talks-strait-hormuz",
-      "published_date": "2026-07-10T21:31:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran denies requesting US talks after Trump says dialogue will continue",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-requesting-us-talks-after-trump-says-dialogue-continue",
-      "published_date": "2026-07-10T20:49:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Donald Trump removes final members of independent US election commission",
+      "title": "Indian tourists killed after speedboat capsizes in Vietnam",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss",
-      "published_date": "2026-07-10T20:12:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss",
+      "published_date": "2026-07-11T23:35:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why are politicians and sanctioned states embracing crypto?",
+      "title": "Iranian media says ship hit with missile after 'ignoring warnings'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-says-ship-hit-missile-after-ignoring-warning",
+      "published_date": "2026-07-11T23:29:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss",
-      "published_date": "2026-07-10T19:30:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
+      "published_date": "2026-07-11T19:25:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar emir, Pakistan PM discuss US-Iran talks and regional security, statement says",
+      "title": "Israeli forces kill Palestinian man near military zone in Khan Younis",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-emir-pakistan-pm-discuss-us-iran-talks-and-regional-security",
-      "published_date": "2026-07-10T19:25:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-near-military-zone-khan-younis",
+      "published_date": "2026-07-11T18:33:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt deepens Horn of Africa maritime alignment with Somalia MoU",
+      "title": "Israeli attacks on Lebanon kill 4,322 since 2 March",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/egypt-deepens-horn-of-africa-maritime-alignment-with-somalia-mou",
-      "published_date": "2026-07-10T19:17:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-lebanon-kill-4322-2-march",
+      "published_date": "2026-07-11T18:01:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Witnesses contest the Trump administration’s account of Texas ICE killing",
+      "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/witnesses-contest-the-trump-administrations-account-of-texas-ice-killing?traffic_source=rss",
-      "published_date": "2026-07-10T19:09:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss",
+      "published_date": "2026-07-11T17:28:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Shared ambitions': Canada, Saudi Arabia sign deals on defence, investment, and AI",
+      "title": "Seven wounded in Israeli strikes on south Lebanon town",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/shared-ambitions-canada-saudi-arabia-sign-deals-defence-investment-ai",
-      "published_date": "2026-07-10T18:45:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-wounded-israeli-strikes-south-lebanon-town",
+      "published_date": "2026-07-11T17:17:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran top negotiator Ghalibaf says war will not end with Iran's surrender",
+      "title": "Israeli settlers held US lawmaker Ro Khanna at gunpoint in occupied West Bank",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-top-negotiator-ghalibaf-says-war-will-not-end-irans-surrender",
-      "published_date": "2026-07-10T17:24:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/israeli-settlers-held-us-lawmaker-ro-khanna-gunpoint-occupied-west-bank",
+      "published_date": "2026-07-11T16:04:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's supreme leader vows killers of father 'will be held accountable'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/irans-supreme-leader-vows-killers-father-will-be-held-accountable",
+      "published_date": "2026-07-11T14:54:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US delegation in Lebanon to discuss Israel 'pilot zone' withdrawal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-delegation-lebanon-discuss-israel-pilot-zone-withdrawal",
+      "published_date": "2026-07-11T14:12:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One killed and four wounded in Israeli attack on central Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-and-four-wounded-israeli-attack-central-gaza",
+      "published_date": "2026-07-11T13:23:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pro-Palestinian groups urge 'decisive action' after Burnham's Gaza apology",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestinian-groups-urge-decisive-action-after-burnhams-gaza-apology",
+      "published_date": "2026-07-11T13:06:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What is going on in Yemen?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
+      "published_date": "2026-07-11T12:53:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Mojtaba Khamenei vows revenge after father’s funeral",
@@ -193,95 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Report: Centcom team in Beirut to help implement Lebanon-Israel deal",
+      "title": "UAE oil production hits record high after leaving Opec",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-centcom-team-beirut-help-implement-lebanon-israel-deal",
-      "published_date": "2026-07-11T03:47:25+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-oil-production-hits-record-high-after-leaving-opec",
+      "published_date": "2026-07-11T21:13:50+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel bans Jerusalem Grand Mufti from Al-Aqsa Mosque for a week",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-bans-jerusalem-grand-mufti-al-aqsa-mosque-week",
-      "published_date": "2026-07-11T03:23:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon death toll rises to 4,321, health ministry says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-rises-4321-health-ministry-says",
-      "published_date": "2026-07-11T02:35:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "OCHA says war heightens risks for women in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ocha-says-war-heightens-risks-women-southern-lebanon",
-      "published_date": "2026-07-11T01:20:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
+      "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
-      "published_date": "2026-07-11T01:12:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Khamenei says revenge for predecessor’s killing ‘inevitable’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-      "published_date": "2026-07-11T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes killed 17 people in Iran, health ministry says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strikes-killed-17-people-iran-health-ministry-says",
-      "published_date": "2026-07-10T22:45:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq's new PM wants business deals with Trump, but militias cloud visit",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iraq-new-pm-wants-business-deals-trump-militias-cloud-visit",
-      "published_date": "2026-07-10T21:26:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese state media says Israeli strike on south kills one",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-state-media-says-israeli-strike-south-kills-one",
-      "published_date": "2026-07-10T20:14:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel suspends attacks on Lebanon under American pressure, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-suspends-attacks-lebanon-under-american-pressure-report-says",
-      "published_date": "2026-07-10T20:10:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘We just disappeared’: Palestine Action defendant recalls ‘horrifying’ arrest",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-just-disappeared-palestine-action-defendant-recalls-horrifying-arrest",
-      "published_date": "2026-07-10T18:29:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK police arrest man suspected of murdering former MP Ann Widdecombe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/uk-police-arrest-man-suspected-of-murdering-former-mp-ann-widdecombe?traffic_source=rss",
-      "published_date": "2026-07-10T18:18:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘We just disappeared’: Palestine Action defendant recalls ‘horrifying’ arrest",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/we-just-disappeared-palestine-action-defendant-recalls-horrifying-arrest",
-      "published_date": "2026-07-10T18:16:07+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
+      "published_date": "2026-07-11T13:18:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba suffers second nationwide blackout in five days",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "‘They celebrate goals, we count martyrs’: Watching the World Cup in Gaza",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/gaza-world-cup-palestinians-genocide/",
-      "published_date": "2026-07-08T17:01:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Four oil and gas tankers turn back from Hormuz after vessel attacks",
+      "title": "Germany moves to criminalise denial of Israel’s existence while refusing to recognise Palestine",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-oil-and-gas-tankers-turn-back-hormuz-after-vessel-attacks",
-      "published_date": "2026-07-08T08:48:44+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/germany-moves-criminalise-denial-israels-existence-while-refusing-recognise-palestine",
+      "published_date": "2026-07-11T22:44:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
@@ -557,11 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "NATO chief calls for ‘credible plans’ to reach defence spending goals",
+      "title": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/nato-chief-calls-for-credible-plans-to-reach-defence-spending-goals?traffic_source=rss",
-      "published_date": "2026-07-06T19:21:28+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss",
+      "published_date": "2026-07-11T18:10:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli police detain four settlers after attack on CNN crew",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-detain-four-settlers-after-attack-cnn-crew",
+      "published_date": "2026-07-11T16:21:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ro Khanna detained by Israeli settlers during occupied West Bank visit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ro-khanna-detained-israeli-settlers-during-occupied-west-bank-visit",
+      "published_date": "2026-07-11T12:32:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Video: Israeli settlers assault elderly Palestinian man",
@@ -680,27 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-education-ministry-condemns-israeli-demolition-west-bank",
       "published_date": "2026-07-09T20:50:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can an exhibition be ‘explicitly political’ at Israel’s preeminent art school?",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/the-splinter-bezalel-academy-vienna-boycott/",
-      "published_date": "2026-07-09T17:49:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenage Palestinian girls held in Israeli prison have their futures put on hold",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/future-hold-underage-girls-damon-prison",
-      "published_date": "2026-07-09T11:02:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Syrian families giving abandoned children a home and a future",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/syrian-families-giving-abandoned-children-home-and-future",
-      "published_date": "2026-07-09T10:00:15+00:00",
       "category": "Local Events"
     }
   ]
