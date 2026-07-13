@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-12T23:59:54.191231+00:00",
+  "last_updated": "2026-07-13T13:16:58.961824+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/what-will-happen-to-trumps-agenda-after-lindsey-grahams-death?traffic_source=rss",
+      "published_date": "2026-07-13T12:41:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says US will 'probably run' the Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-will-probably-run-hormuz",
+      "published_date": "2026-07-13T12:33:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK proscribes Iran’s IRGC as a terrorist organisation",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-proscribes-irans-irgc-terrorist-organisation",
+      "published_date": "2026-07-13T11:30:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settlements?traffic_source=rss",
+      "published_date": "2026-07-13T10:32:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Erdogan gifts Trump gold-plated revolver during Nato summit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/erdogan-gifts-trump-gold-plated-revolver-during-nato-summit",
+      "published_date": "2026-07-13T10:14:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China calls for free and safe Hormuz passage",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-calls-free-and-safe-hormuz-passage",
+      "published_date": "2026-07-13T10:06:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
       "source": "Al Jazeera",
@@ -102,46 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss",
-      "published_date": "2026-07-11T21:53:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran warns it could abandon US memorandum over violations",
+      "title": "UK effectively bans Iran's IRGC as terrorist organisation",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-it-could-abandon-us-memorandum-over-violations",
-      "published_date": "2026-07-11T20:21:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/uk-effectively-bans-irans-irgc-terrorist-organisation",
+      "published_date": "2026-07-13T13:14:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump administration subpoenas New York Times reporters over coverage",
+      "title": "Street in Illinois named after murdered Palestinian boy",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
-      "published_date": "2026-07-11T18:46:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/street-in-illinois-named-after-murdered-palestinian-boy?traffic_source=rss",
+      "published_date": "2026-07-13T12:31:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar joins Iran-Oman talks on reopening Strait of Hormuz passage",
+      "title": "March to July: What’s different as US-Iran fighting escalates again?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
+      "published_date": "2026-07-13T12:12:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "She was told her missing fiance was killed in Gaza. A year later, he returned alive",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-joins-iran-oman-talks-reopening-strait-hormuz-passage-0",
-      "published_date": "2026-07-11T17:14:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/she-was-told-her-missing-fiance-was-killed-gaza-year-later-he-returned",
+      "published_date": "2026-07-13T12:01:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
-      "published_date": "2026-07-11T16:05:18+00:00",
-      "category": "Diplomacy"
+      "title": "She was told her missing fiance was killed in Gaza. A year later, he returned alive",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/she-was-told-her-missing-fiance-was-killed-gaza-year-later-he-returned-alive",
+      "published_date": "2026-07-13T11:55:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
+      "title": "Palestinian killed, others injured, in Israeli air strike on motorcycle in Gaza City",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-killed-others-injured-israeli-airstrike-motorcycle-gaza-city",
+      "published_date": "2026-07-13T11:52:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni military target airport runway to stop Iranian plane landing",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-military-target-airport-runway-stop-iranian-plane-landing",
+      "published_date": "2026-07-13T11:41:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen government says its forces attacked Sanaa airport",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss",
-      "published_date": "2026-07-11T15:54:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport?traffic_source=rss",
+      "published_date": "2026-07-13T11:38:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks reported in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-reported-southern-lebanon",
+      "published_date": "2026-07-13T11:10:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One injured in US strike on Iran’s Abadan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-injured-us-strike-irans-abadan",
+      "published_date": "2026-07-13T10:52:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bahrain says air defences destroyed Iranian attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-says-air-defences-destroyed-iranian-attacks",
+      "published_date": "2026-07-13T10:23:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Wales, an artist sews names of Gaza’s infant victims on christening gown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/i-have-to-do-something-a-welsh-artist-honours-gazas-child-victims?traffic_source=rss",
+      "published_date": "2026-07-13T09:05:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and Iran trade strikes as ceasefire comes under growing strain",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss",
+      "published_date": "2026-07-13T09:01:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kimmit: Renewed US-Iran fighting could reignite wider regional conflict",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss",
+      "published_date": "2026-07-13T07:41:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sheikh Hamad: The Arab leader who broke Israel’s siege on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/sheikh-hamad-the-arab-leader-who-broke-israels-siege-on-gaza?traffic_source=rss",
+      "published_date": "2026-07-13T05:39:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran accuses US of breaching ceasefire deal with fresh attacks",
@@ -179,109 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
+      "title": "‘It’s expensive’: Syria’s electricity has improved, but challenges remain",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
-      "published_date": "2026-07-12T19:53:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian media says IRGC targeted US weapons in Kuwait drone attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-says-irgc-targeted-us-weapons-kuwait-drone-attack",
-      "published_date": "2026-07-12T19:43:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/some-30-malian-soldiers-killed-during-anefis-retaking-says-army-chief?traffic_source=rss",
-      "published_date": "2026-07-12T19:01:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
-      "published_date": "2026-07-12T17:50:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kuwait reports attacks on border posts and offshore oil platform",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-reports-attacks-border-posts-and-offshore-oil-platform",
-      "published_date": "2026-07-12T17:09:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four killed in Israeli drone strike on Gaza City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-killed-israeli-drone-strike-gaza-city",
-      "published_date": "2026-07-12T14:55:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US 'positioned' to ensure navigation in Strait of Hormuz, says Centcom",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-positioned-ensure-navigation-strait-hormuz-says-centcom",
-      "published_date": "2026-07-12T13:21:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC releases video of retaliatory missile strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
-      "published_date": "2026-07-12T11:07:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran strikes American military assets in Gulf and Jordan, after US hits Iranian cities",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-strikes-american-military-assets-gulf-and-jordan-after-us-hits",
-      "published_date": "2026-07-12T10:57:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Overnight US strikes killed Iranian soldier",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/overnight-us-strikes-killed-iranian-soldier",
-      "published_date": "2026-07-12T10:54:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran strikes American military assets in Gulf and Jordan, after US hits Iranian cities",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-strikes-military-assets-gulf-and-jordan-after-us-hits-iranian-cities",
-      "published_date": "2026-07-12T10:35:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss",
-      "published_date": "2026-07-12T09:13:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kuwait military says responding to aerial attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-military-says-responding-aerial-attacks",
-      "published_date": "2026-07-12T08:41:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan army says three Iranian missiles fell inside country",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-army-says-three-iranian-missiles-fell-inside-country",
-      "published_date": "2026-07-12T08:35:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning recap",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-141",
-      "published_date": "2026-07-12T07:00:24+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/7/13/its-expensive-syrias-electricity-has-improved-but-challenges-remain?traffic_source=rss",
+      "published_date": "2026-07-13T09:34:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil prices spike as renewed US-Iran war threatens global supply route",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "US expands Iran strikes Iran hitting  fishing piers near nuclear plant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss",
-      "published_date": "2026-07-09T18:17:55+00:00",
-      "category": "Energy"
+      "title": "UK maritime body reports warning shots fired at tanker",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-maritime-body-reports-warning-shots-fired-tanker",
+      "published_date": "2026-07-13T11:48:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU commission announces $1bn ‘Team Gaza Initiative’ aid",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-commission-announces-1b-team-gaza-initiative-aid",
+      "published_date": "2026-07-13T10:40:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
@@ -550,18 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "'We were scared to die': The West Bank workers hiding in bins to reach Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/palestine-west-bank-workers-risking-their-lives-reach-israel",
-      "published_date": "2026-07-07T09:54:04+00:00",
-      "category": "Economy"
+      "title": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/the-late-sheikh-hamad-bin-khalifa-al-thanis-legacy-on-womens-reform?traffic_source=rss",
+      "published_date": "2026-07-13T12:36:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "China sentences former local official to death in $324m corruption case",
+      "title": "Ben Gvir takes part in raid of West Bank village",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-takes-part-raid-west-bank-village",
+      "published_date": "2026-07-13T11:59:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro-Palestine activist Fergie Chambers arrested in Spain after US extradition request",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestine-activist-fergie-chambers-arrested-spain-after-us",
+      "published_date": "2026-07-13T11:20:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro-Palestine activist Fergie Chambers arrested in Spain after US extradition request",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/fergie-chambers-arrested-spain-after-us-extradition-request",
+      "published_date": "2026-07-13T11:13:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli government funnels millions of shekels to sanctioned settlement group",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-government-funnels-millions-shekels-sanctioned-settlement-group",
+      "published_date": "2026-07-13T10:54:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli government funnels millions of shekels to sanctioned settlement group",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-government-funnels-4m-shekels-sanctioned-settlement-group",
+      "published_date": "2026-07-13T10:44:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jurassic Park actor Sam Neill dies aged 78",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/7/china-sentences-former-local-official-to-death-in-324m-corruption-case?traffic_source=rss",
-      "published_date": "2026-07-07T06:01:55+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/13/jurassic-park-actor-sam-neill-dies-aged-78?traffic_source=rss",
+      "published_date": "2026-07-13T06:27:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
@@ -652,55 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-settlers-attack-women-elderly-shepherds-hebron",
       "published_date": "2026-07-11T04:59:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Third UNSC meet on Iran nuclear file yields no resolution",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/third-unsc-meet-iran-nuclear-file-yields-no-resolution",
-      "published_date": "2026-07-11T02:04:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada’s Bill C-36 tackles AI privacy. Is it enough?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough?traffic_source=rss",
-      "published_date": "2026-07-10T22:12:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers injure eight Palestinians near Hebron",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-eight-palestinians-near-hebron",
-      "published_date": "2026-07-10T17:49:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces detain Al-Aqsa Mosque religious leader after Friday prayers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-al-aqsa-mosque-religious-leader-after-friday",
-      "published_date": "2026-07-10T12:01:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smotrich: Steve Witkoff called Gaza Palestinians ‘two million Nazis’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-steve-witkoff-called-gaza-palestinians-two-million-nazis",
-      "published_date": "2026-07-10T11:33:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel announces theft of Palestinian land in West Bank to expand road for settlers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-announces-theft-palestinian-land-west-bank-expand-road-settlers",
-      "published_date": "2026-07-10T11:31:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smotrich: Steve Witkoff called Gaza Palestinians ‘two million Nazis’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/smotrich-says-witkoff-called-gazas-people-two-million-nazis-0",
-      "published_date": "2026-07-10T11:28:36+00:00",
       "category": "Local Events"
     }
   ]
