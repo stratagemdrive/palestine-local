@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-14T12:05:51.626209+00:00",
+  "last_updated": "2026-07-14T23:56:54.912023+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Mahmoud Khalil sues Trump administration officials and pro-Israel groups for 'conspiracy'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mahmoud-khalil-sues-trump-administration-officials-and-pro-israel-groups",
+      "published_date": "2026-07-14T22:18:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'The Middle East is coming together': Trump hosts handpicked Iraqi leader in Washington",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/middle-east-coming-together-trump-hosts-handpicked-iraqi-leader",
+      "published_date": "2026-07-14T21:41:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Some Gulf states signal they aren't opposed to paying fees in Hormuz, sources say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/some-gulf-states-signal-they-arent-opposed-paying-fees-hormuz-sources",
+      "published_date": "2026-07-14T20:56:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What is Iran’s Pickaxe Mountain?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
+      "published_date": "2026-07-14T20:27:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mahmoud Khalil alleges conspiracy in lawsuit against Trump officials",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/mahmoud-khalil-alleges-conspiracy-in-lawsuit-against-trump-officials?traffic_source=rss",
+      "published_date": "2026-07-14T20:16:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US President Trump meets with ‘fan of America’ Iraqi PM Ali al-Zaidi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-meets-with-fan-of-america-iraqi-pm-ali-al-zaidi?traffic_source=rss",
+      "published_date": "2026-07-14T19:43:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss",
+      "published_date": "2026-07-14T18:26:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US President Trump drops 20% Strait of Hormuz fee plan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss",
+      "published_date": "2026-07-14T18:05:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump meets with Iraq prime minister at White House, vows ‘a lot of deals’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/trump-meets-with-iraq-prime-minister-at-white-house-vows-a-lot-of-deals?traffic_source=rss",
+      "published_date": "2026-07-14T17:31:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Schumer slams Trump over Iran war",
       "source": "Al Jazeera",
@@ -81,67 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nine deaths tied to Trump’s immigration enforcement operations in US",
+      "title": "Head of US Central Command says Iran attacked seven commercial ships over past week",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/head-us-central-command-says-iran-attacked-seven-commercial-ships-over",
+      "published_date": "2026-07-14T23:53:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran calls US attack on Hormozgan ‘latest war crime’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-calls-us-attack-hormozgan-latest-war-crime",
+      "published_date": "2026-07-14T23:01:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IMO condemns attacks on shipping in Hormuz that killed two sailors",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-condemns-attacks-shipping-hormuz-killed-two-sailors",
+      "published_date": "2026-07-14T22:56:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon deputy PM says framework with Israel lacks timeline for army’s withdrawal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-official-says-framework-israel-lacks-timeline-armys-withdrawal",
+      "published_date": "2026-07-14T22:47:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian army says attacks on US bases in region will continue until ‘final victory’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-says-attacks-us-bases-region-will-continue-until-final",
+      "published_date": "2026-07-14T22:24:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Senate Democrats block defence bill over Iran war, Israel military integration",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/senate-democrats-block-defence-bill-over-iran-war-israel-military",
+      "published_date": "2026-07-14T22:17:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Air defences activated around Bushehr nuclear power plant, clashes heard in Gulf waters",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-defences-activated-around-bushehr-nuclear-power-plant-clashes-heard",
+      "published_date": "2026-07-14T22:11:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mahmoud Khalil sues Trump administration officials and pro-Israel groups for 'conspiracy'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/mahmoud-khalil-sues-trump-administration-and-pro-israel-groups",
+      "published_date": "2026-07-14T21:56:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New explosions sound in Iran’s Chabahar, Bampur",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/new-explosions-sound-irans-chabahar-bampur",
+      "published_date": "2026-07-14T21:38:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "No casualties reported in Bandar Abbas, says governorate",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-casualties-reported-bandar-abbas-says-governorate",
+      "published_date": "2026-07-14T21:11:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/nine-deaths-tied-to-trumps-immigration-enforcement-operations-in-us?traffic_source=rss",
-      "published_date": "2026-07-13T22:31:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
+      "published_date": "2026-07-14T21:05:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit",
+      "title": "More explosions reported in Ahvaz, Qeshm Island",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-explosions-reported-ahvaz-qeshm-island",
+      "published_date": "2026-07-14T20:42:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Worker killed in furnace explosion fire at Indian recycling plant",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/13/haalands-norway-receive-heroes-welcome-in-oslo-after-world-cup-exit?traffic_source=rss",
-      "published_date": "2026-07-13T21:38:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss",
+      "published_date": "2026-07-14T20:18:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
+      "title": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
-      "published_date": "2026-07-13T21:04:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss",
+      "published_date": "2026-07-14T20:17:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "US citizen found guilty of violating Iran sanctions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-citizen-found-guilty-violating-iran-sanctions",
-      "published_date": "2026-07-13T20:04:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rubio says US will dismantle ICC 'brick by brick'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/rubio-says-us-will-dismantle-icc-brick-brick",
-      "published_date": "2026-07-13T19:20:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US judge voids Trump’s IRS settlement, alleges self-dealing",
+      "title": "US Senate Democrats block defence bill over Iran war, Israel integration",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/us-judge-voids-trumps-irs-settlement-alleges-self-dealing?traffic_source=rss",
-      "published_date": "2026-07-13T19:09:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss",
+      "published_date": "2026-07-14T20:12:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Brent crude jumps as US-Iran fighting continues",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/brent-crude-jumps-us-iran-fighting-continues",
-      "published_date": "2026-07-13T18:37:05+00:00",
-      "category": "Diplomacy"
+      "title": "US reimposes blockade on Iranian ports, launches more strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
+      "published_date": "2026-07-14T19:47:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranian foreign minister says Tehran will remain 'guardian' of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-says-tehran-will-remain-guardian-hormuz",
-      "published_date": "2026-07-13T18:12:26+00:00",
-      "category": "Diplomacy"
+      "title": "US risks falling into ‘escalation trap’ if it deploys troops in Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-risks-falling-into-escalation-trap-if-it-deploys-troops-in-iran?traffic_source=rss",
+      "published_date": "2026-07-14T18:32:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranian official says Tehran will keep fighting for Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-says-tehran-will-keep-fighting-hormuz",
-      "published_date": "2026-07-13T17:09:41+00:00",
-      "category": "Diplomacy"
+      "title": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss",
+      "published_date": "2026-07-14T17:22:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Four sites in Bushehr targeted by US strikes, Iranian official says",
@@ -158,130 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "US strikes hit Iran for a third night killing three people",
+      "title": "Trump says strikes on Iran will continue ‘until I say enough’",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-strikes-hit-iran-third-night",
-      "published_date": "2026-07-14T10:56:37+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-strikes-iran-will-continue-until-i-say-enough",
+      "published_date": "2026-07-14T22:35:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
+      "title": "Are countries prepared to cope with extreme weather?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/dozens-of-healthcare-workers-in-drc-strike-amid-ebola-outbreak?traffic_source=rss",
-      "published_date": "2026-07-14T10:53:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss",
+      "published_date": "2026-07-14T21:26:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran says UK's designation of IRGC as security threat is 'unjustified'",
+      "title": "'The Middle East is coming together': Trump hosts handpicked Iraqi leader in Washington",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-uks-designation-irgc-security-threat-unjustified",
-      "published_date": "2026-07-14T10:48:39+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/middle-east-coming-together-trump-hosts-handpicked-iraqi-leader-washington",
+      "published_date": "2026-07-14T21:16:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Argentina war vets urge focus on football for England World Cup semifinal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal?traffic_source=rss",
-      "published_date": "2026-07-14T09:52:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss",
-      "published_date": "2026-07-14T09:34:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Another vessel attacked near Oman, UK maritime body says",
+      "title": "US supports efforts by Iraq and Syria to reconstruct oil pipeline",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/another-vessel-attacked-near-oman-ukmto-says",
-      "published_date": "2026-07-14T09:01:29+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-supports-efforts-iraq-and-syria-reconstruct-oil-pipeline",
+      "published_date": "2026-07-14T20:47:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Qatar backs Saudi Arabia after missile attack by Houthis",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-backs-saudi-arabia-after-missile-attack-houthis",
-      "published_date": "2026-07-14T08:34:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military releases video of its latest strikes on Iran",
+      "title": "Cuba’s power grid collapses again, triggering third blackout in 10 days",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
-      "published_date": "2026-07-14T08:23:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-583",
-      "published_date": "2026-07-14T05:46:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US to reimpose Iran blockade on JCPOA anniversary",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-reimpose-iran-blockade-jcpoa-anniversary-0",
-      "published_date": "2026-07-13T21:02:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pen America chief resigns, accuses literary institution of erasing Palestinians",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/pen-america-chief-resigns-accuses-elite-literary-institution-erasing-palestinians",
-      "published_date": "2026-07-13T20:53:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
-      "published_date": "2026-07-13T20:48:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran military warns US against Strait of Hormuz ‘interference’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-07-13T20:40:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Artist sews names of Gaza children killed by Israel into gown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss",
-      "published_date": "2026-07-13T20:35:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What do Israeli settler attacks on Americans reveal?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/what-do-israeli-settler-attacks-on-americans-reveal?traffic_source=rss",
-      "published_date": "2026-07-13T20:35:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza man builds roadside library from books buried in rubble",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/gaza-man-builds-roadside-library-from-books-buried-in-rubble?traffic_source=rss",
-      "published_date": "2026-07-13T20:26:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US keeping the Strait of Hormuz open is ‘a massive force problem’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-keeping-the-strait-of-hormuz-open-is-a-massive-force?traffic_source=rss",
-      "published_date": "2026-07-13T20:23:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan court sentences RSF commander to death over West Darfur killings",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/sudan-court-sentences-rsf-commander-death-over-west-darfur-killings",
-      "published_date": "2026-07-13T18:45:11+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/14/cubas-power-grid-collapses-again-triggering-third-blackout-in-10-days?traffic_source=rss",
+      "published_date": "2026-07-14T17:34:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "How new Yemen tensions could complicate the global energy crisis",
@@ -389,39 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
-      "published_date": "2026-07-10T20:23:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UAE oil production hits record high after leaving Opec",
+      "title": "Some Gulf states signal  they aren't opposed to paying fees in Hormuz, sources say",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uae-oil-production-hits-record-after-leaving-opec",
-      "published_date": "2026-07-10T17:03:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK maritime agency keeps Hormuz security threat at highest level",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-maritime-agency-keeps-hormuz-security-threat-highest-level",
-      "published_date": "2026-07-10T12:37:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran says it will respond against Israel if infrastructure attacked",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-will-respond-against-israel-if-infrastructure-attacked",
-      "published_date": "2026-07-10T12:04:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Greece cuts fuel prices as Iran war strains household budgets",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/geece-cuts-fuel-prices-iran-war-strains-household-budgets",
-      "published_date": "2026-07-10T10:56:21+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/some-gulf-states-have-signaled-they-arent-opposed-paying-fees-hormuz-sources-say",
+      "published_date": "2026-07-14T20:48:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "Business executives making 'contingency plans' for UAE-Saudi Arabia feud",
@@ -557,11 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "South Africans line up for jobs after exodus of foreign workers",
+      "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/south-africans-line-up-for-jobs-after-exodus-of-foreign-workers?traffic_source=rss",
-      "published_date": "2026-07-07T17:11:14+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-14T21:05:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Like walking into a cage’: Israel tightens its grip on Hebron",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/israel-hebron-old-city-annexation/",
+      "published_date": "2026-07-14T14:11:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "War, racism and Trump: Has corruption overshadowed the 2026 World Cup?",
@@ -687,20 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/opinion/my-father-made-palestinian-theatre-act-resistance",
       "published_date": "2026-07-12T15:09:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video: US Congressman says Israeli settlers detained him in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-us-congressman-says-israeli-settlers-detained-him-west-bank",
-      "published_date": "2026-07-12T13:06:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Qatari emir Sheikh Hamad dies at 74",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/former-qatari-emir-sheikh-hamad-dies-74",
-      "published_date": "2026-07-12T09:07:02+00:00",
       "category": "Local Events"
     }
   ]
