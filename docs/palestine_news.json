@@ -1,8 +1,78 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-13T23:57:46.671904+00:00",
+  "last_updated": "2026-07-14T12:05:51.626209+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Schumer slams Trump over Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/schumer-slams-trump-over-iran-war?traffic_source=rss",
+      "published_date": "2026-07-14T10:34:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How the World Cup brought out the best and worst of America",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/discover/how-world-cup-brought-out-best-and-worst-america",
+      "published_date": "2026-07-14T10:30:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
+      "published_date": "2026-07-14T10:11:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GCC condemns attacks on Emirati tankers in Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gcc-condemns-attacks-emirati-tankers-hormuz",
+      "published_date": "2026-07-14T09:29:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
+      "published_date": "2026-07-14T08:52:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato survived the Ankara summit - but it still lacks a second fist",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/nato-survived-ankara-summit-it-still-lacks-second-fist",
+      "published_date": "2026-07-14T08:22:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says oil exports ongoing, despite cancellation of US waivers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-oil-exports-ongoing-despite-cancellation-us-waivers",
+      "published_date": "2026-07-14T06:47:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India summons Iranian deputy ambassador over killing of citizen in Hormuz Strait",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/india-summons-iranian-deputy-ambassador-over-killing-citizen-hormz",
+      "published_date": "2026-07-14T06:03:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss",
+      "published_date": "2026-07-14T05:15:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Beijing is laughing’ at US-Mexico-Canada stalled trade talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks?traffic_source=rss",
+      "published_date": "2026-07-14T05:08:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
       "source": "Al Jazeera",
@@ -74,74 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
+      "title": "Four sites in Bushehr targeted by US strikes, Iranian official says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-sites-bushehr-targeted-us-strikes-iranian-official-says",
+      "published_date": "2026-07-14T11:39:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Against erasure: The artists preserving south Lebanon’s stories",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/discover/against-erasure-artists-preserving-south-lebanon-stories",
+      "published_date": "2026-07-14T11:14:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US strikes hit Iran for a third night killing three people",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-strikes-hit-iran-third-night",
+      "published_date": "2026-07-14T10:56:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/what-will-happen-to-trumps-agenda-after-lindsey-grahams-death?traffic_source=rss",
-      "published_date": "2026-07-13T12:41:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/dozens-of-healthcare-workers-in-drc-strike-amid-ebola-outbreak?traffic_source=rss",
+      "published_date": "2026-07-14T10:53:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says US will 'probably run' the Strait of Hormuz",
+      "title": "Iran says UK's designation of IRGC as security threat is 'unjustified'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-will-probably-run-hormuz",
-      "published_date": "2026-07-13T12:33:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-uks-designation-irgc-security-threat-unjustified",
+      "published_date": "2026-07-14T10:48:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK proscribes Iran’s IRGC as a terrorist organisation",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-proscribes-irans-irgc-terrorist-organisation",
-      "published_date": "2026-07-13T11:30:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
+      "title": "Argentina war vets urge focus on football for England World Cup semifinal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settlements?traffic_source=rss",
-      "published_date": "2026-07-13T10:32:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal?traffic_source=rss",
+      "published_date": "2026-07-14T09:52:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Erdogan gifts Trump gold-plated revolver during Nato summit",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/erdogan-gifts-trump-gold-plated-revolver-during-nato-summit",
-      "published_date": "2026-07-13T10:14:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China calls for free and safe Hormuz passage",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-calls-free-and-safe-hormuz-passage",
-      "published_date": "2026-07-13T10:06:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
+      "title": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
-      "published_date": "2026-07-12T23:03:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss",
+      "published_date": "2026-07-14T09:34:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+      "title": "Another vessel attacked near Oman, UK maritime body says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/another-vessel-attacked-near-oman-ukmto-says",
+      "published_date": "2026-07-14T09:01:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Qatar backs Saudi Arabia after missile attack by Houthis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-backs-saudi-arabia-after-missile-attack-houthis",
+      "published_date": "2026-07-14T08:34:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military releases video of its latest strikes on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
-      "published_date": "2026-07-12T21:12:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
+      "published_date": "2026-07-14T08:23:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pope urges diplomacy as US-Iran attacks fuel ‘winds of war’",
+      "title": "Morning update",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pope-urges-diplomacy-us-iran-attacks-fuel-winds-war",
-      "published_date": "2026-07-12T18:53:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN chief urges immediate halt to escalating Gulf attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-urges-immediate-halt-escalating-gulf-attacks",
-      "published_date": "2026-07-12T18:05:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-583",
+      "published_date": "2026-07-14T05:46:05+00:00",
+      "category": "Military"
     },
     {
       "title": "US to reimpose Iran blockade on JCPOA anniversary",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "At least 24 killed in Iran since latest US strikes began",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-24-killed-iran-latest-us-strikes-began",
-      "published_date": "2026-07-13T17:47:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK police arrest 12 over far-right terror plot targeting major Muslim gathering",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-police-arrest-12-over-far-right-terror-plot-targeting-major-muslim-gathering",
-      "published_date": "2026-07-13T17:03:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli shell lands in southern Lebanon village",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-shell-lands-southern-lebanon-village",
-      "published_date": "2026-07-13T15:43:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK effectively bans Iran's IRGC as terrorist organisation",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-effectively-bans-irans-irgc-terrorist-organisation",
-      "published_date": "2026-07-13T13:14:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Street in Illinois named after murdered Palestinian boy",
+      "title": "How new Yemen tensions could complicate the global energy crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/street-in-illinois-named-after-murdered-palestinian-boy?traffic_source=rss",
-      "published_date": "2026-07-13T12:31:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "March to July: What’s different as US-Iran fighting escalates again?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
-      "published_date": "2026-07-13T12:12:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "She was told her missing fiance was killed in Gaza. A year later, he returned alive",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/she-was-told-her-missing-fiance-was-killed-gaza-year-later-he-returned",
-      "published_date": "2026-07-13T12:01:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "She was told her missing fiance was killed in Gaza. A year later, he returned alive",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/she-was-told-her-missing-fiance-was-killed-gaza-year-later-he-returned-alive",
-      "published_date": "2026-07-13T11:55:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian killed, others injured, in Israeli air strike on motorcycle in Gaza City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-killed-others-injured-israeli-airstrike-motorcycle-gaza-city",
-      "published_date": "2026-07-13T11:52:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni military target airport runway to stop Iranian plane landing",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-military-target-airport-runway-stop-iranian-plane-landing",
-      "published_date": "2026-07-13T11:41:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen government says its forces attacked Sanaa airport",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport?traffic_source=rss",
-      "published_date": "2026-07-13T11:38:03+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss",
+      "published_date": "2026-07-14T11:22:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi-led coalition says it intercepted Houthi missiles",
@@ -414,13 +421,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/geece-cuts-fuel-prices-iran-war-strains-household-budgets",
       "published_date": "2026-07-10T10:56:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How an Egypt-Argentina World Cup game became a referendum on Palestine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/10/how-an-egypt-argentina-world-cup-game-became-a-referendum-on-palestine?traffic_source=rss",
-      "published_date": "2026-07-10T10:27:06+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "War, racism and Trump: Has corruption overshadowed the 2026 World Cup?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/war-racism-trump-corruption-overshadowed-world-cup",
+      "published_date": "2026-07-14T11:41:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British surgeon launches legal challenge over NHS use of IHRA definition",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/british-surgeon-launches-legal-challenge-over-nhs-use-ihra-definition",
+      "published_date": "2026-07-14T11:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bangkok bar fire death toll rises to 30 as police probe possible negligence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss",
+      "published_date": "2026-07-14T07:39:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Report: Iran rescues over a dozen bulk carrier crew after collision in Hormuz Strait",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-iran-rescues-over-dozen-bulk-carrier-crew-after-collision-hormuz",
+      "published_date": "2026-07-14T05:58:13+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "EU ministers largely back Israeli settlement trade ban, Kallas says",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-ministers-largely-back-israeli-settlement-trade-ban-kallas-says",
@@ -673,34 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/former-qatari-emir-sheikh-hamad-dies-74",
       "published_date": "2026-07-12T09:07:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria rescues dozens of abducted school children in Oyo state",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
-      "published_date": "2026-07-12T01:56:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss",
-      "published_date": "2026-07-11T18:10:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli police detain four settlers after attack on CNN crew",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-detain-four-settlers-after-attack-cnn-crew",
-      "published_date": "2026-07-11T16:21:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ro Khanna detained by Israeli settlers during occupied West Bank visit",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ro-khanna-detained-israeli-settlers-during-occupied-west-bank-visit",
-      "published_date": "2026-07-11T12:32:10+00:00",
       "category": "Local Events"
     }
   ]
