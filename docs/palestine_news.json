@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-14T23:56:54.912023+00:00",
-  "story_count": 100,
+  "last_updated": "2026-07-15T12:10:02.030125+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Gibraltar border controls lifted: Is it part of Schengen, the UK – or both?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/gibraltar-border-controls-lifted-is-it-part-of-schengen-the-uk-or-both?traffic_source=rss",
+      "published_date": "2026-07-15T10:45:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crowds cross between Spain and Gibraltar following UK-EU treaty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/crowds-cross-between-spain-and-gibraltar-following-uk-eu-treaty?traffic_source=rss",
+      "published_date": "2026-07-15T10:17:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu will travel to US on Saturday, senior Israeli official says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-will-travel-us-saturday-senior-israeli-official-says",
+      "published_date": "2026-07-15T09:39:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-142",
+      "published_date": "2026-07-15T05:37:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Iran’s southern coast is bearing the brunt of US attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks?traffic_source=rss",
+      "published_date": "2026-07-15T05:34:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran accuses US of violating MoU in letter to UN",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-us-violating-mou-letter-un",
+      "published_date": "2026-07-15T04:45:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mahmoud Khalil sues Trump administration officials and pro-Israel groups for 'conspiracy'",
       "source": "Middle East Eye",
@@ -102,46 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nato survived the Ankara summit - but it still lacks a second fist",
+      "title": "US influencer Clavicular’s ‘Israelmaxxing’ propaganda trip ends in national scandal",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/nato-survived-ankara-summit-it-still-lacks-second-fist",
-      "published_date": "2026-07-14T08:22:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/trending/claviculars-israelmaxxing-propaganda-trip-ends-israeli-army-scandal",
+      "published_date": "2026-07-15T12:03:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says oil exports ongoing, despite cancellation of US waivers",
+      "title": "Could the US take control of Iran’s southern islands?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/could-the-us-take-control-of-irans-southern-islands?traffic_source=rss",
+      "published_date": "2026-07-15T11:35:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says it launched new wave of strikes against Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-oil-exports-ongoing-despite-cancellation-us-waivers",
-      "published_date": "2026-07-14T06:47:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-launches-new-wave-strikes-against-iran",
+      "published_date": "2026-07-15T10:57:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "India summons Iranian deputy ambassador over killing of citizen in Hormuz Strait",
+      "title": "Israel briefly closes Al-Aqsa gate for military drills",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/india-summons-iranian-deputy-ambassador-over-killing-citizen-hormz",
-      "published_date": "2026-07-14T06:03:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/israel-briefly-closes-al-aqsa-gate-military-drills",
+      "published_date": "2026-07-15T10:00:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss",
-      "published_date": "2026-07-14T05:15:40+00:00",
-      "category": "Diplomacy"
+      "title": "Drone comes down in Iraq's Faw port",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-comes-down-iraqs-faw-port",
+      "published_date": "2026-07-15T09:42:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Beijing is laughing’ at US-Mexico-Canada stalled trade talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks?traffic_source=rss",
-      "published_date": "2026-07-14T05:08:32+00:00",
-      "category": "Diplomacy"
+      "title": "US strikes kill at least seven at Iranian army base, Tasnim reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strikes-kill-least-seven-iranian-army-base-tasnim-reports",
+      "published_date": "2026-07-15T09:37:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
+      "title": "Over 800 UK medical workers urge government to act to save Dr Abu Safiya",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/over-800-uk-medics-urge-government-act-save-detained-gaza-doctor-abu-safiya",
+      "published_date": "2026-07-15T08:56:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss",
-      "published_date": "2026-07-13T22:33:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss",
+      "published_date": "2026-07-15T08:55:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest?traffic_source=rss",
+      "published_date": "2026-07-15T08:44:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
+      "published_date": "2026-07-15T07:58:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why the US-Iran escalation over Hormuz will not be the last",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/us-iran-escalation-over-hormuz-will-not-be-last",
+      "published_date": "2026-07-15T07:47:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Latest round of US attacks kill two, injure over 260 in Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/latest-round-us-attacks-kill-two-injure-over-260-iran",
+      "published_date": "2026-07-15T06:56:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge?traffic_source=rss",
+      "published_date": "2026-07-15T06:55:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/how-failed-2016-coup-reshaped-turkiyes-and-civil-military-relations?traffic_source=rss",
+      "published_date": "2026-07-15T06:29:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US strike hits wheat storage silo in Iran's Hoveyzeh",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strike-hits-wheat-storage-silo-irans-hoveyzeh",
+      "published_date": "2026-07-15T05:10:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran relocates exam centres away from military sites",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-relocates-exam-centres-away-military-sites",
+      "published_date": "2026-07-15T05:02:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Centcom officials protest against Israeli transport minister's restrictions on refueling aircrafts",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-officials-protest-against-israeli-transport-ministers",
+      "published_date": "2026-07-15T04:06:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Head of US Central Command says Iran attacked seven commercial ships over past week",
@@ -165,123 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Lebanon deputy PM says framework with Israel lacks timeline for army’s withdrawal",
+      "title": "Body of Indian sailor missing after vessel attack near Oman found",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-official-says-framework-israel-lacks-timeline-armys-withdrawal",
-      "published_date": "2026-07-14T22:47:24+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/body-indian-sailor-missing-after-vessel-attack-near-oman-found",
+      "published_date": "2026-07-15T08:28:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iranian army says attacks on US bases in region will continue until ‘final victory’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-says-attacks-us-bases-region-will-continue-until-final",
-      "published_date": "2026-07-14T22:24:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senate Democrats block defence bill over Iran war, Israel military integration",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/senate-democrats-block-defence-bill-over-iran-war-israel-military",
-      "published_date": "2026-07-14T22:17:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Air defences activated around Bushehr nuclear power plant, clashes heard in Gulf waters",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-defences-activated-around-bushehr-nuclear-power-plant-clashes-heard",
-      "published_date": "2026-07-14T22:11:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mahmoud Khalil sues Trump administration officials and pro-Israel groups for 'conspiracy'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/mahmoud-khalil-sues-trump-administration-and-pro-israel-groups",
-      "published_date": "2026-07-14T21:56:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New explosions sound in Iran’s Chabahar, Bampur",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/new-explosions-sound-irans-chabahar-bampur",
-      "published_date": "2026-07-14T21:38:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "No casualties reported in Bandar Abbas, says governorate",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-casualties-reported-bandar-abbas-says-governorate",
-      "published_date": "2026-07-14T21:11:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
+      "title": "India’s ethanol rush prompts anger among vehicle owners, questions for gov’t",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
-      "published_date": "2026-07-14T21:05:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More explosions reported in Ahvaz, Qeshm Island",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-explosions-reported-ahvaz-qeshm-island",
-      "published_date": "2026-07-14T20:42:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Worker killed in furnace explosion fire at Indian recycling plant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss",
-      "published_date": "2026-07-14T20:18:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss",
-      "published_date": "2026-07-14T20:17:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Senate Democrats block defence bill over Iran war, Israel integration",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss",
-      "published_date": "2026-07-14T20:12:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US reimposes blockade on Iranian ports, launches more strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
-      "published_date": "2026-07-14T19:47:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US risks falling into ‘escalation trap’ if it deploys troops in Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-risks-falling-into-escalation-trap-if-it-deploys-troops-in-iran?traffic_source=rss",
-      "published_date": "2026-07-14T18:32:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss",
-      "published_date": "2026-07-14T17:22:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four sites in Bushehr targeted by US strikes, Iranian official says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-sites-bushehr-targeted-us-strikes-iranian-official-says",
-      "published_date": "2026-07-14T11:39:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Against erasure: The artists preserving south Lebanon’s stories",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/discover/against-erasure-artists-preserving-south-lebanon-stories",
-      "published_date": "2026-07-14T11:14:13+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/15/indias-ethanol-rush-prompts-anger-among-vehicle-owners-questions-for-govt?traffic_source=rss",
+      "published_date": "2026-07-15T07:05:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump says strikes on Iran will continue ‘until I say enough’",
@@ -410,20 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "IEA: US-Iran escalation threatens 2027 oil surplus forecast",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iea-us-iran-escalation-threatens-2027-oil-surplus-forecast",
-      "published_date": "2026-07-11T05:25:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
-      "published_date": "2026-07-10T23:18:08+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Some Gulf states signal  they aren't opposed to paying fees in Hormuz, sources say",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/some-gulf-states-have-signaled-they-arent-opposed-paying-fees-hormuz-sources-say",
@@ -543,25 +543,39 @@
       "category": "Economy"
     },
     {
-      "title": "Danish prime minister, EU reject Trump's Greenland takeover remarks",
+      "title": "Exclusive: MPs demand investigation into British Museum’s 'erasure' of Palestine",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/danish-prime-minister-eu-reject-trumps-greenland-takeover-remarks",
-      "published_date": "2026-07-08T12:06:59+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/exclusive-mps-demand-urgent-investigation-british-museums-erasure-palestine",
+      "published_date": "2026-07-15T11:41:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Businesses report blocked payments from Saudi Arabia to the UAE, raising fears of worsening ties",
+      "title": "Save the Children accuses Starmer of complicity in Israeli atrocities",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/saudi-uae-rift-spills-payments-businesses-report-delays-report",
-      "published_date": "2026-07-08T11:02:32+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/save-children-accuses-starmer-complicity-israeli-atrocities",
+      "published_date": "2026-07-15T10:25:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran’s economy faces long road to recovery as fragile truce tested",
+      "title": "Bangkok pub fire death toll rises to 32 with 15 in intensive care",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss",
-      "published_date": "2026-07-08T06:03:14+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/15/bangkok-pub-fire-toll-rises-to-32-with-15-in-intensive-care?traffic_source=rss",
+      "published_date": "2026-07-15T10:13:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 800 UK medical workers urge government to act to save Dr Abu Safiya",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/over-800-uk-medical-workers-urge-government-act-save-dr-abu-safiya",
+      "published_date": "2026-07-15T10:11:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli air strike on home kills four members of the same family",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-home-kills-four-members-same-family",
+      "published_date": "2026-07-15T06:22:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
@@ -666,41 +680,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/israeli-government-funnels-4m-shekels-sanctioned-settlement-group",
       "published_date": "2026-07-13T10:44:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jurassic Park actor Sam Neill dies aged 78",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/jurassic-park-actor-sam-neill-dies-aged-78?traffic_source=rss",
-      "published_date": "2026-07-13T06:27:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
-      "published_date": "2026-07-12T21:59:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli attack wounds four Palestinians in central Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-wounds-four-palestinians-central-gaza",
-      "published_date": "2026-07-12T21:36:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany moves to criminalise denial of Israel’s existence while refusing to recognise Palestine",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-moves-criminalise-denial-israels-existence-while-refusing",
-      "published_date": "2026-07-12T21:11:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "My father made Palestinian theatre an act of resistance",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/my-father-made-palestinian-theatre-act-resistance",
-      "published_date": "2026-07-12T15:09:07+00:00",
       "category": "Local Events"
     }
   ]
