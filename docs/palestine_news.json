@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-15T12:10:02.030125+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-16T00:03:26.060801+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday?traffic_source=rss",
+      "published_date": "2026-07-15T23:02:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Iran 'wants to settle' as he boasts of new strikes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-wants-settle-he-boasts-new-strikes",
+      "published_date": "2026-07-15T20:27:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Textbook infringement': Palestine advocacy groups sue for immediate halt to Trump's ICC sanctions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/textbook-infringement-palestine-advocacy-groups-mount-seek-immediate-halt-trump-icc-sanctions",
+      "published_date": "2026-07-15T19:40:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US intelligence director pick refuses to acknowledge Trump loss in 2020",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/us-intelligence-director-pick-refuses-to-acknowledge-trump-loss-in-2020?traffic_source=rss",
+      "published_date": "2026-07-15T18:38:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran unveils huge billboard showing Trump in coffin",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-unveils-huge-billboard-showing-trump-in-coffin?traffic_source=rss",
+      "published_date": "2026-07-15T18:28:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK politicians call for sanctions on Israel as Starmer's Gaza legacy slammed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-politicians-call-sanctions-israel-starmers-gaza-legacy-slammed",
+      "published_date": "2026-07-15T15:03:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon’s Mitri says divisive Israel framework still lacks government approval",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/lebanon-mitri-divisive-israel-framework-lacks-government-approval",
+      "published_date": "2026-07-15T14:22:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK politicians call for sanctions on Israel as Starmer's Gaza legacy slammed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-politicians-call-sanctions-israel-starmers-gaza-legacy-slammed",
+      "published_date": "2026-07-15T13:36:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gibraltar border controls lifted: Is it part of Schengen, the UK – or both?",
       "source": "Al Jazeera",
@@ -88,60 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss",
-      "published_date": "2026-07-14T18:26:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US President Trump drops 20% Strait of Hormuz fee plan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss",
-      "published_date": "2026-07-14T18:05:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump meets with Iraq prime minister at White House, vows ‘a lot of deals’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/trump-meets-with-iraq-prime-minister-at-white-house-vows-a-lot-of-deals?traffic_source=rss",
-      "published_date": "2026-07-14T17:31:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Schumer slams Trump over Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/schumer-slams-trump-over-iran-war?traffic_source=rss",
-      "published_date": "2026-07-14T10:34:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How the World Cup brought out the best and worst of America",
+      "title": "Blasts heard in Iran's Bandar Abbas, Sirik and Qeshm Island",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/discover/how-world-cup-brought-out-best-and-worst-america",
-      "published_date": "2026-07-14T10:30:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-irans-bandar-abbas-0",
+      "published_date": "2026-07-15T23:47:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
-      "published_date": "2026-07-14T10:11:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GCC condemns attacks on Emirati tankers in Hormuz",
+      "title": "Kuwait says it is intercepting Iranian attacks, Bahrain sounds off air raid sirens",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gcc-condemns-attacks-emirati-tankers-hormuz",
-      "published_date": "2026-07-14T09:29:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-intercepts-iranian-attacks-bahrain-sounds-air-raid-sirens",
+      "published_date": "2026-07-15T23:38:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
+      "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
-      "published_date": "2026-07-14T08:52:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
+      "published_date": "2026-07-15T21:46:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US: Democrats stall crucial defence budget in protest against Trump policies",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-democrats-stall-crucial-defence-budget-protest-trump-policies",
+      "published_date": "2026-07-15T21:45:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US launches new wave of strikes on Iran, as blasts heard near Erbil consulate",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-launches-new-wave-strikes-iran-blasts-heard-near-erbil-consulate",
+      "published_date": "2026-07-15T20:14:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia pounds Ukraine with missile, drone strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
+      "published_date": "2026-07-15T19:59:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US rights group calls on UN to impose arms embargo on UAE",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-rights-group-calls-un-impose-arms-embargo-uae",
+      "published_date": "2026-07-15T19:02:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
+      "published_date": "2026-07-15T18:58:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian homes sealed off by Israeli military restrictions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss",
+      "published_date": "2026-07-15T18:49:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Prominent Moroccan journalist Ali Lmrabet released from custody",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/prominent-moroccan-journalist-ali-lmrabet-released-from-custody?traffic_source=rss",
+      "published_date": "2026-07-15T18:23:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon and Israel conclude talks in Rome over 'pilot zones'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-conclude-us-brokered-talks-rome-over-pilot-zones",
+      "published_date": "2026-07-15T15:54:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Corbyn slams Starmer for again claiming Labour was 'institutionally antisemitic'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/corbyn-condemns-starmer-once-again-falsely-claiming-labour-was-institutionally-antisemitic",
+      "published_date": "2026-07-15T15:26:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Calls for boycott of The Odyssey over filming in occupied Western Sahara",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/calls-boycott-odyssey-over-filming-occupied-western-sahara",
+      "published_date": "2026-07-15T15:20:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Global coalition of lawyers launches campaign to defend the International Criminal Court",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/lawyers-launch-campaign-defend-international-criminal-court",
+      "published_date": "2026-07-15T14:50:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel briefly closes Al-Aqsa gate for military drills",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-briefly-closes-al-aqsa-gate-military-drills",
+      "published_date": "2026-07-15T13:37:39+00:00",
+      "category": "Military"
     },
     {
       "title": "US influencer Clavicular’s ‘Israelmaxxing’ propaganda trip ends in national scandal",
@@ -179,109 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US strikes kill at least seven at Iranian army base, Tasnim reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strikes-kill-least-seven-iranian-army-base-tasnim-reports",
-      "published_date": "2026-07-15T09:37:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Over 800 UK medical workers urge government to act to save Dr Abu Safiya",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/over-800-uk-medics-urge-government-act-save-detained-gaza-doctor-abu-safiya",
-      "published_date": "2026-07-15T08:56:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
+      "title": "Ukraine strikes 20 Russian vessels",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss",
-      "published_date": "2026-07-15T08:55:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest?traffic_source=rss",
-      "published_date": "2026-07-15T08:44:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
-      "published_date": "2026-07-15T07:58:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why the US-Iran escalation over Hormuz will not be the last",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/us-iran-escalation-over-hormuz-will-not-be-last",
-      "published_date": "2026-07-15T07:47:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latest round of US attacks kill two, injure over 260 in Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/latest-round-us-attacks-kill-two-injure-over-260-iran",
-      "published_date": "2026-07-15T06:56:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge?traffic_source=rss",
-      "published_date": "2026-07-15T06:55:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/how-failed-2016-coup-reshaped-turkiyes-and-civil-military-relations?traffic_source=rss",
-      "published_date": "2026-07-15T06:29:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strike hits wheat storage silo in Iran's Hoveyzeh",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strike-hits-wheat-storage-silo-irans-hoveyzeh",
-      "published_date": "2026-07-15T05:10:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran relocates exam centres away from military sites",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-relocates-exam-centres-away-military-sites",
-      "published_date": "2026-07-15T05:02:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Centcom officials protest against Israeli transport minister's restrictions on refueling aircrafts",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-officials-protest-against-israeli-transport-ministers",
-      "published_date": "2026-07-15T04:06:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Head of US Central Command says Iran attacked seven commercial ships over past week",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/head-us-central-command-says-iran-attacked-seven-commercial-ships-over",
-      "published_date": "2026-07-14T23:53:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran calls US attack on Hormozgan ‘latest war crime’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-calls-us-attack-hormozgan-latest-war-crime",
-      "published_date": "2026-07-14T23:01:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IMO condemns attacks on shipping in Hormuz that killed two sailors",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-condemns-attacks-shipping-hormuz-killed-two-sailors",
-      "published_date": "2026-07-14T22:56:15+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/ukraine-strikes-20-russian-vessels?traffic_source=rss",
+      "published_date": "2026-07-15T19:58:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Body of Indian sailor missing after vessel attack near Oman found",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Official: Iran suffered $300m in damage to research infrastructure",
+      "title": "The history of the US and Iraq’s complicated relationship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss",
+      "published_date": "2026-07-15T19:54:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China's oil imports plunge 40 percent, keeping a lid on energy prices",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/official-iran-suffered-300-million-damage-research-infrastructure",
-      "published_date": "2026-07-11T06:24:31+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/chinas-oil-imports-plunge-40-percent-helping-keep-lid-energy-prices-iran-fighting-flares",
+      "published_date": "2026-07-15T17:12:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Some Gulf states signal  they aren't opposed to paying fees in Hormuz, sources say",
@@ -536,11 +550,32 @@
       "category": "Economy"
     },
     {
-      "title": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
+      "title": "Protests in Paris, Gaza for release of Hussam Abu Safia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid?traffic_source=rss",
-      "published_date": "2026-07-08T20:40:53+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
+      "published_date": "2026-07-15T19:48:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Red Ribbons' campaign urges Red Cross be allowed access to Palestinians held by Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/campaign-urges-red-cross-access-palestinians-hostages-held-israeli-prisons",
+      "published_date": "2026-07-15T15:14:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel approves over $400m to fund 34 settlements in occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-approves-over-400m-fund-34-settlements-occupied-west-bank",
+      "published_date": "2026-07-15T14:56:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel approves over $400m to fund 34 settlements in occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/revolution-israel-approves-funds-34-new-settlements-occupied-west-bank",
+      "published_date": "2026-07-15T13:31:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Exclusive: MPs demand investigation into British Museum’s 'erasure' of Palestine",
@@ -652,34 +687,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-takes-part-raid-west-bank-village",
       "published_date": "2026-07-13T11:59:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Palestine activist Fergie Chambers arrested in Spain after US extradition request",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestine-activist-fergie-chambers-arrested-spain-after-us",
-      "published_date": "2026-07-13T11:20:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Palestine activist Fergie Chambers arrested in Spain after US extradition request",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/fergie-chambers-arrested-spain-after-us-extradition-request",
-      "published_date": "2026-07-13T11:13:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli government funnels millions of shekels to sanctioned settlement group",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-government-funnels-millions-shekels-sanctioned-settlement-group",
-      "published_date": "2026-07-13T10:54:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli government funnels millions of shekels to sanctioned settlement group",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-government-funnels-4m-shekels-sanctioned-settlement-group",
-      "published_date": "2026-07-13T10:44:31+00:00",
       "category": "Local Events"
     }
   ]
