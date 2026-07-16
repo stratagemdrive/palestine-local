@@ -1,8 +1,22 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-16T00:03:26.060801+00:00",
+  "last_updated": "2026-07-16T12:15:03.469726+00:00",
   "story_count": 98,
   "stories": [
+    {
+      "title": "FIFA World Cup final: Date, time, halftime show, prediction and Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction?traffic_source=rss",
+      "published_date": "2026-07-16T09:07:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu cancels trip to the US scheduled for next week",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-cancels-trip-us-scheduled-next-week",
+      "published_date": "2026-07-16T09:02:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
       "source": "Al Jazeera",
@@ -130,18 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mahmoud Khalil alleges conspiracy in lawsuit against Trump officials",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/mahmoud-khalil-alleges-conspiracy-in-lawsuit-against-trump-officials?traffic_source=rss",
-      "published_date": "2026-07-14T20:16:52+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli opposition tops new poll as Netanyahu allies explore voting restrictions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-opposition-to-secure-narrow-majority-new-election-poll",
+      "published_date": "2026-07-16T12:10:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "US President Trump meets with ‘fan of America’ Iraqi PM Ali al-Zaidi",
+      "title": "‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-meets-with-fan-of-america-iraqi-pm-ali-al-zaidi?traffic_source=rss",
-      "published_date": "2026-07-14T19:43:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/7/16/destroyed-my-whole-life-lebanese-families-wiped-out-in-israeli?traffic_source=rss",
+      "published_date": "2026-07-16T11:40:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kuwaiti army intercepts Iranian drones",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaiti-army-intercepts-iranian-drones",
+      "published_date": "2026-07-16T11:29:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian press review: Political figures expect continued but limited confrontation with US",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iranian-press-review-political-figures-expect-continued-limited-confrontation-us",
+      "published_date": "2026-07-16T10:41:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli air strike kills at least one, wounds others in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-airstrike-kills-least-one-injures-many-gaza",
+      "published_date": "2026-07-16T09:57:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran strikes US base in Jordan as American bombardment continues",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-strikes-us-base-jordan-american-bombardment-continues",
+      "published_date": "2026-07-16T09:50:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Crude oil loading suspended in Iraq after drone incident",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crude-oil-flows-suspended-all-iraqs-oil-loading-terminals-after-drone",
+      "published_date": "2026-07-16T09:42:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Italy’s Genoa bridge collapse led to one of its biggest criminal trials",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/why-italys-genoa-bridge-collapse-led-to-one-of-its-biggest-criminal-trials?traffic_source=rss",
+      "published_date": "2026-07-16T08:57:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria thwarts an attempt to smuggle in weapons and missiles to Hezbollah from Iraq",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-thwarts-attempt-smuggle-weapons-and-missiles-iraq-hezbollah",
+      "published_date": "2026-07-16T08:32:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
+      "published_date": "2026-07-16T08:18:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pete Hegseth says US military to start testosterone screening for over 30s",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/pete-hegseth-says-us-military-to-start-testosterone-screening-for-over-30s?traffic_source=rss",
+      "published_date": "2026-07-16T07:57:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns all infrastructure in the region would be 'crushed' if US continues attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-all-infrastructure-region-would-be-crushed-if-us-continues",
+      "published_date": "2026-07-16T06:38:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-143",
+      "published_date": "2026-07-16T05:51:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fresh strikes reported in Khandab city, Semnan airport",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fresh-strikes-reported-khandab-city-semnan-airport",
+      "published_date": "2026-07-16T05:44:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran targets US forces gathering in Kuwait, radar systems in Bahrain",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-targets-us-forces-gathering-kuwait-radar-systems-bahrain",
+      "published_date": "2026-07-16T05:27:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Blasts heard in Iran's Bandar Abbas, Sirik and Qeshm Island",
@@ -179,109 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Russia pounds Ukraine with missile, drone strikes",
+      "title": "Iran asks Houthis to close Bab al-Mandeb if US attacks power network",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-asks-houthis-close-bab-al-mandeb-strait-if-us-attacks-power-network",
+      "published_date": "2026-07-16T11:53:59+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Climate funding: Who pays for the transition?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
-      "published_date": "2026-07-15T19:59:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US rights group calls on UN to impose arms embargo on UAE",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-rights-group-calls-un-impose-arms-embargo-uae",
-      "published_date": "2026-07-15T19:02:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
-      "published_date": "2026-07-15T18:58:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian homes sealed off by Israeli military restrictions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss",
-      "published_date": "2026-07-15T18:49:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prominent Moroccan journalist Ali Lmrabet released from custody",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/prominent-moroccan-journalist-ali-lmrabet-released-from-custody?traffic_source=rss",
-      "published_date": "2026-07-15T18:23:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon and Israel conclude talks in Rome over 'pilot zones'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-conclude-us-brokered-talks-rome-over-pilot-zones",
-      "published_date": "2026-07-15T15:54:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Corbyn slams Starmer for again claiming Labour was 'institutionally antisemitic'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/corbyn-condemns-starmer-once-again-falsely-claiming-labour-was-institutionally-antisemitic",
-      "published_date": "2026-07-15T15:26:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Calls for boycott of The Odyssey over filming in occupied Western Sahara",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/calls-boycott-odyssey-over-filming-occupied-western-sahara",
-      "published_date": "2026-07-15T15:20:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Global coalition of lawyers launches campaign to defend the International Criminal Court",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/lawyers-launch-campaign-defend-international-criminal-court",
-      "published_date": "2026-07-15T14:50:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel briefly closes Al-Aqsa gate for military drills",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-briefly-closes-al-aqsa-gate-military-drills",
-      "published_date": "2026-07-15T13:37:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US influencer Clavicular’s ‘Israelmaxxing’ propaganda trip ends in national scandal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/claviculars-israelmaxxing-propaganda-trip-ends-israeli-army-scandal",
-      "published_date": "2026-07-15T12:03:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could the US take control of Iran’s southern islands?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/could-the-us-take-control-of-irans-southern-islands?traffic_source=rss",
-      "published_date": "2026-07-15T11:35:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says it launched new wave of strikes against Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-launches-new-wave-strikes-against-iran",
-      "published_date": "2026-07-15T10:57:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel briefly closes Al-Aqsa gate for military drills",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-briefly-closes-al-aqsa-gate-military-drills",
-      "published_date": "2026-07-15T10:00:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone comes down in Iraq's Faw port",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-comes-down-iraqs-faw-port",
-      "published_date": "2026-07-15T09:42:26+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
+      "published_date": "2026-07-16T10:39:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine strikes 20 Russian vessels",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+      "title": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
-      "published_date": "2026-07-11T13:18:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba suffers second nationwide blackout in five days",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss",
-      "published_date": "2026-07-11T09:00:23+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
+      "published_date": "2026-07-16T08:10:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "The history of the US and Iraq’s complicated relationship",
@@ -543,11 +550,46 @@
       "category": "Economy"
     },
     {
-      "title": "World Cup 2026: Iraq returned, but it will take years to bridge the gulf with football's elite",
+      "title": "Palestinians fight fires after settler attacks in the occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-fight-fires-after-settler-attacks-in-the-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-07-16T11:36:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK school with hundreds of Muslim students evacuated after bomb threat",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/world-cup-2026-iraq-return-exposed-gulf-with-football-elite",
-      "published_date": "2026-07-09T11:01:44+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/uk-school-hundreds-muslim-students-evacuated-after-bomb-threat",
+      "published_date": "2026-07-16T11:16:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran condemns US 'barbaric attack' near children's cancer treatment centre",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-condemns-us-barbaric-attack-near-childrens-cancer",
+      "published_date": "2026-07-16T11:14:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire at orphanage in Algeria kills 11 people, including children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/fire-at-orphanage-in-algeria-kills-11-people-including-children?traffic_source=rss",
+      "published_date": "2026-07-16T10:41:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After Ireland partially bans trade with Israeli settlements, the UK must go further",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/why-uk-must-go-further-ireland-and-ban-all-trade-illegal-israeli-settlements",
+      "published_date": "2026-07-16T09:50:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026 shows Arab unity is alive and well",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/world-cup-2026-shows-arab-unity-alive-and-well",
+      "published_date": "2026-07-16T07:35:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Protests in Paris, Gaza for release of Hussam Abu Safia",
@@ -645,48 +687,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss",
       "published_date": "2026-07-14T07:39:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Report: Iran rescues over a dozen bulk carrier crew after collision in Hormuz Strait",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-iran-rescues-over-dozen-bulk-carrier-crew-after-collision-hormuz",
-      "published_date": "2026-07-14T05:58:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU ministers largely back Israeli settlement trade ban, Kallas says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-ministers-largely-back-israeli-settlement-trade-ban-kallas-says",
-      "published_date": "2026-07-13T18:55:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli attack critically wounds several Palestinians near Gaza City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-critically-wounds-several-palestinians-near-gaza-city",
-      "published_date": "2026-07-13T16:24:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel blocks Red Cross access to Palestinian prisoners despite court ruling",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-blocks-red-cross-access-palestinian-prisoners-despite-court-ruling",
-      "published_date": "2026-07-13T15:49:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/the-late-sheikh-hamad-bin-khalifa-al-thanis-legacy-on-womens-reform?traffic_source=rss",
-      "published_date": "2026-07-13T12:36:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ben Gvir takes part in raid of West Bank village",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-takes-part-raid-west-bank-village",
-      "published_date": "2026-07-13T11:59:38+00:00",
       "category": "Local Events"
     }
   ]
