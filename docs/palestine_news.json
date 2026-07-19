@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-18T23:58:27.822035+00:00",
-  "story_count": 94,
+  "last_updated": "2026-07-19T11:49:50.369516+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Jordan said no evacuation of Aqaba airport or seaport after US warning",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-said-no-evacuation-aqaba-airport-or-seaport-after-us-warning",
+      "published_date": "2026-07-19T11:03:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he ‘couldn’t care less’ about Iran leaving nuclear agreement",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-couldnt-care-less-about-iran-leaving-nuclear-agreement",
+      "published_date": "2026-07-19T09:33:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aragchi says ‘personal remarks’ should not affect Iran-Iraq relations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/aragchi-says-personal-remarks-should-not-affect-iran-iraq-relations",
+      "published_date": "2026-07-19T06:55:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanese president hopes to generate pressure on Israel during US trip",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-president-hopes-generate-pressure-israel-during-us-trip",
+      "published_date": "2026-07-19T06:12:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US cautions Americans Middle East situation has ‘potential for unforeseen escalation’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-cautions-americans-middle-east-situation-has-potential-unforeseen",
+      "published_date": "2026-07-19T00:58:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US launches new strikes on Iran after deaths of service members in Jordan",
       "source": "Middle East Eye",
@@ -109,39 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "PODCAST: Israel stole Rashid Khalidi’s land. The U.S. is building an embassy on it",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/podcast-rashid-khalidi-us-embassy-jerusalem/",
-      "published_date": "2026-07-17T13:56:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli Trump ally backs Argentina over Falklands after England’s World Cup defeat",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-trump-ally-backs-argentina-over-falklands-after-englands-world-cup-defeat",
-      "published_date": "2026-07-17T11:13:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi: Israel using US taxpayer money to silence critics",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghch-israel-using-us-taxpayer-money-silence-critics",
-      "published_date": "2026-07-17T11:01:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump’s new election push, explained",
+      "title": "Iranians suffer from power blackouts during war and heatwave",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trumps-new-election-push-explained?traffic_source=rss",
-      "published_date": "2026-07-17T10:40:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
+      "published_date": "2026-07-19T11:16:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "FIFA World Cup: 10 things to know before Spain-Argentina final in New York",
+      "title": "US completes eighth night of strikes as Iran retaliates across Gulf",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-completes-eighth-night-strikes-iran-retaliates-across-gulf",
+      "published_date": "2026-07-19T10:09:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bahrain activates warning sirens as Iran launches missiles towards Gulf",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-activates-warning-sirens-iran-launches-missiles-towards-gulf",
+      "published_date": "2026-07-19T09:06:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/17/spain-argentina-fifa-world-cup-2026-final-messi-yamal-photo-trump?traffic_source=rss",
-      "published_date": "2026-07-17T09:47:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
+      "published_date": "2026-07-19T08:49:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+      "published_date": "2026-07-19T07:28:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-145",
+      "published_date": "2026-07-19T06:44:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Emergency services on alert in Iran's earthquake-hit Khuzestan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/emergency-services-alert-irans-earthquake-hit-khuzestan",
+      "published_date": "2026-07-19T05:38:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US bombs Iran for eighth-straight night",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
+      "published_date": "2026-07-19T05:08:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinians bid farewell to teenage footballer shot during settler raid",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-bid-farewell-teenage-footballer-who-succumbs-wounds",
+      "published_date": "2026-07-19T05:03:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
+      "published_date": "2026-07-19T04:36:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least one killed as Russian ballistic missiles hit Kyiv",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+      "published_date": "2026-07-19T04:32:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian commander warns of 'devastating response' to aggression",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-commander-warns-devastating-response-aggression",
+      "published_date": "2026-07-19T04:27:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Centcom: IRGC forces behind Jordan attack targeted in eighth round of strikes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-us-completes-eighth-consecutive-night-strikes-against-iran",
+      "published_date": "2026-07-19T04:08:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian drones strike two US bases in Kuwait, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-drones-strike-two-us-bases-kuwait-report-says",
+      "published_date": "2026-07-19T04:02:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Report: Aipac stops taking donations for Democrats who backed Israel aid cut",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-aipac-stops-taking-campaign-contributions-democrats-who-backed",
+      "published_date": "2026-07-19T02:46:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Family of five, including three children, killed in Israeli strike on Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/family-five-including-three-children-killed-israeli-strike-gaza",
+      "published_date": "2026-07-19T02:04:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US strike hits a location in Qeshm Island, Iranian media says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strike-hits-location-qeshm-island-iranian-media-says",
+      "published_date": "2026-07-19T01:22:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Reports: Blasts heard in Iranian port cities of Bandar Abbas, Bandar Lengeh",
@@ -165,123 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Palestinian teenage footballer dies a week after Israeli settler attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss",
-      "published_date": "2026-07-18T20:24:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone video shows scale of major wildfire in northern Spain",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss",
-      "published_date": "2026-07-18T20:18:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese soldier killed as army vehicle hits explosive in south Lebanon",
+      "title": "Kuwait said power and water desalination plant attacked for second time in two days",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-soldier-killed-army-vehicle-hits-explosive-south-lebanon",
-      "published_date": "2026-07-18T19:59:29+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-said-power-and-water-desalination-plant-attacked-second-time-two",
+      "published_date": "2026-07-19T11:47:06+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-      "published_date": "2026-07-18T19:55:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks on residential areas in Gaza kill eight",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss",
-      "published_date": "2026-07-18T18:45:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UKMTO reports tanker incident involving military forces east of Oman's Duqm",
+      "title": "Emergency water delivery begins for 10,000 Iranians, official says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-tanker-incident-involving-military-forces-east-omans-duqm",
-      "published_date": "2026-07-18T18:42:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss",
-      "published_date": "2026-07-18T18:17:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military says two service members killed in Iranian strike in Jordan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss",
-      "published_date": "2026-07-18T18:04:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two US service members in Jordan killed in Iranian attack, US says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-us-service-members-jordan-killed-iranian-attack-us-says",
-      "published_date": "2026-07-18T17:30:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss",
-      "published_date": "2026-07-18T16:47:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Armed groups attack Malian military convoy in Gao region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss",
-      "published_date": "2026-07-18T16:24:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says renewed US strikes killed at least 50 people",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/renewed-us-strikes-kill-least-50-people-iran-tehran-says",
-      "published_date": "2026-07-18T15:52:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran declares Islamabad agreement suspended, blames US violations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-declares-islamabad-agreement-suspended-blames-us-violations",
-      "published_date": "2026-07-18T15:45:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss",
-      "published_date": "2026-07-18T11:10:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indian police forcibly hospitalise activist after 20-day hunger strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss",
-      "published_date": "2026-07-18T10:48:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan shoots down four drones, says no casualties reported",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-shoots-down-four-drones-says-no-casualties-reported",
-      "published_date": "2026-07-18T10:24:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes leave 10,000 Iranians without water as Kuwait desalination plant burns",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-strikes-leave-10000-iranians-without-water-kuwait-desalination-plant-burns",
-      "published_date": "2026-07-18T09:57:46+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/emergency-water-delivery-begins-10000-iranians-official-says",
+      "published_date": "2026-07-19T00:19:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Damage visible at Iran bridges and water plant after US attacks",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Trump says strikes on Iran will continue ‘until I say enough’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-strikes-iran-will-continue-until-i-say-enough",
-      "published_date": "2026-07-14T22:35:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Are countries prepared to cope with extreme weather?",
+      "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss",
-      "published_date": "2026-07-14T21:26:07+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-19T08:46:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "UKMTO says vessel seized in Gulf of Aden now in Somali waters",
@@ -520,6 +527,34 @@
       "url": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties?traffic_source=rss",
       "published_date": "2026-07-12T19:48:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Why is India vetting books in Kashmir in search of ‘anti-national’ content?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss",
+      "published_date": "2026-07-19T10:43:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The number one health issue in Palestine is the Israeli occupation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss",
+      "published_date": "2026-07-19T07:15:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli military closes area around Gaza ahead of settler march, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-closes-area-around-gaza-ahead-settler-march-report-says",
+      "published_date": "2026-07-19T05:53:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "West Bank attacks: Settlers set mosque on fire, Israeli forces olive trees",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-attacks-settlers-set-mosque-fire-israeli-forces-olive-trees",
+      "published_date": "2026-07-19T01:41:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Report: Israel orders seizure of more Palestinian land in West Bank",
@@ -631,34 +666,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/john-esposito-would-be-priest-turned-scholar-islam-dies-86",
       "published_date": "2026-07-16T20:23:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muslim man stabbed more than 15 times in Islamophobic attack in Utah",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/muslim-mall-worker-stabbed-more-15-times-islamophobic-attack-utah",
-      "published_date": "2026-07-16T19:28:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss",
-      "published_date": "2026-07-16T18:37:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHO: Ebola spreading faster than ever recorded in DR Congo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/who-ebola-spreading-faster-than-ever-recorded-in-dr-congo?traffic_source=rss",
-      "published_date": "2026-07-16T18:21:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers injure three Palestinians in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-three-palestinians-occupied-west-bank",
-      "published_date": "2026-07-16T17:17:17+00:00",
       "category": "Local Events"
     }
   ]
