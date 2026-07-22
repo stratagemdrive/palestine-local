@@ -1,8 +1,85 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-21T23:58:42.516283+00:00",
-  "story_count": 95,
+  "last_updated": "2026-07-22T12:22:16.841475+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Trump to approve nuclear deal with Saudi Arabia despite regional proliferation risks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/trump-to-approve-nuclear-deal-saudi-arabia-despite-regional-proliferation-risks",
+      "published_date": "2026-07-22T12:00:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump ally Andy Biggs wins Republican nomination for Arizona governor",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/trump-ally-andy-biggs-wins-republican-nomination-for-arizona-governor?traffic_source=rss",
+      "published_date": "2026-07-22T11:18:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
+      "published_date": "2026-07-22T11:04:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says 'no nuclear activity' at Kolang Kouh",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-nuclear-activity-kolang-kouh",
+      "published_date": "2026-07-22T11:02:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Secretary of State Rubio describes Iran as 'troublemaker of the region'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-secretary-rubio-describes-iran-troublemaker-region",
+      "published_date": "2026-07-22T10:34:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mamdani says he doesn't have authority to arrest Netanyahu, but US government does",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/new-york-city-mayor-mamdani-does-not-have-authority-arrest-netanyahu",
+      "published_date": "2026-07-22T10:12:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Will Burnham liberate Labour's Palestine policy from Starmer's dead hand?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/will-andy-burnham-have-courage-liberate-labours-palestine-policy-starmers-dead-hand",
+      "published_date": "2026-07-22T09:31:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada calls for de-escalation and ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/canada-calls-de-escalation-and-ceasefire",
+      "published_date": "2026-07-22T09:06:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al Jazeera reports from anti-US protest outside ASEAN summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/al-jazeera-reports-from-anti-us-protest-outside-asean-summit?traffic_source=rss",
+      "published_date": "2026-07-22T08:59:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss",
+      "published_date": "2026-07-22T07:35:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The founders of the ICC must not let it be destroyed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/founders-icc-must-not-let-us-destroy",
+      "published_date": "2026-07-22T07:31:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
       "source": "Al Jazeera",
@@ -67,221 +144,151 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Houthis warn shipping companies against using Saudi ports, Reuters reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-warn-shipping-companies-against-using-saudi-ports-reuters",
-      "published_date": "2026-07-21T11:16:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
+      "title": "Iran war’s $37bn price tag: Why does the Pentagon want $67bn more?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss",
-      "published_date": "2026-07-21T11:10:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/22/iran-wars-37bn-price-tag-why-does-trump-want-67bn-more?traffic_source=rss",
+      "published_date": "2026-07-22T12:05:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
+      "title": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss",
-      "published_date": "2026-07-21T10:27:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss",
+      "published_date": "2026-07-22T11:52:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "General Ghalibaf's gamble: An IRGC veteran takes on Iran’s hardliners to pursue diplomacy",
+      "title": "Iran war: US launches attacks for 11th night as Trump seeks $70bn more for military",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-general-ghalibaf-irgc-veteran-takes-on-hardliners-to-pursue-diplomacy",
-      "published_date": "2026-07-21T10:05:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/iran-war-us-launches-attacks-eleventh-night-as-trump-seeks-more-funding",
+      "published_date": "2026-07-22T11:35:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Exclusive: President of ICC oversight body confirms no finding of retaliation by Khan",
+      "title": "Iran's Revolutionary Guards announce targeting military bases in Jordan",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/exclusive-president-icc-oversight-body-confirms-no-retaliation-by-prosecutor-karim-khan",
-      "published_date": "2026-07-21T09:16:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-revolutionary-guards-announce-targeting-military-bases-jordan",
+      "published_date": "2026-07-22T11:15:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
+      "title": "Lebanese army deployed in ‘pilot zone’ as families wait to return home",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss",
-      "published_date": "2026-07-21T09:04:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/lebanese-army-deployed-in-pilot-zone-as-families-wait-to-return-home?traffic_source=rss",
+      "published_date": "2026-07-22T10:53:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mamdani says he takes Netanyahu’s ICC arrest warrant ‘seriously’",
+      "title": "Burnham approves US use of UK bases for some strikes on Iran, Bloomberg reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-burnham-approves-us-use-bases-some-strikes-iran",
+      "published_date": "2026-07-22T10:42:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US in contact with Saudi Arabia over Houthi threats",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-contact-saudi-arabia-over-houthi-threats",
+      "published_date": "2026-07-22T10:22:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Secretary Rubio says 'Iran is in a lot of trouble'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-secretary-rubio-says-iran-lot-trouble",
+      "published_date": "2026-07-22T10:14:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia reports injuries after top online retailer Wildberries hit again",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mamdani-says-he-takes-netanyahus-icc-arrest-warrant?traffic_source=rss",
-      "published_date": "2026-07-21T08:56:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/22/russia-reports-injuries-after-top-online-retailer-wildberries-hit-again?traffic_source=rss",
+      "published_date": "2026-07-22T09:30:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "How to stop US-Iran conflict from becoming endless war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/how-stop-us-iran-conflict-becoming-endless-war",
-      "published_date": "2026-07-21T07:40:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
+      "title": "Ossoff challenges Hegseth on cost and duration of Iran war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
-      "published_date": "2026-07-20T21:06:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ossoff-challenges-hegseth-on-cost-and-duration-of-iran-war?traffic_source=rss",
+      "published_date": "2026-07-22T09:30:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Opinion: Arab recognition of Israel rewards its relentless land theft",
+      "title": "Iran shoots down drone over Tehran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-arab-recognition-israel-rewards-its-relentless-land-theft",
-      "published_date": "2026-07-20T20:29:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-shoots-down-drone-over-tehran",
+      "published_date": "2026-07-22T09:14:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran condemns US attacks on civilian infrastructure",
+      "title": "Iran targets Jordan's Aqaba with missiles",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-targets-jordans-aqaba-missiles",
+      "published_date": "2026-07-22T08:45:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
-      "published_date": "2026-07-20T20:02:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Watch: Iran war cost the US $37.5bn so far, Hegseth says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-iran-war-cost-us-375bn-so-far-hegseth-says",
-      "published_date": "2026-07-21T23:33:27+00:00",
+      "url": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest?traffic_source=rss",
+      "published_date": "2026-07-22T08:43:26+00:00",
       "category": "Military"
     },
     {
-      "title": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
+      "title": "Rabat demands answers after Moroccan man dies during arrest in Italy",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss",
-      "published_date": "2026-07-21T22:56:12+00:00",
+      "url": "https://www.aljazeera.com/news/2026/7/22/rabat-demands-answers-after-moroccan-man-dies-during-arrest-in-italy?traffic_source=rss",
+      "published_date": "2026-07-22T08:01:29+00:00",
       "category": "Military"
     },
     {
-      "title": "Zelenskyy replaces Ukraine military chief after protests",
+      "title": "Air defences activate in Iran and flames rise from US attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
-      "published_date": "2026-07-21T21:58:32+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/air-defences-activate-in-iran-and-flames-rise-from-us-attacks?traffic_source=rss",
+      "published_date": "2026-07-22T07:28:29+00:00",
       "category": "Military"
     },
     {
-      "title": "Kuwaiti army says it is intercepting Iranian drones",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaiti-army-says-it-intercepting-iranian-drones",
-      "published_date": "2026-07-21T21:49:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'This will be your legacy': Aoun seeks financing for Lebanon, pressure on Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/aoun-visits-trump-seeking-military-financing-and-pressure-israel",
-      "published_date": "2026-07-21T21:37:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon president says he insisted on 'full Israeli withdrawal' in Trump talks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-he-insisted-full-israeli-withdrawal-trump-talks",
-      "published_date": "2026-07-21T21:23:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone shows scorched landscape after Spain wildfire",
+      "title": "Algeria: Toxic colonisation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
-      "published_date": "2026-07-21T21:21:12+00:00",
+      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/7/22/algeria-toxic-colonisation?traffic_source=rss",
+      "published_date": "2026-07-22T07:23:42+00:00",
       "category": "Military"
     },
     {
-      "title": "Nearly 100 US troops injured by Iran strikes, Pentagon says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-100-us-troops-injured-iran-strikes-pentagon-says",
-      "published_date": "2026-07-21T21:18:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
+      "title": "India opposition leader Gandhi freed after detention at student-led protest",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
-      "published_date": "2026-07-21T21:17:06+00:00",
+      "url": "https://www.aljazeera.com/news/2026/7/22/india-opposition-leader-gandhi-freed-after-detention-at-student-led-protest?traffic_source=rss",
+      "published_date": "2026-07-22T07:20:38+00:00",
       "category": "Military"
     },
     {
-      "title": "Iran holds funerals for children killed in Minab school strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
-      "published_date": "2026-07-21T21:13:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
-      "published_date": "2026-07-21T21:03:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Daytime Russian strike kills three in Zaporizhzhia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
-      "published_date": "2026-07-21T20:48:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nearly 100 US troops injured by Iran strikes, Pentagon says",
+      "title": "Fresh Iranian attacks on US targets in the region",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/nearly-100-us-troops-injured-iran-strikes-pentagon-says",
-      "published_date": "2026-07-21T20:45:18+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fresh-iranian-attacks-us-targets-region",
+      "published_date": "2026-07-22T06:59:24+00:00",
       "category": "Military"
     },
     {
-      "title": "US appeals court overturns ruling requiring release of pro-Palestinian activist Mohsen Mahdawi",
+      "title": "Morning recap",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-appeals-court-overturns-ruling-requiring-release-pro-palestinian",
-      "published_date": "2026-07-21T20:11:04+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-146",
+      "published_date": "2026-07-22T05:55:22+00:00",
       "category": "Military"
     },
     {
-      "title": "Hegseth says US military training will suffer without funding boost as war costs reach $37.5bn",
+      "title": "Mamdani calls Netanyahu a 'war criminal', urges US enforce ICC arrest warrant",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-says-us-military-training-will-suffer-without-funding-boost-war",
-      "published_date": "2026-07-21T20:07:16+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mamdani-calls-netanyahu-war-criminal-urges-us-enforce-icc-arrest-warrant",
+      "published_date": "2026-07-22T04:15:49+00:00",
       "category": "Military"
     },
     {
-      "title": "Opinion: Iran war: Trump must change course now to avoid another Vietnam",
+      "title": "Blasts in Iran's Bushehr province, US attacks in Hormozgan damage infrastructure",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-iran-war-trump-must-change-course-now-avoid-another-vietnam",
-      "published_date": "2026-07-21T19:58:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India tunnel collapse kills 10 as toxic gases hamper rescue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss",
-      "published_date": "2026-07-21T19:41:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese army says Israel needs to coordinate with, rather than attack troops",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-says-israel-needs-coordinate-rather-attack-troops",
-      "published_date": "2026-07-21T19:29:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: Trump must change course now to avoid another Vietnam",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/iran-war-trump-must-change-course-now-avoid-another-vietnam",
-      "published_date": "2026-07-21T19:11:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Lebanese paramedics wounded in landmine explosion",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-lebanese-paramedics-wounded-landmine-explosion",
-      "published_date": "2026-07-21T18:38:48+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-irans-bushehr-province-us-attacks-hormozgan-damage-infrastructure",
+      "published_date": "2026-07-22T05:00:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "Kuwaitis ration electricity after Iranian strikes hit power grid",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Two oil tankers exploded after passing through mined route south of Strait of Hormuz, Iran's state TV reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-oil-tankers-exploded-after-passing-through-mined-route-south-strait",
-      "published_date": "2026-07-17T22:18:32+00:00",
-      "category": "Energy"
+      "title": "Italy makes financial ‘exceptions’ in bid to hire Pep Guardiola as coach",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/22/italy-makes-financial-exceptions-in-bid-to-hire-pep-guardiola-as-coach?traffic_source=rss",
+      "published_date": "2026-07-22T11:39:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Syrian people must not be failed again",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/22/syrian-people-must-not-be-failed-again?traffic_source=rss",
+      "published_date": "2026-07-22T11:23:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "US funding cuts deal blow to global HIV treatment: Report",
@@ -527,6 +541,13 @@
       "url": "https://www.middleeasteye.net/news/chinas-oil-imports-plunge-40-percent-helping-keep-lid-energy-prices-iran-fighting-flares",
       "published_date": "2026-07-15T17:12:26+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "India protest: How Modi’s refusal to sack education minister fits a pattern",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/india-protest-how-modis-refusal-to-sack-education-minister-fits-a-pattern?traffic_source=rss",
+      "published_date": "2026-07-22T12:09:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Centcom launches attacks against Iran, several blasts reported in Tabriz, Sirik",
@@ -659,13 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
       "published_date": "2026-07-19T20:55:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers injure elderly Palestinian man near Hebron",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-elderly-palestinian-man-near-hebron",
-      "published_date": "2026-07-19T19:32:09+00:00",
       "category": "Local Events"
     }
   ]
