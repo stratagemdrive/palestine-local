@@ -1,8 +1,85 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-23T12:19:15.394368+00:00",
-  "story_count": 94,
+  "last_updated": "2026-07-24T00:05:01.177709+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "The Karim Khan saga: a timeline",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/karim-khan-saga-timeline",
+      "published_date": "2026-07-23T22:26:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US war on Iran: The $110 billion price tag",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
+      "published_date": "2026-07-23T22:04:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
+      "published_date": "2026-07-23T21:43:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Saudi nuclear deal hinges on normalisation with Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss",
+      "published_date": "2026-07-23T21:41:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Normalisation not discussed during months of Saudi-US nuclear negotiations, sources say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/normalisation-not-discussed-during-months-saudi-us-nuclear-negotiations",
+      "published_date": "2026-07-23T21:40:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rally attendee steals the show by mimicking Trump’s gestures",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss",
+      "published_date": "2026-07-23T21:08:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Normalisation not discussed during months of Saudi-US nuclear negotiations, sources say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/normalisation-not-discuss-months-saudi-us-nuclear-negotiations-sources-say",
+      "published_date": "2026-07-23T20:37:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Opinion: The founders of the ICC must not let it be destroyed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-founders-icc-must-not-let-it-be-destroyed",
+      "published_date": "2026-07-23T19:38:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
+      "published_date": "2026-07-23T18:34:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Senate blocks resolution curbing Trump's Iran war powers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senate-blocks-resolution-curbing-trumps-iran-war-powers",
+      "published_date": "2026-07-23T18:21:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Karim Khan saga: a timeline",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/icc-karim-khan-saga-timeline",
+      "published_date": "2026-07-23T15:31:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
       "source": "Al Jazeera",
@@ -67,81 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US military launches new round of strikes on Iran",
+      "title": "How the Houthi Red Sea blockade will impact the world",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss",
+      "published_date": "2026-07-23T23:10:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian media reports explosions on Qeshm Island",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-launches-new-round-strikes-iran",
-      "published_date": "2026-07-22T22:25:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-explosions-qeshm-island",
+      "published_date": "2026-07-23T21:55:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "US and Saudi Arabia announce nuclear cooperation deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
-      "published_date": "2026-07-22T21:30:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US says it reached nuclear cooperation deal with Saudi Arabia",
+      "title": "Centcom says it has redirected 12 commercial vessels",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-reached-nuclear-cooperation-deal-saudi-arabia",
-      "published_date": "2026-07-22T20:56:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-it-has-redirected-12-commercial-vessels",
+      "published_date": "2026-07-23T21:23:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
+      "title": "How Sudan war is putting cancer patients at risk",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss",
-      "published_date": "2026-07-22T20:34:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-sudan-war-is-putting-cancer-patients-at-risk?traffic_source=rss",
+      "published_date": "2026-07-23T20:46:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss",
-      "published_date": "2026-07-22T20:20:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK evacuates embassy staff from Iran",
+      "title": "Israeli military, settlers kill five Palestinians in Gaza, West Bank",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-evacuates-embassy-staff-iran",
-      "published_date": "2026-07-22T20:16:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-settlers-kill-five-palestinians-gaza-west-bank",
+      "published_date": "2026-07-23T20:39:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump: Iran will ‘pay a big price’ for US troop deaths",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss",
-      "published_date": "2026-07-22T20:06:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's Araghchi warns any aggression will draw decisive response",
+      "title": "Kuwait’s army says air defences are intercepting hostile Iranian attacks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-warns-any-aggression-will-draw-decisive-response",
-      "published_date": "2026-07-22T18:57:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaits-army-says-air-defences-are-intercepting-hostile-iranian-attacks",
+      "published_date": "2026-07-23T20:16:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump push for Syrian intervention against Hezbollah ‘short-sighted’",
+      "title": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/22/trump-push-for-syrian-intervention-against-hezbollah-short-sighted?traffic_source=rss",
-      "published_date": "2026-07-22T17:18:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss",
+      "published_date": "2026-07-23T19:50:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hamas’s new leader calls for permanent Gaza ceasefire",
+      "title": "Journalist killed in Mexico after years of exposing corruption",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
-      "published_date": "2026-07-22T17:02:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
+      "published_date": "2026-07-23T19:40:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump to approve nuclear deal with Saudi Arabia despite regional proliferation risks",
+      "title": "Kuwaiti army says it is protecting the ‘homeland’s borders’",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-to-approve-nuclear-deal-saudi-arabia-despite-regional-proliferation-risks",
-      "published_date": "2026-07-22T12:00:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaiti-army-says-it-protecting-homelands-borders",
+      "published_date": "2026-07-23T19:14:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IMO chief condemns attacks on shipping in the Red Sea area",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-chief-condemns-attacks-shipping-red-sea-area",
+      "published_date": "2026-07-23T18:39:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi and UAE showcase public display of unity after months of strained relations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/saudi-and-uae-showcase-public-display-unity-after-months-strained-relations",
+      "published_date": "2026-07-23T18:15:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK says armed forces ready to defend country after Iran warning over US bombers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-says-armed-forces-ready-defend-country-after-iran-warning-over-us",
+      "published_date": "2026-07-23T17:45:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
+      "published_date": "2026-07-23T17:25:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drone strike wounds paramedics in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-wounds-paramedics-southern-lebanon",
+      "published_date": "2026-07-23T16:29:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US House of Representatives votes to halt Iran war, in another symbolic rebuke of Trump",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-house-votes-halt-iran-war-another-symbolic-rebuke-trump",
+      "published_date": "2026-07-23T16:04:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says he is considering restarting major combat operations in Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-considering-restarting-major-combat-operations-iran",
+      "published_date": "2026-07-23T15:41:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Can Iran withstand new pressure from the US?",
@@ -172,116 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "'A triumphant failure': How Israel's use of social media influencers to win back support backfired",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-use-social-media-influencers-support-backfired",
-      "published_date": "2026-07-23T11:18:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army shoots two Palestinians in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-shoots-two-palestinians-occupied-west-bank",
-      "published_date": "2026-07-23T10:22:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
+      "title": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss",
-      "published_date": "2026-07-23T09:20:46+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss",
+      "published_date": "2026-07-23T19:28:24+00:00",
+      "category": "Energy"
     },
     {
-      "title": "More than 3,000 settlers led by Ben Gvir storm Al-Aqsa",
+      "title": "IAEA says its awaiting US-Saudi request on nuclear deal verification",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-3000-settlers-led-ben-gvir-storm-al-aqsa",
-      "published_date": "2026-07-23T08:57:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordanian army intercepts Iranian missiles",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordanian-army-intercepts-iranian-missiles",
-      "published_date": "2026-07-23T08:45:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indian activist Wangchuk sets conditions to end hunger strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-activist-wangchuk-sets-conditions-to-end-hunger-strike?traffic_source=rss",
-      "published_date": "2026-07-23T08:19:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Israel used Venezuela earthquake response for propaganda in Caracas",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-hypocrisy-and-humanitarian-whitewashing-during-venezuelan-earthquake",
-      "published_date": "2026-07-23T08:13:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Travellers panic as US attacks Iran-Iraq border crossing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss",
-      "published_date": "2026-07-23T07:56:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wave of US attacks target Iran for 12th night in a row, two killed in Shalamcheh",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wave-us-attacks-target-iran-12th-night-row-two-killed-shalamcheh",
-      "published_date": "2026-07-23T07:12:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "World Cup 2026: The true winner was Palestine",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/world-cup-2026-true-winner-was-palestine",
-      "published_date": "2026-07-23T07:11:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "About 1,300 Israeli settlers storm Al-Aqsa Mosque compound",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/about-1300-israeli-settlers-storm-al-aqsa-mosque-compound",
-      "published_date": "2026-07-23T07:05:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US attacks farmers' properties in Iran's Bushehr",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-attacks-farmer-properties-irans-bushehr",
-      "published_date": "2026-07-23T06:50:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC claims attacks on US army facilities in Jordan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-attacks-us-army-facilities-jordan",
-      "published_date": "2026-07-23T06:36:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss",
-      "published_date": "2026-07-23T06:08:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss",
-      "published_date": "2026-07-23T05:44:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis claim strikes on Saudi oil tankers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-strikes-saudi-oil-tankers",
-      "published_date": "2026-07-22T23:52:10+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iaea-says-awaiting-us-saudi-request-nuclear-deal-verification",
+      "published_date": "2026-07-23T17:01:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "US launches new strikes as Iran warns of regional turmoil",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Emergency water delivery begins for 10,000 Iranians, official says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/emergency-water-delivery-begins-10000-iranians-official-says",
-      "published_date": "2026-07-19T00:19:21+00:00",
-      "category": "Energy"
+      "title": "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss",
+      "published_date": "2026-07-23T18:41:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Damage visible at Iran bridges and water plant after US attacks",
+      "title": "UK’s Burnham tells Scotland new independence vote is off limits",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss",
-      "published_date": "2026-07-18T18:09:15+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/23/uks-burnham-tells-scotland-new-independence-vote-is-off-limits?traffic_source=rss",
+      "published_date": "2026-07-23T18:07:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Opinion: How Israel's dream of being the Middle East's trade hub is unravelling",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-how-israels-dream-being-middle-easts-trade-hub-unravelling",
+      "published_date": "2026-07-23T17:12:48+00:00",
+      "category": "Economy"
     },
     {
       "title": "Italy makes financial ‘exceptions’ in bid to hire Pep Guardiola as coach",
@@ -520,6 +541,34 @@
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vessel-hit-19-nautical-miles-away-oman-maritime-body-says",
       "published_date": "2026-07-17T06:48:46+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "France wildfires force evacuation of over 20,000 people from tourist town",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/france-wildfires-force-evacuation-of-over-20000-people-from-tourist-town?traffic_source=rss",
+      "published_date": "2026-07-23T21:07:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss",
+      "published_date": "2026-07-23T19:58:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can India’s youth-led protest movement bring lasting change?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss",
+      "published_date": "2026-07-23T19:11:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children wounded in Israeli strike on Khan Younis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
+      "published_date": "2026-07-23T18:55:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Women’s Africa Cup of Nations 2026: What to know about the tournament",
@@ -631,34 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/21/hunger-is-falling-but-is-still-higher-than-pre-covid-levels-un-report?traffic_source=rss",
       "published_date": "2026-07-21T11:32:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians launch #TheyLiedtoYou campaign to debunk Gaza 'ceasefire' narrative",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/they-lied-to-you-activists-spotlight-israels-ongoing-genocide-gaza",
-      "published_date": "2026-07-21T11:20:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Won’t back down’: Indian student protesters return after police crackdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss",
-      "published_date": "2026-07-21T11:11:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chaos in India as ‘Cockroach activists’ march on parliament",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_chaos-in-india-as-cockroach-march-on-parliament-200726?traffic_source=rss",
-      "published_date": "2026-07-20T22:40:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wes Streeting appointed to UK defence minister",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wes-streeting-appointed-defence-minister",
-      "published_date": "2026-07-20T22:09:51+00:00",
       "category": "Local Events"
     }
   ]
