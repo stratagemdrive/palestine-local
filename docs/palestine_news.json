@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-24T00:05:01.177709+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-24T12:14:02.068832+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Sadiq Khan says Netanyahu perpetrating genocide and not welcome in London",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/sadiq-khan-says-netanyahu-perpetrating-genocide-and-not-welcome-london",
+      "published_date": "2026-07-24T10:58:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The night Tunisia changed: How the Arab Spring's only democracy was destroyed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/big-story/tunisia-the-night-everything-changed",
+      "published_date": "2026-07-24T10:00:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/24/trumps-latest-forced-labour-tariffs-whos-been-hit-how-badly?traffic_source=rss",
+      "published_date": "2026-07-24T09:13:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ICC prosecutor Karim Khan faces removal vote: What’s the case about?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-karim-khan-faces-removal-vote-whats-the-case?traffic_source=rss",
+      "published_date": "2026-07-24T08:26:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
+      "published_date": "2026-07-24T06:48:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Karim Khan saga: a timeline",
       "source": "Middle East Eye",
@@ -109,39 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iraq's prime minister arrives in Iran",
+      "title": "Japanese 'Arab resistance fighter' Kozo Okamoto dies at 78",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqs-prime-minister-arrives-iran",
-      "published_date": "2026-07-23T10:54:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/ahmad-japanese-palestinian-resistance-figure-kozo-okamoto-dies-78",
+      "published_date": "2026-07-24T11:52:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Norway to make formal complaint to FIFA over Balogun red card saga",
+      "title": "Inside the struggle to 'stop the game' between Ireland and Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/inside-struggle-stop-game-between-ireland-and-israel",
+      "published_date": "2026-07-24T11:50:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/23/norway-to-make-formal-complaint-to-fifa-over-balogun-red-card-saga?traffic_source=rss",
-      "published_date": "2026-07-23T10:51:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+      "published_date": "2026-07-24T11:45:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Oman working with Saudi 'brothers' and Yemeni 'parties' for de-escalation",
+      "title": "The killing of the settler in occupied West Bank was 'unplanned', Israeli army says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-working-saudi-brothers-and-yemeni-parties-de-escalation",
-      "published_date": "2026-07-23T09:33:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/killing-settler-occupied-west-bank-was-unplanned-israeli-army-says",
+      "published_date": "2026-07-24T11:20:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN secretary-general race: What it takes to be the world’s top diplomat",
+      "title": "Iran's IRGC attacks Al-Adiri base in Kuwait and observation tower in Bahrain",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/explainers/un-secretary-general-election-race-unga-unsc",
-      "published_date": "2026-07-23T09:26:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-attacks-al-adiri-base-kuwait-and-observation-tower-bahrain",
+      "published_date": "2026-07-24T11:08:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Top US and Russian diplomats discuss Ukraine war in Manila",
+      "title": "Israeli forces kill five-year-old girl Saja al-Sufi in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-5-year-old-child-saja-al-sufi-gaza",
+      "published_date": "2026-07-24T09:17:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu to meet defence minister and army chief after Israeli killed in occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-convenes-defence-minister-and-army-chief-after-israeli-killed",
+      "published_date": "2026-07-24T08:52:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Major fire after Ukrainian strike on St Petersburg warehouse",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss",
-      "published_date": "2026-07-23T07:18:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
+      "published_date": "2026-07-24T08:42:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US attacks Iran for 13th consecutive night",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
+      "published_date": "2026-07-24T08:39:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Flights resumed at Erbil International Airport following suspension due to drone attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/flights-resumed-erbil-international-airport-following-suspension-due",
+      "published_date": "2026-07-24T08:24:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss",
+      "published_date": "2026-07-24T05:56:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-588",
+      "published_date": "2026-07-24T05:50:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine beheads its military as its performance begins to soar",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/ukraine-beheads-its-military-as-its-performance-begins-to-soar?traffic_source=rss",
+      "published_date": "2026-07-24T05:20:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran launches attacks on US army facilities in Bahrain, Jordan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-launches-attacks-us-army-facilities-bahrain-jordan",
+      "published_date": "2026-07-24T05:19:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trillion dollar US defence bill would deepen military ties with Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_us-defence-bill-deepen-military-ties-with-israel-240726?traffic_source=rss",
+      "published_date": "2026-07-24T05:01:43+00:00",
+      "category": "Military"
     },
     {
       "title": "How the Houthi Red Sea blockade will impact the world",
@@ -179,109 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Kuwait’s army says air defences are intercepting hostile Iranian attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaits-army-says-air-defences-are-intercepting-hostile-iranian-attacks",
-      "published_date": "2026-07-23T20:16:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
+      "title": "Israel’s illegal settlements are Europe’s credibility test",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss",
-      "published_date": "2026-07-23T19:50:30+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss",
+      "published_date": "2026-07-24T09:59:37+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Journalist killed in Mexico after years of exposing corruption",
+      "title": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
-      "published_date": "2026-07-23T19:40:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kuwaiti army says it is protecting the ‘homeland’s borders’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaiti-army-says-it-protecting-homelands-borders",
-      "published_date": "2026-07-23T19:14:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IMO chief condemns attacks on shipping in the Red Sea area",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-chief-condemns-attacks-shipping-red-sea-area",
-      "published_date": "2026-07-23T18:39:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi and UAE showcase public display of unity after months of strained relations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/saudi-and-uae-showcase-public-display-unity-after-months-strained-relations",
-      "published_date": "2026-07-23T18:15:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK says armed forces ready to defend country after Iran warning over US bombers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-says-armed-forces-ready-defend-country-after-iran-warning-over-us",
-      "published_date": "2026-07-23T17:45:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
-      "published_date": "2026-07-23T17:25:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone strike wounds paramedics in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-wounds-paramedics-southern-lebanon",
-      "published_date": "2026-07-23T16:29:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US House of Representatives votes to halt Iran war, in another symbolic rebuke of Trump",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-house-votes-halt-iran-war-another-symbolic-rebuke-trump",
-      "published_date": "2026-07-23T16:04:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says he is considering restarting major combat operations in Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-considering-restarting-major-combat-operations-iran",
-      "published_date": "2026-07-23T15:41:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Iran withstand new pressure from the US?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/project-force-2/2026/7/23/can-iran-withstand-new-pressure-from-the-us?traffic_source=rss",
-      "published_date": "2026-07-23T11:55:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss",
-      "published_date": "2026-07-23T11:36:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least one killed in an Israeli drone strike in Gaza, hospital sources say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-one-killed-israeli-drone-strike-gaza-hospital-sources-say",
-      "published_date": "2026-07-23T11:32:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli cities open shelters",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-cities-open-shelters",
-      "published_date": "2026-07-23T11:19:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
+      "published_date": "2026-07-24T06:01:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss",
-      "published_date": "2026-07-19T16:43:55+00:00",
-      "category": "Energy"
+      "title": "Luxembourg will not renew approval for Israeli war bonds, finance minister confirms",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/luxembourg-will-not-renew-approval-israeli-war-bonds-finance-minister-confirms",
+      "published_date": "2026-07-24T11:42:55+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Kuwait said power and water desalination plant attacked for second time in two days",
+      "title": "Israeli banks set to sever financial links with Palestinian banks, sparking payment fears",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-said-power-and-water-desalination-plant-attacked-second-time-two",
-      "published_date": "2026-07-19T11:47:06+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/severed-banking-ties-could-hit-aid-palestine-deepen-economic-crisis",
+      "published_date": "2026-07-24T11:17:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The British empire gave birth to these rogue regimes - this lawless alliance must end",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/british-empire-bequeathed-three-rogue-regimes-world-all-wreaking-havoc-today-uk-must-break",
+      "published_date": "2026-07-24T09:38:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
@@ -529,18 +550,46 @@
       "category": "Economy"
     },
     {
-      "title": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/17/as-chinese-economy-slows-experts-say-there-will-be-problems-for-beijing?traffic_source=rss",
-      "published_date": "2026-07-17T10:06:25+00:00",
-      "category": "Economy"
+      "title": "At least two Palestinians wounded in settler attacks in occupied West Bank, Red Crescent says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-2-palestinians-wounded-settler-attacks-occupied-west-bank-red",
+      "published_date": "2026-07-24T10:09:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Vessel hit 19 nautical miles away from Oman, maritime body says",
+      "title": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
+      "published_date": "2026-07-24T09:35:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian activist Wangchuk ends 26-day hunger strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss",
+      "published_date": "2026-07-24T07:08:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli attack wounds two paramedics in south Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vessel-hit-19-nautical-miles-away-oman-maritime-body-says",
-      "published_date": "2026-07-17T06:48:46+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-wounds-two-paramedics-south-lebanon",
+      "published_date": "2026-07-24T06:57:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four Palestinians killed in settler attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-palestinians-killed-settler-attack",
+      "published_date": "2026-07-24T06:52:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pride with a dash of prejudice: How the Spectator embraced the narrative of anti-Muslim bigotry",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/pride-and-prejudice-how-spectator-succumbed-narrative-anti-muslim-bigotry",
+      "published_date": "2026-07-24T06:21:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France wildfires force evacuation of over 20,000 people from tourist town",
@@ -638,48 +687,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-press-review-us-saudi-nuclear-deal-slammed-netanyahus-failure",
       "published_date": "2026-07-22T15:29:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India protest: How Modi’s refusal to sack education minister fits a pattern",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/india-protest-how-modis-refusal-to-sack-education-minister-fits-a-pattern?traffic_source=rss",
-      "published_date": "2026-07-22T12:09:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Centcom launches attacks against Iran, several blasts reported in Tabriz, Sirik",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-launches-attacks-against-iran-several-blasts-reported-tabriz",
-      "published_date": "2026-07-21T23:41:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French parliament passes social media ban for under-15s",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
-      "published_date": "2026-07-21T20:44:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court overturns ruling requiring release of pro-Palestinian activist Mohsen Mahdawi",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-appeals-court-overturns-ruling-release-pro-palestinian-activist-mohsen-mahdawi",
-      "published_date": "2026-07-21T19:44:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India’s ‘cockroach’ protest movement halts marches after police violence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence?traffic_source=rss",
-      "published_date": "2026-07-21T11:51:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hunger is falling but is still higher than pre-COVID levels: UN report",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/hunger-is-falling-but-is-still-higher-than-pre-covid-levels-un-report?traffic_source=rss",
-      "published_date": "2026-07-21T11:32:47+00:00",
       "category": "Local Events"
     }
   ]
