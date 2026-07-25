@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-25T00:08:50.221620+00:00",
-  "story_count": 98,
+  "last_updated": "2026-07-25T11:58:04.071710+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
+      "published_date": "2026-07-25T09:54:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
+      "published_date": "2026-07-25T07:22:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump: ‘I’m running for a fourth term as President of the United States’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss",
+      "published_date": "2026-07-25T06:40:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN chief arrives in Syria, likely to back post-Assad transition",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-arrives-syria-likely-back-post-assad-transition",
+      "published_date": "2026-07-25T05:58:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NYT: Trump switched planes in Turkey over Iran threat",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nyt-trump-switched-planes-turkey-over-iran-threat",
+      "published_date": "2026-07-25T05:33:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘The show must go on’: Trump returns to rescheduled White House press gala",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
+      "published_date": "2026-07-25T02:59:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
+      "published_date": "2026-07-25T01:09:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+      "published_date": "2026-07-25T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
+      "published_date": "2026-07-24T23:53:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Washington says Khan’s removal won’t impact plans to dismantle ICC",
       "source": "Middle East Eye",
@@ -81,67 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel’s Sa’ar helped secure ICC prosecutor’s removal, report says",
+      "title": "Palestinian killed in Israeli strike on Gaza City",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-saar-helped-secure-icc-prosecutors-removal-report-says",
-      "published_date": "2026-07-24T20:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-killed-israeli-strike-gaza-city",
+      "published_date": "2026-07-25T11:49:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel’s foreign minister calls for Netanyahu’s arrest warrant to be revoked after Khan’s removal",
+      "title": "Israeli attacks in Gaza kill at least six Palestinians, wound 37",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-foreign-minister-calls-netanyahus-arrest-warrant-be-revoked",
-      "published_date": "2026-07-24T18:58:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-gaza-kill-least-six-palestinians-wound-37",
+      "published_date": "2026-07-25T11:03:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "ICC prosecutor Karim Khan removed over ‘political’ sex abuse claims",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss",
-      "published_date": "2026-07-24T18:38:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump’s Israel condition on Saudi nuclear deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/trumps-israel-condition-on-saudi-nuclear-deal?traffic_source=rss",
-      "published_date": "2026-07-24T18:11:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sadiq Khan says Netanyahu perpetrating genocide and not welcome in London",
+      "title": "Tehran says Yemen conflict 'cannot be attributed to Iran'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/sadiq-khan-says-netanyahu-perpetrating-genocide-and-not-welcome-london",
-      "published_date": "2026-07-24T10:58:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-yemen-conflict-cannot-be-attributed-iran",
+      "published_date": "2026-07-25T10:42:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "The night Tunisia changed: How the Arab Spring's only democracy was destroyed",
+      "title": "UKMTO reports tanker 'encounter' with 'military forces' in Gulf of Oman",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/big-story/tunisia-the-night-everything-changed",
-      "published_date": "2026-07-24T10:00:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-tanker-encounter-military-forces-gulf-oman",
+      "published_date": "2026-07-25T09:25:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly?",
+      "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/24/trumps-latest-forced-labour-tariffs-whos-been-hit-how-badly?traffic_source=rss",
-      "published_date": "2026-07-24T09:13:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
+      "published_date": "2026-07-25T09:10:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "ICC prosecutor Karim Khan faces removal vote: What’s the case about?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-karim-khan-faces-removal-vote-whats-the-case?traffic_source=rss",
-      "published_date": "2026-07-24T08:26:51+00:00",
-      "category": "Diplomacy"
+      "title": "Why is Cair urging US Muslims to seek security from DHS?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/why-cair-urging-us-muslims-seek-security-from-dhs",
+      "published_date": "2026-07-25T08:35:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
+      "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
-      "published_date": "2026-07-24T06:48:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
+      "published_date": "2026-07-25T08:09:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Born too soon: Premature babies fight for survival in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-25T07:25:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-147",
+      "published_date": "2026-07-25T06:42:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Report: Israeli forces raid 70 homes, arrest dozens in Nablus",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-forces-raid-70-homes-arrest-dozens-nablus",
+      "published_date": "2026-07-25T06:23:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three alerts later, Saudi authorities say Yanbu 'danger passed'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/after-three-warnings-saudi-authorities-say-danger-passed-yanbu",
+      "published_date": "2026-07-25T04:39:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Firefighters battle fire after fertiliser explosion in England",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
+      "published_date": "2026-07-25T02:29:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
+      "published_date": "2026-07-25T01:30:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthis say Saudi attack on Hodeidah will lead to 'escalation for escalation'",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Kuwait and Bahrain launch air strikes on Iran: Report",
+      "title": "Saudi Arabia downs missiles fired from Yemen",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/kuwait-and-bahrain-launch-air-strikes-iran-report",
-      "published_date": "2026-07-24T19:54:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strike on LPG tanker kills two in Gulf of Oman, Fars reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strike-lpg-tanker-kills-two-gulf-oman-fars-reports",
-      "published_date": "2026-07-24T19:08:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss",
-      "published_date": "2026-07-24T18:15:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romanian jet fighter shoots down suspected Russian drone",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
-      "published_date": "2026-07-24T16:53:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japanese 'Arab resistance fighter' Kozo Okamoto dies at 78",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/ahmad-japanese-palestinian-resistance-figure-kozo-okamoto-dies-78",
-      "published_date": "2026-07-24T11:52:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside the struggle to 'stop the game' between Ireland and Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/inside-struggle-stop-game-between-ireland-and-israel",
-      "published_date": "2026-07-24T11:50:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
-      "published_date": "2026-07-24T11:45:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The killing of the settler in occupied West Bank was 'unplanned', Israeli army says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/killing-settler-occupied-west-bank-was-unplanned-israeli-army-says",
-      "published_date": "2026-07-24T11:20:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's IRGC attacks Al-Adiri base in Kuwait and observation tower in Bahrain",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-attacks-al-adiri-base-kuwait-and-observation-tower-bahrain",
-      "published_date": "2026-07-24T11:08:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces kill five-year-old girl Saja al-Sufi in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-5-year-old-child-saja-al-sufi-gaza",
-      "published_date": "2026-07-24T09:17:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu to meet defence minister and army chief after Israeli killed in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-convenes-defence-minister-and-army-chief-after-israeli-killed",
-      "published_date": "2026-07-24T08:52:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Major fire after Ukrainian strike on St Petersburg warehouse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
-      "published_date": "2026-07-24T08:42:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US attacks Iran for 13th consecutive night",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
-      "published_date": "2026-07-24T08:39:53+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudia-arabia-downs-missiles-fired-yemen",
+      "published_date": "2026-07-25T09:00:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "Palestinians could decide Israel’s election. But their parties are at a stalemate",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Kuwait says Iranian attacks damaged vital facilities",
+      "title": "In the cradle of Tunisia's revolution, anger gave way to apathy. Then Gaza happened",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-says-iranian-attacks-damaged-vital-facilities",
-      "published_date": "2026-07-19T19:50:07+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cradle-tunisias-revolution-anger-gave-way-apathy-then-gaza-happened",
+      "published_date": "2026-07-25T11:06:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "In the cradle of Tunisia's revolution, anger gave way to apathy. Then Gaza happened",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/tunisia-sidi-bouzid-gaza-genocide-broke-years-of-political-silence",
+      "published_date": "2026-07-25T11:00:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Luxembourg will not renew approval for Israeli war bonds, finance minister confirms",
@@ -550,6 +564,76 @@
       "category": "Economy"
     },
     {
+      "title": "MAP warns Palestinians in Nablus facing 'existential threat', calls on UK to act",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/map-warns-palestinians-nablus-facing-existential-threat-calls-uk-act",
+      "published_date": "2026-07-25T10:59:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers rampage through Palestinian village near Nablus",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-rampage-through-palestinian-village-near-nablus",
+      "published_date": "2026-07-25T10:33:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers rampage through Palestinian village near Nablus",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-settlers-rampage-through-palestinian-village-near-nablus-burn-homes-and-force-families",
+      "published_date": "2026-07-25T09:57:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Number of detained Palestinians from overnight Israeli raids reaches 66",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/number-detained-palestinians-overnight-israeli-raids-reaches-66",
+      "published_date": "2026-07-25T09:41:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India’s education minister resigns after weeks of ‘Cockroach’ protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
+      "published_date": "2026-07-25T08:54:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces conduct widespread raids across Jenin",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-conduct-widespread-raids-across-jenin",
+      "published_date": "2026-07-25T08:40:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfires in Spain and France force evacuation of 200,000 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people?traffic_source=rss",
+      "published_date": "2026-07-25T07:41:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EU 'deeply concerned' by escalation of violence in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-deeply-concerned-escalation-violence-west-bank",
+      "published_date": "2026-07-25T06:54:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Report: Overnight Israeli raids leave two Palestinians injured",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-overnight-israeli-raids-leave-two-palestinians-injured",
+      "published_date": "2026-07-25T05:15:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funerals held for four Palestinians killed in deadly West Bank shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss",
+      "published_date": "2026-07-25T04:29:17+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Settlers fire at Palestinian vehicles in Bethlehem village",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-fire-palestinian-vehicles-bethlehem-village",
@@ -617,76 +701,6 @@
       "source": "+972 Magazine",
       "url": "https://www.972mag.com/israel-west-bank-archaeology-sebastia-nabi-samwil/",
       "published_date": "2026-07-24T13:47:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least two Palestinians wounded in settler attacks in occupied West Bank, Red Crescent says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-2-palestinians-wounded-settler-attacks-occupied-west-bank-red",
-      "published_date": "2026-07-24T10:09:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
-      "published_date": "2026-07-24T09:35:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian activist Wangchuk ends 26-day hunger strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss",
-      "published_date": "2026-07-24T07:08:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli attack wounds two paramedics in south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-wounds-two-paramedics-south-lebanon",
-      "published_date": "2026-07-24T06:57:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four Palestinians killed in settler attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-palestinians-killed-settler-attack",
-      "published_date": "2026-07-24T06:52:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pride with a dash of prejudice: How the Spectator embraced the narrative of anti-Muslim bigotry",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/pride-and-prejudice-how-spectator-succumbed-narrative-anti-muslim-bigotry",
-      "published_date": "2026-07-24T06:21:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France wildfires force evacuation of over 20,000 people from tourist town",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/france-wildfires-force-evacuation-of-over-20000-people-from-tourist-town?traffic_source=rss",
-      "published_date": "2026-07-23T21:07:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss",
-      "published_date": "2026-07-23T19:58:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can India’s youth-led protest movement bring lasting change?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss",
-      "published_date": "2026-07-23T19:11:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children wounded in Israeli strike on Khan Younis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
-      "published_date": "2026-07-23T18:55:53+00:00",
       "category": "Local Events"
     }
   ]
