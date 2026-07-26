@@ -1,8 +1,29 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-25T11:58:04.071710+00:00",
-  "story_count": 100,
+  "last_updated": "2026-07-26T00:04:46.260706+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
+      "published_date": "2026-07-25T15:52:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What next for the ICC and the Palestine investigation after Karim Khan's removal?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/what-now-icc-and-palestine-investigation-after-karim-khans-removal",
+      "published_date": "2026-07-25T15:26:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What’s behind the ICC investigation into Karim Khan?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss",
+      "published_date": "2026-07-25T12:53:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
       "source": "Al Jazeera",
@@ -123,25 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump says Iranians getting 'very serious' in talks",
+      "title": "Iranian army claims nearly all US infrastructure in Iraq's Erbil base 'destroyed'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iranians-getting-very-serious-talks",
-      "published_date": "2026-07-24T20:43:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-claims-nearly-all-us-infrastructure-iraqs-erbil-base",
+      "published_date": "2026-07-26T00:03:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss",
-      "published_date": "2026-07-24T20:32:12+00:00",
-      "category": "Diplomacy"
+      "title": "Official says Trump's preference ' is diplomacy' as US pauses Iran strikes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/official-says-trumps-preference-diplomacy-us-pauses-iran-strikes",
+      "published_date": "2026-07-25T23:31:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Who is Afrah al-Zouba, Yemen’s first female foreign minister?",
+      "title": "Centcom says Iran naval blockade remains in full effect, 12 ships redirected",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-12-vessels-trying-reach-iranian-ports-redirected",
+      "published_date": "2026-07-25T23:21:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/who-is-afrah-al-zouba-yemens-first-female-foreign-minister?traffic_source=rss",
-      "published_date": "2026-07-24T20:18:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+      "published_date": "2026-07-25T22:07:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces tear gas journalists reporting Nablus shootout",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
+      "published_date": "2026-07-25T21:08:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+      "published_date": "2026-07-25T20:00:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 35 killed after two buses collide in eastern Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+      "published_date": "2026-07-25T19:22:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian death toll in Khan Younis reaches three",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-death-toll-khan-younis-reaches-four",
+      "published_date": "2026-07-25T14:53:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two Palestinians killed in Israeli air strike on family home",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-air-strike-family-home",
+      "published_date": "2026-07-25T14:32:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 14",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss",
+      "published_date": "2026-07-25T13:49:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraqi air defences down drone near US consulate in Erbil",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-air-defences-down-drone-near-us-consulate-erbil",
+      "published_date": "2026-07-25T13:25:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's IRGC says four vessels stopped in Hormuz in last 24 hours",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-four-vessels-stopped-hormuz-last-24-hours",
+      "published_date": "2026-07-25T13:09:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis claim attack on Saudi oil sites",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attack-saudi-oil-sites",
+      "published_date": "2026-07-25T12:49:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Palestinian killed in Israeli strike on Gaza City",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Born too soon: Premature babies fight for survival in Gaza",
+      "title": "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
-      "published_date": "2026-07-25T07:25:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning recap",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-147",
-      "published_date": "2026-07-25T06:42:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Report: Israeli forces raid 70 homes, arrest dozens in Nablus",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-forces-raid-70-homes-arrest-dozens-nablus",
-      "published_date": "2026-07-25T06:23:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three alerts later, Saudi authorities say Yanbu 'danger passed'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/after-three-warnings-saudi-authorities-say-danger-passed-yanbu",
-      "published_date": "2026-07-25T04:39:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Firefighters battle fire after fertiliser explosion in England",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
-      "published_date": "2026-07-25T02:29:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
-      "published_date": "2026-07-25T01:30:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis say Saudi attack on Hodeidah will lead to 'escalation for escalation'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-attack-hodeidah-will-lead-escalation-escalation",
-      "published_date": "2026-07-25T00:01:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military disable tanker trying to breach blockade of Iranian ports, official says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-disable-tanker-trying-breach-blockade-iranian-ports-official",
-      "published_date": "2026-07-24T22:34:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Buried in the new defence budget, a plan to merge the US and Israeli militaries",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/buried-new-defence-budget-plan-to-merge-us-israeli-militaries",
-      "published_date": "2026-07-24T20:34:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
-      "published_date": "2026-07-24T20:27:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
-      "published_date": "2026-07-24T20:22:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several strikes targeted Yemen's Hodeidah port, eyewitnesses say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-strikes-yemens-hodeidah-port-eyewitnesses-say",
-      "published_date": "2026-07-24T20:20:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kuwait and Bahrain launch air strikes on Iran: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-and-bahrain-launch-air-strikes-iran-report",
-      "published_date": "2026-07-24T20:11:30+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
+      "published_date": "2026-07-25T21:59:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia downs missiles fired from Yemen",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Police attack Cockroach activists as thousands march on Indian parliament",
+      "title": "F1 needs better balance between business and sport, says Norris",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/police-attack-cockroach-activists-as-thousands-march-on-indian-parliament?traffic_source=rss",
-      "published_date": "2026-07-20T09:51:25+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
+      "published_date": "2026-07-25T13:03:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "In the cradle of Tunisia's revolution, anger gave way to apathy. Then Gaza happened",
@@ -543,25 +550,67 @@
       "category": "Economy"
     },
     {
-      "title": "UKMTO says vessel seized in Gulf of Aden now in Somali waters",
+      "title": "What’s behind the Israeli crackdown in the occupied West Bank?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-07-25T23:30:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One dead, 16 injured as car reportedly strikes crowd at Berlin LGBTQ event",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
+      "published_date": "2026-07-25T22:31:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How India’s ‘Cockroach’ protesters shook the Modi government",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+      "published_date": "2026-07-25T20:57:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss",
+      "published_date": "2026-07-25T16:36:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'We want to see blood': Israeli political leadership and settler groups call for revenge against Palestinians",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-vessel-seized-gulf-aden-now-somali-waters",
-      "published_date": "2026-07-18T19:27:23+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/we-want-see-blood-israeli-political-leadership-and-settler-groups-call-revenge-against",
+      "published_date": "2026-07-25T16:01:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
+      "title": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss",
-      "published_date": "2026-07-18T16:06:06+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss",
+      "published_date": "2026-07-25T15:53:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid",
+      "title": "The Global South is being forced to choose creditors over children",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss",
-      "published_date": "2026-07-18T15:35:54+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss",
+      "published_date": "2026-07-25T14:33:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After ‘testing ground’ in Kashmir, pellet guns used on student protesters in India's capital",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/kashmir-testing-ground-indian-police-accused-attacking-students-pellets",
+      "published_date": "2026-07-25T13:10:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel kills head of northern Gaza police force",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-head-northern-gaza-police-force",
+      "published_date": "2026-07-25T13:03:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "MAP warns Palestinians in Nablus facing 'existential threat', calls on UK to act",
@@ -638,69 +687,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-fire-palestinian-vehicles-bethlehem-village",
       "published_date": "2026-07-24T23:20:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss",
-      "published_date": "2026-07-24T20:51:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers escalate attacks on Palestinians near Nablus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
-      "published_date": "2026-07-24T20:40:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elderly Palestinian suffers shrapnel injuries in Israeli forces’ shooting",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/elderly-palestinian-suffers-shrapnel-injuries-israeli-forces-shooting",
-      "published_date": "2026-07-24T20:02:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's 'Cockroach Party' takes aim at Narendra Modi's government after national exam debacle",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/indias-cockroach-party-takes-aim-narendra-modis-government-after-national-exam-debacle",
-      "published_date": "2026-07-24T19:39:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US school shooter pleads guilty in Georgia following father’s conviction",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/us-school-shooter-pleads-guilty-in-georgia-following-fathers-conviction?traffic_source=rss",
-      "published_date": "2026-07-24T18:31:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
-      "published_date": "2026-07-24T18:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel raids hospital, shuts off Nablus following deadly settler attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-raids-hospital-shuts-off-nablus-following-deadly-settler-attack?traffic_source=rss",
-      "published_date": "2026-07-24T17:59:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US records 2,318 measles cases, already surpassing 2025 total",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/us-records-2318-measles-cases-thus-far-in-2026-passing-2025-total?traffic_source=rss",
-      "published_date": "2026-07-24T16:52:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel seizing West Bank heritage sites ‘piece by piece’",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/israel-west-bank-archaeology-sebastia-nabi-samwil/",
-      "published_date": "2026-07-24T13:47:40+00:00",
       "category": "Local Events"
     }
   ]
