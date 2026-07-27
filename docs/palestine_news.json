@@ -1,8 +1,127 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-26T11:56:10.007859+00:00",
+  "last_updated": "2026-07-27T00:05:22.157711+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Qatar, Oman foreign ministers discuss US-Iran memorandum",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-oman-foreign-ministers-discuss-us-iran-memorandum",
+      "published_date": "2026-07-26T22:37:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump’s border czar probes possible vetting failures after ICE shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
+      "published_date": "2026-07-26T21:59:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump shares AI-generated images targeting Iran, Kharg Island",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-shares-threatening-ai-generated-images-targeting-iran",
+      "published_date": "2026-07-26T21:53:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US and Iran hit pause on strikes for second day",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
+      "published_date": "2026-07-26T20:55:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former President Hernandez returns to Honduras after Trump pardon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss",
+      "published_date": "2026-07-26T20:35:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
+      "published_date": "2026-07-26T19:13:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatari PM, UAE national security adviser discuss peace efforts",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-pm-uae-national-security-adviser-discuss-peace-efforts",
+      "published_date": "2026-07-26T18:11:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss",
+      "published_date": "2026-07-26T18:08:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exclusive: UK told Karim Khan it would not back him as ICC prosecutor before removal vote",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-uk-told-karim-khan-it-would-not-back-him-icc-prosecutor",
+      "published_date": "2026-07-26T16:52:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran foreign minister says Ukraine's attack on Iranian vessel 'cannot go unanswered'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-says-ukraines-attack-iranian-vessel-cannot-go",
+      "published_date": "2026-07-26T16:42:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bahrain, Israel hold talks on Abraham Accords",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-israel-hold-talks-abraham-accords",
+      "published_date": "2026-07-26T16:10:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exclusive: UK told Karim Khan it would not back him as ICC prosecutor before removal vote",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-told-karim-khan-it-would-not-back-him-icc-prosecutor-removal-vote",
+      "published_date": "2026-07-26T16:00:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pope Leo calls to ‘suspend the attacks’ and return to dialogue",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pope-leo-calls-suspend-attacks-and-return-dialogue",
+      "published_date": "2026-07-26T15:27:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu says Rubio told him US 'determined to act forcefully' against ICC after Khan's removal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/netanyahu-calls-icc-prosecutors-ouster-very-positive-development-renews-attack-court",
+      "published_date": "2026-07-26T15:14:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran says it will halt attacks as long as US maintains pause",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-it-will-halt-attacks-long-us-maintains-pause",
+      "published_date": "2026-07-26T15:11:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What next for the ICC and the Palestine investigation after Karim Khan's removal?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/what-next-icc-and-palestine-investigation-after-karim-khans-removal",
+      "published_date": "2026-07-26T14:16:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US envoy to UN: Trump pausing strikes to 'give a little bit of room' for Iran talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-envoy-un-trump-pausing-strikes-give-little-bit-room-iran-talks",
+      "published_date": "2026-07-26T14:09:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US says 'it is time to dismantle' ICC after Venezuela announces withdrawal",
       "source": "Middle East Eye",
@@ -25,123 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US welcomes Venezuela's decision to quit 'corrupt and worthless ICC'",
+      "title": "Israeli government nods to international stabilisation force in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
+      "published_date": "2026-07-26T21:10:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis claim Saudi drone downed over northwestern Yemen",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss",
+      "published_date": "2026-07-26T20:19:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian president says security deal with Israel would not compromise Golan rights",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-welcomes-venezuelas-decision-quit-corrupt-and-worthless-icc",
-      "published_date": "2026-07-26T04:20:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-president-says-security-deal-israel-would-not-compromise-golan",
+      "published_date": "2026-07-26T19:56:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
-      "published_date": "2026-07-25T15:52:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
+      "published_date": "2026-07-26T19:31:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "What next for the ICC and the Palestine investigation after Karim Khan's removal?",
+      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
+      "published_date": "2026-07-26T18:17:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel launches military incursion into Syria amid UN condemnation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
+      "published_date": "2026-07-26T17:40:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
+      "published_date": "2026-07-26T17:13:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
+      "published_date": "2026-07-26T16:49:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Darfur: Weaponising Identity",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
+      "published_date": "2026-07-26T16:20:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kashmiris call India's rule settler-colonialism - and we should listen to them",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/what-now-icc-and-palestine-investigation-after-karim-khans-removal",
-      "published_date": "2026-07-25T15:26:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What’s behind the ICC investigation into Karim Khan?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss",
-      "published_date": "2026-07-25T12:53:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
-      "published_date": "2026-07-25T09:54:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
-      "published_date": "2026-07-25T07:22:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump: ‘I’m running for a fourth term as President of the United States’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss",
-      "published_date": "2026-07-25T06:40:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN chief arrives in Syria, likely to back post-Assad transition",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-arrives-syria-likely-back-post-assad-transition",
-      "published_date": "2026-07-25T05:58:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NYT: Trump switched planes in Turkey over Iran threat",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nyt-trump-switched-planes-turkey-over-iran-threat",
-      "published_date": "2026-07-25T05:33:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘The show must go on’: Trump returns to rescheduled White House press gala",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
-      "published_date": "2026-07-25T02:59:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
-      "published_date": "2026-07-25T01:09:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
-      "published_date": "2026-07-25T00:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
-      "published_date": "2026-07-24T23:53:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Washington says Khan’s removal won’t impact plans to dismantle ICC",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/washington-says-khans-removal-wont-impact-plans-dismantle-icc",
-      "published_date": "2026-07-24T23:44:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IOC rejects human rights group’s complaint against Trump ally Infantino",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/24/ioc-rejects-human-rights-groups-complaint-against-trump-ally-infantino?traffic_source=rss",
-      "published_date": "2026-07-24T23:24:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela will withdraw from International Criminal Court, foreign minister says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/venezuela-will-withdraw-international-criminal-court-foreign-minister",
-      "published_date": "2026-07-24T23:01:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN assembly approves four-year extension in mandate of rights chief",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-assembly-approves-four-year-extension-mandate-rights-chief",
-      "published_date": "2026-07-24T22:47:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/opinion/kashmiris-call-indias-rule-settler-colonialism-and-we-should-listen",
+      "published_date": "2026-07-26T16:19:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Lebanon's army condemns Israeli attacks preventing deployment in south",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Saudi reconnaissance drone downed, claim Houthis",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-downed-saudi-reconaissance-drone",
-      "published_date": "2026-07-26T10:09:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Palestinians killed in Israeli attacks on Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-attacks-gaza",
-      "published_date": "2026-07-26T08:17:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kuwait condemns Houthi attacks in Red Sea",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-condemns-houthi-attacks-red-sea",
-      "published_date": "2026-07-26T05:26:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+      "title": "Cuban president accuses US of genocide, seeking takeover",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
-      "published_date": "2026-07-26T04:40:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Report: Israeli settlers set fire to Al-Rahma Mosque in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-settlers-set-fire-al-rahma-mosque-west-bank",
-      "published_date": "2026-07-26T04:36:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military disables tanker accused of breaking the Iran blockade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
-      "published_date": "2026-07-26T04:33:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian army claims nearly all US infrastructure in Iraq's Erbil base 'destroyed'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-claims-nearly-all-us-infrastructure-iraqs-erbil-base",
-      "published_date": "2026-07-26T00:03:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Official says Trump's preference ' is diplomacy' as US pauses Iran strikes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/official-says-trumps-preference-diplomacy-us-pauses-iran-strikes",
-      "published_date": "2026-07-25T23:31:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Centcom says Iran naval blockade remains in full effect, 12 ships redirected",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-12-vessels-trying-reach-iranian-ports-redirected",
-      "published_date": "2026-07-25T23:21:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces target Gaza’s Al-Aqsa hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
-      "published_date": "2026-07-25T22:07:36+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/7/26/cuban-president-accuses-us-of-genocide-seeking-takeover?traffic_source=rss",
+      "published_date": "2026-07-26T19:16:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Thousands rally against Tunisia’s president five years after power grab",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Photos: Police fire tear gas at India’s Cockroach movement supporters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/7/20/photos-police-fire-tear-gas-at-indias-cockroach-movement-supporters?traffic_source=rss",
-      "published_date": "2026-07-20T11:34:38+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "F1 needs better balance between business and sport, says Norris",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
@@ -543,6 +543,55 @@
       "category": "Economy"
     },
     {
+      "title": "Tunisia: Ghannouchi’s daughter says family denied information after his collapse in prison",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/tunisia-ghannouchis-daughter-says-family-denied-information-after-his-collapse-prison",
+      "published_date": "2026-07-26T21:07:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces raid Qalandiya refugee camp, injure Palestinian",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-qalandiya-refugee-camp-injure-palestinian",
+      "published_date": "2026-07-26T19:26:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers burn two mosques in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-burn-two-mosques-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-07-26T18:51:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers establish three new outposts in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-establish-three-new-outposts-west-bank",
+      "published_date": "2026-07-26T18:48:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli security cabinet approves international force entering Gaza beyond Israeli-occupied areas",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-security-cabinet-approves-allowing-international-force-gaza",
+      "published_date": "2026-07-26T17:12:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is India’s new education minister Pralhad Joshi?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/who-is-indias-new-education-minister-pralhad-joshi?traffic_source=rss",
+      "published_date": "2026-07-26T16:18:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In photos: Aftermath of Israeli settler attacks on West Bank mosques",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/photos-aftermath-israeli-settler-attacks-west-bank-mosques",
+      "published_date": "2026-07-26T16:05:57+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Netanyahu says Israel 'prepared to act more broadly' in occupied West Bank",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-prepared-act-more-broadly-occupied-west-bank",
@@ -631,55 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
       "published_date": "2026-07-25T23:30:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One dead, 16 injured as car reportedly strikes crowd at Berlin LGBTQ event",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
-      "published_date": "2026-07-25T22:31:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How India’s ‘Cockroach’ protesters shook the Modi government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
-      "published_date": "2026-07-25T20:57:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss",
-      "published_date": "2026-07-25T16:36:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We want to see blood': Israeli political leadership and settler groups call for revenge against Palestinians",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/we-want-see-blood-israeli-political-leadership-and-settler-groups-call-revenge-against",
-      "published_date": "2026-07-25T16:01:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss",
-      "published_date": "2026-07-25T15:53:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Global South is being forced to choose creditors over children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss",
-      "published_date": "2026-07-25T14:33:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After ‘testing ground’ in Kashmir, pellet guns used on student protesters in India's capital",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/kashmir-testing-ground-indian-police-accused-attacking-students-pellets",
-      "published_date": "2026-07-25T13:10:20+00:00",
       "category": "Local Events"
     }
   ]
