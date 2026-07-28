@@ -1,8 +1,120 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-07-27T13:33:05.741100+00:00",
-  "story_count": 96,
+  "last_updated": "2026-07-28T00:05:39.822739+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Netanyahu departs for Washington to meet Trump",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-departs-washington-meet-trump",
+      "published_date": "2026-07-27T23:26:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US diplomats walk out as France addresses UN Security Council",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
+      "published_date": "2026-07-27T23:07:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan condemns drone attacks against Saudi Arabia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-condemns-drone-attacks-against-saudi-arabia",
+      "published_date": "2026-07-27T22:06:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says the US is ‘winning big time’ with Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-winning-big-time-iran",
+      "published_date": "2026-07-27T21:33:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
+      "published_date": "2026-07-27T21:24:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+      "published_date": "2026-07-27T21:04:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hakeem Jeffries puts affordability at centre of Democrats’ midterm campaign",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/27/hakeem-jeffries-puts-affordability-at-centre-of-democrats-midterm-campaign?traffic_source=rss",
+      "published_date": "2026-07-27T20:27:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yemen's FM says Houthis using Bab al-Mandeb to mirror Iran's pressure",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-fm-says-houthis-using-bab-al-mandeb-mirror-irans-pressure",
+      "published_date": "2026-07-27T20:24:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Senator Graham offered military support for Israeli war on Lebanon, new footage shows",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-senator-graham-offered-us-military-support-israeli-war-lebanon-new-footage-shows",
+      "published_date": "2026-07-27T19:35:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN experts urge Iran to halt death sentences of 10 men",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-experts-urge-iran-halt-death-sentences-10-men",
+      "published_date": "2026-07-27T18:47:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 16",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
+      "published_date": "2026-07-27T17:57:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What drove Venezuela’s decision to leave the ICC?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/what-drove-venezuelas-decision-to-leave-the-icc?traffic_source=rss",
+      "published_date": "2026-07-27T17:34:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Opinion: Why tying a Saudi nuclear deal to Israel is a strategic mistake",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/why-tying-saudi-nuclear-deal-israel-strategic-mistake",
+      "published_date": "2026-07-27T17:30:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he will ask Putin if Russian satellites are aiding Tehran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-will-ask-putin-if-russian-satellites-are-aiding-tehran",
+      "published_date": "2026-07-27T17:12:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why tying a Saudi nuclear deal to Israel is a strategic mistake",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/why-tying-saudi-nuclear-deal-israel-strategic-mistake",
+      "published_date": "2026-07-27T16:59:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kuwait condemns drone attacks on Saudi oil facilities",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-condemns-drone-attacks-saudi-oil-facilities",
+      "published_date": "2026-07-27T16:34:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Karim Khan dared to hold Israel to account - and that's why he was brought down",
       "source": "Middle East Eye",
@@ -32,116 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Netanyahu leaves for US visit despite ICC warrant",
+      "title": "US drone shot down over Iraq’s Anbar, report says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-leaves-us-visit-despite-icc-warrant",
-      "published_date": "2026-07-27T12:22:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-drone-shot-down-over-iraqs-anbar-report-says",
+      "published_date": "2026-07-27T22:50:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump's move to restore direct Lebanon flights raises diaspora hopes",
+      "title": "US Senator Graham offered military support for Israeli war on Lebanon, new footage shows",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-move-restore-direct-lebanon-flights-raises-diaspora-hopes",
-      "published_date": "2026-07-27T10:14:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-graham-offered-military-support-israeli-war-lebanon-new",
+      "published_date": "2026-07-27T22:39:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-589",
-      "published_date": "2026-07-27T05:41:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar, Oman foreign ministers discuss US-Iran memorandum",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-oman-foreign-ministers-discuss-us-iran-memorandum",
-      "published_date": "2026-07-26T22:37:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump’s border czar probes possible vetting failures after ICE shooting",
+      "title": "Video shows man subdued after stabbing three women in Paris",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
-      "published_date": "2026-07-26T21:59:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
+      "published_date": "2026-07-27T21:27:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump shares AI-generated images targeting Iran, Kharg Island",
+      "title": "Iran’s health minister says 60 killed in recent US attacks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-shares-threatening-ai-generated-images-targeting-iran",
-      "published_date": "2026-07-26T21:53:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-health-minister-says-60-killed-recent-us-attacks",
+      "published_date": "2026-07-27T21:25:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "US and Iran hit pause on strikes for second day",
+      "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, poll finds",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/just-one-three-americans-back-iran-war-most-unsure-trumps-goals-poll",
+      "published_date": "2026-07-27T20:54:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
-      "published_date": "2026-07-26T20:55:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
+      "published_date": "2026-07-27T20:12:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former President Hernandez returns to Honduras after Trump pardon",
+      "title": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss",
-      "published_date": "2026-07-26T20:35:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss",
+      "published_date": "2026-07-27T20:09:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
+      "title": "UN eyeing potential Israeli war crimes in Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
-      "published_date": "2026-07-26T19:13:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/27/un-eyeing-potential-israeli-war-crimes-in-lebanon?traffic_source=rss",
+      "published_date": "2026-07-27T19:32:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatari PM, UAE national security adviser discuss peace efforts",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-pm-uae-national-security-adviser-discuss-peace-efforts",
-      "published_date": "2026-07-26T18:11:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list",
+      "title": "Pakistan-administered Kashmir opens polls in violence-wracked vote",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss",
-      "published_date": "2026-07-26T18:08:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss",
+      "published_date": "2026-07-27T18:53:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Exclusive: UK told Karim Khan it would not back him as ICC prosecutor before removal vote",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-uk-told-karim-khan-it-would-not-back-him-icc-prosecutor",
-      "published_date": "2026-07-26T16:52:44+00:00",
-      "category": "Diplomacy"
+      "title": "Are the US and Iran heading towards a forever war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
+      "published_date": "2026-07-27T18:40:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran foreign minister says Ukraine's attack on Iranian vessel 'cannot go unanswered'",
+      "title": "Iraq says opens probe into Saudi drone attack claim",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-says-ukraines-attack-iranian-vessel-cannot-go",
-      "published_date": "2026-07-26T16:42:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-says-opens-probe-saudi-drone-attack-claim",
+      "published_date": "2026-07-27T18:31:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bahrain, Israel hold talks on Abraham Accords",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-israel-hold-talks-abraham-accords",
-      "published_date": "2026-07-26T16:10:12+00:00",
-      "category": "Diplomacy"
+      "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
+      "published_date": "2026-07-27T17:58:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Exclusive: UK told Karim Khan it would not back him as ICC prosecutor before removal vote",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-told-karim-khan-it-would-not-back-him-icc-prosecutor-removal-vote",
-      "published_date": "2026-07-26T16:00:08+00:00",
-      "category": "Diplomacy"
+      "title": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
+      "published_date": "2026-07-27T17:41:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pope Leo calls to ‘suspend the attacks’ and return to dialogue",
+      "title": "Israeli election campaign billboards in Cyprus spark debate",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pope-leo-calls-suspend-attacks-and-return-dialogue",
-      "published_date": "2026-07-26T15:27:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/trending/israeli-opposition-campaign-billboard-cyprus-sparks-debate",
+      "published_date": "2026-07-27T17:07:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel attacks civilians sheltering at UN school in Gaza, while separate strike kills two",
@@ -186,102 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Why has the US halted its bombing of Iran?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss",
-      "published_date": "2026-07-27T10:55:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces storm multiple West Bank towns, settler violence worsens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss",
-      "published_date": "2026-07-27T10:41:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five protesters convicted of criminal damage face sentencing as terrorists",
+      "title": "Saudi Arabia halt operations at major oil facility after Houthi attack",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/five-protesters-convicted-criminal-damage-face-sentencing-terrorists",
-      "published_date": "2026-07-27T09:13:31+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-halt-operations-major-oil-facility-after-houthi-attack",
+      "published_date": "2026-07-28T00:05:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The Ban: A censorship loophole during the conflict in Northern Ireland",
+      "title": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/witness/2026/7/27/the-ban-a-censorship-loophole-during-the-conflict-in-northern-ireland?traffic_source=rss",
-      "published_date": "2026-07-27T09:05:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The AI military complex: Which are the main companies in it?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it?traffic_source=rss",
-      "published_date": "2026-07-27T08:09:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pregnant Palestinian woman loses child after Israeli forces obstruct ambulance",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pregnant-palestinian-woman-miscarries-after-israeli-forces-obstruct",
-      "published_date": "2026-07-27T07:02:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese army condemns ongoing Israeli 'attacks and violations'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-condemns-ongoing-israeli-attacks-and-violations",
-      "published_date": "2026-07-27T06:38:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss",
-      "published_date": "2026-07-27T06:15:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces storm homes in south Syria",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-storm-homes-south-syria",
-      "published_date": "2026-07-27T06:11:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli government nods to international stabilisation force in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
-      "published_date": "2026-07-26T21:10:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis claim Saudi drone downed over northwestern Yemen",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss",
-      "published_date": "2026-07-26T20:19:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian president says security deal with Israel would not compromise Golan rights",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-president-says-security-deal-israel-would-not-compromise-golan",
-      "published_date": "2026-07-26T19:56:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
-      "published_date": "2026-07-26T19:31:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
-      "published_date": "2026-07-26T18:17:22+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
+      "published_date": "2026-07-27T21:08:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Greta Thunberg joins London rally in support of Indian students",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Andy Burnham to cut taxes on electricity bills, announces new UK cabinet",
+      "title": "Trump takes economic message to Michigan amid dwindling popularity",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/andy-burnham-to-cut-taxes-on-electricity-bills-announces-new-uk-cabinet?traffic_source=rss",
-      "published_date": "2026-07-21T10:20:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran claims attacks on Amazon infrastructure in Bahrain",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-claims-attacks-amazon-infrastructure-bahrain",
-      "published_date": "2026-07-21T06:25:11+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/7/27/trump-takes-economic-message-to-michigan-amid-dwindling-popularity?traffic_source=rss",
+      "published_date": "2026-07-27T20:23:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "F1 needs better balance between business and sport, says Norris",
@@ -515,25 +522,32 @@
       "category": "Economy"
     },
     {
-      "title": "Tanker hit off the coast of Oman, UK maritime agency says",
+      "title": "Explosions heard in Erbil",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-coast-oman-uk-maritime-agency-says",
-      "published_date": "2026-07-20T23:35:04+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-erbil",
+      "published_date": "2026-07-27T21:53:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UKMTO says tanker reports being struck in Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-tanker-reports-being-struck-strait-hormuz",
-      "published_date": "2026-07-20T22:21:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Yemeni women support families through enterprise as economic crisis bites",
+      "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/20/yemeni-women-support-families-through-enterprise-as-economic-crisis-bites?traffic_source=rss",
-      "published_date": "2026-07-20T19:36:37+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-07-27T21:17:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian woman delivers stillborn baby after Israeli checkpoint delay, medics say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-woman-delivers-stillborn-baby-after-israeli-checkpoint-delay",
+      "published_date": "2026-07-27T20:18:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/will-unescos-heritage-listing-halt-israeli-plans-for-west-banks-sebastia?traffic_source=rss",
+      "published_date": "2026-07-27T17:36:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What an Israeli settler pogrom feels like",
@@ -645,34 +659,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-vehicle-deir-al-balah-kills-two",
       "published_date": "2026-07-26T10:13:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli protesters denounce deadly settler violence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-protesters-denounce-deadly-settler-violence?traffic_source=rss",
-      "published_date": "2026-07-26T10:06:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
-      "published_date": "2026-07-26T08:55:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces conduct 'major raid' in West Bank's Rafidia, settlers set light to mosques in Tulkarem and Nablus",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-conduct-major-raid-west-banks-rafidia-settlers-set-light",
-      "published_date": "2026-07-26T08:43:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel raids West Bank live: PM Netanyahu threatens ‘more broad action’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
-      "published_date": "2026-07-26T07:55:30+00:00",
       "category": "Local Events"
     }
   ]
