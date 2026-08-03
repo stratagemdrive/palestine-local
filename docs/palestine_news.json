@@ -1,8 +1,57 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-03T00:02:35.928529+00:00",
+  "last_updated": "2026-08-03T13:33:32.334979+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iran denies talks with US as Trump halts strikes at the last minute",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-talks-us-trump-halts-strikes-last-minute",
+      "published_date": "2026-08-03T12:23:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestine’s new ambassador to Spain calls for deeper friendship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss",
+      "published_date": "2026-08-03T12:09:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How loyalty between Iran and Kuwait gave way to mistrust",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/how-loyalty-between-iran-and-kuwait-gave-way-mistrust",
+      "published_date": "2026-08-03T12:04:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
+      "published_date": "2026-08-03T10:53:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US cricket player Reddy receives eight-year ban for match-fixing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/3/us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing?traffic_source=rss",
+      "published_date": "2026-08-03T10:52:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says new Iran negotiations starting: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss",
+      "published_date": "2026-08-03T09:44:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Israel is a friend of budding autocrats around the world",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/why-israel-friend-budding-autocrats-around-world",
+      "published_date": "2026-08-03T07:26:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says new talks with Iran to begin Monday after calling off strikes",
       "source": "Middle East Eye",
@@ -95,53 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Report: Saudi crown prince urged Trump to refrain from strikes",
+      "title": "19 people killed by Israeli strikes in Gaza over past day",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-saudi-crown-prince-urged-trump-refrain-strikes",
-      "published_date": "2026-08-02T05:00:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nineteen-people-killed-israeli-strikes-gaza-over-past-day",
+      "published_date": "2026-08-03T12:40:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
+      "title": "Who will shape post-war Iran?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
-      "published_date": "2026-08-02T02:58:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
+      "published_date": "2026-08-03T12:11:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says cancelled attack on Iran subject to Hormuz opening, end to 'nuclear threat'",
+      "title": "How loyalty between Iran and Kuwait gave way to mistrust",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-cancelled-attack-iran-subject-hormuz-opening-end-nuclear",
-      "published_date": "2026-08-02T02:28:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/how-loyalty-between-iran-and-kuwait-gave-way-mistrust",
+      "published_date": "2026-08-03T11:57:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "US embassies issue alerts after Trump vows to hit Iran ‘hard’",
+      "title": "Emergency army mobilisation extended by Israel for two months",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/emergency-army-mobilisation-extended-israel-two-months",
+      "published_date": "2026-08-03T11:55:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran denies talks with US as Trump halts strikes at the last minute",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-denies-talks-us-trump-halts-strikes-last-minute",
+      "published_date": "2026-08-03T11:45:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine strikes Russia’s biggest retailer again",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss",
-      "published_date": "2026-08-02T02:24:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
+      "published_date": "2026-08-03T11:03:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pezeshkian recalls Haniyeh assassination, hails Iranians as 'real heroes'",
+      "title": "IRGC says it intercepted drone over Strait of Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-recalls-haniyeh-assassination-hails-iranians-real-heroes",
-      "published_date": "2026-08-02T01:53:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-intercepted-drone-over-strait-hormuz",
+      "published_date": "2026-08-03T10:57:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rubio says Iran confronting 'different kind of US president' under Trump",
+      "title": "Iran says currently no negotiations with US",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-iran-confronting-different-kind-us-president-under-trump",
-      "published_date": "2026-08-02T01:05:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-currently-no-negotiations-us",
+      "published_date": "2026-08-03T09:52:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran's Araghchi touts phone calls warning of 'decisive' response to any US aggression",
+      "title": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
+      "published_date": "2026-08-03T09:05:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss",
+      "published_date": "2026-08-03T09:01:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Michael Thorbjornsen wins first PGA Tour title at Rocket Classic",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss",
+      "published_date": "2026-08-03T08:25:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-touts-phone-calls-warning-decisive-response-any-us",
-      "published_date": "2026-08-01T22:00:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-594",
+      "published_date": "2026-08-03T07:01:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces drop missiles, phosphorus bombs on southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-drop-missiles-phosphorus-bombs-southern-lebanon",
+      "published_date": "2026-08-03T06:53:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran executes two accused of colluding with Israel's Mossad",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-two-accused-colluding-israels-mossad",
+      "published_date": "2026-08-03T06:31:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Blast reported near vessel 20 nautical miles away from Oman",
@@ -186,102 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
+      "title": "Pakistan-administered Kashmir elections and protests – all you need to know",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
-      "published_date": "2026-08-02T17:57:01+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss",
+      "published_date": "2026-08-03T11:51:30+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Centcom says it has redirected 35 vessels",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-it-has-redirected-35-vessels",
-      "published_date": "2026-08-02T17:17:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly floods and landslide hit India’s Kerala",
+      "title": "Wildfires still burning in France and Spain amid fears of more to come",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss",
-      "published_date": "2026-08-02T16:55:39+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
+      "published_date": "2026-08-03T09:32:43+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Suicide bomber kills 14 outside police station in Pakistan’s Swat",
+      "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss",
-      "published_date": "2026-08-02T16:40:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces set fire to houses in southern Lebanon, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-set-fire-houses-southern-lebanon-report-says",
-      "published_date": "2026-08-02T15:43:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settlers shoot Palestinian child during farm raid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
-      "published_date": "2026-08-02T15:36:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How to end the ‘Hormuz war’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
-      "published_date": "2026-08-02T15:33:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'They almost killed my child': Women in Syria's Roj camp describe night of gunfire and fear",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/they-almost-killed-my-child-women-syrias-roj-camp-describe-night-gunfire-and-fear",
-      "published_date": "2026-08-02T15:01:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks kill 14 in Gaza on Sunday",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-14-gaza-sunday",
-      "published_date": "2026-08-02T14:42:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss",
-      "published_date": "2026-08-02T11:07:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump 'cancels' Iran strikes as Israeli attacks on Gaza continue",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-cancels-iran-strikes-israeli-attacks-gaza-continue",
-      "published_date": "2026-08-02T10:45:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli soldiers jailed over Sde Teiman walkout",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss",
-      "published_date": "2026-08-02T10:31:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces claim Hamas commanders killed in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-claim-hamas-commanders-killed-gaza",
-      "published_date": "2026-08-02T06:55:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas, PIJ stress full Israeli withdrawal from Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-pij-stress-full-israeli-withdrawal-gaza",
-      "published_date": "2026-08-02T06:34:23+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
+      "published_date": "2026-08-03T09:13:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Israel clears Jewish supremacist party to contest election",
+      "title": "'We will rise again': A new generation of Tunisians prepare for Ennahda's return",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-clears-jewish-supremacist-party-contest-election",
-      "published_date": "2026-07-29T10:08:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi defence ministry says it intercepted Iraqi drones targeting oil facilities",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-defence-ministry-says-it-intercepted-iraqi-drones-targeting-oil",
-      "published_date": "2026-07-28T19:39:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Are Iran and the US fighting a war neither side can win?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/are-iran-and-us-fighting-war-neither-side-can-win",
-      "published_date": "2026-07-28T12:33:09+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/tunisia-ennahda-young-generation-members-prepare-return",
+      "published_date": "2026-08-03T10:32:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Ukrainian farmers use temporary storage to revive grain exports",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "With US troops departing, Iraq looks beyond balancing Washington and Tehran",
+      "title": "How Lamine Yamal became a symbol of Spain’s identity debate",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/can-iraq-finally-break-free-us-iran-tug-war",
-      "published_date": "2026-07-28T11:57:01+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/how-lamine-yamal-became-symbol-spains-identity-debate",
+      "published_date": "2026-08-03T13:09:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli court blocks Ben Gvir crocodile moat plan for prisons holding Palestinians",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-court-blocks-ben-gvir-crocodile-moats-outside-prisons-holding-palestinians",
+      "published_date": "2026-08-03T12:56:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'They want to make us leave': Israel destroys West Bank wells serving Palestinian herders",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/they-want-make-us-leave-israel-destroys-west-bank-wells-serving-palestinian-herders",
+      "published_date": "2026-08-03T11:10:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Israeli presence in Forest City exposes the Zionist-aligned underbelly of Malaysia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/how-israeli-presence-forest-city-exposes-zionist-aligned-underbelly-malaysia",
+      "published_date": "2026-08-03T08:49:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Refugee Convention at 75: Britain owes Palestine an answer",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/refugee-convention-75-britain-owes-palestine-answer",
+      "published_date": "2026-08-03T07:27:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
+      "published_date": "2026-08-03T06:09:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palestinian ‘doctor of the poor’ says he faces abuse, medical neglect in Israeli prison",
@@ -659,48 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss",
       "published_date": "2026-08-02T03:46:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child among four Palestinians killed in Israeli strikes on Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-among-four-palestinians-killed-israeli-strikes-gaza",
-      "published_date": "2026-08-02T00:38:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexican activists call for end to water agreements with Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mexican-activists-call-end-water-agreements-israel",
-      "published_date": "2026-08-02T00:32:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza civil defence teams recover remains of 112 Palestinians from rubble",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-civil-defence-teams-recover-remains-112-palestinians-rubble",
-      "published_date": "2026-08-01T23:22:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
-      "published_date": "2026-08-01T22:31:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian children among those detained in Israeli West Bank raids: report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-children-among-those-detained-israeli-west-bank-raids",
-      "published_date": "2026-08-01T20:12:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian children among those detained by Israel in West Bank raids",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
-      "published_date": "2026-08-01T18:51:14+00:00",
       "category": "Local Events"
     }
   ]
