@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-03T13:33:32.334979+00:00",
+  "last_updated": "2026-08-04T00:12:21.680966+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+      "published_date": "2026-08-04T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+      "published_date": "2026-08-03T22:35:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
+      "published_date": "2026-08-03T19:45:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he will not let Iran charge for Hormuz transit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-will-not-let-iran-charge-hormuz-transit",
+      "published_date": "2026-08-03T18:39:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Iran talks happening ‘right now’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-talks-happening-right-now",
+      "published_date": "2026-08-03T18:13:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+      "published_date": "2026-08-03T16:33:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran denies talks with US as Trump halts strikes at the last minute",
       "source": "Middle East Eye",
@@ -102,186 +144,158 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran says Hormuz talks with Oman in final stages",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-hormuz-talks-oman-final-stages",
-      "published_date": "2026-08-02T16:46:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Capital One cites anti-money laundering concerns in Trump Organization case",
+      "title": "Two workers who died in quake-hit Japan mall were sent in to get cash",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/2/capital-one-cites-anti-money-laundering-concerns-in-trump-organization-case?traffic_source=rss",
-      "published_date": "2026-08-02T16:27:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
+      "published_date": "2026-08-03T23:52:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
+      "title": "Iranian plan to attack Ukraine canceled after Kyiv apology",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-plan-attack-ukraine-canceled-after-kyiv-apology",
+      "published_date": "2026-08-03T23:45:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel revels in Spain's migrant crisis while embarrassing ally Morocco",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-celebrates-spains-migrant-crisis-and-humiliates-its-own-ally-morocco",
+      "published_date": "2026-08-03T23:05:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkish intelligence chief meets Hamas delegation in Istanbul",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-intelligence-chief-meets-hamas-delegation-istanbul",
+      "published_date": "2026-08-03T22:58:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three Palestinians injured in Israeli raid of eastern Nablus",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-palestinians-injured-israeli-raid-eastern-nablus",
+      "published_date": "2026-08-03T21:18:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Israel withdraw from Gaza if Hamas disarms?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
-      "published_date": "2026-08-02T16:10:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
+      "published_date": "2026-08-03T21:05:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+      "title": "Drone strike on North Darfur court kills at least 35, rights group says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/drone-strike-north-darfur-court-kills-least-35-rights-group-says",
+      "published_date": "2026-08-03T20:59:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two Palestinians killed in Israeli strike southwest of Gaza City",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-strike-southwest-gaza-city",
+      "published_date": "2026-08-03T20:09:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Clergy members arrested while protesting at Senate office",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss",
-      "published_date": "2026-08-02T09:43:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
+      "published_date": "2026-08-03T19:53:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "MBS and Trump talk over the phone",
+      "title": "Pentagon is emailing military experts and asking best way to 'punish' Iran: Report",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mbs-and-trump-talk-over-phone",
-      "published_date": "2026-08-02T09:38:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-emailing-military-experts-and-asking-best-way-punish-iran",
+      "published_date": "2026-08-03T19:32:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump ‘cancels attack on Iran’ saying deal is near",
+      "title": "Pentagon is emailing military experts and asking best way to 'punish' Iran: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/pentagon-emailing-military-experts-ask-best-way-to-punish-iran-report",
+      "published_date": "2026-08-03T19:26:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel pitched advanced drones to UAE, leaked emails reveal: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-pitched-advanced-drones-uae-leaked-emails-reveal-report",
+      "published_date": "2026-08-03T19:24:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Centcom says it redirected 44 ships, disabled two, boarded two",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-it-redirected-44-ships-disabled-2-boarded-2",
+      "published_date": "2026-08-03T19:22:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel pitched advanced drones to UAE, leaked emails reveal: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-pitched-advanced-drones-uae-leaked-emails-reveal-report",
+      "published_date": "2026-08-03T19:01:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Netanyahu survive Israel’s most consequential election?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
-      "published_date": "2026-08-02T08:43:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "19 people killed by Israeli strikes in Gaza over past day",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nineteen-people-killed-israeli-strikes-gaza-over-past-day",
-      "published_date": "2026-08-03T12:40:48+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
+      "published_date": "2026-08-03T18:16:00+00:00",
       "category": "Military"
     },
     {
-      "title": "Who will shape post-war Iran?",
+      "title": "Trump’s 'Board of Peace' says Israeli withdrawal from Gaza reliant on ‘complete’ Hamas disarmament",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-board-peace-says-israeli-withdrawal-gaza-reliant-complete-hamas",
+      "published_date": "2026-08-03T18:07:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone slams into Russian beach, killing at least 7 people",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
-      "published_date": "2026-08-03T12:11:03+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss",
+      "published_date": "2026-08-03T18:05:23+00:00",
       "category": "Military"
     },
     {
-      "title": "How loyalty between Iran and Kuwait gave way to mistrust",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-loyalty-between-iran-and-kuwait-gave-way-mistrust",
-      "published_date": "2026-08-03T11:57:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Emergency army mobilisation extended by Israel for two months",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/emergency-army-mobilisation-extended-israel-two-months",
-      "published_date": "2026-08-03T11:55:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran denies talks with US as Trump halts strikes at the last minute",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-denies-talks-us-trump-halts-strikes-last-minute",
-      "published_date": "2026-08-03T11:45:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes Russia’s biggest retailer again",
+      "title": "Trump says ongoing talks are Iran’s ‘last chance’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
-      "published_date": "2026-08-03T11:03:23+00:00",
+      "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
+      "published_date": "2026-08-03T17:38:01+00:00",
       "category": "Military"
     },
     {
-      "title": "IRGC says it intercepted drone over Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-intercepted-drone-over-strait-hormuz",
-      "published_date": "2026-08-03T10:57:19+00:00",
+      "title": "‘Lives cut short’: Gaza’s surging miscarriage crisis",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/gaza-genocide-miscarriage-crisis/",
+      "published_date": "2026-08-03T16:57:47+00:00",
       "category": "Military"
     },
     {
-      "title": "Iran says currently no negotiations with US",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-currently-no-negotiations-us",
-      "published_date": "2026-08-03T09:52:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
+      "title": "Romanian navy blasts riverbed to protect nuclear plant",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
-      "published_date": "2026-08-03T09:05:04+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
+      "published_date": "2026-08-03T16:01:43+00:00",
       "category": "Military"
     },
     {
-      "title": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
+      "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss",
-      "published_date": "2026-08-03T09:01:15+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
+      "published_date": "2026-08-03T23:02:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Michael Thorbjornsen wins first PGA Tour title at Rocket Classic",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss",
-      "published_date": "2026-08-03T08:25:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
+      "title": "Trump says oil companies making 'too much money' from Iran shortage",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-594",
-      "published_date": "2026-08-03T07:01:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces drop missiles, phosphorus bombs on southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-drop-missiles-phosphorus-bombs-southern-lebanon",
-      "published_date": "2026-08-03T06:53:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran executes two accused of colluding with Israel's Mossad",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-two-accused-colluding-israels-mossad",
-      "published_date": "2026-08-03T06:31:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blast reported near vessel 20 nautical miles away from Oman",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/blast-reported-near-vessel-20-nautical-miles-away-oman",
-      "published_date": "2026-08-02T23:57:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan army drone attack on Darfur kills 35, rights group says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
-      "published_date": "2026-08-02T22:51:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
-      "published_date": "2026-08-02T21:18:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Crew of Iranian ship hit in Ukrainian attack returns home, news agency says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crew-iranian-ship-hit-ukrainian-attack-returns-home-news-agency-says",
-      "published_date": "2026-08-02T20:23:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss",
-      "published_date": "2026-08-02T19:30:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least one Iranian soldier killed, another injured in clashes, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-one-iranian-soldier-killed-another-injured-clashes-report-says",
-      "published_date": "2026-08-02T19:13:27+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-oil-companies-making-too-much-money-iran-shortage",
+      "published_date": "2026-08-03T18:44:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pakistan-administered Kashmir elections and protests – all you need to know",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Fire erupts on ships at Egypt’s Damietta port",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss",
-      "published_date": "2026-07-29T18:01:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
-      "published_date": "2026-07-29T10:19:28+00:00",
-      "category": "Energy"
+      "title": "Iran’s economy minister says Iran has two-year economic resilience plan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-economy-minister-says-iran-has-two-year-economic-resilience-plan",
+      "published_date": "2026-08-03T19:37:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "'We will rise again': A new generation of Tunisians prepare for Ennahda's return",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "IPL’s business value rockets to $20bn as India cricket league soars",
+      "title": "Migrants await asylum in Ceuta amid hunger and thirst",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/ipls-business-value-rockets-to-20-billion-as-india-cricket-league-soars?traffic_source=rss",
-      "published_date": "2026-07-29T07:51:56+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
+      "published_date": "2026-08-03T21:17:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qatar, Egypt and Turkey condemn Israel over Gaza ceasefire violations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-egypt-turkey-condemn-israel-over-gaza-violations",
+      "published_date": "2026-08-03T20:58:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arab League chief condemns Israeli attacks on Gaza as an attempt to 'sabotage' ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-league-chief-condemns-israeli-attacks-gaza-attempt-sabotage",
+      "published_date": "2026-08-03T20:55:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers set fire to Palestinian land south of Nablus",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-set-fire-palestinian-land-south-nablus",
+      "published_date": "2026-08-03T19:45:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian foreign minister: Israeli settler violence 'complementary pillar' of settlement expansion",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-foreign-minister-says-israeli-settler-violence-driving-force",
+      "published_date": "2026-08-03T17:59:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New illegal Israeli outpost spotted in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-03T17:07:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How Lamine Yamal became a symbol of Spain’s identity debate",
@@ -659,48 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/smotrich-calls-building-settlements-near-gaza-amid-ongoing-israeli-offensive",
       "published_date": "2026-08-02T13:35:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three children among nine killed since dawn in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-children-among-nine-killed-dawn-gaza",
-      "published_date": "2026-08-02T08:23:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morning recap",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-150",
-      "published_date": "2026-08-02T06:14:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers cut electricity poles in Nablus, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-cut-electricity-poles-nablus-report-says",
-      "published_date": "2026-08-02T05:48:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces detain three Palestinians during raid in Bethlehem",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-three-palestinians-during-raid-dheisheh-camp",
-      "published_date": "2026-08-02T05:29:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-      "published_date": "2026-08-02T05:27:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Virunga Park protects people and gorillas from Ebola in eastern DRC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss",
-      "published_date": "2026-08-02T03:46:27+00:00",
       "category": "Local Events"
     }
   ]
