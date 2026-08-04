@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-04T00:12:21.680966+00:00",
+  "last_updated": "2026-08-04T12:53:39.155375+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss",
+      "published_date": "2026-08-04T12:21:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon and Israel hold new round of direct talks in Rome",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-hold-new-round-direct-talks-rome",
+      "published_date": "2026-08-04T11:27:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Morocco's Gaza deployment is reshaping its ties with Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/how-moroccos-gaza-deployment-reshaping-its-ties-us-and-israel",
+      "published_date": "2026-08-04T11:01:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
+      "published_date": "2026-08-04T10:53:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar says US-Iran talks are 'ongoing'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-us-iran-talks-are-ongoing",
+      "published_date": "2026-08-04T10:43:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ICC states decision on Karim Khan ‘inherently political’, says leading criminal law expert",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/icc-states-decision-karim-khan-inherently-political-says-law-expert",
+      "published_date": "2026-08-04T09:52:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US primaries: What to watch in Kansas, Missouri, Virginia, Washington",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington?traffic_source=rss",
+      "published_date": "2026-08-04T09:47:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hezbollah says negotiations with Israel would bring shame to Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-negotiations-israel-would-bring-shame-lebanon",
+      "published_date": "2026-08-04T08:32:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+      "published_date": "2026-08-04T02:56:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
       "source": "Al Jazeera",
@@ -81,67 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump says new Iran negotiations starting: What we know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss",
-      "published_date": "2026-08-03T09:44:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Israel is a friend of budding autocrats around the world",
+      "title": "Board of Peace caves to Netanyahu and rewrites Israeli withdrawal terms from Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/why-israel-friend-budding-autocrats-around-world",
-      "published_date": "2026-08-03T07:26:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/board-peace-caves-netanyahu-and-rewrites-gaza-withdrawal-terms",
+      "published_date": "2026-08-04T12:45:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says new talks with Iran to begin Monday after calling off strikes",
+      "title": "US-Saudi strikes test Iraq's balancing act between Riyadh and Tehran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-new-talks-iran-begin-monday-after-calling-strikes",
-      "published_date": "2026-08-02T22:30:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/us-saudi-strikes-test-iraqs-balancing-act-between-riyadh-and-tehran",
+      "published_date": "2026-08-04T12:43:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Board of Peace' chief says mediators working ‘around the clock’ on Gaza",
+      "title": "US treasury secretary says Hormuz deal with Iran could happen 'today or tomorrow'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/board-peace-chief-says-mediators-working-around-clock-gaza",
-      "published_date": "2026-08-02T22:22:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-secretary-says-hormuz-deal-iran-could-happen-today-or",
+      "published_date": "2026-08-04T12:41:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi, Iranian foreign ministers discuss efforts to reduce regional tensions",
+      "title": "Seventh round of Israel-Lebanon talks begins – what’s on the agenda?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/seventh-round-of-israel-lebanon-talks-begins-whats-on-the-agenda?traffic_source=rss",
+      "published_date": "2026-08-04T12:22:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza families bury 112 people recovered nearly three years after Israeli strikes",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-iranian-foreign-ministers-discuss-efforts-reduce-regional-tensions",
-      "published_date": "2026-08-02T21:37:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/gaza-families-bury-112-people-recovered-nearly-three-years-after-israeli-strikes",
+      "published_date": "2026-08-04T12:19:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Venezuela and the Dominican Republic say they will work to restore ties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss",
-      "published_date": "2026-08-02T20:29:32+00:00",
-      "category": "Diplomacy"
+      "title": "Trump insists Iran talks under way, warns Tehran’s ‘last chance’ to secure deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/trump-insists-iran-talks-under-way-warns-they-are-tehrans-last-chance-secure-deal",
+      "published_date": "2026-08-04T11:34:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Most Americans say Trump has gone too far on US immigration: Poll",
+      "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll?traffic_source=rss",
-      "published_date": "2026-08-02T19:26:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
+      "published_date": "2026-08-04T11:26:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+      "title": "Why Israel’s economy hasn’t collapsed during a multi-front war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
-      "published_date": "2026-08-02T19:08:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss",
+      "published_date": "2026-08-04T11:21:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+      "title": "Yemen's Houthis say they hit airport in Saudi Arabia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-hit-airport-saudi-arabia",
+      "published_date": "2026-08-04T10:27:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Opinion: Israel is not 'testing' its ceasefires. It's violating them",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-israel-not-testing-its-ceasefires-its-violating-them",
+      "published_date": "2026-08-04T10:20:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
-      "published_date": "2026-08-02T17:06:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
+      "published_date": "2026-08-04T10:11:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jack Letts appeals for repatriations from Iraq in 'out of the blue' phone call to parents",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/jack-letts-repatriations-detainees-iraq-phone-call-parents",
+      "published_date": "2026-08-04T09:55:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Aramco's profits soar 44 percent as war boosts oil prices",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-aramcos-profits-soar-44-percent-war-boosts-prices",
+      "published_date": "2026-08-04T09:43:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "We demand accountability for the Beirut blast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
+      "published_date": "2026-08-04T08:51:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+      "published_date": "2026-08-04T06:00:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Salvadoran man dies in ICE custody at New Jersey detention centre",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss",
+      "published_date": "2026-08-04T03:14:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Two workers who died in quake-hit Japan mall were sent in to get cash",
@@ -172,116 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Three Palestinians injured in Israeli raid of eastern Nablus",
+      "title": "BP profits more than double amid high oil prices",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-palestinians-injured-israeli-raid-eastern-nablus",
-      "published_date": "2026-08-03T21:18:59+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bp-profits-more-double-amid-high-oil-prices",
+      "published_date": "2026-08-04T12:33:55+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Will Israel withdraw from Gaza if Hamas disarms?",
+      "title": "Tankers carrying Iraqi crude have passed through Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tankers-carrying-iraqi-crude-have-passed-through-strait-hormuz",
+      "published_date": "2026-08-04T09:39:46+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-      "published_date": "2026-08-03T21:05:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone strike on North Darfur court kills at least 35, rights group says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/drone-strike-north-darfur-court-kills-least-35-rights-group-says",
-      "published_date": "2026-08-03T20:59:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Palestinians killed in Israeli strike southwest of Gaza City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-strike-southwest-gaza-city",
-      "published_date": "2026-08-03T20:09:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Clergy members arrested while protesting at Senate office",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
-      "published_date": "2026-08-03T19:53:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon is emailing military experts and asking best way to 'punish' Iran: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-emailing-military-experts-and-asking-best-way-punish-iran",
-      "published_date": "2026-08-03T19:32:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon is emailing military experts and asking best way to 'punish' Iran: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/pentagon-emailing-military-experts-ask-best-way-to-punish-iran-report",
-      "published_date": "2026-08-03T19:26:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel pitched advanced drones to UAE, leaked emails reveal: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-pitched-advanced-drones-uae-leaked-emails-reveal-report",
-      "published_date": "2026-08-03T19:24:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Centcom says it redirected 44 ships, disabled two, boarded two",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-it-redirected-44-ships-disabled-2-boarded-2",
-      "published_date": "2026-08-03T19:22:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel pitched advanced drones to UAE, leaked emails reveal: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-pitched-advanced-drones-uae-leaked-emails-reveal-report",
-      "published_date": "2026-08-03T19:01:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Netanyahu survive Israel’s most consequential election?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
-      "published_date": "2026-08-03T18:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s 'Board of Peace' says Israeli withdrawal from Gaza reliant on ‘complete’ Hamas disarmament",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-board-peace-says-israeli-withdrawal-gaza-reliant-complete-hamas",
-      "published_date": "2026-08-03T18:07:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone slams into Russian beach, killing at least 7 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss",
-      "published_date": "2026-08-03T18:05:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says ongoing talks are Iran’s ‘last chance’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
-      "published_date": "2026-08-03T17:38:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Lives cut short’: Gaza’s surging miscarriage crisis",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/gaza-genocide-miscarriage-crisis/",
-      "published_date": "2026-08-03T16:57:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romanian navy blasts riverbed to protect nuclear plant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
-      "published_date": "2026-08-03T16:01:43+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+      "published_date": "2026-08-04T03:58:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
@@ -400,27 +421,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/whitewashing-laura-loomer-ap-interview-sparks-backlash-social-media",
       "published_date": "2026-07-29T20:47:14+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Bordeaux wildfire battle continues amid extreme heat",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
-      "published_date": "2026-07-29T18:42:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US Fed holds interest rates steady, citing ‘elevated’ inflation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss",
-      "published_date": "2026-07-29T18:07:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Libya electricity blackout protests expose country’s failing grid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss",
-      "published_date": "2026-07-29T18:07:19+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,41 @@
       "category": "Economy"
     },
     {
+      "title": "Who is behind settler violence in the occupied West Bank?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-04T11:04:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: Israeli settlers attack homes and burn cars in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-settlers-attack-homes-and-burn-cars-west-bank",
+      "published_date": "2026-08-04T10:54:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian patients return to Gaza as thousands still await evacuation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss",
+      "published_date": "2026-08-04T10:04:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cars burn in reported settler attack in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-04T08:51:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel is not 'testing' its ceasefires. It's violating them",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/israel-not-testing-its-ceasefires-its-violating-them",
+      "published_date": "2026-08-04T07:23:16+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Migrants await asylum in Ceuta amid hunger and thirst",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
@@ -666,41 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/palestinian-doctor-poor-says-he-faces-abuse-medical-neglect-israeli-prison",
       "published_date": "2026-08-02T20:09:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza death toll rises to at least 18",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-least-18",
-      "published_date": "2026-08-02T16:27:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion: Israel's genocide has frozen a generation of Gaza's young doctors",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-israels-genocide-has-frozen-generation-gazas-young-doctors",
-      "published_date": "2026-08-02T15:20:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's genocide has frozen a generation of Gaza's young doctors",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/israels-genocide-has-frozen-generation-gazas-young-doctors",
-      "published_date": "2026-08-02T14:15:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli finance minister calls for settlements near Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-finance-minister-calls-settlements-near-gaza",
-      "published_date": "2026-08-02T13:41:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli finance minister calls for building settlements near Gaza amid ongoing offensive",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/smotrich-calls-building-settlements-near-gaza-amid-ongoing-israeli-offensive",
-      "published_date": "2026-08-02T13:35:22+00:00",
       "category": "Local Events"
     }
   ]
