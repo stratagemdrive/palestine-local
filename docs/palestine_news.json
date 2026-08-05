@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-05T00:09:24.910186+00:00",
+  "last_updated": "2026-08-05T12:48:11.561990+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss",
+      "published_date": "2026-08-05T12:07:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says it will support any decision by Palestinian leaders in Gaza negotiations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-will-support-any-decision-palestinian-leaders-gaza",
+      "published_date": "2026-08-05T10:06:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says deal with Oman would not immediately reopen Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-deal-oman-would-not-immediately-reopen-strait-hormuz",
+      "published_date": "2026-08-05T09:24:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exclusive: Trump demanded direct talks with Hezbollah but was denied",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/exclusive-trump-demanded-direct-talks-hezbollah-was-denied",
+      "published_date": "2026-08-05T09:20:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
+      "published_date": "2026-08-05T09:05:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Video: Marco Rubio says \"there's been progress\" in Iran deal on Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-marco-rubio-says-theres-been-progress-iran-deal-hormuz",
+      "published_date": "2026-08-05T08:58:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Abdul El-Sayed defeats Aipac-backed rival in Michigan Democratic Senate primary, NBC reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/abdul-el-sayed-wins-michigan-democratic-senate-primary",
+      "published_date": "2026-08-05T08:00:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US not directly updating Israel on talks with Iran: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-not-directly-updating-israel-talks-iran-report",
+      "published_date": "2026-08-05T06:12:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian official blames US as key reason behind delay in Hormuz Strait deal with Oman",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-blames-us-key-reason-behind-delay-hormuz-strait-deal",
+      "published_date": "2026-08-05T05:16:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hezbollah chief criticises Lebanon's direct talks with Israel",
       "source": "Middle East Eye",
@@ -81,67 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qatar says US-Iran talks are 'ongoing'",
+      "title": "Protesters stage sit-in against settler violence-linked Smotrich funds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss",
+      "published_date": "2026-08-05T12:03:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ceuta migrant disaster death toll rises to 141, Morocco's deadliest in recent history",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-us-iran-talks-are-ongoing",
-      "published_date": "2026-08-04T10:43:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/ceuta-migrant-disaster-death-toll-rises-morocco-deadliest-recent-history",
+      "published_date": "2026-08-05T11:49:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "ICC states decision on Karim Khan ‘inherently political’, says leading criminal law expert",
+      "title": "Turkish cargo ship catches fire after Black Sea drone attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
+      "published_date": "2026-08-05T11:49:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-05T11:31:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army launches large-scale assault in East Jerusalem refugee camp",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/icc-states-decision-karim-khan-inherently-political-says-law-expert",
-      "published_date": "2026-08-04T09:52:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-launches-large-scale-assault-east-jerusalem-refugee-camp",
+      "published_date": "2026-08-05T11:05:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "US primaries: What to watch in Kansas, Missouri, Virginia, Washington",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington?traffic_source=rss",
-      "published_date": "2026-08-04T09:47:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hezbollah says negotiations with Israel would bring shame to Lebanon",
+      "title": "Israeli army launches large-scale assault in East Jerusalem refugee camp",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-negotiations-israel-would-bring-shame-lebanon",
-      "published_date": "2026-08-04T08:32:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/israeli-army-launches-large-scale-assault-east-jerusalem-refugee-camp",
+      "published_date": "2026-08-05T11:01:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
-      "published_date": "2026-08-04T02:56:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
-      "published_date": "2026-08-04T00:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
-      "published_date": "2026-08-03T22:35:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
-      "published_date": "2026-08-03T19:45:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says he will not let Iran charge for Hormuz transit",
+      "title": "Gaza death toll reaches 73,381",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-will-not-let-iran-charge-hormuz-transit",
-      "published_date": "2026-08-03T18:39:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-reaches-73381",
+      "published_date": "2026-08-05T10:45:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli raid deepens fears across West Bank refugee camps",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
+      "published_date": "2026-08-05T10:30:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Reform UK plan to return asylum seekers using navy ‘dangerous in practice’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/reform-uk-plan-to-return-asylum-seekers-using-navy-dangerous-in-practice?traffic_source=rss",
+      "published_date": "2026-08-05T10:07:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN announces 800,000 displaced Lebanese returning home",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-announces-800000-displaced-lebanese-returning-home",
+      "published_date": "2026-08-05T09:46:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The resurrection of Hezbollah",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/the-resurrection-of-hezbollah",
+      "published_date": "2026-08-05T09:19:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
+      "published_date": "2026-08-05T09:16:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
+      "published_date": "2026-08-05T08:37:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen's Houthis say they attacked oil tanker off Saudi coast",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-oil-tanker-saudi-coast",
+      "published_date": "2026-08-05T08:13:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Syria will not join the fight against Hezbollah in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/why-syria-will-not-join-fight-against-hezbollah-lebanon",
+      "published_date": "2026-08-05T07:39:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-596",
+      "published_date": "2026-08-05T06:53:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
@@ -172,116 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+      "title": "India’s severe monsoon season causes more than 100 deaths since July",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
-      "published_date": "2026-08-04T21:11:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Six years on, Beirut blast families still await justice",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
-      "published_date": "2026-08-04T21:03:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military sets off 'huge explosion' in southern Lebanon’s Haddatha",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-sets-huge-explosion-southern-lebanons-haddatha",
-      "published_date": "2026-08-04T21:02:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Centcom says it redirected total of 45 vessels to enforce ‘blockade against Iran’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-it-redirected-total-45-vessels-enforce-blockade-against",
-      "published_date": "2026-08-04T20:33:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
-      "published_date": "2026-08-04T20:32:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kosovo finds third wartime mass grave site as officials widen search",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/kosovo-finds-third-wartime-mass-grave-site-as-officials-widen-search?traffic_source=rss",
-      "published_date": "2026-08-04T20:29:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu says Israeli forces ‘are not withdrawing from the current lines in Gaza’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israeli-forces-are-not-withdrawing-current-lines-gaza",
-      "published_date": "2026-08-04T20:28:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/argentina-grain-exports-halt-as-maritime-pilots-strike-over-milei-decree?traffic_source=rss",
-      "published_date": "2026-08-04T20:20:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces raid town south of Bethlehem, fire tear gas at residents",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-town-south-bethlehem-fire-tear-gas-residents",
-      "published_date": "2026-08-04T19:41:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US depleted 'virtually all' long-range precision missiles during Iran war: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-depleted-virtually-all-long-range-precision-missiles-during-iran-war",
-      "published_date": "2026-08-04T18:51:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
-      "published_date": "2026-08-04T18:34:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US depleted 'virtually all' long-range precision missiles during Iran war: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-depleted-virtually-all-long-range-precision-missiles-iran-war-report",
-      "published_date": "2026-08-04T17:22:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Board of Peace caves to Netanyahu and rewrites Israeli withdrawal terms from Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/board-peace-caves-netanyahu-and-rewrites-gaza-withdrawal-terms",
-      "published_date": "2026-08-04T12:45:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Saudi strikes test Iraq's balancing act between Riyadh and Tehran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-saudi-strikes-test-iraqs-balancing-act-between-riyadh-and-tehran",
-      "published_date": "2026-08-04T12:43:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US treasury secretary says Hormuz deal with Iran could happen 'today or tomorrow'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-secretary-says-hormuz-deal-iran-could-happen-today-or",
-      "published_date": "2026-08-04T12:41:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seventh round of Israel-Lebanon talks begins – what’s on the agenda?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/seventh-round-of-israel-lebanon-talks-begins-whats-on-the-agenda?traffic_source=rss",
-      "published_date": "2026-08-04T12:22:19+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss",
+      "published_date": "2026-08-05T10:10:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Aramco reports bumper profits as it bypasses Strait of Hormuz",
@@ -414,13 +421,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss",
       "published_date": "2026-07-30T18:52:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Apartheid wealth cannot buy silence on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
-      "published_date": "2026-07-30T09:24:32+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,27 @@
       "category": "Economy"
     },
     {
+      "title": "Tommy Robinson defends Muslim student subject to social media hate campaign",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/tommy-robinson-defends-muslim-student-subject-far-right-hate-campaign",
+      "published_date": "2026-08-05T11:35:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss",
+      "published_date": "2026-08-05T10:09:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran executed at least 56 people since March, UN says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executed-least-56-people-march-says-un",
+      "published_date": "2026-08-05T10:03:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
@@ -680,27 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/israeli-court-blocks-ben-gvir-crocodile-moats-outside-prisons-holding-palestinians",
       "published_date": "2026-08-03T12:56:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'They want to make us leave': Israel destroys West Bank wells serving Palestinian herders",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/they-want-make-us-leave-israel-destroys-west-bank-wells-serving-palestinian-herders",
-      "published_date": "2026-08-03T11:10:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Israeli presence in Forest City exposes the Zionist-aligned underbelly of Malaysia",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-israeli-presence-forest-city-exposes-zionist-aligned-underbelly-malaysia",
-      "published_date": "2026-08-03T08:49:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Refugee Convention at 75: Britain owes Palestine an answer",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/refugee-convention-75-britain-owes-palestine-answer",
-      "published_date": "2026-08-03T07:27:07+00:00",
       "category": "Local Events"
     }
   ]
