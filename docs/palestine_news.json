@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-05T12:48:11.561990+00:00",
+  "last_updated": "2026-08-06T00:03:51.151505+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump says he would prefer a deal with Iran to further military action",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-would-prefer-deal-iran-further-military-action",
+      "published_date": "2026-08-05T22:52:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkish Foreign Minister warns Israeli expansionism could cause global crisis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-foreign-minister-warns-israeli-expansionism-could-cause-global",
+      "published_date": "2026-08-05T22:05:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestinian, Egyptian foreign ministers meet to discuss occupied Jerusalem",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-egyptian-foreign-ministers-meet-discuss-occupied-jerusalem",
+      "published_date": "2026-08-05T21:15:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss",
+      "published_date": "2026-08-05T21:07:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yemen foreign minsiter, UN envoy discuss Houthi attacks on Red Sea shipping",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-foreign-minister-un-envoy-discuss-houthi-attacks-red-sea-shipping",
+      "published_date": "2026-08-05T19:54:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s deputy foreign minister says no talks with the US held in recent days, Oman route almost finalised",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-deputy-foreign-minister-says-no-talks-us-held-recent-days-oman",
+      "published_date": "2026-08-05T17:23:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio, Miliband discuss Europe taking greater role in its own security",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-miliband-discuss-europe-taking-greater-role-its-own-security",
+      "published_date": "2026-08-05T17:05:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu says Trump is a ‘great friend’ but Israel will do ‘whatever it takes’ for security",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-trump-great-friend-israel-will-do-whatever-it-takes",
+      "published_date": "2026-08-05T16:38:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
       "source": "Al Jazeera",
@@ -88,60 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qatari emir, Trump discuss developments with Iran",
+      "title": "Israeli military chief says army will continue Gaza operations despite peace plan",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-emir-trump-discuss-developments-iran",
-      "published_date": "2026-08-04T19:04:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-chief-says-army-will-continue-gaza-operations-despite",
+      "published_date": "2026-08-05T22:18:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
+      "title": "US officials push back on reports of dangerously low munitions supplies",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim?traffic_source=rss",
-      "published_date": "2026-08-04T18:50:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
+      "published_date": "2026-08-05T22:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rubio: Progress made to reopen Strait of Hormuz",
+      "title": "US man arrested at Trump’s golf course charged with multiple felonies",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-08-04T18:27:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss",
+      "published_date": "2026-08-05T21:35:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel-Lebanon talks have begun in Rome, US State Department says",
+      "title": "Israeli forces raid camp in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
+      "published_date": "2026-08-05T21:31:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli military says it accidentally launched an interceptor after misidentifying its own military fire",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-talks-have-begun-rome-us-state-department-says",
-      "published_date": "2026-08-04T17:17:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-accidentally-launched-interceptor-its-own-fire",
+      "published_date": "2026-08-05T21:19:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss",
-      "published_date": "2026-08-04T12:21:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanon and Israel hold new round of direct talks in Rome",
+      "title": "Israeli forces fire artillery in Lebanon’s Majdel Zoun",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-hold-new-round-direct-talks-rome",
-      "published_date": "2026-08-04T11:27:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-fire-artillery-lebanons-majdel-zoun",
+      "published_date": "2026-08-05T20:22:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "How Morocco's Gaza deployment is reshaping its ties with Israel",
+      "title": "From Michigan to Missouri: Democratic primaries deliver mixed bag on Israel and Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-moroccos-gaza-deployment-reshaping-its-ties-us-and-israel",
-      "published_date": "2026-08-04T11:01:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/michigan-missouri-democratic-primaries-deliver-mixed-bag-israel-and-gaza",
+      "published_date": "2026-08-05T19:12:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+      "title": "Yemen's Houthis say they targeted Saudi oil vessel in Gulf of Aden",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-targeted-saudi-oil-vessel-gulf-aden",
+      "published_date": "2026-08-05T18:28:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US authorities say three killed in Prospect Hill, North Carolina shooting",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
-      "published_date": "2026-08-04T10:53:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+      "published_date": "2026-08-05T18:25:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is the conflict between Russia and Ukraine deepening?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+      "published_date": "2026-08-05T18:16:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Far-right Israeli settlers illegally enter Lebanon, most escorted back",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/far-right-israeli-settlers-illegally-enter-lebanon-most-escorted-back",
+      "published_date": "2026-08-05T18:08:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Centcom says it redirected three more commercial vessels",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-it-redirected-three-more-commercial-vessels",
+      "published_date": "2026-08-05T17:39:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
+      "published_date": "2026-08-05T17:12:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eight Palestinians injured in large-scale Israeli raid of Jerusalem refugee camp",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-palestinians-injured-large-scale-israeli-raid-jerusalem-refugee",
+      "published_date": "2026-08-05T16:51:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK maritime authority reports ‘loud explosion’ near ship southeast of Yemeni coast",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-loud-explosion-near-ship-southeast-yemeni-coast",
+      "published_date": "2026-08-05T16:17:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Protesters stage sit-in against settler violence-linked Smotrich funds",
@@ -179,109 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israeli army launches large-scale assault in East Jerusalem refugee camp",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-army-launches-large-scale-assault-east-jerusalem-refugee-camp",
-      "published_date": "2026-08-05T11:01:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza death toll reaches 73,381",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-reaches-73381",
-      "published_date": "2026-08-05T10:45:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli raid deepens fears across West Bank refugee camps",
+      "title": "Clashes on anniversary of Imran Khan imprisonment",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
-      "published_date": "2026-08-05T10:30:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Reform UK plan to return asylum seekers using navy ‘dangerous in practice’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/reform-uk-plan-to-return-asylum-seekers-using-navy-dangerous-in-practice?traffic_source=rss",
-      "published_date": "2026-08-05T10:07:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN announces 800,000 displaced Lebanese returning home",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-announces-800000-displaced-lebanese-returning-home",
-      "published_date": "2026-08-05T09:46:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The resurrection of Hezbollah",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/the-resurrection-of-hezbollah",
-      "published_date": "2026-08-05T09:19:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
-      "published_date": "2026-08-05T09:16:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
-      "published_date": "2026-08-05T08:37:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's Houthis say they attacked oil tanker off Saudi coast",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-oil-tanker-saudi-coast",
-      "published_date": "2026-08-05T08:13:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Syria will not join the fight against Hezbollah in Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/why-syria-will-not-join-fight-against-hezbollah-lebanon",
-      "published_date": "2026-08-05T07:39:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-596",
-      "published_date": "2026-08-05T06:53:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
-      "published_date": "2026-08-04T23:24:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Evening update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-update-32",
-      "published_date": "2026-08-04T22:55:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Board of Peace official says Gaza roadmap faces long, difficult process",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/board-peace-official-says-gaza-roadmap-faces-long-difficult-process",
-      "published_date": "2026-08-04T22:33:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Centcom says Hormuz remains 'free and open'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-hormuz-remains-free-and-open",
-      "published_date": "2026-08-04T21:19:17+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
+      "published_date": "2026-08-05T21:28:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "India’s severe monsoon season causes more than 100 deaths since July",
@@ -414,13 +421,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-says-it-has-energy-alternatives-after-drone-attack-damietta-gas",
       "published_date": "2026-07-30T19:39:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UN demands end of Ugandan clampdown on dissent",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss",
-      "published_date": "2026-07-30T18:52:34+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,55 @@
       "category": "Economy"
     },
     {
+      "title": "Israeli rights group calls for independent health examination of Gaza doctor",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-rights-group-calls-independent-health-examination-gaza-doctor",
+      "published_date": "2026-08-05T23:45:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
+      "published_date": "2026-08-05T22:46:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After Michigan upset, Aipac looks to back Republican candidate against Abdul El-Sayed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/after-major-upset-aipac-michigan-group-looks-back-republican-candidate-against-abdul-el-sayed",
+      "published_date": "2026-08-05T21:08:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel rejects Arab committee’s declaration on occupied Jerusalem",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-rejects-arab-committees-declaration-occupied-jerusalem",
+      "published_date": "2026-08-05T20:16:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
+      "published_date": "2026-08-05T17:41:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puntland forces seize government-held camp in Somalia’s Galkayo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/puntland-forces-seize-government-held-camp-in-somalias-galkayo?traffic_source=rss",
+      "published_date": "2026-08-05T17:38:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arab Ministerial Committee discusses occupied East Jerusalem in meeting",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-ministerial-committee-discusses-occupied-east-jerusalem-meeting",
+      "published_date": "2026-08-05T17:32:11+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Tommy Robinson defends Muslim student subject to social media hate campaign",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/tommy-robinson-defends-muslim-student-subject-far-right-hate-campaign",
@@ -652,55 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
       "published_date": "2026-08-03T21:17:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qatar, Egypt and Turkey condemn Israel over Gaza ceasefire violations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-egypt-turkey-condemn-israel-over-gaza-violations",
-      "published_date": "2026-08-03T20:58:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab League chief condemns Israeli attacks on Gaza as an attempt to 'sabotage' ceasefire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-league-chief-condemns-israeli-attacks-gaza-attempt-sabotage",
-      "published_date": "2026-08-03T20:55:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers set fire to Palestinian land south of Nablus",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-set-fire-palestinian-land-south-nablus",
-      "published_date": "2026-08-03T19:45:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian foreign minister: Israeli settler violence 'complementary pillar' of settlement expansion",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-foreign-minister-says-israeli-settler-violence-driving-force",
-      "published_date": "2026-08-03T17:59:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New illegal Israeli outpost spotted in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-08-03T17:07:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Lamine Yamal became a symbol of Spain’s identity debate",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-lamine-yamal-became-symbol-spains-identity-debate",
-      "published_date": "2026-08-03T13:09:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli court blocks Ben Gvir crocodile moat plan for prisons holding Palestinians",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-court-blocks-ben-gvir-crocodile-moats-outside-prisons-holding-palestinians",
-      "published_date": "2026-08-03T12:56:46+00:00",
       "category": "Local Events"
     }
   ]
