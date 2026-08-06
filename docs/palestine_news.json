@@ -1,8 +1,22 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-06T00:03:51.151505+00:00",
+  "last_updated": "2026-08-06T12:51:35.360242+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "A US proposal for missile defense that’s been tried before",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss",
+      "published_date": "2026-08-06T06:51:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu says Israel did not agree to US-backed Gaza plan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-did-not-agree-us-backed-gaza-plan",
+      "published_date": "2026-08-06T03:12:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says he would prefer a deal with Iran to further military action",
       "source": "Middle East Eye",
@@ -130,157 +144,143 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
+      "title": "Court hears Palestine Action defendant suffered from emotional turmoil before Elbit raid",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/palestine-action-defendant-accused-planning-elbit-raid-suffered-emotional-turmoil-weeks-before",
+      "published_date": "2026-08-06T12:50:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Israel sabotages Gaza talks, Hamas’ new ‘warrior leader’ faces his first challenge",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/khalil-al-hayya-hamas-gaza-dahlan/",
+      "published_date": "2026-08-06T12:09:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Myanmar leader visits Thailand in bid to bolster international legitimacy",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
-      "published_date": "2026-08-04T20:35:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Collective punishment': US Supreme Court greenlights $656m judgement against Palestinian officials",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/collective-punishment-us-supreme-court-greenlights-656m-judgement-against-palestinians",
-      "published_date": "2026-08-04T20:28:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli military chief says army will continue Gaza operations despite peace plan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-chief-says-army-will-continue-gaza-operations-despite",
-      "published_date": "2026-08-05T22:18:46+00:00",
+      "url": "https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss",
+      "published_date": "2026-08-06T12:04:36+00:00",
       "category": "Military"
     },
     {
-      "title": "US officials push back on reports of dangerously low munitions supplies",
+      "title": "Iran: Trump says he'd rather make deal than 'kill people' amid reports of weapons shortages",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/trump-says-would-rather-make-iran-deal-kill-people-amid-reports-weapon-shortages",
+      "published_date": "2026-08-06T11:40:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Morocco has given me nothing': The young migrants risking everything to reach Ceuta",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/morocco-has-given-me-nothing-young-people-risking-everything-reach-ceuta",
+      "published_date": "2026-08-06T11:23:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
-      "published_date": "2026-08-05T22:00:00+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss",
+      "published_date": "2026-08-06T11:20:41+00:00",
       "category": "Military"
     },
     {
-      "title": "US man arrested at Trump’s golf course charged with multiple felonies",
+      "title": "Uganda football star Owori killed, weeks after death of rugby’s Gongodyo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss",
-      "published_date": "2026-08-05T21:35:13+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss",
+      "published_date": "2026-08-06T10:13:26+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli forces raid camp in occupied West Bank",
+      "title": "South Korea police raid football association over Hong appointment process",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
-      "published_date": "2026-08-05T21:31:55+00:00",
+      "url": "https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss",
+      "published_date": "2026-08-06T09:34:04+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli military says it accidentally launched an interceptor after misidentifying its own military fire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-accidentally-launched-interceptor-its-own-fire",
-      "published_date": "2026-08-05T21:19:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces fire artillery in Lebanon’s Majdel Zoun",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-fire-artillery-lebanons-majdel-zoun",
-      "published_date": "2026-08-05T20:22:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Michigan to Missouri: Democratic primaries deliver mixed bag on Israel and Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/michigan-missouri-democratic-primaries-deliver-mixed-bag-israel-and-gaza",
-      "published_date": "2026-08-05T19:12:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's Houthis say they targeted Saudi oil vessel in Gulf of Aden",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-targeted-saudi-oil-vessel-gulf-aden",
-      "published_date": "2026-08-05T18:28:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US authorities say three killed in Prospect Hill, North Carolina shooting",
+      "title": "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
-      "published_date": "2026-08-05T18:25:07+00:00",
+      "url": "https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss",
+      "published_date": "2026-08-06T09:28:30+00:00",
       "category": "Military"
     },
     {
-      "title": "Is the conflict between Russia and Ukraine deepening?",
+      "title": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
-      "published_date": "2026-08-05T18:16:03+00:00",
+      "url": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss",
+      "published_date": "2026-08-06T09:17:56+00:00",
       "category": "Military"
     },
     {
-      "title": "Far-right Israeli settlers illegally enter Lebanon, most escorted back",
+      "title": "Eight wounded in Israeli attack on southern Lebanon's Burj Shemali as talks enter third day",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/far-right-israeli-settlers-illegally-enter-lebanon-most-escorted-back",
-      "published_date": "2026-08-05T18:08:52+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-wounded-israeli-attack-southern-lebanons-burj-shemali-talks-enter",
+      "published_date": "2026-08-06T09:01:35+00:00",
       "category": "Military"
     },
     {
-      "title": "US Centcom says it redirected three more commercial vessels",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-it-redirected-three-more-commercial-vessels",
-      "published_date": "2026-08-05T17:39:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
+      "title": "Why is France developing a new nuclear strategy?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
-      "published_date": "2026-08-05T17:12:34+00:00",
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
+      "published_date": "2026-08-06T08:17:26+00:00",
       "category": "Military"
     },
     {
-      "title": "Eight Palestinians injured in large-scale Israeli raid of Jerusalem refugee camp",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-palestinians-injured-large-scale-israeli-raid-jerusalem-refugee",
-      "published_date": "2026-08-05T16:51:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK maritime authority reports ‘loud explosion’ near ship southeast of Yemeni coast",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-loud-explosion-near-ship-southeast-yemeni-coast",
-      "published_date": "2026-08-05T16:17:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protesters stage sit-in against settler violence-linked Smotrich funds",
+      "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss",
-      "published_date": "2026-08-05T12:03:34+00:00",
+      "url": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
+      "published_date": "2026-08-06T07:36:56+00:00",
       "category": "Military"
     },
     {
-      "title": "Ceuta migrant disaster death toll rises to 141, Morocco's deadliest in recent history",
+      "title": "Morning update",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/ceuta-migrant-disaster-death-toll-rises-morocco-deadliest-recent-history",
-      "published_date": "2026-08-05T11:49:42+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-597",
+      "published_date": "2026-08-06T07:01:14+00:00",
       "category": "Military"
     },
     {
-      "title": "Turkish cargo ship catches fire after Black Sea drone attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
-      "published_date": "2026-08-05T11:49:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-08-05T11:31:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army launches large-scale assault in East Jerusalem refugee camp",
+      "title": "Israel considering military escalation in south Lebanon, despite peace talks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-launches-large-scale-assault-east-jerusalem-refugee-camp",
-      "published_date": "2026-08-05T11:05:37+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-considering-military-escalation-south-lebanon-despite-peace-talks",
+      "published_date": "2026-08-06T06:53:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army escalates strikes in south Lebanon, at least four wounded",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-escalates-strikes-south-lebanon-least-four-wounded",
+      "published_date": "2026-08-06T06:12:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump slams reports on munition shortages, says US army has 'massive amounts' of weapons",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-slams-reports-munition-shortages-says-us-army-has-massive-amounts",
+      "published_date": "2026-08-06T05:13:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nearly 80% of US army's interceptors for a key missile defense system depleted: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-80-us-armys-interceptors-key-missile-defense-system-depleted-0",
+      "published_date": "2026-08-06T04:28:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nearly 80% of US army's interceptors for a key missile defense system depleted: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-80-us-armys-interceptors-key-missile-defense-system-depleted",
+      "published_date": "2026-08-06T04:25:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump clashed with Hegseth over munition shortage amid war on Iran: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-clashed-hegseth-over-munition-shortage-amid-war-iran",
+      "published_date": "2026-08-06T03:01:16+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss",
+      "published_date": "2026-08-06T12:27:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Vessel reports hearing two blasts in Hormuz Strait, UKMTO says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vessel-reports-hearing-two-blasts-hormuz-strait-ukmto-says",
+      "published_date": "2026-08-06T02:14:30+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "What's driving the rising unrest in Pakistan-administered Kashmir?",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/whats-driving-rising-unrest-pakistan-administered-kashmir",
@@ -550,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss",
-      "published_date": "2026-07-31T07:25:44+00:00",
-      "category": "Economy"
+      "title": "Kuwait orders Iranian school shut: education ministry source",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-orders-iranian-school-shut-education-ministry-source",
+      "published_date": "2026-08-06T12:38:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why is US GDP growth slowing, and how can it be reversed?",
+      "title": "Deadliest form of malnutrition has reached critical levels in Afghanistan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
-      "published_date": "2026-07-30T21:39:37+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadliest-form-of-child-malnutrition-has-reached-critical-levels-in-afghani?traffic_source=rss",
+      "published_date": "2026-08-06T12:30:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Dozens of MPs urge Shabana Mahmood not to block evacuation from Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/85-mps-urge-uk-not-block-evacuation-women-and-children-gaza",
+      "published_date": "2026-08-06T12:20:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "60 Palestinians detained, 16 wounded by Israeli forces in raid on Qalandiya and Kafr Aqab",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/60-palestinians-detained-16-wounded-israeli-forces-raid-qalandiya-and",
+      "published_date": "2026-08-06T11:56:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Settler terrorism is the modern incarnation of the Zionist dream",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/settler-terrorism-modern-incarnation-zionist-dream",
+      "published_date": "2026-08-06T08:19:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli violence escalating in the West Bank, several left wounded in settler arson attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-violence-escalating-west-bank-several-left-wounded-settler-arson",
+      "published_date": "2026-08-06T06:29:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli rights group calls for independent health examination of Gaza doctor",
@@ -659,48 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/activists-storm-israeli-knesset-meeting-approve-additional-36m",
       "published_date": "2026-08-04T18:34:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is behind settler violence in the occupied West Bank?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-08-04T11:04:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video: Israeli settlers attack homes and burn cars in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-settlers-attack-homes-and-burn-cars-west-bank",
-      "published_date": "2026-08-04T10:54:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian patients return to Gaza as thousands still await evacuation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss",
-      "published_date": "2026-08-04T10:04:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cars burn in reported settler attack in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-08-04T08:51:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel is not 'testing' its ceasefires. It's violating them",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/israel-not-testing-its-ceasefires-its-violating-them",
-      "published_date": "2026-08-04T07:23:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migrants await asylum in Ceuta amid hunger and thirst",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
-      "published_date": "2026-08-03T21:17:21+00:00",
       "category": "Local Events"
     }
   ]
