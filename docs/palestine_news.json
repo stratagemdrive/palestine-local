@@ -1,8 +1,57 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-07T11:38:56.850818+00:00",
+  "last_updated": "2026-08-07T23:38:08.644231+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "OIC, former Qatari PM welcome Saudi-Turkey-Pakistan defence pact",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oic-former-qatari-pm-welcome-saudi-turkey-pakistan-defence-pact",
+      "published_date": "2026-08-07T23:02:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US appeals court halts White House ballroom construction",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
+      "published_date": "2026-08-07T21:18:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey says new defence pact aligns with Nato commitments",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-new-defense-pact-aligns-nato-commitments",
+      "published_date": "2026-08-07T20:49:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can diplomacy end the conflict in Libya?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
+      "published_date": "2026-08-07T20:39:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
+      "published_date": "2026-08-07T20:27:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-agree-shortlist-countries-could-send-troops-verify",
+      "published_date": "2026-08-07T17:37:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar condemns Houthi attack on Saudi Arabia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-houthi-attack-saudi-arabia",
+      "published_date": "2026-08-07T14:34:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why Trump is caught in an ‘escalation trap’ with Iran",
       "source": "Al Jazeera",
@@ -95,193 +144,158 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran’s Ghalibaf accuses US of 'theatre diplomacy'",
+      "title": "US says it has redirected 51 vessels since reinstating Iran blockade",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-ghalibaf-accuses-us-theater-diplomacy",
-      "published_date": "2026-08-06T19:28:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-has-redirected-51-vessels-reinstating-iran-blockade",
+      "published_date": "2026-08-07T22:14:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "A US proposal for missile defense that’s been tried before",
+      "title": "Missiles Hit Saudi Forces as Yemen Draws a Line for Riyadh’s New Allies",
+      "source": "Palestine Chronicle",
+      "url": "https://www.palestinechronicle.com/missiles-hit-saudi-forces-as-yemen-draws-a-line-for-riyadhs-new-allies/",
+      "published_date": "2026-08-07T21:10:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Home catches fire, as Israel shells Lebanon’s al-Mansouri",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/home-catches-fire-israel-shells-lebanons-al-mansouri",
+      "published_date": "2026-08-07T21:01:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's Araghchi praises military, urges Muslim unity",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araqchi-praises-military-urges-muslim-unity",
+      "published_date": "2026-08-07T19:41:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US official: 'We expect a deal soon' between Iran and Oman on Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-official-we-expect-deal-soon-between-iran-and-oman-strait-hormuz",
+      "published_date": "2026-08-07T19:40:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss",
-      "published_date": "2026-08-06T06:51:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+      "published_date": "2026-08-07T18:54:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu says Israel did not agree to US-backed Gaza plan",
+      "title": "Yemen’s Houthis claim attack on Marib hit Saudi-backed forces",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-did-not-agree-us-backed-gaza-plan",
-      "published_date": "2026-08-06T03:12:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-claim-attack-marib-hit-saudi-backed-forces",
+      "published_date": "2026-08-07T18:18:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says he would prefer a deal with Iran to further military action",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-would-prefer-deal-iran-further-military-action",
-      "published_date": "2026-08-05T22:52:19+00:00",
-      "category": "Diplomacy"
+      "title": "Beyond Victimhood: Romana Rubeo on Palestinian Women, Resistance, Media Bias",
+      "source": "Palestine Chronicle",
+      "url": "https://www.palestinechronicle.com/beyond-victimhood-romana-rubeo-on-palestinian-women-resistance-media-bias/",
+      "published_date": "2026-08-07T17:31:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkish Foreign Minister warns Israeli expansionism could cause global crisis",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-foreign-minister-warns-israeli-expansionism-could-cause-global",
-      "published_date": "2026-08-05T22:05:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Palestinian, Egyptian foreign ministers meet to discuss occupied Jerusalem",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-egyptian-foreign-ministers-meet-discuss-occupied-jerusalem",
-      "published_date": "2026-08-05T21:15:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
+      "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss",
-      "published_date": "2026-08-05T21:07:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Houthi missile and drone attacks kill dozens of Yemeni government troops",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-missile-and-drone-attacks-kill-dozens-yemeni-government-troops",
-      "published_date": "2026-08-07T11:22:42+00:00",
+      "url": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
+      "published_date": "2026-08-07T17:07:29+00:00",
       "category": "Military"
     },
     {
-      "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
+      "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
-      "published_date": "2026-08-07T11:11:10+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
+      "published_date": "2026-08-07T16:42:35+00:00",
       "category": "Military"
     },
     {
-      "title": "Houthi missile and drone attacks kill dozens of Yemeni government troops",
+      "title": "Exclusive: ICC judges order Taliban case split from Afghanistan probe that covers US troops",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/houthi-missile-and-drone-attacks-kill-dozens-yemeni-government-troops",
-      "published_date": "2026-08-07T11:09:06+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-icc-judges-order-taliban-case-split-afghanistan-probe-covers",
+      "published_date": "2026-08-07T16:25:57+00:00",
       "category": "Military"
     },
     {
-      "title": "War on Iran: Saudi Arabia warns of imminent attacks by Iraqi groups and Yemen's Houthis",
+      "title": "Abu Dhabi National Oil Company says attacks significantly impacting its operations",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/saudi-arabia-warns-imminent-attacks-iraqi-groups-and-houthis",
-      "published_date": "2026-08-07T11:06:48+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/abu-dhabi-national-oil-company-says-attacks-significantly-impacting-its",
+      "published_date": "2026-08-07T15:31:46+00:00",
       "category": "Military"
     },
     {
-      "title": "Turkey, Pakistan, Saudi Arabia sign \"Mecca Joint Defence Agreement\"",
+      "title": "Saudi Arabia's last major oil route comes under Houthi pressure",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-pakistan-saudi-arabia-sign-mecca-joint-defence-agreement",
-      "published_date": "2026-08-07T10:59:42+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabias-last-major-oil-route-comes-under-houthi-pressure",
+      "published_date": "2026-08-07T15:18:46+00:00",
       "category": "Military"
     },
     {
-      "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+      "title": "Saudi Arabia's last major oil route comes under Houthi pressure",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/saudi-arabia-last-major-oil-route-comes-under-houthi-pressure",
+      "published_date": "2026-08-07T14:55:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE oil company says attacks are significantly impacting its operations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-oil-company-says-attacks-are-significantly-impacting-its-operations",
+      "published_date": "2026-08-07T14:25:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese Soldier Injured as Israel Targets Army, Water Crews in South Lebanon",
+      "source": "Palestine Chronicle",
+      "url": "https://www.palestinechronicle.com/lebanese-soldier-injured-as-israel-targets-army-water-crews-in-south-lebanon/",
+      "published_date": "2026-08-07T14:22:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
-      "published_date": "2026-08-07T10:52:34+00:00",
+      "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
+      "published_date": "2026-08-07T14:22:24+00:00",
       "category": "Military"
     },
     {
-      "title": "Saudi army won't 'stand idly by' amid Houthi attacks in Yemen, source says",
+      "title": "‘Darkness, flames, screaming’: Palestinian village terrorized by Israeli settlers",
+      "source": "+972 Magazine",
+      "url": "https://www.972mag.com/tuba-pogrom-israeli-settlers-masafer-yatta/",
+      "published_date": "2026-08-07T14:17:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: Houthi strikes on Saudi-backed troops",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-army-wont-stand-idly-houthi-attacks-yemen-source-says",
-      "published_date": "2026-08-07T10:48:52+00:00",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-houthi-strikes-saudi-backed-troops-0",
+      "published_date": "2026-08-07T13:26:33+00:00",
       "category": "Military"
     },
     {
-      "title": "Elon Musk is a race-war entrepreneur",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/elon-musk-race-war-entrepreneur",
-      "published_date": "2026-08-07T10:34:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+      "title": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
-      "published_date": "2026-08-07T10:00:56+00:00",
+      "url": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
+      "published_date": "2026-08-07T13:12:52+00:00",
       "category": "Military"
     },
     {
-      "title": "Turkey, Saudi Arabia and Pakistan to 'sign defence pact' on Friday",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-saudi-arabia-and-pakistan-sign-defence-pact-friday",
-      "published_date": "2026-08-07T09:50:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several killed after student opens fire inside Thailand school",
+      "title": "Contaminated water putting Gaza families at risk",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
-      "published_date": "2026-08-07T09:13:48+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
+      "published_date": "2026-08-07T19:47:42+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli drones sighted over Beirut, Lebanese media report",
+      "title": "Anti-Muslim lawmaker Andy Ogles loses Republican primary",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drones-sighted-over-beirut-lebanese-media-reports",
-      "published_date": "2026-08-07T09:11:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three Yemeni soldiers killed in Houthi attack, says military source",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-yemeni-soldiers-killed-houthi-attack-says-military-source",
-      "published_date": "2026-08-07T08:33:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
-      "published_date": "2026-08-07T06:29:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-598",
-      "published_date": "2026-08-07T06:18:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss",
-      "published_date": "2026-08-07T05:49:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mexico deploys troops to secure avocado region after US halts imports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss",
-      "published_date": "2026-08-07T05:25:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese army clearing roads in Tyre to facilitate residents' return",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-clearing-roads-tyre-facilitate-residents-return",
-      "published_date": "2026-08-07T05:24:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll from minibus blast in Syria rises to two, 14 others wounded",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-minibus-blast-syria-rises-two-14-others-wounded",
-      "published_date": "2026-08-07T05:05:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least five killed in Thailand school shooting, police say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
-      "published_date": "2026-08-07T04:23:52+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/anti-muslim-lawmaker-andy-ogles-loses-republican-primary",
+      "published_date": "2026-08-07T16:12:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "Police in Argentina use tear gas to stop protesters",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss",
-      "published_date": "2026-08-02T20:00:45+00:00",
-      "category": "Energy"
+      "title": "US Treasury targets crypto exchanges in new Iran sanctions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-targets-crypto-exchanges-new-iran-sanctions",
+      "published_date": "2026-08-07T18:58:21+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Russian and Ukrainian strikes kill 14 on both sides",
+      "title": "US labour market sheds jobs in July as labour force participation slumps",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
-      "published_date": "2026-08-02T18:37:23+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
+      "published_date": "2026-08-07T16:25:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?",
@@ -543,18 +557,25 @@
       "category": "Economy"
     },
     {
-      "title": "Does FIFA need private investment?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss",
-      "published_date": "2026-07-31T20:07:00+00:00",
-      "category": "Economy"
+      "title": "Ambulance Attacked, Palestinians Shot and Beaten in West Bank Settler Violence",
+      "source": "Palestine Chronicle",
+      "url": "https://www.palestinechronicle.com/ambulance-attacked-palestinians-shot-and-beaten-in-west-bank-settler-violence/",
+      "published_date": "2026-08-07T21:36:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Western allies warn North Korean IT workers funding nuclear arsenal",
+      "title": "Israeli forces beat and detain Palestinian during settler attack near Nablus",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-beat-detain-palestinian-during-settler-attack-near-nablus",
+      "published_date": "2026-08-07T16:50:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Imade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss",
-      "published_date": "2026-07-31T17:06:52+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
+      "published_date": "2026-08-07T14:18:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UK: Nearly one in five Prevent referrals had autism, new Home Office figures reveal",
@@ -673,27 +694,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadliest-form-of-child-malnutrition-has-reached-critical-levels-in-afghani?traffic_source=rss",
       "published_date": "2026-08-06T12:30:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Dozens of MPs urge Shabana Mahmood not to block evacuation from Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/85-mps-urge-uk-not-block-evacuation-women-and-children-gaza",
-      "published_date": "2026-08-06T12:20:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "60 Palestinians detained, 16 wounded by Israeli forces in raid on Qalandiya and Kafr Aqab",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/60-palestinians-detained-16-wounded-israeli-forces-raid-qalandiya-and",
-      "published_date": "2026-08-06T11:56:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Settler terrorism is the modern incarnation of the Zionist dream",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/settler-terrorism-modern-incarnation-zionist-dream",
-      "published_date": "2026-08-06T08:19:15+00:00",
       "category": "Local Events"
     }
   ]
