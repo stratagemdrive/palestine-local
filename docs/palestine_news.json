@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-07T23:38:08.644231+00:00",
-  "story_count": 99,
+  "last_updated": "2026-08-08T11:20:47.312701+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Trump’s former personal lawyer narrowly confirmed as US attorney general",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss",
+      "published_date": "2026-08-08T10:36:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
+      "published_date": "2026-08-08T04:29:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian strikes near Ukrainian capital kill three, including child",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+      "published_date": "2026-08-08T04:18:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Senate passes Russia sanctions that could hurt India and China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+      "published_date": "2026-08-08T03:20:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
+      "published_date": "2026-08-08T02:08:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Muslim nations, organisations welcome Saudi Arabia-Turkey-Pakistan defence pact",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/muslim-nations-organisations-welcome-saudi-arabia-turkey-pakistan",
+      "published_date": "2026-08-08T01:12:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oman 'facing environmental disaster' as tanker leaks off its coast",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/environmental-disaster-looms-oman-tanker-leaks-its-coast",
+      "published_date": "2026-08-08T00:47:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Arab League secretary-general condemns Houthi attack on Saudi Arabia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-league-secretary-general-condemns-houthi-attack-saudi-arabia",
+      "published_date": "2026-08-08T00:06:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "OIC, former Qatari PM welcome Saudi-Turkey-Pakistan defence pact",
       "source": "Middle East Eye",
@@ -88,60 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel's Bennet calls Qatar a 'cancer' and an 'enemy'",
+      "title": "'Used as human bait': Leaked image shows elderly Palestinian men before execution by Israeli forces",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-bennet-calls-qatar-cancer-and-enemy",
-      "published_date": "2026-08-07T00:32:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/leaked-image-shows-elderly-palestinians-used-human-shields-execution-israeli-forces",
+      "published_date": "2026-08-08T10:44:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war live: Trump says war can’t ‘go much longer’; Hormuz deal close",
+      "title": "How Israel’s occupation fuels resistance",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
-      "published_date": "2026-08-07T00:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss",
+      "published_date": "2026-08-08T10:40:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump signs executive orders banning so-called ‘birth tourism’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-signs-executive-orders-banning-so-called-birth?traffic_source=rss",
-      "published_date": "2026-08-06T23:42:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop?traffic_source=rss",
-      "published_date": "2026-08-06T23:34:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump signs new executive orders seeking to limit US birthright citizenship",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/6/trump-signs-new-executive-orders-seeking-to-limit-birthright-citizenship?traffic_source=rss",
-      "published_date": "2026-08-06T21:27:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi, Turkish, Pakistan leaders to hold summit in Jeddah",
+      "title": "Morning recap",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-turkish-pakistan-leaders-hold-summit-jeddah",
-      "published_date": "2026-08-06T21:17:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-151",
+      "published_date": "2026-08-08T06:32:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss",
-      "published_date": "2026-08-06T20:59:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says he thinks war with Iran will end 'pretty soon'",
+      "title": "Israeli gunfire wounds three Palestinians in Gaza's Khan Younis",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-thinks-war-iran-will-end-pretty-soon",
-      "published_date": "2026-08-06T20:47:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-wounds-three-palestinians-gazas-khan-younis",
+      "published_date": "2026-08-08T06:19:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli shelling damages homes in Lebanese town",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-shelling-damages-homes-lebanese-town",
+      "published_date": "2026-08-08T05:48:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two civilians killed in Houthi strike on Marib as UN warns of large-scale conflict",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-14-wounded-houthis-strike-marib-again",
+      "published_date": "2026-08-08T04:42:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'End this war. NOW': US senators introduce resolution",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/end-war-now-us-senators-introduce-resolution",
+      "published_date": "2026-08-08T04:32:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pezeshkian says Iran open to dialogue, warns against regional divisions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-iran-open-dialogue-warns-against-regional-divisions",
+      "published_date": "2026-08-08T04:01:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
+      "published_date": "2026-08-08T02:54:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CNN: Top general says US needs ‘off ramp’ from Iran war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cnn-top-general-says-us-needs-ramp-iran-war",
+      "published_date": "2026-08-08T02:01:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon's Health Ministry says Israeli attacks have killed 4,335 people since 2 March",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-health-ministry-says-israeli-attacks-have-killed-4335-people-2",
+      "published_date": "2026-08-07T23:56:29+00:00",
+      "category": "Military"
     },
     {
       "title": "US says it has redirected 51 vessels since reinstating Iran blockade",
@@ -204,83 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
       "published_date": "2026-08-07T17:07:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
-      "published_date": "2026-08-07T16:42:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Exclusive: ICC judges order Taliban case split from Afghanistan probe that covers US troops",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-icc-judges-order-taliban-case-split-afghanistan-probe-covers",
-      "published_date": "2026-08-07T16:25:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Abu Dhabi National Oil Company says attacks significantly impacting its operations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/abu-dhabi-national-oil-company-says-attacks-significantly-impacting-its",
-      "published_date": "2026-08-07T15:31:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia's last major oil route comes under Houthi pressure",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabias-last-major-oil-route-comes-under-houthi-pressure",
-      "published_date": "2026-08-07T15:18:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia's last major oil route comes under Houthi pressure",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/saudi-arabia-last-major-oil-route-comes-under-houthi-pressure",
-      "published_date": "2026-08-07T14:55:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE oil company says attacks are significantly impacting its operations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-oil-company-says-attacks-are-significantly-impacting-its-operations",
-      "published_date": "2026-08-07T14:25:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese Soldier Injured as Israel Targets Army, Water Crews in South Lebanon",
-      "source": "Palestine Chronicle",
-      "url": "https://www.palestinechronicle.com/lebanese-soldier-injured-as-israel-targets-army-water-crews-in-south-lebanon/",
-      "published_date": "2026-08-07T14:22:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
-      "published_date": "2026-08-07T14:22:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Darkness, flames, screaming’: Palestinian village terrorized by Israeli settlers",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/tuba-pogrom-israeli-settlers-masafer-yatta/",
-      "published_date": "2026-08-07T14:17:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Houthi strikes on Saudi-backed troops",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-houthi-strikes-saudi-backed-troops-0",
-      "published_date": "2026-08-07T13:26:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
-      "published_date": "2026-08-07T13:12:52+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "US announces $400m investment in Australian rare earth mine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
+      "published_date": "2026-08-08T09:30:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Israel has the power to dominate, but not to lead the region",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/israel-has-power-dominate-not-lead-region",
+      "published_date": "2026-08-08T09:12:35+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "US Treasury targets crypto exchanges in new Iran sanctions",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-targets-crypto-exchanges-new-iran-sanctions",
@@ -522,39 +536,46 @@
       "category": "Economy"
     },
     {
-      "title": "Beneath Tunisia’s silence, public anger simmers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
-      "published_date": "2026-08-01T09:42:50+00:00",
-      "category": "Economy"
+      "title": "Iran parliament speaker hails journalists as 'frontline commanders in media battle'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-parliament-speaker-hails-journalists-frontline-commanders-media",
+      "published_date": "2026-08-08T06:57:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
+      "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
-      "published_date": "2026-08-01T07:33:33+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
+      "published_date": "2026-08-08T05:45:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Liberia’s kush crisis: The hidden trade behind a generation at risk",
+      "title": "Violence is driving Palestinian Christians out of their Holy Land",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
-      "published_date": "2026-08-01T03:18:29+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss",
+      "published_date": "2026-08-08T05:28:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
-      "published_date": "2026-08-01T01:10:58+00:00",
-      "category": "Economy"
+      "title": "PPS says family visit ban exposes Palestinian prisoners to further Israeli abuse",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pps-says-family-visit-ban-exposes-palestinian-prisoners-further-israeli",
+      "published_date": "2026-08-08T05:26:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FIFA scrap controversial World Cup private investment plan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
-      "published_date": "2026-07-31T23:47:35+00:00",
-      "category": "Economy"
+      "title": "300 Palestinian children killed in 300 days of Gaza ceasefire, Unicef says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/300-palestinian-children-killed-300-days-gaza-ceasefire-unicef-says",
+      "published_date": "2026-08-08T03:32:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several Palestinians injured in West Bank Israeli settler attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-west-bank-israeli-settler-attacks",
+      "published_date": "2026-08-08T02:36:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ambulance Attacked, Palestinians Shot and Beaten in West Bank Settler Violence",
@@ -652,48 +673,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/us-senator-fetterman-struggles-defend-support-israel-progressives-win-big",
       "published_date": "2026-08-06T20:54:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What freedom feels like after Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/what-freedom-feels-after-gaza",
-      "published_date": "2026-08-06T19:49:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settler charged over Palestinian activist’s killing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/israeli-settler-charged-over-palestinian-activists-killing?traffic_source=rss",
-      "published_date": "2026-08-06T19:48:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US ends cap on local TV station owners amid concerns of media consolidation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/6/us-ends-cap-on-local-tv-station-owners-amid-concerns-of-media-consolidation?traffic_source=rss",
-      "published_date": "2026-08-06T19:25:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three Palestinians injured, one detained during Israeli settler attack east of Ramallah",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-palestinians-injured-one-detained-during-israeli-settler-attack",
-      "published_date": "2026-08-06T19:03:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kuwait orders Iranian school shut: education ministry source",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-orders-iranian-school-shut-education-ministry-source",
-      "published_date": "2026-08-06T12:38:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadliest form of malnutrition has reached critical levels in Afghanistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadliest-form-of-child-malnutrition-has-reached-critical-levels-in-afghani?traffic_source=rss",
-      "published_date": "2026-08-06T12:30:01+00:00",
       "category": "Local Events"
     }
   ]
