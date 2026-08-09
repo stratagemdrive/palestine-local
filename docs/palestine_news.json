@@ -1,8 +1,29 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-08T23:33:58.170989+00:00",
-  "story_count": 97,
+  "last_updated": "2026-08-09T11:21:29.896785+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "It won’t be Trump who kills the ICC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
+      "published_date": "2026-08-09T09:05:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Talks with US won't happen while interim deal is breached, says Araghchi",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/talks-us-wont-happen-while-interim-deal-breached-says-araghchi",
+      "published_date": "2026-08-09T08:37:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
+      "published_date": "2026-08-09T05:01:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump’s Former Lawyer Is Now Attorney General",
       "source": "Al Jazeera",
@@ -123,25 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-agree-shortlist-countries-could-send-troops-verify",
-      "published_date": "2026-08-07T17:37:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar condemns Houthi attack on Saudi Arabia",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-houthi-attack-saudi-arabia",
-      "published_date": "2026-08-07T14:34:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Trump is caught in an ‘escalation trap’ with Iran",
+      "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss",
-      "published_date": "2026-08-07T11:03:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
+      "published_date": "2026-08-09T10:45:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis say they targeted 'Saudi enemy' forces and equipment in Yemen",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-enemy-forces-and-equipment-yemen",
+      "published_date": "2026-08-09T10:36:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
+      "published_date": "2026-08-09T10:02:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC says won't reopen Hormuz until US accepts all Iran's conditions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-wont-reopen-hormuz-until-us-accepts-all-irans-conditions",
+      "published_date": "2026-08-09T09:12:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
+      "published_date": "2026-08-09T07:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
+      "published_date": "2026-08-09T07:56:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis claim attack on Saudi Aramco's Jizan refinery",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-they-attacked-saudi-aramcos-jizan-refinery",
+      "published_date": "2026-08-09T06:49:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-152",
+      "published_date": "2026-08-09T06:39:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli media says Netanyahu okayed reconstruction in southern Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-says-netanyahu-okayed-reconstruction-southern-gaza",
+      "published_date": "2026-08-09T06:06:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former Syrian army general arrested in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/former-syrian-army-general-arrested-lebanon",
+      "published_date": "2026-08-09T05:23:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "HRF files complaint against Israeli reservist in Vietnam",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hrf-files-complaint-against-israeli-reservist-vietnam",
+      "published_date": "2026-08-09T04:56:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas says ready to go ahead with Gaza plan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-ready-go-ahead-gaza-plan",
+      "published_date": "2026-08-09T04:30:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
+      "published_date": "2026-08-09T04:12:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistani defence minister calls for 'united military front' against Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistani-defence-minister-calls-united-military-front-against-israel-0",
+      "published_date": "2026-08-09T04:06:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fire doused at Saudi Aramco facility in Jizan, Saudi ministry says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-doused-saudi-aramco-facility-jizan-saudi-ministry-says",
+      "published_date": "2026-08-09T02:51:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli troops enter Lebanese village, erect earthen barrier overnight",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-enter-lebanese-village-erect-earthen-barrier-overnight",
+      "published_date": "2026-08-09T02:30:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Girl and her father wounded as Israeli drone crashes in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/girl-and-her-father-wound-israeli-drone-crashes-southern-lebanon",
+      "published_date": "2026-08-09T00:43:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tehran seeks ‘to create grounds’ for talks with US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-08-09T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli forces shell  Gaza areas, raid several West Bank towns and villages",
@@ -158,130 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Pentagon orders arms production surge as Israeli-US war on Iran depletes missiles",
+      "title": "Saudi Arabia, Yemen condemn attack on UAE oil tanker",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-orders-arms-surge-israeli-us-war-iran-depletes-missiles",
-      "published_date": "2026-08-08T22:04:14+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-yemen-condemn-attack-uae-oil-tanker",
+      "published_date": "2026-08-09T03:16:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran sets conditions for reopening Strait of Hormuz",
+      "title": "Vance says talks 'make progress' but Iran must make long-term changes",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-sets-conditions-reopening-strait-hormuz",
-      "published_date": "2026-08-08T20:38:14+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-talks-make-progress-iran-must-make-long-term-changes",
+      "published_date": "2026-08-09T02:14:47+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
-      "published_date": "2026-08-08T19:00:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
-      "published_date": "2026-08-08T18:43:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says US must accept ‘irreversible’ Strait of Hormuz order",
+      "title": "Fleet of 56 tankers shipping oil through Hormuz 'covertly', tracking firm says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-must-accept-irreversible-strait-hormuz-order",
-      "published_date": "2026-08-08T16:39:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
-      "published_date": "2026-08-08T15:01:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
-      "published_date": "2026-08-08T14:58:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran: Phase II: Day 28",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
-      "published_date": "2026-08-08T14:09:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What Pakistan's defence pact with Saudi Arabia and Turkey means for the Middle East",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/what-pakistan-saudi-arabia-turkey-defence-pact-means-middle-east",
-      "published_date": "2026-08-08T12:15:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Foreign forces must leave': Iran says regional countries can ensure their own security",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/foreign-forces-must-leave-iran-says-regional-countries-can-ensure-their",
-      "published_date": "2026-08-08T11:47:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Used as human bait': Leaked image shows elderly Palestinian men before execution by Israeli forces",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/leaked-image-shows-elderly-palestinians-used-human-shields-execution-israeli-forces",
-      "published_date": "2026-08-08T10:44:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Israel’s occupation fuels resistance",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss",
-      "published_date": "2026-08-08T10:40:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning recap",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-151",
-      "published_date": "2026-08-08T06:32:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli gunfire wounds three Palestinians in Gaza's Khan Younis",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-wounds-three-palestinians-gazas-khan-younis",
-      "published_date": "2026-08-08T06:19:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli shelling damages homes in Lebanese town",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-shelling-damages-homes-lebanese-town",
-      "published_date": "2026-08-08T05:48:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two civilians killed in Houthi strike on Marib as UN warns of large-scale conflict",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-14-wounded-houthis-strike-marib-again",
-      "published_date": "2026-08-08T04:42:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'End this war. NOW': US senators introduce resolution",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/end-war-now-us-senators-introduce-resolution",
-      "published_date": "2026-08-08T04:32:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pezeshkian says Iran open to dialogue, warns against regional divisions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-iran-open-dialogue-warns-against-regional-divisions",
-      "published_date": "2026-08-08T04:01:47+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fleet-56-tankers-shipping-oil-through-hormuz-covertly-tracking-firm-says",
+      "published_date": "2026-08-09T01:46:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "US Vice President confirms direct US-Iran talks over Strait of Hormuz",
@@ -403,27 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
-      "published_date": "2026-08-04T03:58:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
-      "published_date": "2026-08-03T23:02:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump says oil companies making 'too much money' from Iran shortage",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-oil-companies-making-too-much-money-iran-shortage",
-      "published_date": "2026-08-03T18:44:26+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
@@ -536,11 +536,60 @@
       "category": "Economy"
     },
     {
-      "title": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
+      "title": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss",
-      "published_date": "2026-08-02T08:12:54+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
+      "published_date": "2026-08-09T10:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From autonomy to 'settler colonialism': How India redrew Kashmir's demographic and political landscape",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/autonomy-settler-colonialism-how-india-redrew-kashmirs-demographic-and-political-landscape",
+      "published_date": "2026-08-09T10:02:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women’s Day in South Africa turns 70 with equality still out of reach",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss",
+      "published_date": "2026-08-09T08:37:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel advances plan for 627 settler units in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-09T06:57:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers set fire to Palestinian property in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-set-fire-palestinian-property-west-bank",
+      "published_date": "2026-08-09T05:44:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lionel Messi returns to Argentina after father Jorge’s death",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
+      "published_date": "2026-08-09T05:18:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settler attacks rise as West Bank residents lose land",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+      "published_date": "2026-08-09T01:43:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel issues tender for 627 housing units in West Bank settlement",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-issues-tender-627-housing-units-west-bank-settlement",
+      "published_date": "2026-08-09T00:18:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Three Palestinians killed and dozens wounded in Israeli attacks across Gaza and West Bank",
@@ -624,62 +673,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-beat-detain-palestinian-during-settler-attack-near-nablus",
       "published_date": "2026-08-07T16:50:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
-      "published_date": "2026-08-07T14:18:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Nearly one in five Prevent referrals had autism, new Home Office figures reveal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/nearly-one-five-prevent-referrals-had-autism-recorded-new-home-office-figures-reveal",
-      "published_date": "2026-08-07T10:26:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Briton who helped 6,000 Jews move to Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/briton-who-helped-6000-jews-move-israel",
-      "published_date": "2026-08-07T08:21:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Earthquake strikes as doctors perform surgery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss",
-      "published_date": "2026-08-07T07:43:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Israel's opposition no longer wants Palestinian parties in government",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/why-israels-opposition-no-longer-wants-palestinian-parties-government",
-      "published_date": "2026-08-07T06:31:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI used to create viruses not found in nature for first time",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss",
-      "published_date": "2026-08-07T03:48:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Mexico court orders Meta to pay $567m over harm to youths",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/new-mexico-court-orders-meta-to-pay-567m-over-harm-to-youths?traffic_source=rss",
-      "published_date": "2026-08-07T01:51:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After the floods, hunger: Mozambique’s second disaster",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/after-the-floods-hunger-mozambiques-second-disaster?traffic_source=rss",
-      "published_date": "2026-08-07T00:12:16+00:00",
       "category": "Local Events"
     }
   ]
