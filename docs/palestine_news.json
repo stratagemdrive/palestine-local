@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-09T23:36:44.763193+00:00",
-  "story_count": 95,
+  "last_updated": "2026-08-10T11:42:00.114157+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Syria reclaims control of key coastal sites in deal with Russia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/syria-reclaims-control-key-coastal-sites-deal-russia",
+      "published_date": "2026-08-10T10:19:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says it is not concerned by new 'Mecca Joint Defence Agreement'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-not-concerned-new-mecca-joint-defence-agreement",
+      "published_date": "2026-08-10T08:51:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Oman 'very close' to reaching deal, Araghchi says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-very-close-reaching-deal-araghchi-says",
+      "published_date": "2026-08-10T05:37:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump names Will Scharf as White House counsel ahead of midterms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss",
+      "published_date": "2026-08-10T04:00:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon will not take part in next talks with Israel unless demands met: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-will-not-take-part-next-talks-israel-unless-demands-met-report",
+      "published_date": "2026-08-10T00:37:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump shares Clinton defence of Gaza plan after Netanyahu rejects roadmap",
       "source": "Middle East Eye",
@@ -109,39 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump’s former personal lawyer narrowly confirmed as US attorney general",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss",
-      "published_date": "2026-08-08T10:36:10+00:00",
-      "category": "Diplomacy"
+      "title": "Video: Yemen's Houthis attack port in Mocha",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-yemens-houthis-attack-port-mocha",
+      "published_date": "2026-08-10T11:24:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
+      "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
-      "published_date": "2026-08-08T04:29:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss",
+      "published_date": "2026-08-10T11:11:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russian strikes near Ukrainian capital kill three, including child",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
-      "published_date": "2026-08-08T04:18:45+00:00",
-      "category": "Diplomacy"
+      "title": "UN expresses 'deep concern' about Houthi attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-expresses-deep-concern-about-houthi-attacks",
+      "published_date": "2026-08-10T11:07:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "US Senate passes Russia sanctions that could hurt India and China",
+      "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
-      "published_date": "2026-08-08T03:20:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss",
+      "published_date": "2026-08-10T10:55:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
+      "title": "Zionism has warped the lexicon, so words are now convenient weapons",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/zionism-warped-the-lexicon-words-now-convenient-weapons",
+      "published_date": "2026-08-10T10:45:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
-      "published_date": "2026-08-08T02:08:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
+      "published_date": "2026-08-10T10:13:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike causes 'major explosion' in south Lebanon, state media reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-causes-major-explosion-south-lebanon-state-media-reports",
+      "published_date": "2026-08-10T09:32:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says it has rerouted 55 Iran-linked vessels",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-has-rerouted-55-iran-linked-vessels",
+      "published_date": "2026-08-10T09:18:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
+      "published_date": "2026-08-10T09:09:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+      "published_date": "2026-08-10T07:43:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-599",
+      "published_date": "2026-08-10T06:10:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Union documents 108 Israeli attacks against Palestinian journalists in July",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/union-documents-108-israeli-attacks-against-palestinian-journalists-july",
+      "published_date": "2026-08-10T06:04:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US army says 55 commercial vessels redirected amid its blockade against Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-army-says-55-commercial-vessels-redirected-amid-its-blockade-against",
+      "published_date": "2026-08-10T05:25:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi attack on Mocha kills seven, Yemeni military says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attack-mocha-kills-seven-yemeni-military-says",
+      "published_date": "2026-08-10T04:13:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Report: Tensions deepening between US, Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-tensions-deepening-between-us-israel",
+      "published_date": "2026-08-10T03:37:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Watch: Netanyahu says Israel 'rejects' Trump's 15-point plan for Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-netanyahu-says-israel-rejects-trumps-15-point-plan-gaza",
+      "published_date": "2026-08-10T01:31:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks in south Lebanon continue, despite truce talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-south-lebanon-continue-despite-truce-talks",
+      "published_date": "2026-08-09T23:58:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Union reports 108 attacks on Palestinian journalists in July",
@@ -165,123 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+      "title": "June and July hottest on record in Western Europe, monitor says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
-      "published_date": "2026-08-09T20:40:25+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss",
+      "published_date": "2026-08-10T10:21:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli pilot trainee dies by suicide at military base",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-pilot-trainee-dies-suicide-military-base",
-      "published_date": "2026-08-09T20:35:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli general says Gaza should remain ‘destroyed for generations’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-general-says-gaza-should-remain-destroyed-generations",
-      "published_date": "2026-08-09T20:30:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran appoints former IRGC chief to top security post",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-appoints-former-irgc-chief-top-security-post",
-      "published_date": "2026-08-09T19:31:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US is ‘only semi-negotiating’ with Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-only-semi-negotiating-iran",
-      "published_date": "2026-08-09T17:51:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump could declare victory if Iran reopens Strait of Hormuz: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-could-declare-victory-if-iran-reopens-strait-hormuz-report",
-      "published_date": "2026-08-09T17:29:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Israel’s occupation fuels resistance",
+      "title": "Solar eclipse tracker: What time will it hit your location on August 12?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
-      "published_date": "2026-08-09T16:19:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran: Phase II: Day 29",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
-      "published_date": "2026-08-09T15:46:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon urges faster US weapons production amid stockpile concerns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
-      "published_date": "2026-08-09T15:38:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attacks kill 11 in Yemen and target Saudi refinery",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-kill-11-yemen-and-target-saudi-refinery",
-      "published_date": "2026-08-09T14:40:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria says it reached deal with Moscow on future of Russian bases",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
-      "published_date": "2026-08-09T14:20:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, says Netanyahu",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-rejects-trumps-15-point-plan-gaza-says-netanyahu",
-      "published_date": "2026-08-09T13:08:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, says Netanyahu",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-rejects-trumps-15-point-plan-gaza-says-netanyahu",
-      "published_date": "2026-08-09T13:04:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attacks in Yemen kill four government troops, say sources",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-yemen-kill-four-government-troops-say-sources",
-      "published_date": "2026-08-09T13:02:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pezeshkian recently met Supreme Leader Khamenei, state media reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-recently-met-supreme-leader-khamenei-state-media-reports",
-      "published_date": "2026-08-09T12:46:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Aramco refinery erupts in flames in Jizan as Houthis claim drone attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/saudi-aramco-refinery-erupts-flames-jizan-houthis-claim-drone-attack",
-      "published_date": "2026-08-09T11:47:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran to release footage of Mojtaba Khamenei in the future, says report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-release-footage-mojtaba-khamenei-future-says-report",
-      "published_date": "2026-08-09T11:30:16+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
+      "published_date": "2026-08-10T07:10:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi Arabia, Yemen condemn attack on UAE oil tanker",
@@ -410,20 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "BP profits more than double amid high oil prices",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bp-profits-more-double-amid-high-oil-prices",
-      "published_date": "2026-08-04T12:33:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Tankers carrying Iraqi crude have passed through Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tankers-carrying-iraqi-crude-have-passed-through-strait-hormuz",
-      "published_date": "2026-08-04T09:39:46+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
@@ -522,11 +522,11 @@
       "category": "Economy"
     },
     {
-      "title": "'We will rise again': A new generation of Tunisians prepare for Ennahda's return",
+      "title": "UK couple detained in Iran ends hunger strike",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/tunisia-ennahda-young-generation-members-prepare-return",
-      "published_date": "2026-08-03T10:32:09+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-couple-detained-iran-ends-hunger-strike",
+      "published_date": "2026-08-10T09:44:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller",
@@ -659,13 +659,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/300-palestinian-children-killed-300-days-gaza-ceasefire-unicef-says",
       "published_date": "2026-08-08T03:32:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Several Palestinians injured in West Bank Israeli settler attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-west-bank-israeli-settler-attacks",
-      "published_date": "2026-08-08T02:36:05+00:00",
       "category": "Local Events"
     }
   ]
