@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-10T23:40:11.305547+00:00",
-  "story_count": 94,
+  "last_updated": "2026-08-11T11:38:06.084387+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Colombia recognises Israeli sovereignty over Golan Heights",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/colombia-recognises-israeli-sovereignty-over-golan-heights",
+      "published_date": "2026-08-11T11:11:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Colombia recognises Israeli sovereignty over Golan Heights",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/colombia-recognises-israeli-sovereignty-over-golan-heights",
+      "published_date": "2026-08-11T09:48:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brent oil price passes $90 as Iran-US deal hopes fade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/brent-oil-price-passes-90-iran-us-deal-hopes-fade",
+      "published_date": "2026-08-11T09:20:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump sends conflicting signals on Iran strategy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss",
+      "published_date": "2026-08-11T08:26:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran threat prompted secret Trump flight from Turkiye: Reports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss",
+      "published_date": "2026-08-11T08:18:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss",
+      "published_date": "2026-08-11T07:13:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Report: Trump boarded secret flight from Turkey amid Iranian assassination threat",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-trump-boarded-secret-flight-turkey-amid-iranian-assassination",
+      "published_date": "2026-08-11T05:42:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump suggests escalation against Iran remains a possibility",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-suggests-escalation-against-iran-remains-possibility",
+      "published_date": "2026-08-11T02:16:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
       "source": "Al Jazeera",
@@ -88,60 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lebanon will not take part in next talks with Israel unless demands met: Report",
+      "title": "Three killed in Houthi attack on cargo ship in Bab al-Mandab",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-will-not-take-part-next-talks-israel-unless-demands-met-report",
-      "published_date": "2026-08-10T00:37:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-houthi-attack-cargo-ship-bab-al-mandab",
+      "published_date": "2026-08-11T11:09:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump shares Clinton defence of Gaza plan after Netanyahu rejects roadmap",
+      "title": "East Libya military intelligence chief killed in car bomb",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss",
+      "published_date": "2026-08-11T10:25:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
+      "published_date": "2026-08-11T09:47:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vietnam’s VinSpace announces deal with SpaceX to launch first satellite",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/11/vietnams-vinspace-announces-deal-with-spacex-to-launch-first-satellite?traffic_source=rss",
+      "published_date": "2026-08-11T09:43:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UKMTO reports incident involving military in Gulf of Oman",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-shares-clinton-defence-gaza-plan-after-netanyahu-rejects-roadmap",
-      "published_date": "2026-08-09T21:13:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-incident-involving-military-gulf-oman",
+      "published_date": "2026-08-11T09:37:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can the Doha Framework end the conflict in eastern DRC?",
+      "title": "Israeli settler violence is ‘clear state terrorism’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-      "published_date": "2026-08-09T19:07:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss",
+      "published_date": "2026-08-11T09:30:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt calls for full Israeli withdrawal and unrestricted aid access to Gaza",
+      "title": "Syrian court sentences Bashar al-Assad to death in absentia in landmark trial",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-calls-full-israeli-withdrawal-and-unrestricted-aid-access-gaza",
-      "published_date": "2026-08-09T18:31:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/syria-court-sentences-bashar-al-assad-death-absentia-landmark-trial",
+      "published_date": "2026-08-11T08:50:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "India to Israel and back: How a fake IRGC quote on nuclear weapons reached Netanyahu’s speech",
+      "title": "Two wounded in Israeli drone attack in Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/india-israel-back-how-fake-irgc-quote-nuclear-weapons-reached-netanyahus-speech",
-      "published_date": "2026-08-09T15:20:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-wounded-israeli-drone-attack-lebanon-targeting-ambulance",
+      "published_date": "2026-08-11T08:48:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
+      "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-      "published_date": "2026-08-09T14:26:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
+      "published_date": "2026-08-11T08:13:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Mecca pact is not just another regional alliance",
+      "title": "What is the US spending all their war money on?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss",
-      "published_date": "2026-08-09T14:23:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss",
+      "published_date": "2026-08-11T08:04:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump targets birthright citizenship again",
+      "title": "Israel's 'pilot zones' turn Lebanese sovereignty on its head",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/israels-pilot-zones-turn-lebanese-sovereignty-its-head",
+      "published_date": "2026-08-11T07:01:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-600",
+      "published_date": "2026-08-11T06:42:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Report: Israel withholding 1,700 Palestinian bodies for future exchange deals",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-withholding-1700-palestinian-bodies-future-exchange-deals",
+      "published_date": "2026-08-11T06:09:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
-      "published_date": "2026-08-09T14:20:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+      "published_date": "2026-08-11T06:05:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Libyan intelligence chief for Haftar's eastern-based forces assassinated: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/libyan-intelligence-chief-haftars-eastern-based-forces-assassinated",
+      "published_date": "2026-08-11T04:54:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis launch more attacks at Yemen’s Mocha",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-launch-more-attacks-yemens-mocha",
+      "published_date": "2026-08-11T02:31:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
@@ -172,116 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Turkiye approves pardon-like bill for thousands of PKK fighters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
-      "published_date": "2026-08-10T21:14:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump asks Iran for war reparations in new tit-for-tat demand",
+      "title": "Iran to increase gas production, says state minister",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-asks-iran-war-reparations-new-tit-tat-demand",
-      "published_date": "2026-08-10T20:59:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
-      "published_date": "2026-08-10T20:55:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
-      "published_date": "2026-08-10T19:47:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Iran must pay compensation for those it has killed and wounded",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-must-pay-compensation-those-it-has-killed-and-wounded",
-      "published_date": "2026-08-10T18:42:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
-      "published_date": "2026-08-10T18:34:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran supreme leader names IRGC General Abdollahi military chief",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-supreme-leader-names-guards-general-abdollahi-military-chief",
-      "published_date": "2026-08-10T18:23:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Caspian gamble: Iran-Ukraine tensions widen the 'geography of instability'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/caspian-gamble-iran-ukraine-tensions-widen-geography-instability",
-      "published_date": "2026-08-10T18:20:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian club football to restart in September after Gaza war suspension",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
-      "published_date": "2026-08-10T17:30:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says it is not concerned by new 'Mecca Joint Defence Agreement'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-says-it-not-concerned-new-mecca-joint-defence-agreement",
-      "published_date": "2026-08-10T16:06:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dubai ruler confronted in London over UAE involvement in Sudan war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/dubai-ruler-confronted-london-over-uae-involvement-sudan-war",
-      "published_date": "2026-08-10T15:00:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why the Mecca Agreement is a necessary show of force",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/the-mecca-agreement-necessary-show-of-force",
-      "published_date": "2026-08-10T14:30:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Caspian gamble: Iran-Ukraine tensions widen the 'geography of instability'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/caspian-gamble-iran-ukraine-tensions-widen-geography-instability",
-      "published_date": "2026-08-10T13:49:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Yemen's Houthis attack port in Mocha",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-yemens-houthis-attack-port-mocha",
-      "published_date": "2026-08-10T11:24:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss",
-      "published_date": "2026-08-10T11:11:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN expresses 'deep concern' about Houthi attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-expresses-deep-concern-about-houthi-attacks",
-      "published_date": "2026-08-10T11:07:02+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-increase-gas-production-says-state-minister",
+      "published_date": "2026-08-11T08:00:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE's Adnoc announces $8bn gas expansion, as it mulls Hormuz bypass",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Aramco reports bumper profits as it bypasses Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/saudi-aramco-reports-bumper-profits-citing-use-pipeline-bypass-strait-hormuz",
-      "published_date": "2026-08-04T20:45:41+00:00",
-      "category": "Energy"
+      "title": "The Global South’s digital future must not belong to Bezos and Musk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
+      "published_date": "2026-08-11T09:52:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
@@ -520,6 +527,41 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss",
       "published_date": "2026-08-04T18:17:58+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Israel pursuing ‘undeclared annexation’ of West Bank, Peace Now says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-pursuing-undeclared-annexation-west-bank-peace-now-says",
+      "published_date": "2026-08-11T11:03:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court sentences Bashar al-Assad to death in absentia in landmark trial",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/court-sentences-bashar-al-assad-death-absentia-landmark-trial",
+      "published_date": "2026-08-11T10:07:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘My father is in RSS’: India’s Gen Z confronts Modi-loving parents at home",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/my-father-is-in-rss-indias-gen-z-confronts-modi-loving-parents-at-home?traffic_source=rss",
+      "published_date": "2026-08-11T08:34:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mass grave with 25 bodies found in Sudan’s Kurmuk after army retakes town",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/mass-grave-with-25-bodies-found-in-sudans-kurmuk-after-army-retakes-town?traffic_source=rss",
+      "published_date": "2026-08-11T07:44:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
+      "published_date": "2026-08-11T07:07:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Here's the latest from the occupied West Bank",
@@ -624,41 +666,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-issues-tender-627-housing-units-west-bank-settlement",
       "published_date": "2026-08-09T00:18:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three Palestinians killed and dozens wounded in Israeli attacks across Gaza and West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/three-palestinians-killed-and-dozens-wounded-israeli-attacks-across-gaza-and-west-bank",
-      "published_date": "2026-08-08T20:13:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
-      "published_date": "2026-08-08T17:26:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
-      "published_date": "2026-08-08T17:14:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lionel Messi’s father dies aged 68 after a long illness",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss",
-      "published_date": "2026-08-08T14:25:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran parliament speaker hails journalists as 'frontline commanders in media battle'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-parliament-speaker-hails-journalists-frontline-commanders-media",
-      "published_date": "2026-08-08T06:57:30+00:00",
       "category": "Local Events"
     }
   ]
