@@ -1,8 +1,36 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-12T23:48:36.141318+00:00",
+  "last_updated": "2026-08-13T11:40:33.405912+00:00",
   "story_count": 98,
   "stories": [
+    {
+      "title": "Iran attacks US failures as scepticism grows over Israeli role in Trump 'assassination plot'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-attacks-us-intelligence-failures-doubts-grow-over-israeli-trump-assassination-plot",
+      "published_date": "2026-08-13T11:02:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mecca Defence Agreement will include political and military coordination, Turkey says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mecca-defence-agreement-will-include-political-and-military-coordination",
+      "published_date": "2026-08-13T09:30:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says Strait of Hormuz is under its control",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-strait-hormuz-under-its-control",
+      "published_date": "2026-08-13T08:02:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CIA had ‘low confidence’ in Israel's claims of Iranian threat to Trump: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cia-had-low-confidence-israels-claims-iranian-threat-trump-report",
+      "published_date": "2026-08-13T04:48:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Media groups sue Trump over paid access to public social media posts",
       "source": "Al Jazeera",
@@ -116,32 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel and Venezuela restore diplomatic relations after years of severed ties",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-and-venezuela-restore-diplomatic-relations-after-years-severed",
-      "published_date": "2026-08-12T00:34:28+00:00",
-      "category": "Diplomacy"
+      "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
+      "published_date": "2026-08-13T11:14:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "US rights groups sue Trump administration over ICC sanctions",
+      "title": "Turkey backs Saudi-led maritime defence coalition in Red Sea",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-rights-groups-sue-trump-administration-over-icc-sanctions",
-      "published_date": "2026-08-11T22:38:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-backs-saudi-led-maritime-defence-coalition-red-sea",
+      "published_date": "2026-08-13T10:48:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel and Venezuela restore diplomatic relations after years of severed ties",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-and-venezuela-restore-diplomatic-relations",
-      "published_date": "2026-08-11T21:11:59+00:00",
-      "category": "Diplomacy"
+      "title": "Eurovision to bar countries at war from hosting: What that means",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss",
+      "published_date": "2026-08-13T10:41:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "US rights groups sue Trump administration over ICC sanctions",
+      "title": "Turkey backs Saudi-led maritime defence coalition in Red Sea",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-rights-groups-sue-trump-administration-icc-sanctions",
-      "published_date": "2026-08-11T20:49:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/turkey-backs-saudi-led-maritime-defence-coalition-red-sea",
+      "published_date": "2026-08-13T10:12:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel deploys troops to remove Israeli settlers trapping Palestinian families",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-deploys-troops-remove-israeli-settlers-trapping-palestinian",
+      "published_date": "2026-08-13T10:08:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pentagon tells Congress US killed 153 civilians in Yemen air strikes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-tells-congress-us-killed-153-civilians-yemen-air-strikes",
+      "published_date": "2026-08-13T09:39:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza death toll reaches 73,389",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-reaches-73389",
+      "published_date": "2026-08-13T09:37:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
+      "published_date": "2026-08-13T09:30:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Salvage operation for stricken tanker off Omani coast begins",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/salvage-operation-stricken-tanker-omani-coast-begins",
+      "published_date": "2026-08-13T09:26:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Maersk CEO says conditions right to increase transit through Suez",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/maersk-ceo-says-conditions-right-increase-transit-through-suez",
+      "published_date": "2026-08-13T08:59:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
+      "published_date": "2026-08-13T07:11:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British maritime company engaged in salvage of stricken vessel off Omani coast",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/british-maritime-company-engaged-salvage-stricken-vessel-omani-coast",
+      "published_date": "2026-08-13T06:41:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-602",
+      "published_date": "2026-08-13T06:35:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan says Israel's refusal to withdraw forces from Gaza 'serious setback' to peace plan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-israels-refusal-withdraw-forces-gaza-serious-setback-peace",
+      "published_date": "2026-08-13T05:52:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli troops set on fire, bombed homes in south Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-set-fire-bombed-homes-south-lebanon",
+      "published_date": "2026-08-13T05:13:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Hamas condemns Israeli strike on Gaza",
@@ -176,111 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
       "published_date": "2026-08-12T21:06:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air strike kills one in northern Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
-      "published_date": "2026-08-12T20:58:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly India landslide kills at least seven in Mumbai",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss",
-      "published_date": "2026-08-12T20:58:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says no progress on reviving interim peace deal with US",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-progress-reviving-interim-peace-deal-us",
-      "published_date": "2026-08-12T20:26:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
-      "published_date": "2026-08-12T20:26:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defence minister says Israeli military will remain in Lebanon, Syria and Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/defence-minister-says-israeli-military-indefinitely-remain-lebanon-syria",
-      "published_date": "2026-08-12T19:21:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon tells Congress US killed 153 civilians in Yemen air strikes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/pentagon-tells-congress-us-killed-153-civilians-yemen-air-strikes",
-      "published_date": "2026-08-12T19:18:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq says no foreign military presence by 1 Oct and weapons will be under state control",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-says-no-foreign-military-presence-or-weapons-outside-state-control",
-      "published_date": "2026-08-12T18:54:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New oral history project eulogises slain Palestinian journalists via friends' voice notes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/new-oral-history-project-eulogises-slain-palestinian-journalists-via-voice-notes",
-      "published_date": "2026-08-12T18:02:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon condemns 'systematic' Israeli destruction in south",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-condemns-systematic-israeli-destruction-south",
-      "published_date": "2026-08-12T17:08:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strengthens military presence in breakaway Puntland amid battle for Red Sea",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-strengthens-military-presence-breakaway-puntland-amid-battle-red-sea",
-      "published_date": "2026-08-12T16:58:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's new Security Council shake-up reveals growing divisions over US deal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-new-security-council-shake-reveals-growing-divisions-over-us-deal",
-      "published_date": "2026-08-12T15:26:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US will keep 'total control' of Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-will-keep-total-control-strait-hormuz",
-      "published_date": "2026-08-12T14:57:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Libya reels from assassination, oil strikes and central bank turmoil",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/libya-reels-assassination-oil-strikes-and-central-bank-turmoil",
-      "published_date": "2026-08-12T11:24:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss",
-      "published_date": "2026-08-12T10:02:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four killed in the Red Sea as Houthis claim ship attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-killed-red-sea-houthis-claim-ship-attack",
-      "published_date": "2026-08-12T09:49:27+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss",
+      "published_date": "2026-08-13T09:18:44+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
@@ -543,11 +550,53 @@
       "category": "Economy"
     },
     {
-      "title": "Vessel reports hearing two blasts in Hormuz Strait, UKMTO says",
+      "title": "Exclusive: UK Charity Commission gives 'regulatory advice' to synagogue that hosted Great Israeli Real Estate Event",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vessel-reports-hearing-two-blasts-hormuz-strait-ukmto-says",
-      "published_date": "2026-08-06T02:14:30+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/charity-commission-issues-regulatory-advice-synagogue-which-hosted-great-israeli-real-estate",
+      "published_date": "2026-08-13T11:32:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Families of Egyptian political prisoners launch UK advocacy group",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/families-egyptian-political-prisoners-launch-new-organisation-uk",
+      "published_date": "2026-08-13T11:19:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why the position of Palestinian health workers in Israel has grown increasingly precarious",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/why-position-palestinian-health-workers-israel-has-grown-increasingly-precarious",
+      "published_date": "2026-08-13T08:57:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss",
+      "published_date": "2026-08-13T08:38:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Part of children’s hospital collapses in Colombia earthquake",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss",
+      "published_date": "2026-08-13T08:23:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss",
+      "published_date": "2026-08-13T07:41:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian women in Gaza face legal hurdles in divorce struggles",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
+      "published_date": "2026-08-13T07:01:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli forces detain three people in West Bank",
@@ -638,55 +687,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/israel-pursuing-undeclared-annexation-west-bank-peace-now-says",
       "published_date": "2026-08-11T11:03:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court sentences Bashar al-Assad to death in absentia in landmark trial",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/court-sentences-bashar-al-assad-death-absentia-landmark-trial",
-      "published_date": "2026-08-11T10:07:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘My father is in RSS’: India’s Gen Z confronts Modi-loving parents at home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/my-father-is-in-rss-indias-gen-z-confronts-modi-loving-parents-at-home?traffic_source=rss",
-      "published_date": "2026-08-11T08:34:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mass grave with 25 bodies found in Sudan’s Kurmuk after army retakes town",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/mass-grave-with-25-bodies-found-in-sudans-kurmuk-after-army-retakes-town?traffic_source=rss",
-      "published_date": "2026-08-11T07:44:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "published_date": "2026-08-11T07:07:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here's the latest from the occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/latest-occupied-west-bank",
-      "published_date": "2026-08-10T21:50:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Less than four percent of US safety funding went to Muslim institutions: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/less-than-four-percent-us-safety-funding-to-went-muslim-institutions",
-      "published_date": "2026-08-10T21:15:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migrant children go days without food in Ceuta amid asylum crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss",
-      "published_date": "2026-08-10T19:08:08+00:00",
       "category": "Local Events"
     }
   ]
