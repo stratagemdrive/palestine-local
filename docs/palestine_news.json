@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-13T23:48:41.077944+00:00",
-  "story_count": 98,
+  "last_updated": "2026-08-14T11:37:43.685110+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "US accuses dozens of countries of helping China avoid Trump’s tariffs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/14/us-accuses-dozens-of-countries-of-helping-china-avoid-trumps-tariffs?traffic_source=rss",
+      "published_date": "2026-08-14T08:37:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Watch: Turkey's Fidan warns of 'radical steps' if Israel does not comply with Gaza deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-turkeys-fidan-warns-radical-steps-if-israel-does-not-comply-gaza",
+      "published_date": "2026-08-14T05:55:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey's foreign minister accuses Israel of expelling Palestinians from Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkeys-foreign-minister-accuses-israel-expelling-palestinians-gaza",
+      "published_date": "2026-08-14T04:50:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kushner expected to travel to Israel for Gaza talks next week: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kushner-expected-travel-israel-gaza-talks-next-week-report",
+      "published_date": "2026-08-14T04:04:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vance says US will end up 'in a stronger position' than Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-will-end-stronger-position-iran",
+      "published_date": "2026-08-14T03:45:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'Agility vs depth': How the Mecca pact stacks up against the UAE-Israel alliance",
       "source": "Middle East Eye",
@@ -109,39 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU, 26 countries condemn Iran's executions of protesters",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-26-countries-condemn-irans-executions-protesters",
-      "published_date": "2026-08-12T16:49:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel seeking to 'remove Palestine from world's agenda', Erdogan says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-seeking-remove-palestine-worlds-agenda-erdogan-says",
-      "published_date": "2026-08-12T16:09:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkey's cross party Kurdish peace coalition makes history with PKK clemency law",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/turkeys-cross-party-kurdish-peace-coalition-makes-history-pkk-clemency-law",
-      "published_date": "2026-08-12T11:07:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
+      "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss",
-      "published_date": "2026-08-12T10:27:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
+      "published_date": "2026-08-14T11:06:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Wisconsin race tight: Key takeaways from US primary election results",
+      "title": "Record-breaking rain in Japan leaves several dead, thousands stranded",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/wisconsin-race-tight-key-takeaways-from-us-primary-election-results?traffic_source=rss",
-      "published_date": "2026-08-12T08:45:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss",
+      "published_date": "2026-08-14T10:52:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Seven killed in tunnel accident at Indian hydropower project",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
+      "published_date": "2026-08-14T10:28:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli bombardments in southern Lebanon intensify",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-bombardments-south-lebanon-intensify",
+      "published_date": "2026-08-14T10:07:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-603",
+      "published_date": "2026-08-14T07:02:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel carries out large series of explosions, artillery shelling in south Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-carries-out-large-series-explosions-artillery-shelling-south",
+      "published_date": "2026-08-14T07:01:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea fumes over upcoming US-South Korea military drills",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
+      "published_date": "2026-08-14T05:40:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army fired at civilians in Syria's Daraa province",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-fired-civilians-syrias-daraa-province",
+      "published_date": "2026-08-14T03:18:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Report: Iraqi air defences intercept drones over Erbil",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-iraqi-air-defences-intercept-drones-over-erbil",
+      "published_date": "2026-08-14T02:55:21+00:00",
+      "category": "Military"
     },
     {
       "title": "UAE condemns Iranian attack on two vessels in Hormuz strait",
@@ -221,67 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Israel killed head of police force, Gaza’s ministry of interior says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-killed-head-police-force-gazas-ministry-interior-says",
-      "published_date": "2026-08-13T17:42:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DR Congo Ebola outbreak spreads to a sixth province",
+      "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss",
-      "published_date": "2026-08-13T17:18:01+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
+      "published_date": "2026-08-14T09:28:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli forces detain three Palestinians as settlers seize tractor near Ramallah",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-three-palestinians-settlers-seize-tractor-near",
-      "published_date": "2026-08-13T17:03:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China and Indonesia’s joint naval drills anger Taiwan",
+      "title": "South Korea players want K League season change due to ‘worsening climate’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
-      "published_date": "2026-08-13T16:44:27+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/sports/2026/8/14/south-korea-players-want-k-league-season-change-due-to-worsening-climate?traffic_source=rss",
+      "published_date": "2026-08-14T08:35:31+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Reports of US sailors in Middle East trying to jump ship spark outcry",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
-      "published_date": "2026-08-13T16:44:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is Russia’s economy cracking despite the Iran war windfall?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-      "published_date": "2026-08-13T16:40:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis claim drone strike on Saudi refinery",
+      "title": "JD Vance says low energy prices for Americans top priority amid US war on Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-drone-strike-saudi-refinery",
-      "published_date": "2026-08-13T16:06:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth says US can keep naval blockade on Iranian ports ‘indefinitely’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-says-us-can-keep-naval-blockade-iranian-ports-indefinitely",
-      "published_date": "2026-08-13T15:56:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians reject Hamas disarmament before full Israeli withdrawal, poll finds",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-reject-hamas-disarmament-full-israeli-withdrawal-poll-finds",
-      "published_date": "2026-08-13T15:09:47+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jd-vance-says-low-energy-prices-americans-top-priority-amid-us-war-iran",
+      "published_date": "2026-08-14T06:41:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE's Adnoc says two vessels attacked in Strait of Hormuz, no injuries",
@@ -403,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Anti-Muslim lawmaker Andy Ogles loses Republican primary",
+      "title": "Tanker hit in Hormuz, UKMTO says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/anti-muslim-lawmaker-andy-ogles-loses-republican-primary",
-      "published_date": "2026-08-07T16:12:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Police in Argentina use tear gas to stop protesters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss",
-      "published_date": "2026-08-07T01:02:56+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-hormuz-ukmto-says",
+      "published_date": "2026-08-14T08:06:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "What’s at stake in Zambia’s elections?",
@@ -550,6 +564,69 @@
       "category": "Economy"
     },
     {
+      "title": "Video: Israel inaugurates new illegal settlement in Jenin",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israel-inaugurates-new-illegal-settlement-jenin",
+      "published_date": "2026-08-14T11:24:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
+      "published_date": "2026-08-14T11:18:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What next for Nigel Farage after beating Count Binface to become MP once more?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/what-next-nigel-farage-after-beating-count-binface-become-mp-once-more",
+      "published_date": "2026-08-14T10:35:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza starvation: Why Israel's supporters are misrepresenting Unicef study",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/gaza-starvation-why-israels-supporters-are-misrepresenting-unicef-study",
+      "published_date": "2026-08-14T10:24:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The paediatric war wounds Dr Abu Sittah tries to heal in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/paediatric-war-wounds-dr-abu-sittah-tries-heal-lebanon",
+      "published_date": "2026-08-14T08:27:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Gambian women turning grief into song",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/8/14/the-gambian-women-turning-grief-into-song?traffic_source=rss",
+      "published_date": "2026-08-14T08:09:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss",
+      "published_date": "2026-08-14T07:44:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘They’re all catastrophic’: The paediatric war wounds Dr Abu Sittah tries to heal in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/theyre-all-catastrophic-paediatric-war-wounds-dr-abu-sittah-strives-heal-lebanon",
+      "published_date": "2026-08-14T06:52:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christopher Nolan remakes the Odyssey as an Anglo-American imperial fantasy",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/christopher-nolan-odyssey-anglo-american-imperial-fantasy",
+      "published_date": "2026-08-14T06:19:15+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
@@ -624,69 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/opinion/why-position-palestinian-health-workers-israel-has-grown-increasingly-precarious",
       "published_date": "2026-08-13T08:57:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss",
-      "published_date": "2026-08-13T08:38:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Part of children’s hospital collapses in Colombia earthquake",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss",
-      "published_date": "2026-08-13T08:23:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss",
-      "published_date": "2026-08-13T07:41:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian women in Gaza face legal hurdles in divorce struggles",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
-      "published_date": "2026-08-13T07:01:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces detain three people in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-three-people-west-bank",
-      "published_date": "2026-08-12T21:01:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss",
-      "published_date": "2026-08-12T20:15:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian students and staff sue Columbia University over discrimination",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-students-and-staff-sue-columbia-university-over",
-      "published_date": "2026-08-12T20:05:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian students and staff sue Columbia University over discrimination",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/palestinian-students-and-staff-sue-columbia-university-over-alleged-discrimination",
-      "published_date": "2026-08-12T18:01:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exclusive: UK to announce raft of new policies on Israel including settlement goods ban",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-uk-announce-raft-new-policies-israel-including-settlement",
-      "published_date": "2026-08-12T17:51:43+00:00",
       "category": "Local Events"
     }
   ]
