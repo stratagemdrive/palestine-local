@@ -1,8 +1,36 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-14T23:26:19.159665+00:00",
-  "story_count": 98,
+  "last_updated": "2026-08-15T11:11:46.112328+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Arteta assures Arsenal fans over contract before Man City clash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
+      "published_date": "2026-08-15T07:44:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
+      "published_date": "2026-08-15T03:04:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US President Trump says he will declare Strait of Hormuz US territory",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
+      "published_date": "2026-08-15T02:25:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hezbollah chief says Israel ‘only understands the language of force’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-israel-only-understands-language-force",
+      "published_date": "2026-08-15T01:53:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi says talks with Oman about Strait of Hormuz ‘may reach conclusion soon’",
       "source": "Middle East Eye",
@@ -116,32 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How the Mecca Agreement aims to manage US separation from Middle East",
+      "title": "Israeli attacks kill nine people in southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/how-mecca-agreement-aims-manage-us-separation-middle-east-region",
-      "published_date": "2026-08-13T20:17:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-nine-people-southern-lebanon",
+      "published_date": "2026-08-15T10:45:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+      "title": "At scene of deadly Israeli strike on Lebanon home",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
-      "published_date": "2026-08-13T18:28:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+      "published_date": "2026-08-15T10:18:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump administration ‘gutted’ federal civil rights enforcement, HRW says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss",
-      "published_date": "2026-08-13T17:46:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran attacks US failures as scepticism grows over Israeli role in Trump 'assassination plot'",
+      "title": "How a pragmatic axis could reshape the Middle East",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-attacks-us-intelligence-failures-doubts-grow-over-israeli-trump-assassination-plot",
-      "published_date": "2026-08-13T11:02:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/opinion/how-pragmatic-axis-could-reshape-middle-east",
+      "published_date": "2026-08-15T09:06:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+      "published_date": "2026-08-15T07:18:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Korea’s president wants talks with North to end Korean War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
+      "published_date": "2026-08-15T06:53:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-153",
+      "published_date": "2026-08-15T06:24:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Seven people killed in Israeli air attacks on southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-killed-israeli-air-attacks-southern-lebanon",
+      "published_date": "2026-08-15T05:26:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Libya's Haftar played role in securing US hostage's release, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/libyas-haftar-played-role-securing-us-hostages-release-report-says",
+      "published_date": "2026-08-15T04:31:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Did the US really destroy Iran’s ballistic missile capability?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
+      "published_date": "2026-08-15T03:52:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India marks 80th Independence Day with military display",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
+      "published_date": "2026-08-15T03:39:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni government says Houthi attack on al-Mokha killed four civilians",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-says-houthi-attack-al-mokha-killed-four-civilians",
+      "published_date": "2026-08-15T03:21:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas likely to elect Gaza political bureau head next week, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-likely-elect-gaza-political-bureau-head-next-week-report-says",
+      "published_date": "2026-08-15T02:36:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi spokesman says 'Saudi warships and mercenaries' targeted",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-spokesman-says-saudi-warships-and-mercenaries-targeted-al-mokha",
+      "published_date": "2026-08-15T02:13:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Vance says low oil prices are top US goal in Iran conflict",
@@ -193,95 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Morale on US aircraft carrier enforcing Iran blockade plummets, as sailor jumps overboard: Report",
+      "title": "Saudi Arabia condemns attack on UAE tankers in Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morale-us-aircraft-carrier-enforcing-iran-blockade-plummets-sailor-jumps",
-      "published_date": "2026-08-14T16:57:42+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-attack-uae-tankers-hormuz",
+      "published_date": "2026-08-15T01:36:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Morale on US aircraft carrier enforcing Iran blockade plummets, as sailor jumps overboard: Report",
+      "title": "Oil tanker loading resumes at Iran’s Kharg Island, TankerTrackers says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/morale-aboard-us-aircraft-carrier-enforcing-iran-blockade-plummets-sailor-jumping-overboard",
-      "published_date": "2026-08-14T16:50:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Philippines drug war victims seek justice through truth commission",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss",
-      "published_date": "2026-08-14T16:08:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pro-Israel Emirati influencers mocked for claims of Islamic plot to take over West",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/pro-israel-emirati-influencers-mocked-claims-islamic-plot-take-over-west",
-      "published_date": "2026-08-14T16:02:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Life in a laboratory of Israeli ethnic cleansing",
-      "source": "+972 Magazine",
-      "url": "https://www.972mag.com/al-mughayyir-west-bank-israeli-ethnic-cleansing-laboratory/",
-      "published_date": "2026-08-14T15:12:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
-      "published_date": "2026-08-14T11:06:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Record-breaking rain in Japan leaves several dead, thousands stranded",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss",
-      "published_date": "2026-08-14T10:52:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seven killed in tunnel accident at Indian hydropower project",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
-      "published_date": "2026-08-14T10:28:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli bombardments in southern Lebanon intensify",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-bombardments-south-lebanon-intensify",
-      "published_date": "2026-08-14T10:07:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-603",
-      "published_date": "2026-08-14T07:02:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel carries out large series of explosions, artillery shelling in south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-carries-out-large-series-explosions-artillery-shelling-south",
-      "published_date": "2026-08-14T07:01:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea fumes over upcoming US-South Korea military drills",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
-      "published_date": "2026-08-14T05:40:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army fired at civilians in Syria's Daraa province",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-fired-civilians-syrias-daraa-province",
-      "published_date": "2026-08-14T03:18:37+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-tanker-loading-resumes-irans-kharg-island-tankertrackers-says",
+      "published_date": "2026-08-15T01:20:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE's Adnoc says one of its vessels came under attack while transiting Hormuz",
@@ -410,18 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "US Vice President confirms direct US-Iran talks over Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-vice-president-confirms-direct-us-iran-talks-over-strait-hormuz",
-      "published_date": "2026-08-08T17:28:39+00:00",
-      "category": "Energy"
+      "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
+      "published_date": "2026-08-15T10:43:09+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Saudi Arabia and Qatar condemn Iranian attack on UAE tanker",
+      "title": "Five years of Taliban rule: A state has survived, but at what cost?",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-and-qatar-condemn-iranian-attack-uae-tanker",
-      "published_date": "2026-08-08T14:43:49+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/five-years-taliban-rule-state-has-survived-what-cost",
+      "published_date": "2026-08-15T08:34:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UKMTO says bulk carrier struck in Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-bulk-carrier-struck-hormuz",
+      "published_date": "2026-08-15T06:06:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Taiwan passes defence budget after record delay, retains drone funding",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+      "published_date": "2026-08-15T04:44:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tanker hit in Hormuz, UKMTO says",
@@ -536,18 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "US announces $400m investment in Australian rare earth mine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
-      "published_date": "2026-08-08T09:30:12+00:00",
-      "category": "Economy"
+      "title": "Thirteen years after Rabaa massacre, families urge Egypt to free political prisoners",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/thirteen-years-after-rabaa-massacre-families-urge-egypt-free-political-prisoners",
+      "published_date": "2026-08-15T10:55:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Israel has the power to dominate, but not to lead the region",
+      "title": "Oxygen stations operating beyond capacity in Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/israel-has-power-dominate-not-lead-region",
-      "published_date": "2026-08-08T09:12:35+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oxygen-stations-operating-beyond-capacity-gaza",
+      "published_date": "2026-08-15T10:49:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The women India’s biggest river project forgot",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
+      "published_date": "2026-08-15T08:22:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-08-15T07:13:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces fire tear gas canisters at Palestinian homes in Ramallah",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-fire-tear-gas-canisters-palestinian-homes-ramallah",
+      "published_date": "2026-08-15T06:59:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN says 900 ‘physical obstacles’ delay, limit aid to West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-900-physical-obstacles-delay-limit-aid-west-bank",
+      "published_date": "2026-08-15T06:35:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+      "published_date": "2026-08-15T05:14:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What we know about the crisis aboard the USS Lincoln",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
+      "published_date": "2026-08-15T04:21:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Siege of West Bank families 'state-backed settler terror', Amnesty official says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/siege-west-bank-families-state-backed-settler-terror-amnesty-official",
+      "published_date": "2026-08-15T03:56:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rashida Tlaib rally cancelled after Florida lawmaker calls its 'anti-jew'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rashida-tlaib-rally-cancelled-after-florida-lawmaker-calls-its-anti-jew",
+      "published_date": "2026-08-15T02:53:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three Palestinian injured in firing by Israeli army, settlers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-palestinian-injured-firing-israeli-army-settlers",
+      "published_date": "2026-08-15T00:55:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli settlers shoot and wound two Palestinians east of Hebron",
@@ -610,83 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
       "published_date": "2026-08-14T11:18:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What next for Nigel Farage after beating Count Binface to become MP once more?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/what-next-nigel-farage-after-beating-count-binface-become-mp-once-more",
-      "published_date": "2026-08-14T10:35:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza starvation: Why Israel's supporters are misrepresenting Unicef study",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/gaza-starvation-why-israels-supporters-are-misrepresenting-unicef-study",
-      "published_date": "2026-08-14T10:24:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The paediatric war wounds Dr Abu Sittah tries to heal in Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/paediatric-war-wounds-dr-abu-sittah-tries-heal-lebanon",
-      "published_date": "2026-08-14T08:27:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Gambian women turning grief into song",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/8/14/the-gambian-women-turning-grief-into-song?traffic_source=rss",
-      "published_date": "2026-08-14T08:09:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss",
-      "published_date": "2026-08-14T07:44:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘They’re all catastrophic’: The paediatric war wounds Dr Abu Sittah tries to heal in Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/theyre-all-catastrophic-paediatric-war-wounds-dr-abu-sittah-strives-heal-lebanon",
-      "published_date": "2026-08-14T06:52:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Christopher Nolan remakes the Odyssey as an Anglo-American imperial fantasy",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/christopher-nolan-odyssey-anglo-american-imperial-fantasy",
-      "published_date": "2026-08-14T06:19:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
-      "published_date": "2026-08-13T23:09:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli defence minister inaugurates new illegal settlement in Jenin",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defence-minister-inaugurates-new-illegal-settlement-jenin",
-      "published_date": "2026-08-13T22:46:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces order families to evacuate homes in Qusra",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss",
-      "published_date": "2026-08-13T19:36:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia earthquake: Hospitals adapt to save lives amid widespread damage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss",
-      "published_date": "2026-08-13T19:23:35+00:00",
       "category": "Local Events"
     }
   ]
