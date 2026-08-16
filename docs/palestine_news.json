@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-15T23:25:19.546559+00:00",
+  "last_updated": "2026-08-16T11:12:28.974431+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "Former UAE presidential aide's post mocking Pakistan exposes unease over Mecca pact",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
+      "published_date": "2026-08-16T07:19:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Arab League condemns Israeli strikes on Lebanon as 'dangerous escalation'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-league-condemns-israeli-strikes-lebanon-dangerous-escalation",
+      "published_date": "2026-08-16T06:12:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli defence minister Katz says 'no account will remain unsettled'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defence-minister-katz-says-no-account-will-remain-unsettled",
+      "published_date": "2026-08-16T05:39:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hamas delegation to hold talks on Gaza agreement in Cairo, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-delegation-hold-talks-gaza-agreement-cairo-report-says",
+      "published_date": "2026-08-16T04:09:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran and Oman defining a temporary route for now, Araghchi says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-oman-defining-temporary-route-now-araghchi-says",
+      "published_date": "2026-08-16T03:12:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
       "source": "Al Jazeera",
@@ -109,39 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump says he will 'soon' declare Hormuz strait US territory",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-will-soon-declare-hormuz-strait-us-territory",
-      "published_date": "2026-08-14T20:27:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US to hit Iran hard economically, Trump says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-hit-iran-hard-economically-trump-says",
-      "published_date": "2026-08-14T19:44:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
+      "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
-      "published_date": "2026-08-14T19:02:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+      "published_date": "2026-08-16T10:59:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "US accuses dozens of countries of helping China avoid Trump’s tariffs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/14/us-accuses-dozens-of-countries-of-helping-china-avoid-trumps-tariffs?traffic_source=rss",
-      "published_date": "2026-08-14T08:37:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Watch: Turkey's Fidan warns of 'radical steps' if Israel does not comply with Gaza deal",
+      "title": "Houthi missile barrage hits Mocha port as fighting escalates in Yemen",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-turkeys-fidan-warns-radical-steps-if-israel-does-not-comply-gaza",
-      "published_date": "2026-08-14T05:55:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/houthi-missile-barrage-hits-mocha-port-fighting-escalates-yemen",
+      "published_date": "2026-08-16T10:57:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian military promises 'complete defeat' of Israel and US",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-military-promises-complete-defeat-israel-and-us",
+      "published_date": "2026-08-16T10:02:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany has chosen Israel over international law",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/germany-has-chosen-israel-over-international-law",
+      "published_date": "2026-08-16T09:56:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 12 people killed in Hungary bus crash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
+      "published_date": "2026-08-16T08:50:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel threatens further attacks on Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-threatens-fresh-attacks-lebanon",
+      "published_date": "2026-08-16T08:45:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
+      "published_date": "2026-08-16T08:11:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-154",
+      "published_date": "2026-08-16T06:48:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+      "published_date": "2026-08-16T04:54:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces incur into Syria’s Quneitra, fire flares",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-incur-syrias-quneitra-fire-flares",
+      "published_date": "2026-08-16T04:46:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
+      "published_date": "2026-08-16T03:47:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis launch sixth ballistic missile at Marib city",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-launch-sixth-ballistic-missile-marib-city",
+      "published_date": "2026-08-16T02:57:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Opinion: How a pragmatic axis could reshape the Middle East",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Opinion: How Iran and Ukraine are strategically sinking their rivals at sea",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-how-iran-and-ukraine-are-strategically-sinking-their-rivals-sea",
-      "published_date": "2026-08-15T17:03:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed, dozens injured after wildfire hits Croatian coast",
+      "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
-      "published_date": "2026-08-15T16:33:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's Mocha port suspends operations after Houthi attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-mocha-port-halts-operations-after-houthi-attacks-port-director",
-      "published_date": "2026-08-15T16:24:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s ‘pilot zones’: Withdrawal on paper, continued occupation of south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-pilot-zones-withdrawal-paper-continued-occupation-south-lebanon",
-      "published_date": "2026-08-15T15:58:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s ‘pilot zones’: Withdrawal on paper, continued occupation of south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-pilot-zones-withdrawal-paper-continued-occupation-south-lebanon",
-      "published_date": "2026-08-15T15:31:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill 11 in southern Lebanon, Lebanese health ministry says​",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-11-south-lebanon-health-ministry-says",
-      "published_date": "2026-08-15T15:21:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The next Yemen war might be different",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-      "published_date": "2026-08-15T14:32:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Iran and Ukraine are strategically sinking their rivals at sea",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/how-iran-and-ukraine-are-strategically-sinking-their-rivals-sea",
-      "published_date": "2026-08-15T14:26:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese parliament speaker condemns Israeli 'massacre'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-parliament-speaker-condemns-israeli-massacre",
-      "published_date": "2026-08-15T14:19:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly Israeli strikes kill nine in southern Lebanon as tensions escalate",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/deadly-israeli-strikes-kill-nine-southern-lebanon-tensions-escalate",
-      "published_date": "2026-08-15T13:40:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks kill nine people in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-nine-people-southern-lebanon",
-      "published_date": "2026-08-15T10:45:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At scene of deadly Israeli strike on Lebanon home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
-      "published_date": "2026-08-15T10:18:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
+      "published_date": "2026-08-16T08:40:34+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia, Yemen condemn attack on UAE oil tanker",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-yemen-condemn-attack-uae-oil-tanker",
-      "published_date": "2026-08-09T03:16:02+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
@@ -536,6 +536,34 @@
       "category": "Economy"
     },
     {
+      "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
+      "published_date": "2026-08-16T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+      "published_date": "2026-08-16T10:32:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Settler violence: 60-year-old man among two Palestinians shot, eight beaten",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/settler-violence-60-year-old-man-among-two-palestinians-shot-eight",
+      "published_date": "2026-08-16T06:33:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several Palestinians injured as settlers continue attacks in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-settlers-continue-attacks-west-bank",
+      "published_date": "2026-08-16T03:58:02+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Israeli settlers injure five Palestinians in Masafer Yatta attacks",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-five-palestinians-masafer-yatta-attacks",
@@ -645,34 +673,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rashida-tlaib-rally-cancelled-after-florida-lawmaker-calls-its-anti-jew",
       "published_date": "2026-08-15T02:53:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three Palestinian injured in firing by Israeli army, settlers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-palestinian-injured-firing-israeli-army-settlers",
-      "published_date": "2026-08-15T00:55:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers shoot and wound two Palestinians east of Hebron",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-shoot-and-wound-two-palestinians-east-hebron",
-      "published_date": "2026-08-14T22:45:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Israel Emirati influencers mocked for claims of Islamic plot to take over West",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-israel-emirati-influencers-mocked-claims-islamic-plot-take-over-west",
-      "published_date": "2026-08-14T18:43:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump dismisses concerns over conditions on US aircraft carrier",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-dismisses-concerns-over-conditions-us-aircraft-carrier",
-      "published_date": "2026-08-14T18:33:00+00:00",
       "category": "Local Events"
     }
   ]
