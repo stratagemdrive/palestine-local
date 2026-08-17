@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-16T23:25:14.640468+00:00",
-  "story_count": 96,
+  "last_updated": "2026-08-17T11:17:48.866403+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Iran says Hormuz transit route deal reached with Oman",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-hormuz-transit-route-deal-reached-oman",
+      "published_date": "2026-08-17T10:53:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kushner to meet Netanyahu after talks with Hamas leaders",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kushner-meet-netanyahu-after-talks-hamas-leaders",
+      "published_date": "2026-08-17T09:59:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says 60-day deadline under US deal is no longer relevant",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-60-day-deadline-under-us-deal-no-longer-relevant",
+      "published_date": "2026-08-17T08:22:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kushner meets Netanyahu to push Trump Gaza plan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+      "published_date": "2026-08-17T08:13:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian official says Israel setting 'nightly quota' for killing Palestinians in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-says-israel-setting-nightly-quota-killing-palestinians",
+      "published_date": "2026-08-17T06:15:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kushner meets Sisi in Egypt to discuss regional issues",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kushner-meets-sisi-egypt-discuss-regional-issues",
+      "published_date": "2026-08-17T02:37:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Jared Kushner lands in Israel after meeting Hamas officials",
       "source": "Middle East Eye",
@@ -102,46 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
-      "published_date": "2026-08-15T23:04:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hamas chief heads to Cairo for talks ahead of Kushner visit",
+      "title": "US considering nuclear weapons against Iran as war falters, claims Marjorie Taylor Greene",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-chief-heads-cairo-talks-ahead-kushner-visit",
-      "published_date": "2026-08-15T22:31:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/us-considering-nuclear-weapons-against-iran-war-falters-says-marjorie-taylor-greene",
+      "published_date": "2026-08-17T11:04:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "California tackles multiple wildfires as firefighter workforce faces strain",
+      "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
-      "published_date": "2026-08-15T20:40:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
+      "published_date": "2026-08-17T10:54:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+      "title": "Iraqi Kurdistan leader says Iranian drones targeted his office",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-kurdistan-leader-says-iranian-drones-targeted-his-office",
+      "published_date": "2026-08-17T10:25:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US senator condemns Ben Gvir’s call to 'kill 30 or 40 people in Gaza every night'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-condemns-ben-gvirs-calls-killings-gaza",
+      "published_date": "2026-08-17T09:22:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says talks with Oman continue on new Hormuz transit route",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-talks-oman-continue-new-hormuz-transit-route",
+      "published_date": "2026-08-17T08:42:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
-      "published_date": "2026-08-15T20:09:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+      "published_date": "2026-08-17T08:00:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says route through Hormuz agreed with Oman, but deal yet to be finalised",
+      "title": "Morning update",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-route-through-hormuz-agreed-oman-deal-yet-be-finalised",
-      "published_date": "2026-08-15T16:53:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-604",
+      "published_date": "2026-08-17T06:36:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran accuses French diplomats of 'infiltration'",
+      "title": "Yemeni government claims attacks on Houthis",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-french-diplomats-infiltration",
-      "published_date": "2026-08-15T13:08:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-claims-attacks-houthis",
+      "published_date": "2026-08-17T05:29:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s top negotiator declares victory in war against the US and Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
+      "published_date": "2026-08-17T05:16:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ongoing Israeli attacks across southern Lebanon, two injured in Bint Jbeil",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ongoing-israeli-attacks-across-southern-lebanon-two-injured-bint-jbeil",
+      "published_date": "2026-08-17T04:36:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US senator slams Trump, Hegseth over 'disgraceful' disregard for American troops",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-slams-trump-hegseth-over-disgraceful-disregard-american",
+      "published_date": "2026-08-17T04:29:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Report: Israeli military prepares for possible escalation in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-military-prepares-possible-escalation-lebanon",
+      "published_date": "2026-08-17T03:23:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tehran's foreign ministry slams Canada for backing US war on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-ministry-criticises-canadas-participation-us-war-iran",
+      "published_date": "2026-08-17T03:09:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zambia incumbent takes early election lead as opposition alleges armed raid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss",
+      "published_date": "2026-08-17T02:27:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war pushes Middle Eastern airlines towards $4.3bn loss in 2026",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-war-pushes-middle-eastern-airlines-towards-43bn-loss-2026",
+      "published_date": "2026-08-17T01:52:31+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran parliament speaker says US used more firepower in Iran than on Vietnam",
@@ -179,109 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israeli military attacks strategic hill in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-attacks-southern-lebanon",
-      "published_date": "2026-08-16T17:05:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Centcom chief visits US carrier enforcing Iran blockade amid reports of severe strain on crew",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-chief-visits-us-carrier-enforcing-iran-blockade-amid-reports",
-      "published_date": "2026-08-16T15:54:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran and Oman work on temporary Hormuz shipping route as Trump threatens to claim the strait",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-oman-work-temporary-hormuz-shipping-route-trump-threatens-claim-strait",
-      "published_date": "2026-08-16T15:43:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+      "title": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-      "published_date": "2026-08-16T15:35:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Centcom chief visits US carrier enforcing Iran blockade amid reports of severe strain on crew",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/centcom-chief-visits-us-carrier-enforcing-iran-blockade-amid-reports-severe-strain-crew",
-      "published_date": "2026-08-16T15:17:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas leader meets Egyptian intelligence chief",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-leader-meets-egyptian-intelligence-chief",
-      "published_date": "2026-08-16T14:54:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-      "published_date": "2026-08-16T10:59:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi missile barrage hits Mocha port as fighting escalates in Yemen",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/houthi-missile-barrage-hits-mocha-port-fighting-escalates-yemen",
-      "published_date": "2026-08-16T10:57:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian military promises 'complete defeat' of Israel and US",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-military-promises-complete-defeat-israel-and-us",
-      "published_date": "2026-08-16T10:02:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany has chosen Israel over international law",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/germany-has-chosen-israel-over-international-law",
-      "published_date": "2026-08-16T09:56:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 12 people killed in Hungary bus crash",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
-      "published_date": "2026-08-16T08:50:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel threatens further attacks on Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-threatens-fresh-attacks-lebanon",
-      "published_date": "2026-08-16T08:45:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
-      "published_date": "2026-08-16T08:11:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning recap",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-154",
-      "published_date": "2026-08-16T06:48:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-      "published_date": "2026-08-16T04:54:33+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss",
+      "published_date": "2026-08-17T09:01:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Anwar Ibrahim: Malaysia between the superpowers",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "UAE's Adnoc announces $8bn gas expansion, as it mulls Hormuz bypass",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uaes-adnoc-announces-8bn-gas-expansion-it-mulls-hormuz-bypass",
-      "published_date": "2026-08-10T18:48:43+00:00",
-      "category": "Energy"
+      "title": "Thousands await aid after deadly Indonesia quake as rescue work under way",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
+      "published_date": "2026-08-17T10:14:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss",
+      "published_date": "2026-08-17T09:41:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Outrage as Colombia’s president hands out footballs as residents await aid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
+      "published_date": "2026-08-17T08:18:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Japan’s economy slows, missing growth forecasts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
+      "published_date": "2026-08-17T06:14:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
@@ -536,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Burnham apologised for Gaza. He has 100 days to prove he meant it",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/burnham-apologised-gaza-he-has-100-days-prove-he-meant-it",
+      "published_date": "2026-08-17T09:52:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
+      "published_date": "2026-08-17T06:02:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
+      "published_date": "2026-08-17T04:58:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
+      "published_date": "2026-08-17T03:41:30+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "What could stop Israeli settler attacks on Palestinians?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
@@ -645,34 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
       "published_date": "2026-08-15T13:11:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli drone strike injures three in central Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-injures-three-central-gaza",
-      "published_date": "2026-08-15T11:39:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thirteen years after Rabaa massacre, families urge Egypt to free political prisoners",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/thirteen-years-after-rabaa-massacre-families-urge-egypt-free-political-prisoners",
-      "published_date": "2026-08-15T10:55:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oxygen stations operating beyond capacity in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oxygen-stations-operating-beyond-capacity-gaza",
-      "published_date": "2026-08-15T10:49:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The women India’s biggest river project forgot",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
-      "published_date": "2026-08-15T08:22:09+00:00",
       "category": "Local Events"
     }
   ]
