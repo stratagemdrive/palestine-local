@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-21T11:17:52.257926+00:00",
+  "last_updated": "2026-08-21T23:29:01.527898+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pro-Gaza flotilla arrives in Albania in support of 'Flamingo Revolution'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-gaza-flotilla-arrives-albania-support-flamingo-revolution",
+      "published_date": "2026-08-21T23:13:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss",
+      "published_date": "2026-08-21T21:38:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
+      "published_date": "2026-08-21T19:52:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
+      "published_date": "2026-08-21T19:42:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
+      "published_date": "2026-08-21T19:20:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FM Araghchi says US economic pressure campaign is doomed to fail",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fm-araghchi-says-us-economic-pressure-campaign-doomed-fail",
+      "published_date": "2026-08-21T17:58:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran and Oman discuss resuming talks over Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-discuss-resuming-talks-strait-hormuz-navigation",
+      "published_date": "2026-08-21T16:42:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China calls for US-Iran dialogue",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-calls-us-iran-dialogue",
+      "published_date": "2026-08-21T15:28:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iranian oil prices rise as US blockade tightens supplies to China",
       "source": "Middle East Eye",
@@ -88,60 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran condemns new US sanctions, calls them 'economic terrorism'",
+      "title": "Centcom says 68 vessels redirected so far in Iran naval blockade",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-condemns-new-us-sanctions-calls-them-economic-terrorism",
-      "published_date": "2026-08-20T15:41:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-68-vessels-redirected-so-far-iran-naval-blockade",
+      "published_date": "2026-08-21T23:27:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Three Palestinian parties in Israel form joint list ahead of elections",
+      "title": "Lebanon death toll rises to 4,348",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/three-palestinian-parties-israel-form-joint-list-ahead-elections",
-      "published_date": "2026-08-20T10:28:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-rises-4",
+      "published_date": "2026-08-21T22:38:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
-      "published_date": "2026-08-20T10:16:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Taliban secures pragmatic global alliances without formal recognition",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss",
-      "published_date": "2026-08-20T10:14:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's Araghchi says Trump's 'Economic D-Day' is a diversion from US domestic problems",
+      "title": "Trump says Iran not ready to make the 'right deal'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-trumps-economic-d-day-diversion-us-domestic-problems",
-      "published_date": "2026-08-20T07:01:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-not-ready-make-right-deal",
+      "published_date": "2026-08-21T21:37:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Morning update",
+      "title": "One killed, three wounded in sword attack at Swedish high school",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
+      "published_date": "2026-08-21T21:23:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel launches attacks in southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-607",
-      "published_date": "2026-08-20T06:56:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-attacks-southern-lebanon-0",
+      "published_date": "2026-08-21T21:13:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bangladesh holds presidential election in first contested vote in 35 years",
+      "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
-      "published_date": "2026-08-20T06:38:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
+      "published_date": "2026-08-21T20:03:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Australian anger as Israel drops World Central Kitchen deaths case",
+      "title": "'Shameful:' UK, Canada and Australia condemn Israel's refusal to investigate aid worker attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shameful-uk-canada-and-australia-condemn-israels-refusal-investigate-aid",
+      "published_date": "2026-08-21T19:22:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
-      "published_date": "2026-08-20T05:43:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
+      "published_date": "2026-08-21T18:55:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
+      "published_date": "2026-08-21T18:40:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
+      "published_date": "2026-08-21T18:17:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran president says time to end war while in position of strength",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-president-says-time-end-war-while-position-strength",
+      "published_date": "2026-08-21T18:10:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Shameful:' UK, Canada and Australia condemn Israel's refusal to investigate aid worker attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/shameful-uk-canada-and-australia-condemn-israels-refusal-investigate-aid-worker-attack",
+      "published_date": "2026-08-21T17:56:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey to seek Interpol notice for Netanyahu in Gaza flotilla case",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-seek-interpol-notice-netanyahu-gaza-flotilla-case",
+      "published_date": "2026-08-21T17:37:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Bloodline punishment': Iranian family faces ongoing punitive ICE detention",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bloodline-punishment-iranian-family-faces-ongoing-punitive-ice-detention",
+      "published_date": "2026-08-21T15:56:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Charter plane crash near Alaskan military site kills 8",
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israeli shelling in Syrian Golan Heights sparks fire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-shelling-syrian-golan-heights-sparks-fire",
-      "published_date": "2026-08-21T06:23:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ongoing Israeli air strikes, massive blasts reported in south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ongoing-israeli-air-strikes-massive-blasts-reported-south-lebanon",
-      "published_date": "2026-08-21T05:11:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces kill Palestinian man during raid in Jenin",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-during-raid-jenin",
-      "published_date": "2026-08-21T04:37:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza escalate",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-told-be-sensitive-netanyahu-ahead-israeli-elections-amid-ongoing",
-      "published_date": "2026-08-21T03:51:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blast in Syria's Idlib kills at least three",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/blast-syrias-idlib-kills-least-three",
-      "published_date": "2026-08-21T01:36:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: Netanyahu warns Turkey over presence in Syria",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-netanyahu-warns-turkey-over-presence-syria",
-      "published_date": "2026-08-21T00:06:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes target southern Lebanon and Syria",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-target-southern-lebanon-and-syria",
-      "published_date": "2026-08-20T22:52:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The cost of rebuilding family homes in war-ravaged Syria",
+      "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
-      "published_date": "2026-08-20T22:51:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
-      "published_date": "2026-08-20T22:45:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Landslide at illegal gold mine kills 13 people in Colombia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
-      "published_date": "2026-08-20T20:36:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four railway workers killed by express train at station in Japan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
-      "published_date": "2026-08-20T20:27:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
-      "published_date": "2026-08-20T20:10:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Opinion: Amid genocide in Gaza, why must Palestinian journalists uphold the illusion of neutrality?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-amid-genocide-gaza-why-must-palestinian-journalists-uphold",
-      "published_date": "2026-08-20T20:09:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
-      "published_date": "2026-08-20T20:05:53+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
+      "published_date": "2026-08-21T20:16:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "How China eased pressure on oil markets by halting purchases and relying on reserves",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Oil tanker loading resumes at Iran’s Kharg Island, TankerTrackers says",
+      "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
+      "published_date": "2026-08-21T22:52:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Indian workers in Israel demand accountability after murder of Indian caregiver",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-tanker-loading-resumes-irans-kharg-island-tankertrackers-says",
-      "published_date": "2026-08-15T01:20:39+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/indian-workers-israel-demand-accountability-after-murder-indian-caregiver",
+      "published_date": "2026-08-21T20:45:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
+      "published_date": "2026-08-21T20:07:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
+      "published_date": "2026-08-21T19:08:30+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iran and Iraq will resist foreign interference, Ghalibaf says",
@@ -536,32 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Thousands await aid after deadly Indonesia quake as rescue work under way",
+      "title": "TikTok settles with US Justice Department for $400m over child privacy laws",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
-      "published_date": "2026-08-17T10:14:28+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
+      "published_date": "2026-08-21T21:59:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss",
-      "published_date": "2026-08-17T09:41:19+00:00",
-      "category": "Economy"
+      "title": "EU's von der Leyen joins European countries to condemn Israel's West Bank plan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eus-von-der-leyen-joins-european-countries-condemn-israels-west-bank",
+      "published_date": "2026-08-21T20:42:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Outrage as Colombia’s president hands out footballs as residents await aid",
+      "title": "Can a humanitarian disaster be averted in Somalia?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
-      "published_date": "2026-08-17T08:18:05+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
+      "published_date": "2026-08-21T20:27:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Japan’s economy slows, missing growth forecasts",
+      "title": "US elections: Aisha Wahab becomes first Afghan-American in Congress",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-elections-aisha-wahab-becomes-first-afghan-american-congress",
+      "published_date": "2026-08-21T19:38:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
-      "published_date": "2026-08-17T06:14:39+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
+      "published_date": "2026-08-21T19:29:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian victims of Israeli settler attacks face battle for justice",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss",
+      "published_date": "2026-08-21T19:14:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces kill Palestinian man in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-gaza",
+      "published_date": "2026-08-21T18:45:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
+      "published_date": "2026-08-21T18:25:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Middle Eastern powers condemn Israeli settlement policies, reject 'E1' West Bank plan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/middle-eastern-powers-condemn-israeli-settlement-plans-reject-e1-west",
+      "published_date": "2026-08-21T16:09:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Death of Syrian detainee sparks protest and conversation about prison reform",
@@ -638,69 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-block-ramallah-governor-following-slain-teens-funeral",
       "published_date": "2026-08-20T20:38:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
-      "published_date": "2026-08-20T19:59:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "University suspends US academic leading Jason Arday plagiarism accusations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
-      "published_date": "2026-08-20T19:13:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewish-American barred by Israel calls settler violence ‘state terror’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss",
-      "published_date": "2026-08-20T19:09:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France, Germany, UK and Italy condemn Israel's 'E1' West Bank settlement plan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-germany-uk-and-italy-condemn-israels-e1-west-bank-settlement-plan",
-      "published_date": "2026-08-20T18:52:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amid genocide in Gaza, why must Palestinian journalists uphold the illusion of neutrality?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/gaza-genocide-palestinian-journalists-illusion-neutrality",
-      "published_date": "2026-08-20T17:31:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British activist Anas Altikriti questions UAE surveillance operation",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-anas-altikriti-questions-uae-surveillance-operation",
-      "published_date": "2026-08-20T16:13:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We are starving’: Palestinians besieged by settlers in West Bank homes run out of food",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-are-starving-palestinians-besieged-settlers-west-bank-homes-run-out",
-      "published_date": "2026-08-20T14:50:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestine groups call for London march against British 'complicity' in Gaza genocide",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/palestine-groups-call-for-london-march-against-british-complicity-gaza-genocide",
-      "published_date": "2026-08-20T10:39:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jason Arday's marathon challenge and football claims found to be true after his death",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/jason-ardays-marathon-challenge-and-football-claims-found-be-true-after-his-death",
-      "published_date": "2026-08-20T10:03:07+00:00",
       "category": "Local Events"
     }
   ]
