@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-22T11:13:19.406259+00:00",
+  "last_updated": "2026-08-22T23:25:59.038415+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Hamas says not obligated to implement Trump Gaza deal unless Israel accepts it",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-not-obligated-implement-trump-gaza-deal-unless-israel-accepts",
+      "published_date": "2026-08-22T23:14:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran threatens to block Hormuz if neighbours join US sanctions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-block-hormuz-if-neighbours-join-us-sanctions",
+      "published_date": "2026-08-22T20:53:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
+      "published_date": "2026-08-22T20:49:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
+      "published_date": "2026-08-22T19:18:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US 'economic terrorism' will not break people's will: Iranian Vice President",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-economic-terrorism-will-not-break-peoples-will-iranian-vice-president",
+      "published_date": "2026-08-22T18:17:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
+      "published_date": "2026-08-22T17:52:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US ambassador to Turkey breaks with Washington on Israel's occupation of Syria's Golan Heights",
       "source": "Middle East Eye",
@@ -102,46 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
-      "published_date": "2026-08-21T19:52:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-      "published_date": "2026-08-21T19:42:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
-      "published_date": "2026-08-21T19:20:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FM Araghchi says US economic pressure campaign is doomed to fail",
+      "title": "Evening recap",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fm-araghchi-says-us-economic-pressure-campaign-doomed-fail",
-      "published_date": "2026-08-21T17:58:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-605",
+      "published_date": "2026-08-22T22:28:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran and Oman discuss resuming talks over Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-discuss-resuming-talks-strait-hormuz-navigation",
-      "published_date": "2026-08-21T16:42:07+00:00",
-      "category": "Diplomacy"
+      "title": "Open-air cinema brings movie nights back to Khartoum",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
+      "published_date": "2026-08-22T21:27:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "China calls for US-Iran dialogue",
+      "title": "Israeli army and settlers injure several Palestinians across West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
+      "published_date": "2026-08-22T21:02:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel continues attacks in southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-calls-us-iran-dialogue",
-      "published_date": "2026-08-21T15:28:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-continues-attacks-southern-lebanon",
+      "published_date": "2026-08-22T19:50:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+      "published_date": "2026-08-22T19:24:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel has no intention of escalating tensions with Turkey, foreign minister says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-has-no-intention-escalating-tensions-turkey-foreign-minister-says",
+      "published_date": "2026-08-22T18:38:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
+      "published_date": "2026-08-22T17:34:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces reportedly use phosphorus shells in attacks on southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-reportedly-use-phosphorus-shells-attacks-southern-lebanon",
+      "published_date": "2026-08-22T14:38:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria condemns Israeli strike on 'civilian vehicle' near Damascus",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-condemns-israeli-strike-civilian-vehicle-near-damascus",
+      "published_date": "2026-08-22T14:31:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces reportedly use phosphorus shells in attacks on southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-forces-reportedly-use-phosphorus-shells-indiscriminate-attacks-southern-lebanon",
+      "published_date": "2026-08-22T13:47:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel says Syria air base strike motivated by alleged Turkish plans to deploy forces there",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/katz-says-syria-air-base-strike-motivated-alleged-turkish-plans-deploy",
+      "published_date": "2026-08-22T13:41:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army claims attack in southern Syria",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-claims-attack-southern-syria",
+      "published_date": "2026-08-22T13:03:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike on Palestinian home kills at least one in central Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-palestinian-home-kills-least-one-central-gaza",
+      "published_date": "2026-08-22T11:22:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel kills at least two Palestinians in Gaza in last 48 hours",
@@ -193,95 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israeli forces make fresh incursion into Syria's Quneitra, search home",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-make-fresh-incursion-syrias-quneitra-search-home",
-      "published_date": "2026-08-22T00:27:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Centcom says 68 vessels redirected so far in Iran naval blockade",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-68-vessels-redirected-so-far-iran-naval-blockade",
-      "published_date": "2026-08-21T23:27:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon death toll rises to 4,348",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-rises-4",
-      "published_date": "2026-08-21T22:38:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Iran not ready to make the 'right deal'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-not-ready-make-right-deal",
-      "published_date": "2026-08-21T21:37:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed, three wounded in sword attack at Swedish high school",
+      "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
-      "published_date": "2026-08-21T21:23:35+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
+      "published_date": "2026-08-22T20:05:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel launches attacks in southern Lebanon",
+      "title": "Iran says repair of South Pars refinery 70 percent complete",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-attacks-southern-lebanon-0",
-      "published_date": "2026-08-21T21:13:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
-      "published_date": "2026-08-21T20:03:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Shameful:' UK, Canada and Australia condemn Israel's refusal to investigate aid worker attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shameful-uk-canada-and-australia-condemn-israels-refusal-investigate-aid",
-      "published_date": "2026-08-21T19:22:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
-      "published_date": "2026-08-21T18:55:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
-      "published_date": "2026-08-21T18:40:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
-      "published_date": "2026-08-21T18:17:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran president says time to end war while in position of strength",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-president-says-time-end-war-while-position-strength",
-      "published_date": "2026-08-21T18:10:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Shameful:' UK, Canada and Australia condemn Israel's refusal to investigate aid worker attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/shameful-uk-canada-and-australia-condemn-israels-refusal-investigate-aid-worker-attack",
-      "published_date": "2026-08-21T17:56:51+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-repair-south-pars-refinery-70-percent-complete",
+      "published_date": "2026-08-22T14:43:28+00:00",
+      "category": "Energy"
     },
     {
       "title": "Tehran says Iraqi oil tankers allowed passage through Hormuz",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
+      "title": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
-      "published_date": "2026-08-15T18:11:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Afghans mark five years of Taliban rule",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
-      "published_date": "2026-08-15T13:12:51+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
+      "published_date": "2026-08-22T19:24:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
@@ -557,11 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "UAE cuts off trade with Iran until further notice",
+      "title": "Why is Israel building new illegal settlements?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
+      "published_date": "2026-08-22T19:40:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish police identify 17-year-old girl as victim in school sword attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
+      "published_date": "2026-08-22T18:29:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces, settlers injure and arrest Palestinians across West Bank",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-cuts-trade-iran-until-further-notice",
-      "published_date": "2026-08-18T20:30:59+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-settlers-injure-and-arrest-palestinians-across-west-bank",
+      "published_date": "2026-08-22T17:16:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
+      "published_date": "2026-08-22T16:41:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guilt, grief and strength: Gaza’s ‘sole survivor’ children face life alone",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/guilt-grief-and-strength-gazas-sole-survivor-children-face-life-alone",
+      "published_date": "2026-08-22T15:10:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Palestinians wounded in Israeli raid near Nablus, settlers and troops storm towns in Ramallah and Jenin",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-wounded-israeli-raid-near-nablus-settlers-and-troops",
+      "published_date": "2026-08-22T13:22:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'After Israel's annihilation of Gaza, can I ever return home?' Opinion by Bahzad al Akhras",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/after-israels-annihilation-gaza-can-i-ever-return-home-opinion-bahzad-al",
+      "published_date": "2026-08-22T13:06:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After Israel's annihilation of Gaza, can I ever return home?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/after-israels-annihilation-gaza-can-i-ever-return-home",
+      "published_date": "2026-08-22T12:38:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 350,000 people in need of medicines in Gaza: Palestinian Medical Relief Society",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/over-350000-people-need-medicines-gaza-palestinian-medical-relief",
+      "published_date": "2026-08-22T11:37:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
@@ -638,69 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
       "published_date": "2026-08-21T19:29:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian victims of Israeli settler attacks face battle for justice",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss",
-      "published_date": "2026-08-21T19:14:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces kill Palestinian man in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-gaza",
-      "published_date": "2026-08-21T18:45:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
-      "published_date": "2026-08-21T18:25:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle Eastern powers condemn Israeli settlement policies, reject 'E1' West Bank plan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/middle-eastern-powers-condemn-israeli-settlement-plans-reject-e1-west",
-      "published_date": "2026-08-21T16:09:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death of Syrian detainee sparks protest and conversation about prison reform",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/death-syrian-detainee-sparks-protest-and-conversation-about-prison-reform",
-      "published_date": "2026-08-21T11:04:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settler kills Palestinian youth and wounds elderly man near Hebron",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-kills-palestinian-youth-and-wounds-elderly-man-near",
-      "published_date": "2026-08-21T10:29:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan’s displacement crisis deepens as violence escalates",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss",
-      "published_date": "2026-08-21T08:41:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers set fire to Palestinian home while family asleep",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
-      "published_date": "2026-08-21T07:58:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
-      "published_date": "2026-08-21T07:56:21+00:00",
       "category": "Local Events"
     }
   ]
