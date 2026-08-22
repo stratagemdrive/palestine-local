@@ -1,8 +1,92 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-21T23:29:01.527898+00:00",
+  "last_updated": "2026-08-22T11:13:19.406259+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US ambassador to Turkey breaks with Washington on Israel's occupation of Syria's Golan Heights",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-ambassador-turkey-breaks-washington-israels-occupation-syrias-golan",
+      "published_date": "2026-08-22T10:24:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mecca Agreement: A Muslim Nato or yet another Baghdad Pact?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/mecca-agreement-muslim-nato-or-yet-another-baghdad-pact",
+      "published_date": "2026-08-22T10:13:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says new US sanctions violate sovereignty of other states",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+      "published_date": "2026-08-22T09:14:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How will Trump’s tariffs affect Canada’s economy?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
+      "published_date": "2026-08-22T08:01:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-155",
+      "published_date": "2026-08-22T06:46:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US ambassador to Turkey breaks with Washington on Israel's occupation of Syria's Golan Heights",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-envoy-turkey-israel-occupies-golan-despite-un-resolutions-international-order",
+      "published_date": "2026-08-22T05:21:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nigeria and the Sahel: A growing security divide",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss",
+      "published_date": "2026-08-22T04:30:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK MP renews call to ban Israeli goods produced in occupied West Bank settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-mp-urges-government-ban-goods-produced-west-bank-settlements",
+      "published_date": "2026-08-22T03:20:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
+      "published_date": "2026-08-22T03:19:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian president says time to end war with US from ‘position of strength’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+      "published_date": "2026-08-22T00:59:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump: 'I view Hormuz as American territory right now'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-i-view-hormuz-american-territory-right-now",
+      "published_date": "2026-08-22T00:07:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Georgia declines to join new EU sanctions against Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/georgia-declines-join-new-eu-sanctions-against-iran",
+      "published_date": "2026-08-21T23:54:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pro-Gaza flotilla arrives in Albania in support of 'Flamingo Revolution'",
       "source": "Middle East Eye",
@@ -60,88 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iranian oil prices rise as US blockade tightens supplies to China",
+      "title": "Israel kills at least two Palestinians in Gaza in last 48 hours",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-oil-prices-rise-us-blockade-tightens-supplies-china",
-      "published_date": "2026-08-21T11:11:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-least-two-palestinians-gaza-last-48-hours",
+      "published_date": "2026-08-22T10:53:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+      "title": "Israeli drone strike in Syria wounds at least one person",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-syria-wounds-least-one-person",
+      "published_date": "2026-08-22T10:28:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian official urges Qatar to move detained pilots to hospital on land, Tasnim says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-urges-qatar-move-detained-pilots-hospital-land-tasnim",
+      "published_date": "2026-08-22T10:22:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former world champion boxer Zolani Tete shot and killed in South Africa",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
-      "published_date": "2026-08-21T10:59:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
+      "published_date": "2026-08-22T09:51:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Poland summons Israeli ambassador over closed Gaza aid worker probe",
+      "title": "Israeli forces shell towns in southern Lebanon, continue demolitions",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/poland-summons-israeli-ambassador-over-closed-gaza-aid-worker-probe",
-      "published_date": "2026-08-21T09:40:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-shell-towns-southern-lebanon-continue-demolitions",
+      "published_date": "2026-08-22T06:21:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Poland summons Israeli envoy over dropped probe into killing of WCK aid workers",
+      "title": "UKMTO report says Hormuz traffic just 20 percent of pre-war levels",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/poland-summons-israeli-envoy-over-dropped-probe-killing-wck-aid-workers",
-      "published_date": "2026-08-21T03:14:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-report-says-hormuz-traffic-just-20-percent-pre-war-levels",
+      "published_date": "2026-08-22T05:38:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "US vows to 'collapse' Iran with new sanctions as energy prices spike",
+      "title": "Tanker traffic at Saudi Arabia's Yanbu port falls by a third, report says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-vows-collapse-iran-new-sanctions-energy-prices-spike",
-      "published_date": "2026-08-21T02:21:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-traffic-saudi-arabias-yanbu-port-falls-third-report-says",
+      "published_date": "2026-08-22T00:56:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
-      "published_date": "2026-08-21T00:12:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli opinion article says Turkey's Nato protection does not apply to troops in Syria",
+      "title": "Israeli forces make fresh incursion into Syria's Quneitra, search home",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-opinion-article-warns-turkey-against-further-deployments-syria-where-nato-protections-do-not",
-      "published_date": "2026-08-20T20:02:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Could US sanctions destroy the International Criminal Court?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
-      "published_date": "2026-08-20T19:38:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US Treasury chief urges China to back proposed Iran sanctions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-chief-urges-china-back-proposed-iran-sanctions",
-      "published_date": "2026-08-20T19:36:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FBI raids ex-US Representative Swalwell’s home amid sexual misconduct probe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss",
-      "published_date": "2026-08-20T18:39:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hezbollah's Nawaf Moussawi: Only force can compel Israel to leave Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollahs-nawaf-moussawi-only-force-can-compel-israel-leave-lebanon",
-      "published_date": "2026-08-20T18:23:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US targets Hezbollah with fresh sanctions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-targets-hezbollah-fresh-sanctions",
-      "published_date": "2026-08-20T17:22:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-make-fresh-incursion-syrias-quneitra-search-home",
+      "published_date": "2026-08-22T00:27:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Centcom says 68 vessels redirected so far in Iran naval blockade",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Turkey to seek Interpol notice for Netanyahu in Gaza flotilla case",
+      "title": "Tehran says Iraqi oil tankers allowed passage through Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-seek-interpol-notice-netanyahu-gaza-flotilla-case",
-      "published_date": "2026-08-21T17:37:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Bloodline punishment': Iranian family faces ongoing punitive ICE detention",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bloodline-punishment-iranian-family-faces-ongoing-punitive-ice-detention",
-      "published_date": "2026-08-21T15:56:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Charter plane crash near Alaskan military site kills 8",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
-      "published_date": "2026-08-21T10:59:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
-      "published_date": "2026-08-21T10:10:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada condemns Israel for closing probe into aid worker killings",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/canada-condemns-israel-closing-probe-aid-worker-killings",
-      "published_date": "2026-08-21T09:22:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran parliament chief visits graves of allied Iraqi fighters",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-parliament-chief-visits-graves-allied-iraqi-fighters",
-      "published_date": "2026-08-21T08:59:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia charges man for passing Ukrainian military intel to Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
-      "published_date": "2026-08-21T08:42:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army advances into southern Lebanese town, shelling reported",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-advances-southern-lebanese-town-shelling-reported",
-      "published_date": "2026-08-21T07:07:52+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-iraqi-oil-tankers-allowed-passage-through-hormuz",
+      "published_date": "2026-08-22T08:26:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia condemns attack on UAE tankers in Hormuz",
+      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
+      "published_date": "2026-08-22T07:35:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lebanon economy to contract by 6.4 percent due to war, World Bank says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-attack-uae-tankers-hormuz",
-      "published_date": "2026-08-15T01:36:03+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-economy-contract-64-percent-due-war-world-bank-says",
+      "published_date": "2026-08-22T06:53:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US sanctions 'declaration of war on all nations', Iran says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-declaration-war-all-nations-iran-says",
+      "published_date": "2026-08-22T05:54:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
+      "published_date": "2026-08-22T04:02:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
@@ -536,32 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Trump and Carney speak ahead of US tariff deadline",
+      "title": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
-      "published_date": "2026-08-18T20:19:27+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss",
+      "published_date": "2026-08-22T10:13:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Damage, crew casualty reported onboard vessel hit in Hormuz Strait, UKMTO says",
+      "title": "Muslim World League denounces new Israeli E1 settlement tender",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/damage-crew-casualty-reported-onboard-vessel-hit-hormuz-strait-ukmto",
-      "published_date": "2026-08-18T03:26:01+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/muslim-world-league-denounces-new-israeli-e1-settlement-tender",
+      "published_date": "2026-08-22T09:07:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+      "title": "Exclusive: UK's advertising regulator not investigating Great Israeli Real Estate Event",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uks-advert-regulator-not-investigating-great-israeli-real-estate-event",
+      "published_date": "2026-08-22T08:05:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
-      "published_date": "2026-08-17T22:26:12+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
+      "published_date": "2026-08-22T07:11:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UAE issues rare denial of 'imperial ambitions' in Africa",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uae-denies-it-has-imperial-ambitions-africa",
-      "published_date": "2026-08-17T18:21:45+00:00",
-      "category": "Economy"
+      "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
+      "published_date": "2026-08-22T04:30:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss",
+      "published_date": "2026-08-22T01:42:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "TikTok settles with US Justice Department for $400m over child privacy laws",
@@ -659,48 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
       "published_date": "2026-08-21T07:56:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dr TikTok: Mental health moves from consulting rooms to social media",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss",
-      "published_date": "2026-08-21T07:12:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia denounces Israel's E1 settlement expansion in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/malaysia-denounces-israels-e1-settlement-expansion-occupied-west-bank",
-      "published_date": "2026-08-21T06:34:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
-      "published_date": "2026-08-21T03:08:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Funeral of 17-year-old Palestinian killed by Israel in March",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/photos-funeral-17-year-old-palestinian-killed-march-israel",
-      "published_date": "2026-08-20T21:31:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
-      "published_date": "2026-08-20T21:18:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces block Ramallah Governor’s departure, following slain teen’s funeral",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-block-ramallah-governor-following-slain-teens-funeral",
-      "published_date": "2026-08-20T20:38:56+00:00",
       "category": "Local Events"
     }
   ]
