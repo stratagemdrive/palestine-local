@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-23T23:25:55.834623+00:00",
+  "last_updated": "2026-08-24T11:19:21.151089+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US threatens toughest sanctions yet against Iran: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
+      "published_date": "2026-08-24T10:23:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
+      "published_date": "2026-08-24T09:10:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada-US trade war: Who wins? Who loses?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
+      "published_date": "2026-08-24T07:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oman foreign minister set to visit Tehran amid ongoing talks over Hormuz Strait",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-foreign-minister-set-visit-tehran-amid-ongoing-talks-over-hormuz",
+      "published_date": "2026-08-24T06:36:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
+      "published_date": "2026-08-24T06:30:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Watch: Iranians express mixed opinions over war recovery",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-iranian-express-mixed-opinions-over-war-recovery",
+      "published_date": "2026-08-23T23:47:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria confirms US-mediated talks with Israel in Jordan to ease tensions",
       "source": "Middle East Eye",
@@ -102,46 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran warns of retaliation against countries joining US ‘economic war’",
+      "title": "US military says strike on alleged drug-smuggling boat kills two",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-      "published_date": "2026-08-22T23:26:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss",
+      "published_date": "2026-08-24T09:58:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hamas says not obligated to implement Trump Gaza deal unless Israel accepts it",
+      "title": "Israel probably committed war crimes in Gaza hospital double-tap, investigation finds",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-not-obligated-implement-trump-gaza-deal-unless-israel-accepts",
-      "published_date": "2026-08-22T23:14:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/israel-likely-committed-war-crimes-gaza-hospital-double-tap-investigation-finds",
+      "published_date": "2026-08-24T09:27:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran threatens to block Hormuz if neighbours join US sanctions",
+      "title": "In Sudan’s deserted Bara, blood waters its famous lemon trees",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-block-hormuz-if-neighbours-join-us-sanctions",
-      "published_date": "2026-08-22T20:53:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/sudans-deserted-bara-blood-waters-its-famous-lemon-trees",
+      "published_date": "2026-08-24T09:07:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+      "title": "How much more are you spending on petrol since the war on Iran began?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
-      "published_date": "2026-08-22T20:49:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
+      "published_date": "2026-08-24T07:26:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
-      "published_date": "2026-08-22T19:18:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US 'economic terrorism' will not break people's will: Iranian Vice President",
+      "title": "Report: Israel used 30 years’ worth of ammunition in less than three years of war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-economic-terrorism-will-not-break-peoples-will-iranian-vice-president",
-      "published_date": "2026-08-22T18:17:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israel-used-30-years-worth-ammunition-less-three-years-war",
+      "published_date": "2026-08-24T07:15:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-608",
+      "published_date": "2026-08-24T07:04:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
+      "published_date": "2026-08-24T06:55:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Senior in Iran's Basij says US was 'forced' to ask for ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/senior-irans-basij-says-us-was-forced-ask-ceasefire",
+      "published_date": "2026-08-24T06:29:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli military advances into a village in Syria's Daraa",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-advances-village-syrias-daraa",
+      "published_date": "2026-08-24T03:38:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces storm Syria’s Quneitra, detain a civilian",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-storm-syrias-quneitra-detain-civilian",
+      "published_date": "2026-08-24T00:53:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni army claims attacks on Houthis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-claims-attacks-houthis",
+      "published_date": "2026-08-24T00:26:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemen, US officials meet to discuss ‘countering Houthi propaganda’",
@@ -207,81 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "Israel warns of strikes, evacuations over kites launched by Palestinian children in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-threatens-intensify-gaza-strikes-displace-more-palestinians-over",
-      "published_date": "2026-08-23T17:10:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Nigeria cash in on Iran war?",
+      "title": "India used pellets, grenades on Gen Z protests: What Amnesty report reveals",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-      "published_date": "2026-08-23T16:07:01+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss",
+      "published_date": "2026-08-24T10:53:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Gaza families search for children missing after years of war",
+      "title": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
-      "published_date": "2026-08-23T15:42:04+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss",
+      "published_date": "2026-08-24T10:11:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli drone strike north of Khan Younis wounds six",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-north-khan-younis-wounds-six",
-      "published_date": "2026-08-23T15:09:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Kfarchouba, life is 'a big prison' under Israeli occupation of south Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/kfarchouba-life-big-prison-under-israeli-occupation-south-lebanon",
-      "published_date": "2026-08-23T10:47:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air strike in central Gaza kills one, wounds two",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-central-gaza-kills-one-wounds-two",
-      "published_date": "2026-08-23T09:38:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli wounded in occupied West Bank stabbing",
+      "title": "Macron and MBS attend Esports World Cup closing ceremony",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
-      "published_date": "2026-08-23T08:38:01+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss",
+      "published_date": "2026-08-24T09:44:41+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
+      "title": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
-      "published_date": "2026-08-23T08:07:54+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss",
+      "published_date": "2026-08-24T08:29:54+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pezeshkian says Iran’s 'power and cohesion had astonished the world'",
+      "title": "The Greens should not be eclipsed by the Burnham bounce - this is their moment",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-irans-power-and-unity-has-defied-predictions-collapse",
-      "published_date": "2026-08-23T06:45:39+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/opinion/greens-should-not-be-eclipsed-burnham-bounce-this-is-their-moment",
+      "published_date": "2026-08-24T07:39:47+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Morning recap",
+      "title": "Former CIA officer describes Aipac's rise to political power",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-156",
-      "published_date": "2026-08-23T06:24:51+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/former-cia-officer-describes-aipacs-rise-political-power",
+      "published_date": "2026-08-24T05:04:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Hussein al-Sheikh: Decision to hold Palestinian elections in November stands",
+      "title": "Iranian cyber attack shuts down UK power plant for four days, report says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hussein-al-sheikh-decision-hold-palestinian-elections-november-stands",
-      "published_date": "2026-08-23T05:26:32+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-cyber-attack-shuts-down-uk-power-plant-four-days-report-says",
+      "published_date": "2026-08-24T02:55:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Zhou Bo: China’s alternative to Western power",
@@ -375,53 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Walmart sees sales drop as US consumer spending retreats",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
-      "published_date": "2026-08-20T19:18:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
-      "published_date": "2026-08-20T07:38:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
-      "published_date": "2026-08-20T07:11:37+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iraq approves three-month mechanism for crude oil exports via local, international firms",
+      "title": "Iran's currency drops to record low, tracking websites show",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-approves-three-month-mechanism-crude-oil-exports-local",
-      "published_date": "2026-08-18T22:12:44+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-currency-drops-record-low-tracking-websites-show",
+      "published_date": "2026-08-24T09:46:45+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Syrian petroleum company says explosion of gas pipeline 'deliberate act of sabotage'",
+      "title": "Iran warns of 'consequences' for countries joining US economic sanctions",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-petroleum-company-says-explosion-gas-pipeline-deliberate-act",
-      "published_date": "2026-08-18T20:11:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nigeria hospital collapses after rain washed away its foundations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
-      "published_date": "2026-08-18T17:55:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss",
-      "published_date": "2026-08-18T10:08:04+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-consequences-countries-joining-us-economic-sanctions",
+      "published_date": "2026-08-24T09:07:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
@@ -550,18 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "US vows to 'collapse' Iran with new sanctions as energy prices spike",
+      "title": "Israel continues to hold abducted Palestinian doctor after reported heart attack",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-vows-collapse-iran-new-sanctions-energy-prices-spike",
-      "published_date": "2026-08-20T19:03:48+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/israel-continues-keep-palestinian-gynaecologist-detention-over-social-media-post-family-raises",
+      "published_date": "2026-08-24T11:13:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump vows ‘economic warfare’ on countries helping Iran",
+      "title": "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-      "published_date": "2026-08-20T04:31:10+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss",
+      "published_date": "2026-08-24T09:33:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
+      "published_date": "2026-08-24T08:45:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The right to health in Gaza is now a privilege",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
+      "published_date": "2026-08-24T07:08:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli drone strike kills two in central Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-central-gaza",
+      "published_date": "2026-08-24T01:37:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "EU calls on Israel to halt E1 settlement plan, address settler violence",
@@ -666,41 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-commission-illegal-israeli-settlements-west-bank-reach-592",
       "published_date": "2026-08-23T03:25:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tear gas shelling, detentions, property theft reported during West Bank raids",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tear-gas-shelling-detentions-property-theft-reported-during-west-bank",
-      "published_date": "2026-08-23T01:50:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Israel building new illegal settlements?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
-      "published_date": "2026-08-22T19:40:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swedish police identify 17-year-old girl as victim in school sword attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
-      "published_date": "2026-08-22T18:29:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces, settlers injure and arrest Palestinians across West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-settlers-injure-and-arrest-palestinians-across-west-bank",
-      "published_date": "2026-08-22T17:16:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
-      "published_date": "2026-08-22T16:41:43+00:00",
       "category": "Local Events"
     }
   ]
