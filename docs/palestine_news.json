@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-24T23:26:19.698203+00:00",
+  "last_updated": "2026-08-25T11:19:06.306123+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "China warns US against expanding Iran sanctions to Chinese firms",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-warns-us-against-expanding-iran-sanctions-chinese-firms",
+      "published_date": "2026-08-25T10:36:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkish envoy applauds US removal of Syria from 'terrorism list'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-envoy-applauds-us-removal-syria-terrorism-list",
+      "published_date": "2026-08-25T05:14:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump unleashes swathe sanctions on Iran 'enablers'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-unleashes-swathe-sanctions-iran-enablers",
+      "published_date": "2026-08-25T04:25:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistani army chief discussed 'ending deadlock' in US-Iran talks during visit to Tehran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistani-army-chief-discussed-ending-deadlock-us-iran-talks-during",
+      "published_date": "2026-08-25T02:19:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ahmad al-Sharaa hails Syria's removal from US 'terrorism list'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ahmad-al-sharaa-hails-syrias-removal-us-terrorism-list",
+      "published_date": "2026-08-25T00:37:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How US sanctions on Iran ripple through global markets and consumers",
       "source": "Al Jazeera",
@@ -109,39 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria confirms US-mediated talks with Israel in Jordan to ease tensions",
+      "title": "French far-right leader Marine Le Pen polling at record high ahead of 2027 election",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-confirms-us-mediated-talks-israel-jordan-ease-tensions",
-      "published_date": "2026-08-23T21:46:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/french-far-right-candidate-marine-le-pen-polls-record-high-ahead-2027-election",
+      "published_date": "2026-08-25T11:13:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Will Donald Trump’s new sanctions against Iran work?",
+      "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
-      "published_date": "2026-08-23T21:34:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+      "published_date": "2026-08-25T10:22:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
-      "published_date": "2026-08-23T21:23:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
-      "published_date": "2026-08-23T19:52:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian parliamentary committee approves provision to charge ships in Hormuz",
+      "title": "US promises 'asphyxiation' of Islamic Republic as it imposes new sanctions",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-parliamentary-committee-approves-provision-charge-ships-hormuz",
-      "published_date": "2026-08-23T19:48:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/us-promises-asphyxiation-islamic-republic-new-sanctions-announced",
+      "published_date": "2026-08-25T10:15:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
+      "published_date": "2026-08-25T10:11:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indonesia battles haze as wildfires rage across South Sumatra forests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss",
+      "published_date": "2026-08-25T09:43:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kremlin adviser warns UK drone factories could face attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
+      "published_date": "2026-08-25T09:34:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
+      "published_date": "2026-08-25T09:05:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan says significant progress made in talks on Iran-US war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+      "published_date": "2026-08-25T08:32:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
+      "published_date": "2026-08-25T06:37:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-609",
+      "published_date": "2026-08-25T05:38:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two US carrier groups in Middle East strain navy resources",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
+      "published_date": "2026-08-25T05:19:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US senators demand hearing over toll on troops amid war on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senators-demand-hearing-over-toll-troops-amid-war-iran",
+      "published_date": "2026-08-25T03:48:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US senator criticises economic 'D-Day' against Iran, says 'Trump is losing'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-criticises-economic-d-day-against-iran-says-trump-losing",
+      "published_date": "2026-08-25T02:56:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN calls for protection of civilians in Gaza amid Israeli attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-calls-protection-civilians-gaza-amid-israeli-attacks",
+      "published_date": "2026-08-25T01:24:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump removes Syria from 'terrorism list'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-removes-syria-terrorism-list",
+      "published_date": "2026-08-24T23:47:35+00:00",
+      "category": "Military"
     },
     {
       "title": "UN offers to facilitate fertiliser transit through Strait of Hormuz",
@@ -179,109 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Ambush in South Sudan kills peacekeeping troops",
+      "title": "Roadblocks and burning tyres in Libya protests over power cuts",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss",
-      "published_date": "2026-08-24T20:47:24+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss",
+      "published_date": "2026-08-25T09:45:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US public approval of Iran war falls to lowest level since early days of conflict",
+      "title": "Strait of Hormuz tanker traffic falls to lowest level since May",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-public-approval-iran-war-falls-lowest-level-early-days-conflict",
-      "published_date": "2026-08-24T20:07:42+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/strait-hormuz-tanker-traffic-falls-lowest-level-may",
+      "published_date": "2026-08-25T08:57:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli forces raid village in Syria’s Quneitra governorate",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-village-syrias-quneitra-governorate",
-      "published_date": "2026-08-24T19:00:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Norway plans further development of Arctic drilling amid EU energy concerns",
+      "title": "Global ocean temperatures hit record high as El Nino intensifies",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
-      "published_date": "2026-08-24T18:22:18+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
+      "published_date": "2026-08-25T08:10:10+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel launches strikes across southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-strikes-across-southern-lebanon",
-      "published_date": "2026-08-24T16:38:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian and Pakistani top officials meet in Tehran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-must-adhere-mou-irans-top-negotiator-tells-pakistani-mediator",
-      "published_date": "2026-08-24T16:30:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military says strike on alleged drug-smuggling boat kills two",
+      "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss",
-      "published_date": "2026-08-24T09:58:03+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+      "published_date": "2026-08-25T04:38:20+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel probably committed war crimes in Gaza hospital double-tap, investigation finds",
+      "title": "Commodity vessel transits through Hormuz Strait drop to three-month low",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-likely-committed-war-crimes-gaza-hospital-double-tap-investigation-finds",
-      "published_date": "2026-08-24T09:27:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Sudan’s deserted Bara, blood waters its famous lemon trees",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/sudans-deserted-bara-blood-waters-its-famous-lemon-trees",
-      "published_date": "2026-08-24T09:07:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How much more are you spending on petrol since the war on Iran began?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
-      "published_date": "2026-08-24T07:26:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Report: Israel used 30 years’ worth of ammunition in less than three years of war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israel-used-30-years-worth-ammunition-less-three-years-war",
-      "published_date": "2026-08-24T07:15:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-608",
-      "published_date": "2026-08-24T07:04:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
-      "published_date": "2026-08-24T06:55:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senior in Iran's Basij says US was 'forced' to ask for ceasefire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/senior-irans-basij-says-us-was-forced-ask-ceasefire",
-      "published_date": "2026-08-24T06:29:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military advances into a village in Syria's Daraa",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-advances-village-syrias-daraa",
-      "published_date": "2026-08-24T03:38:17+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/commodity-vessel-transits-through-hormuz-strait-drop-three-month-low",
+      "published_date": "2026-08-25T03:03:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
@@ -389,39 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+      "title": "Former Al Jazeera journalist Ali Younes arrested in Amman for allegedly sharing article questioning US aid to Jordan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/former-al-jazeera-journalist-arrested-jordan-reposting-article-questioning-us-aid-kingdom",
+      "published_date": "2026-08-25T10:48:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Who are Iran’s top trading partners US would need to target to isolate it?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
-      "published_date": "2026-08-22T20:05:52+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
+      "published_date": "2026-08-25T09:23:05+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iran says repair of South Pars refinery 70 percent complete",
+      "title": "Colombia lifts coal export ban on Israel imposed over Gaza genocide",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-repair-south-pars-refinery-70-percent-complete",
-      "published_date": "2026-08-22T14:43:28+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Tehran says Iraqi oil tankers allowed passage through Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-iraqi-oil-tankers-allowed-passage-through-hormuz",
-      "published_date": "2026-08-22T08:26:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
-      "published_date": "2026-08-21T20:16:59+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How China eased pressure on oil markets by halting purchases and relying on reserves",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/china-recalibrates-oil-flows-amid-hormuz-standstill",
-      "published_date": "2026-08-21T10:49:33+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/colombia-lifts-coal-export-ban-israel-imposed-over-gaza-genocide",
+      "published_date": "2026-08-25T08:35:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
@@ -543,25 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Indian workers in Israel demand accountability after murder of Indian caregiver",
+      "title": "Israeli politician filmed smashing Palestinian memorial in occupied West Bank",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/indian-workers-israel-demand-accountability-after-murder-indian-caregiver",
-      "published_date": "2026-08-21T20:45:14+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-politician-filmed-smashing-palestinian-memorial-occupied-west",
+      "published_date": "2026-08-25T10:21:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
-      "published_date": "2026-08-21T20:07:40+00:00",
-      "category": "Economy"
+      "title": "Muslims are not creating an 'Islamic Republic' in Britain. This is their home",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/muslims-are-not-creating-islamic-republic-britain-their-home",
+      "published_date": "2026-08-25T07:53:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
-      "published_date": "2026-08-21T19:08:30+00:00",
-      "category": "Economy"
+      "title": "Saudi Arabia, France reaffirm support for Palestinian statehood",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-france-reaffirm-support-palestinian-statehood",
+      "published_date": "2026-08-25T06:47:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settler attacks in West Bank surge to 63 percent: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-attacks-west-bank-surge-63-percent-report",
+      "published_date": "2026-08-25T04:47:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli settler attacks rise by 63 percent in first seven months of 2026, says Commission",
@@ -673,34 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/israeli-forces-kill-three-palestinians-gaza-shoot-child-death-nablus",
       "published_date": "2026-08-23T14:06:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four-year-old Palestinian killed in Israeli attack in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-year-old-palestinian-killed-israeli-attack-gaza",
-      "published_date": "2026-08-23T13:57:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Twenty-five patients evacuated from Gaza to Egypt",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/twenty-five-patients-evacuated-gaza-egypt",
-      "published_date": "2026-08-23T13:46:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child shot dead by Israeli forces during raid in Nablus",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-shot-dead-israeli-forces-during-raid-nablus",
-      "published_date": "2026-08-23T12:26:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli attack in central Gaza kills two, wounds seven",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-central-gaza-kills-two-wounds-seven",
-      "published_date": "2026-08-23T12:23:28+00:00",
       "category": "Local Events"
     }
   ]
