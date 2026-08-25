@@ -1,8 +1,99 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-25T11:19:06.306123+00:00",
+  "last_updated": "2026-08-25T23:29:04.964033+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK backs US efforts for diplomatic solution on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-backs-us-efforts-diplomatic-solution-iran",
+      "published_date": "2026-08-25T23:07:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Saudi Arabia must recognise Israel to move forward with nuclear pact",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-saudi-arabia-must-recognise-israel-move-forward-nuclear-pact",
+      "published_date": "2026-08-25T22:36:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio says US not expected to launch new strikes on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-not-expected-launch-new-strikes-iran",
+      "published_date": "2026-08-25T21:56:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US lawmakers urge Trump team to free of American student held by Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss",
+      "published_date": "2026-08-25T21:09:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New US sanctions signal Trump desperation on Iran, experts say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
+      "published_date": "2026-08-25T20:34:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s deputy foreign minister says Hormuz to remain closed despite temporary Oman deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-deputy-foreign-minister-says-hormuz-remains-closed-despite",
+      "published_date": "2026-08-25T20:29:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump administration: Kennedy Center may be demolished if repairs not made",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss",
+      "published_date": "2026-08-25T20:08:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bangladesh could join Mecca pact, official suggests",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/bangladesh-could-join-mecca-pact-official-suggests",
+      "published_date": "2026-08-25T20:03:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey won’t abandon Syria or let Israel draw ‘red lines’, Erdogan says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-wont-abandon-syria-or-let-israel-draw-red-lines-erdogan-says",
+      "published_date": "2026-08-25T19:37:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran foreign minister holds talks with Pakistani, Qatari officials",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-holds-talks-pakistani-qatari-officials",
+      "published_date": "2026-08-25T19:20:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+      "published_date": "2026-08-25T18:13:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey won’t abandon Syria or let Israel draw ‘red lines’, Erdogan says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/turkey-wont-abandon-syria-or-let-israel-draw-red-lines-erdogan-says",
+      "published_date": "2026-08-25T17:34:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ending the war and preserving unity is our priority, says Iranian president",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ending-war-and-preserving-unity-our-priority-says-iranian-president",
+      "published_date": "2026-08-25T17:28:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "China warns US against expanding Iran sanctions to Chinese firms",
       "source": "Middle East Eye",
@@ -53,95 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Netanyahu congratulates Trump on expanded Iran sanctions",
+      "title": "Israeli army conducts major blast in south Lebanon town",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-congratulates-trump-expanded-iran-sanctions",
-      "published_date": "2026-08-24T21:39:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-conducts-major-blast-south-lebanon-town",
+      "published_date": "2026-08-25T22:02:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump removes Syria from 'terrorism list'",
+      "title": "Iran's Ghalibaf tells Iraqi official 'new regional order' being created",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-formally-removes-syria-terror-blacklist",
-      "published_date": "2026-08-24T21:18:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-ghalibaf-tells-iraqi-official-new-regional-order-being-created",
+      "published_date": "2026-08-25T21:50:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hegseth says US not ruling out military force against Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-says-us-not-ruling-out-military-force-against-iran",
-      "published_date": "2026-08-24T19:58:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump administration seeks to formalise H-1B fee of more than $100,000",
+      "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss",
-      "published_date": "2026-08-24T18:46:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
+      "published_date": "2026-08-25T21:26:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran Parliament Speaker: US not in an economic position to impose more restrictions on other countries",
+      "title": "US soldier who called for Trump impeachment facing military charges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
+      "published_date": "2026-08-25T21:16:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian Democratic Forces announce their dissolution",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
+      "published_date": "2026-08-25T21:09:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nigeria launches operation to rescue 600 kidnapped victims",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss",
+      "published_date": "2026-08-25T20:37:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arms trade watchdog says countries are failing in their obligations to report weapons trade",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-parliament-speaker-us-not-economic-position-impose-more",
-      "published_date": "2026-08-24T18:11:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arms-trade-watchdog-says-countries-are-failing-their-obligations-report",
+      "published_date": "2026-08-25T19:35:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump administration announces global economic war on Iran",
+      "title": "Israeli forces block Palestinian American Lou Ridi from walking on his land",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
-      "published_date": "2026-08-24T17:53:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss",
+      "published_date": "2026-08-25T19:27:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "US announces 'unprecedented' sanctions against Iran",
+      "title": "Kurdish-led forces in Syria dissolve after merging with army",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
+      "published_date": "2026-08-25T19:13:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video: Israeli forces raid UN training centre and raise Israeli flag",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
+      "published_date": "2026-08-25T18:54:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Head of Kurdish forces in Syria announces their dissolution",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-announces-unprecedented-sanctions-against-iran",
-      "published_date": "2026-08-24T17:37:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/head-kurdish-forces-syria-announces-their-dissolution",
+      "published_date": "2026-08-25T18:37:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "US threatens toughest sanctions yet against Iran: What we know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-      "published_date": "2026-08-24T10:23:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
-      "published_date": "2026-08-24T09:10:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada-US trade war: Who wins? Who loses?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
-      "published_date": "2026-08-24T07:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oman foreign minister set to visit Tehran amid ongoing talks over Hormuz Strait",
+      "title": "UN chief 'greatly alarmed' as Israeli forces raid Unwra",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-foreign-minister-set-visit-tehran-amid-ongoing-talks-over-hormuz",
-      "published_date": "2026-08-24T06:36:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-greatly-alarmed-israeli-forces-unwra-raid",
+      "published_date": "2026-08-25T17:07:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
-      "published_date": "2026-08-24T06:30:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Watch: Iranians express mixed opinions over war recovery",
+      "title": "Netanyahu says Unrwa raid carried out in accordance with law, Ben Gvir says UN agency 'in our hands'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-iranian-express-mixed-opinions-over-war-recovery",
-      "published_date": "2026-08-23T23:47:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-unwra-raid-carried-out-accordance-law-ben-gvir-says-unwra",
+      "published_date": "2026-08-25T16:55:42+00:00",
+      "category": "Military"
     },
     {
       "title": "French far-right leader Marine Le Pen polling at record high ahead of 2027 election",
@@ -190,97 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
       "published_date": "2026-08-25T09:05:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan says significant progress made in talks on Iran-US war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
-      "published_date": "2026-08-25T08:32:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
-      "published_date": "2026-08-25T06:37:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-609",
-      "published_date": "2026-08-25T05:38:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two US carrier groups in Middle East strain navy resources",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
-      "published_date": "2026-08-25T05:19:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US senators demand hearing over toll on troops amid war on Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senators-demand-hearing-over-toll-troops-amid-war-iran",
-      "published_date": "2026-08-25T03:48:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US senator criticises economic 'D-Day' against Iran, says 'Trump is losing'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-criticises-economic-d-day-against-iran-says-trump-losing",
-      "published_date": "2026-08-25T02:56:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN calls for protection of civilians in Gaza amid Israeli attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-calls-protection-civilians-gaza-amid-israeli-attacks",
-      "published_date": "2026-08-25T01:24:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump removes Syria from 'terrorism list'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-removes-syria-terrorism-list",
-      "published_date": "2026-08-24T23:47:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN offers to facilitate fertiliser transit through Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-offers-facilitate-fertiliser-transit-through-strait-hormuz",
-      "published_date": "2026-08-24T22:25:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UKMTO says it received report of tanker struck by 'unknown projectile' in Gulf of Oman",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-it-received-report-tanker-struck-unknown-projectile-gulf-oman",
-      "published_date": "2026-08-24T22:20:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US public support for Iran war falls as Trump approval at record low: Poll",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
-      "published_date": "2026-08-24T21:35:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
-      "published_date": "2026-08-24T21:32:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military says it allowed 40 vessels carrying humanitarian aid to pass through Hormuz blockade",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-it-allowed-40-vessels-carrying-humanitarian-aid-pass",
-      "published_date": "2026-08-24T21:30:55+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Top Iranian officials mock US 'economic D-Day' on social media",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/top-iranian-officials-mock-us-economic-d-day-social-media",
+      "published_date": "2026-08-25T20:16:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Israeli protesters block aid trucks from reaching Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss",
+      "published_date": "2026-08-25T19:02:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Syria’s economy poised for improvement after US sanctions removal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
+      "published_date": "2026-08-25T18:43:42+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Former Al Jazeera journalist Ali Younes arrested in Amman for allegedly sharing article questioning US aid to Jordan",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/former-al-jazeera-journalist-arrested-jordan-reposting-article-questioning-us-aid-kingdom",
@@ -543,25 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "US sanctions 'declaration of war on all nations', Iran says",
+      "title": "Who was the ‘Queen of Country’ Dolly Parton?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
+      "published_date": "2026-08-25T21:29:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel destroys Gaza warehouse supplies for malnourished children and pregnant women",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-declaration-war-all-nations-iran-says",
-      "published_date": "2026-08-22T05:54:42+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-destroys-gaza-warehouse-supplies-malnourished-children-and",
+      "published_date": "2026-08-25T21:17:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
-      "published_date": "2026-08-22T04:02:32+00:00",
-      "category": "Economy"
+      "title": "Trump's 'Board of Peace' warns Hamas against flying kites",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-board-peace-warns-hamas-against-flying-kites",
+      "published_date": "2026-08-25T20:36:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
+      "title": "Video: US country music legend Dolly Parton dies",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
-      "published_date": "2026-08-21T22:52:40+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-us-country-music-legend-dolly-parton-dies?traffic_source=rss",
+      "published_date": "2026-08-25T19:58:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OIC condemns Israeli raid of Unrwa headquarters",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oic-condemns-israeli-raid-unrwa-headquarters",
+      "published_date": "2026-08-25T17:50:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three killed in Israeli bombing near Unrwa school in Jabalia camp",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-israeli-bombing-near-unrwa-school-jabalia-camp",
+      "published_date": "2026-08-25T16:40:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli politician filmed smashing Palestinian memorial in occupied West Bank",
@@ -659,48 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
       "published_date": "2026-08-24T08:45:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The right to health in Gaza is now a privilege",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
-      "published_date": "2026-08-24T07:08:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli drone strike kills two in central Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-central-gaza",
-      "published_date": "2026-08-24T01:37:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU calls on Israel to halt E1 settlement plan, address settler violence",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-calls-israel-halt-e1-settlement-plan-address-settler-violence",
-      "published_date": "2026-08-23T20:56:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Israel about to split the occupied West Bank in half?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
-      "published_date": "2026-08-23T20:23:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces open fire on Palestinians across West Bank in separate incidents",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-open-fire-palestinians-across-west-bank-separate",
-      "published_date": "2026-08-23T16:34:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces kill three Palestinians in Gaza, shoot child dead in Nablus",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-forces-kill-three-palestinians-gaza-shoot-child-death-nablus",
-      "published_date": "2026-08-23T14:06:44+00:00",
       "category": "Local Events"
     }
   ]
