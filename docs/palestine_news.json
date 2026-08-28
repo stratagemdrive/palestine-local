@@ -1,8 +1,71 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-08-28T06:50:07.882667+00:00",
+  "last_updated": "2026-08-28T21:16:53.138762+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "President Donald Trump signs order creating US Space Academy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/president-donald-trump-signs-order-creating-us-space-academy?traffic_source=rss",
+      "published_date": "2026-08-28T19:23:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss",
+      "published_date": "2026-08-28T17:36:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US judge denies injunction against Trump’s new birthright citizenship order",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss",
+      "published_date": "2026-08-28T17:32:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Unifil records 1,030 projectile launches in south Lebanon in a week",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/unifil-records-1030-projectile-launches-south-lebanon-week",
+      "published_date": "2026-08-28T17:13:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/board-of-peace-envoy-mladenov-warns-gaza-ceasefire-risks-collapse?traffic_source=rss",
+      "published_date": "2026-08-28T16:44:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US issues fresh Iran-related sanctions as war marks six months",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-issues-fresh-iran-related-sanctions-war-marks-six-months",
+      "published_date": "2026-08-28T15:36:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'A very frightening time': US terror tag endangers UK Palestine Action activists, critics say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/very-frightening-time-us-terror-tag-endangers-uk-palestine-action",
+      "published_date": "2026-08-28T15:29:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hamas must not concede in talks what Israel failed to win on the battlefield",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/gaza-war-hamas-negotiating-table-israel-battlefield",
+      "published_date": "2026-08-28T15:28:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'A very frightening time': US terror tag endangers UK Palestine Action activists, critics say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/very-frightening-time-us-terror-tag-endangers-uk-palestine-action-activists-critics-say",
+      "published_date": "2026-08-28T15:07:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US lawmaker says Trump facing 'crisis of his own making' amid war on Iran",
       "source": "Middle East Eye",
@@ -81,67 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump executive order bans some foreign equipment in US energy grid",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss",
-      "published_date": "2026-08-27T20:15:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US President Trump signs order renaming Lake Ontario to ‘Lake America’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss",
-      "published_date": "2026-08-27T20:06:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump hints US could sanction Chinese banks over Iran links",
+      "title": "Three Palestinians injured in settler attack on Al-Mughayyir",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-hints",
-      "published_date": "2026-08-27T18:53:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-palestinians-injured-settler-attack-al-mughayyir",
+      "published_date": "2026-08-28T20:25:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "How California is preparing for Donald Trump’s midterm election scrutiny",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/8/27/how-california-is-preparing-to-fight-trumps-criticisms-of-the-midterm-vote?traffic_source=rss",
-      "published_date": "2026-08-27T17:11:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN envoy condemns Israeli strike on Syria, US calls for 'de-escalation'",
+      "title": "'No end in sight': Democrats slam Trump after six months of Iran war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-envoy-condemns-israeli-strike-syria-us-calls-de-escalation",
-      "published_date": "2026-08-27T16:57:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-end-sight-democrats-slam-trump-after-six-months-iran-war",
+      "published_date": "2026-08-28T20:01:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatari and Iranian officials meet in Tehran to discuss de-escalation of regional tensions",
+      "title": "Israeli drone attack hits southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-and-iranian-officials-meet-tehran-discuss-de-escalation-regional",
-      "published_date": "2026-08-27T15:43:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-attack-hits-southern-lebanon",
+      "published_date": "2026-08-28T19:26:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Unrwa chief says Israel aims to make Palestinian refugee issue ‘go away'",
+      "title": "'No end in sight': Democrats slam Trump after six months of Iran war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/unrwa-chief-says-israel-aims-make-palestinian-refugee-issue-go-away",
-      "published_date": "2026-08-27T03:39:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/no-end-sight-democrats-slam-trump-iran-war-marks-six-months",
+      "published_date": "2026-08-28T19:04:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+      "title": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
-      "published_date": "2026-08-27T02:54:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss",
+      "published_date": "2026-08-28T19:03:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims",
+      "title": "Transgender former Israeli spy detained by ICE in US",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/transgender-former-israeli-spy-detained-ice-us",
+      "published_date": "2026-08-28T17:49:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/federal-reserve-governor-lisa-cook-denounces-trumps-mortgage-fraud-claims?traffic_source=rss",
-      "published_date": "2026-08-27T02:33:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
+      "published_date": "2026-08-28T17:47:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza forced to use unreliable online payments amid ‘cash famine’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/gaza-forced-to-use-unreliable-online-payments-amid-cash-famine?traffic_source=rss",
+      "published_date": "2026-08-28T16:44:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine reinforces Donetsk as it seeks to disrupt Russia’s weapons flow",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow?traffic_source=rss",
+      "published_date": "2026-08-28T16:42:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "6 months of war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/6-months-of-war-on-iran?traffic_source=rss",
+      "published_date": "2026-08-28T15:09:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cairo accused of ‘punishment by proxy’ after British-Egyptian woman arrested over sister's activism",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/cairo-accused-punishment-proxy-against-british-egyptian-family",
+      "published_date": "2026-08-28T14:43:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Morning update",
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
+      "title": "IRGC navy claims ‘decisive control’ over Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-navy-claims-decisive-control-over-hormuz",
+      "published_date": "2026-08-28T20:56:03+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "What lessons can be learned from the Nepal-Tibet flood disaster?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-08-28T00:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/28/what-lessons-can-be-learned-from-the-nepal-tibet-flood?traffic_source=rss",
+      "published_date": "2026-08-28T20:44:41+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Evening update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-update-33",
-      "published_date": "2026-08-27T22:54:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bosnian Serb General Ratko Mladic has died",
+      "title": "Kenyan police fire tear gas at Nairobi protest against import duty hike",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss",
-      "published_date": "2026-08-27T22:48:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon’s security tied to wider West Asia stability, top security official says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-security-tied-wider-west-asia-stability-top-security-official",
-      "published_date": "2026-08-27T22:23:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ben Gvir thanks Trump for defending Israel's raid of Unrwa headquarters",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-thanks-trump-defending-israels-raid-unwra-headquarters",
-      "published_date": "2026-08-27T20:55:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Israeli strike kills newlywed woman in south Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss",
-      "published_date": "2026-08-27T20:11:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US missile interceptor shortfall 'beyond critical' due to war on Iran: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-missile-interceptor-shortfall-beyond-critical-due-war-iran-report",
-      "published_date": "2026-08-27T19:56:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran is preparing list of conditions to reopen Hormuz, says security chief",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-preparing-list-conditions-reopen-hormuz-says-security-chief",
-      "published_date": "2026-08-27T19:54:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US missile interceptor shortfall 'beyond critical' due to war on Iran: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-missile-interceptor-shortfall-beyond-critical-due-war-iran-report",
-      "published_date": "2026-08-27T19:14:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three killed in strikes on Gaza as Israel renews threats over kite-flying",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/27/three-killed-in-strikes-on-gaza-as-israel-renews-threats-over-kite-flying?traffic_source=rss",
-      "published_date": "2026-08-27T18:56:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump: US 'in control' of the Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-us-control-strait-hormuz",
-      "published_date": "2026-08-27T18:18:25+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/8/28/kenyan-police-fire-tear-gas-at-nairobi-protest-against-import-duty-hike?traffic_source=rss",
+      "published_date": "2026-08-28T16:12:16+00:00",
+      "category": "Energy"
     },
     {
       "title": "Shipping traffic via Hormuz Strait dips to five on Thursday",
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Iranian cyber attack shuts down UK power plant for four days, report says",
+      "title": "US cuts off major Egyptian bank from global financial system",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-cyber-attack-shuts-down-uk-power-plant-four-days-report-says",
-      "published_date": "2026-08-24T02:55:08+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/us-cuts-major-egyptian-bank-global-financial-system",
+      "published_date": "2026-08-28T20:25:29+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Zhou Bo: China’s alternative to Western power",
+      "title": "Police fire teargas at Kenyan traders protesting higher taxes on imports",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
-      "published_date": "2026-08-23T19:00:56+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/police-fire-teargas-at-kenyan-traders-protesting-higher-taxes-on-imports?traffic_source=rss",
+      "published_date": "2026-08-28T19:02:40+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iran discovers over 7.5 trillion cubic feet of gas, oil minister says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-discovers-over-75-trillion-cubic-feet-gas-oil-minister-says",
-      "published_date": "2026-08-23T13:48:13+00:00",
-      "category": "Energy"
+      "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss",
+      "published_date": "2026-08-28T17:22:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Canadian economy recovers sharply in Q2 but shadow of US tariffs in future",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/28/canadian-economy-recovers-sharply-in-q2-but-shadow-of-us-tariffs-in-future?traffic_source=rss",
+      "published_date": "2026-08-28T16:59:48+00:00",
+      "category": "Economy"
     },
     {
       "title": "Anti-migrant protesters burn tents in Ceuta and block Red Cross aid",
@@ -536,32 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Bessent admits sanctions may blow up global economy in apparent slip",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bessent-admits-sanctions-may-blow-global-economy-apparent-slip",
-      "published_date": "2026-08-24T19:50:28+00:00",
-      "category": "Economy"
+      "title": "Forced birth control in Greenland violated women’s rights, experts find",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/forced-birth-control-in-greenland-violated-womens-rights-experts-find?traffic_source=rss",
+      "published_date": "2026-08-28T20:54:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran has a 'two year plan' to counter sanctions, economic minister says",
+      "title": "'My whole world stopped': How a routine ICE check-in upended a Syrian-American family",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-two-year-plan-counter-sanctions-economic-minister-says",
-      "published_date": "2026-08-24T19:36:57+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/us-ice-check-in-devastated-syrian-american-family",
+      "published_date": "2026-08-28T19:59:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump unleashes swathe sanctions on Iran 'enablers'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-unleashes-swathe-sanctions-iran-enablers",
-      "published_date": "2026-08-24T19:32:54+00:00",
-      "category": "Economy"
+      "title": "Yemen’s divided education system leaves students’ futures in limbo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo?traffic_source=rss",
+      "published_date": "2026-08-28T18:50:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran's currency drops to record low, tracking websites show",
+      "title": "Israel’s defence minister says forces occupy Jenin camp in West Bank",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-currency-drops-record-low-tracking-websites-show",
-      "published_date": "2026-08-24T09:46:45+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-defence-minister-says-forces-have-occupied-jenin-camp-west-bank",
+      "published_date": "2026-08-28T18:18:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Israeli spy detained by ICE in US",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/transgender-former-israeli-spy-convicted-detained-ice-us",
+      "published_date": "2026-08-28T16:54:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strikes kill five people, including three from one family, in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strikes-kill-five-people-including-three-from-one-family-in-gaza?traffic_source=rss",
+      "published_date": "2026-08-28T16:38:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strikes kill five in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-five-gaza-0",
+      "published_date": "2026-08-28T16:28:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exclusive: Cambridge colleagues argued a Google search would have prevented Nathan Cofnas hiring",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/nathan-cofnas-cambridge-colleagues-said-he-shouldnt-have-been-hired",
+      "published_date": "2026-08-28T16:17:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The two types of Israeli settlers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/the-two-types-of-israeli-settlers?traffic_source=rss",
+      "published_date": "2026-08-28T16:02:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Smotrich announces plan to judaise Negev and Galilee",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/smotrich-announces-plan-judaise-negev-and-galilee",
+      "published_date": "2026-08-28T15:27:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Indonesians march on parliament to demand crackdown on corruption",
@@ -631,76 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/trending/girl-scouts-usa-responds-controversy-over-islamic-badges",
       "published_date": "2026-08-27T18:37:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's Smotrich sets out plan to 'Judaise' Arab population centres",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-smotrich-sets-out-plan-judaise-arab-population-centres",
-      "published_date": "2026-08-27T16:39:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moroccan minister questions Spanish sovereignty over enclave of Ceuta",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/moroccan-minister-claims-sovereignty-over-spanish-enclave-ceuta",
-      "published_date": "2026-08-27T14:35:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu vows to establish more settlements in the occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-establish-more-settlements-occupied-west-bank",
-      "published_date": "2026-08-27T04:11:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians mourn ‘Camel of Hardship’ artist Sliman Mansour",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss",
-      "published_date": "2026-08-27T02:42:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Mark Ruffalo anti-Semitic?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/is-mark-ruffalo-anti-semitic?traffic_source=rss",
-      "published_date": "2026-08-27T01:19:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Health Organization says Ebola outbreak in Uganda is over",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/26/world-health-organization-says-ebola-outbreak-in-uganda-is-over?traffic_source=rss",
-      "published_date": "2026-08-26T23:46:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli attacks kill at least 100 Palestinians in two weeks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-attacks-killed-least-100-palestinians-two-weeks",
-      "published_date": "2026-08-26T22:29:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lawmakers call on Rubio to intervene in case of US citizen detained by Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lawmakers-call-rubio-intervene-case-us-citizen-detained-israel",
-      "published_date": "2026-08-26T21:26:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meta agrees to $17B settlement in landmark child-safety case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss",
-      "published_date": "2026-08-26T21:21:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians demand return of 1,700 bodies held by Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinians-demand-return-of-1700-bodies-held-by-israel?traffic_source=rss",
-      "published_date": "2026-08-26T21:07:50+00:00",
       "category": "Local Events"
     }
   ]
