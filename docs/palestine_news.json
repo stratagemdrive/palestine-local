@@ -1,8 +1,29 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-02T00:55:57.095630+00:00",
+  "last_updated": "2026-09-02T14:50:24.326268+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Israel vows to retaliate if UK imposes sanctions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-vows-retaliate-uk-imposes-sanctions",
+      "published_date": "2026-09-02T14:34:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US embassy in Saudi Arabia warns Americans to take precautions over increase in 'tensions'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-saudi-arabia-warns-americans-take-precautions-over-increase",
+      "published_date": "2026-09-02T11:31:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia accuses Iran of attacking Saudi tanker in Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-accuses-iran-attacking-saudi-tanker-strait-hormuz",
+      "published_date": "2026-09-02T11:21:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Vanuatu takes France to ICJ over Matthew and Hunter islands dispute",
       "source": "Al Jazeera",
@@ -123,25 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Is Trump testing the limits of US power?",
+      "title": "Netanyahu: 'We are not retreating' in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-we-are-not-retreating-gaza",
+      "published_date": "2026-09-02T13:43:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What is Iran’s Castle Breaker missile, used against US bases?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss",
-      "published_date": "2026-08-31T15:01:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss",
+      "published_date": "2026-09-02T12:38:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkey says roadmap being prepared to expand Mecca defence alliance",
+      "title": "Israel Katz says Palestinians will leave Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-roadmap-being-prepared-expand-mecca-defence-alliance",
-      "published_date": "2026-08-31T13:19:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/israel-katz-says-palestinians-will-leave-gaza",
+      "published_date": "2026-09-02T12:04:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pezeshkian to Modi: Tehran still interested in negotiated solution",
+      "title": "Exclusive: Blair asked PA to remove 'Palestine' from textbooks, former UK envoy says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-modi-tehran-still-interested-negotiated-solution",
-      "published_date": "2026-08-31T11:55:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/blair-asked-palestinian-authority-remove-palestine-textbooks-former-uk-envoy-says",
+      "published_date": "2026-09-02T12:01:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Killing at Sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/fault-lines/2026/9/2/killing-at-sea?traffic_source=rss",
+      "published_date": "2026-09-02T12:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran strikes US bases across region after American attack kills 18, including children",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-strikes-us-bases-across-region-after-american-attack-kills-18-including-children",
+      "published_date": "2026-09-02T11:42:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
+      "published_date": "2026-09-02T10:57:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel is prepared to respond to Iranian attacks, says defence minister",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-prepared-respond-iranian-attacks-says-defence-minister",
+      "published_date": "2026-09-02T09:28:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two dead after Monday attack on Saudi oil tanker in Hormuz, says shipping firm",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-dead-after-monday-attack-saudi-oil-tanker-hormuz-says-shipping-firm",
+      "published_date": "2026-09-02T09:04:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: Trump can continue the same failed policies - or shape a historic legacy",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/iran-war-trump-can-continue-same-failed-policies-or-shape-historic-legacy",
+      "published_date": "2026-09-02T08:17:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The world banned landmines and cluster munitions. Can it stop killer AI before it is too late?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/world-banned-landmines-and-cluster-munitions-can-it-stop-killer-ai-it-too-late",
+      "published_date": "2026-09-02T07:13:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Response to US attacks will be 'extensive and widespread', Iranian army warns",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/response-us-attacks-will-be-extensive-and-widespread-iranian-army-warns",
+      "published_date": "2026-09-02T07:05:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kuwait says fire 'under control' after Iranian attacks, as IRGC claims strikes on US facilities",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-says-fire-under-control-after-iranian-attacks-irgc-claims-strikes",
+      "published_date": "2026-09-02T06:58:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army says earlier interception likely 'false target'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-earlier-interception-likely-false-target",
+      "published_date": "2026-09-02T06:44:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-615",
+      "published_date": "2026-09-02T06:05:49+00:00",
+      "category": "Military"
     },
     {
       "title": "US army attacked two Iranian tankers on Tuesday: Report",
@@ -179,109 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "US military says completed latest wave of strikes on Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-completed-latest-wave-strikes-iran",
-      "published_date": "2026-09-01T22:45:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "No casualties, minimal damage from US attack on Jiroft Airport",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-casualties-minimal-damage-us-attack-jiroft-airport",
-      "published_date": "2026-09-01T22:39:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kuwait army says air defences responding to attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-army-said-air-defences-responding-attacks",
-      "published_date": "2026-09-01T22:34:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel-Greece air defence deal to be 'scaled up' with UAE as contender, sources say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-greece-air-defence-deal-be-scaled-uae-contender-sources-say",
-      "published_date": "2026-09-01T22:06:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says it launched drone attacks on US base in Bahrain",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-launched-drone-attacks-us-base-bahrain",
-      "published_date": "2026-09-01T21:54:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "No US casualties reported so far in Iran attack on Jordan facilities, officials say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-us-casualties-reported-so-far-iran-attack-jordan-facilities-officials",
-      "published_date": "2026-09-01T21:30:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC says it 'killed a large number of US forces' in Jordan attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-killed-large-number-us-forces-jordan-attack",
-      "published_date": "2026-09-01T20:51:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
+      "title": "In Yemen, dates provide lifeline for farmers with few economic options",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss",
-      "published_date": "2026-09-01T20:45:53+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/9/2/in-yemen-dates-provide-lifeline-for-farmers-with-few-economic-options?traffic_source=rss",
+      "published_date": "2026-09-02T13:29:51+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Sirens sound in Jordan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sirens-sound-jordan",
-      "published_date": "2026-09-01T20:35:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s driven the defence deal between Israel and Greece?",
+      "title": "The US is gobbling up Venezuelan oil, but will it lower fuel prices?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
-      "published_date": "2026-09-01T20:35:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll in Iran’s Sirik rises to four, including child",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-irans-sirik-rises-four-including-child",
-      "published_date": "2026-09-01T20:31:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel-Greece air defence deal to be 'scaled up' with UAE as contender, sources say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-greece-air-defence-deal-be-scaled-uae-contender-sources-say",
-      "published_date": "2026-09-01T20:19:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CBS staff accuse network of ‘overt racism’ over Abdul El-Sayed 9/11 story",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/cbs-staff-accuse-network-overt-racism-over-abdul-el-sayed-911-story",
-      "published_date": "2026-09-01T19:56:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian media reports US missile attack near Ahvaz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-us-missile-attack-near-ahvaz",
-      "published_date": "2026-09-01T19:54:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Munitions vehicle explodes killing five in Idlib",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
-      "published_date": "2026-09-01T19:46:53+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss",
+      "published_date": "2026-09-02T11:43:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Guinea-Bissau votes on a stronger presidency: What’s at stake?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/guinea-bissau-votes-on-a-stronger-presidency-whats-at-stake?traffic_source=rss",
-      "published_date": "2026-08-29T02:38:27+00:00",
-      "category": "Energy"
+      "title": "Al-Khair Foundation strongly denies UK Lawyers for Israel allegation of Hamas links",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/al-khair-foundation-strongly-denies-uk-lawyers-israel-allegation-hamas-links",
+      "published_date": "2026-09-02T13:08:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Trump claims 'biggest oil deal in world history' signed with Venezuela",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-biggest-oil-deal-world-history-signed-venezuela",
-      "published_date": "2026-08-28T23:23:34+00:00",
-      "category": "Energy"
+      "title": "5,000 US sailors descend on Thailand as USS Abraham Lincoln docks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/5000-us-sailors-descend-on-thailand-as-uss-abraham-lincoln-docks?traffic_source=rss",
+      "published_date": "2026-09-02T10:08:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "US House passes funding bill to avert government shutdown ahead of midterms",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Iran ready for regional cooperation, Pezeshkian says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-ready-regional-cooperation-pezeshkian-says",
-      "published_date": "2026-08-28T22:37:59+00:00",
-      "category": "Economy"
+      "title": "Palestinians in fear as Israeli forces mount pogroms on West Bank mosques",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss",
+      "published_date": "2026-09-02T14:14:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US cuts off major Egyptian bank from global financial system",
+      "title": "Israeli settlers 'hike' through my West Bank village. Next is the violent land grab",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-cuts-major-egyptian-bank-global-financial-system",
-      "published_date": "2026-08-28T21:47:22+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/opinion/israeli-settler-hikes-through-my-west-bank-village-next-violent-land-grabs",
+      "published_date": "2026-09-02T13:16:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tunisia steps up civil society crackdown as anger mounts over power and water shortages",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/tunisia-steps-up-civil-society-crackdown-public-anger-mounts-power-water-shortages",
+      "published_date": "2026-09-02T11:12:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Iran says it will respond ‘with firmness’ after Sirik attack",
@@ -680,27 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-issues-gentle-condemnation-israeli-settlers-attack-nbc-news-crew",
       "published_date": "2026-08-31T21:47:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli outposts expand as Palestinian homes are demolished",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss",
-      "published_date": "2026-08-31T20:48:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
-      "published_date": "2026-08-31T19:25:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firecracker factory blast in India kills 8 children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/firecracker-factory-blast-in-india-kills-8-children?traffic_source=rss",
-      "published_date": "2026-08-31T18:44:43+00:00",
       "category": "Local Events"
     }
   ]
