@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-03T14:49:27.240833+00:00",
+  "last_updated": "2026-09-04T00:52:59.066124+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Are Trump’s AI videos just memes or psychological warfare?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
+      "published_date": "2026-09-03T23:36:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DR Congo joins countries pledging embassy move to Jerusalem",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
+      "published_date": "2026-09-03T23:05:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rights groups press lawmakers to scrap provision to merge US and Israeli militaries",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-groups-press-lawmakers-scrap-provision-merge-us-and-israeli",
+      "published_date": "2026-09-03T22:35:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India rejects court ruling on Indus Waters Treaty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-sv-india-rejects-iwt-ruling-in-fm?traffic_source=rss",
+      "published_date": "2026-09-03T20:48:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is Nepal leading the battle for climate justice?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
+      "published_date": "2026-09-03T18:58:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestine will outlast Blair and his grotesque 'Board of Peace'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/palestine-will-outlast-blair-and-his-grotesque-board-peace",
+      "published_date": "2026-09-03T16:32:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How Israel armed Argentina to kill British soldiers during Falklands War",
       "source": "Middle East Eye",
@@ -102,46 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel’s mission in Iran ‘not yet finished’, says Netanyahu",
+      "title": "US treasury secretary announces EU joining economic pressure campaign against Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-israels-mission-iran-not-yet-finished",
-      "published_date": "2026-09-02T20:49:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-secretary-announces-eu-joining-economic-pressure-campaign",
+      "published_date": "2026-09-04T00:41:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+      "title": "Iran war live: US rules out Iran talks until ship attacks stop",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
-      "published_date": "2026-09-02T20:12:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
+      "published_date": "2026-09-04T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "US launches $1 coin featuring Trump’s face: What to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss",
-      "published_date": "2026-09-02T20:11:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatari PM speaks to Lebanese, Turkish, Egyptian foreign ministers",
+      "title": "Watch: Israeli forces open fire on an elderly Palestinian in Gaza’s Beit Lahia",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-pm-speaks-lebanese-turkish-egyptian-foreign-ministers",
-      "published_date": "2026-09-02T20:07:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-forces-open-fire-elderly-palestinian-gazas-beit-lahia",
+      "published_date": "2026-09-03T23:58:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/eu-pursuing-more-russia-sanctions-after-failed-airport-attack-kallas?traffic_source=rss",
-      "published_date": "2026-09-02T19:06:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian currency falls to new low",
+      "title": "Adam Telle appointed as acting US Army Secretary, Trump says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-currency-falls-new-low",
-      "published_date": "2026-09-02T19:02:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/adam-telle-appointed-acting-us-army-secretary-trump-says",
+      "published_date": "2026-09-03T23:20:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says oil industry circumventing US blockade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-oil-industry-circumventing-us-blockade",
+      "published_date": "2026-09-03T22:29:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vance: US investigating strike on Iran wedding 'very fully'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/vance-us-investigating-strike-iran-wedding-very-fully",
+      "published_date": "2026-09-03T21:15:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss",
+      "published_date": "2026-09-03T21:07:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military says 87 vessels diverted so far in Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-87-vessels-diverted-so-far-strait-hormuz",
+      "published_date": "2026-09-03T20:51:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
+      "published_date": "2026-09-03T20:44:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
+      "published_date": "2026-09-03T20:31:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Funeral held for child killed in US strike on Iranian wedding",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss",
+      "published_date": "2026-09-03T20:00:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vance says US probing air strike on wedding party in Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-probing-air-strike-wedding-party-iran",
+      "published_date": "2026-09-03T19:38:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Serbia welcomes return of war criminal Mladic’s body with military honours",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/serbia-welcomes-return-of-war-criminal-mladics-body-with-military-honours?traffic_source=rss",
+      "published_date": "2026-09-03T19:27:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Foreign fighters and external support fuel Sudan’s war: UN-backed probe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/3/foreign-fighters-and-external-support-fuel-sudans-war-un-backed-probe?traffic_source=rss",
+      "published_date": "2026-09-03T18:45:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rights groups press lawmakers to scrap provision to merge US and Israeli militaries",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/rights-groups-press-lawmakers-scrap-provision-merge-us-and-israeli-militaries",
+      "published_date": "2026-09-03T17:49:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon receives first prisoner of five to be freed by Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-receives-first-prisoner-five-be-freed-israel",
+      "published_date": "2026-09-03T16:26:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rights groups urge US lawmakers to drop provision to deepen defence ties with Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-groups-urge-us-lawmakers-drop-provision-deepen-defense-ties",
+      "published_date": "2026-09-03T15:42:26+00:00",
+      "category": "Military"
     },
     {
       "title": "How Israel armed Argentina to kill British soldiers during Falklands War",
@@ -165,123 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israel releases five Lebanese men detained in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-releases-five-lebanese-men-detained-southern-lebanon",
-      "published_date": "2026-09-03T13:34:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
+      "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/3/ukraine-targets-russias-space-programme-as-war-intensifies?traffic_source=rss",
-      "published_date": "2026-09-03T13:30:28+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss",
+      "published_date": "2026-09-03T22:08:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US attack kills six Iranian navy personnel, Tasnim reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-attack-kills-six-iranian-navy-personnel-tasnim-reports",
-      "published_date": "2026-09-03T13:17:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian Islamic Jihad co-founder threatened with 'unlawful' deportation from Syria",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/palestinian-islamic-jihad-co-founder-threatened-unlawful-deportation-syria",
-      "published_date": "2026-09-03T11:48:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran confirms missile and drone attacks on US bases in UAE and Kuwait",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-confirms-missile-and-drone-attacks-us-bases-uae-and-kuwait",
-      "published_date": "2026-09-03T11:12:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel admits it assassinated senior Assad official in Syria in 2008",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-admits-it-assassinated-senior-assad-official-syria-2008",
-      "published_date": "2026-09-03T10:47:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns US of retaliation if Israel storms southern Lebanon ridge",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-retaliation-if-israel-storms-southern-lebanon-ridge",
-      "published_date": "2026-09-03T09:53:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says no one can reopen Strait of Hormuz without its consent",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-one-can-reopen-strait-hormuz-without-its-consent",
-      "published_date": "2026-09-03T09:34:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gulf insecurity fuels US energy dominance",
+      "title": "El Nino: A phenomenon supercharged by climate change",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss",
-      "published_date": "2026-09-03T09:16:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran urges UN action over deadly US attack on wedding",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-urges-un-action-over-deadly-us-attack-wedding",
-      "published_date": "2026-09-03T09:01:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says he is prepared to strike Iran again at 'any time'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-prepared-strike-iran-again-any-time",
-      "published_date": "2026-09-02T23:07:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
-      "published_date": "2026-09-02T21:37:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military announces military exercise in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-announces-military-exercise-occupied-west-bank",
-      "published_date": "2026-09-02T21:19:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Inappropriate to say': Trump may still be considering CIA-led uprising in Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/inappropriate-trump-backs-away-cia-backed-uprising-iran",
-      "published_date": "2026-09-02T21:15:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
-      "published_date": "2026-09-02T20:59:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The long-term implications of Pete Hegseth’s US military purges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss",
-      "published_date": "2026-09-02T20:48:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
-      "published_date": "2026-09-02T20:04:55+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
+      "published_date": "2026-09-03T21:09:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Turkey replaces Russian oil and diesel imports from US as wars reverberate",
@@ -407,20 +421,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss",
       "published_date": "2026-08-29T22:33:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Tunisians desperate for water as taps run dry",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/tunisians-desperate-for-water-as-taps-run-dry?traffic_source=rss",
-      "published_date": "2026-08-29T19:19:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "People stranded for days on dilapidated Nigerian highway",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
-      "published_date": "2026-08-29T14:01:46+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,41 @@
       "category": "Economy"
     },
     {
+      "title": "UN says Israel must withdraw from occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-israel-must-withdraw-occupied-west-bank",
+      "published_date": "2026-09-03T21:35:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christian village of Taybeh plans US lawsuit over Israeli settler attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/christian-village-taybeh-plans-us-lawsuit-over-israeli-settler-attacks",
+      "published_date": "2026-09-03T20:11:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli attack injures two Palestinian children in occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-injures-two-palestinian-children-occupied-west-bank",
+      "published_date": "2026-09-03T19:43:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: Palestine will outlast Blair and his grotesque 'Board of Peace'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-palestine-will-outlast-blair-and-his-grotesque-board-peace",
+      "published_date": "2026-09-03T17:55:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestine Action activists to appeal terror sentencing",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/palestine-action-activists-appeal-terror-sentencing",
+      "published_date": "2026-09-03T15:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Israel returns body of Palestinian teenager it killed in 2025",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-returns-body-palestinian-teenager-it-killed-2025",
@@ -666,41 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss",
       "published_date": "2026-09-02T14:14:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers 'hike' through my West Bank village. Next is the violent land grab",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/israeli-settler-hikes-through-my-west-bank-village-next-violent-land-grabs",
-      "published_date": "2026-09-02T13:16:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tunisia steps up civil society crackdown as anger mounts over power and water shortages",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/tunisia-steps-up-civil-society-crackdown-public-anger-mounts-power-water-shortages",
-      "published_date": "2026-09-02T11:12:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran says it will respond ‘with firmness’ after Sirik attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-will-respond-firmness-after-kuhestak-attack",
-      "published_date": "2026-09-01T22:50:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
-      "published_date": "2026-09-01T20:59:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
-      "published_date": "2026-09-01T18:22:17+00:00",
       "category": "Local Events"
     }
   ]
