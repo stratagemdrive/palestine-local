@@ -1,8 +1,22 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-06T00:45:36.135083+00:00",
+  "last_updated": "2026-09-06T13:51:14.276697+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Turkish spy chief makes secretive visit to Greece amid rising tensions with Israel, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/turkish-intelligence-chiefs-athens-visit-puts-greece-turkey-tensions-under-scrutiny",
+      "published_date": "2026-09-06T13:04:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Falklands dispute: What’s it got to do with Israel and the US?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/explainers/falklands-dispute-uk-argentina-us-israel",
+      "published_date": "2026-09-06T12:51:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
       "source": "Al Jazeera",
@@ -130,18 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran war: Why US midterms could be a pivotal moment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss",
-      "published_date": "2026-09-04T11:12:51+00:00",
-      "category": "Diplomacy"
+      "title": "Gaza death toll rises to 73,651 since October 2023",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-73651-october-2023",
+      "published_date": "2026-09-06T11:28:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Argentina threatens oil firms with sanctions as Falkland Islands dispute intensifies",
+      "title": "Iran threatens South Korean assets if Seoul joins Hormuz mission",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/argentina-threatens-oil-firms-sanctions-falkland-islands-dispute",
-      "published_date": "2026-09-04T10:25:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-south-korean-assets-if-seoul-joins-hormuz-mission",
+      "published_date": "2026-09-06T10:50:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
+      "published_date": "2026-09-06T10:49:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran threatens South Korean assets if Seoul joins Hormuz mission",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-threatens-south-korean-assets-if-seoul-joins-hormuz-mission",
+      "published_date": "2026-09-06T10:31:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's response to US attacks will be 'faster, more painful', Ghalibaf says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-response-us-attacks-will-be-more-painful-ghalibaf-says",
+      "published_date": "2026-09-06T09:54:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli air attacks on Lebanon kill at least four",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
+      "published_date": "2026-09-06T09:15:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks on Lebanon have killed nearly 9,000 since 2023",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-lebanon-have-killed-nearly-9000-2023",
+      "published_date": "2026-09-06T09:11:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel bombards several towns in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-09-06T08:44:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes kill four and destroy hospital in south Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-four-and-destroy-hospital-south-lebanon",
+      "published_date": "2026-09-06T08:22:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How do you arrest 50,000 people quietly?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/6/how-do-you-arrest-50000-people-quietly?traffic_source=rss",
+      "published_date": "2026-09-06T07:45:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-160",
+      "published_date": "2026-09-06T06:50:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike kills two people in Arab Salim town of Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-two-people-arab-salim-town-lebanon",
+      "published_date": "2026-09-06T06:28:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel asks residents of Lebanon's Arab Salim to leave, warns of strike",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-asks-residents-lebanons-arab-salim-leave-warns-strike",
+      "published_date": "2026-09-06T05:16:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
+      "published_date": "2026-09-06T05:02:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 20 killed in fire at wedding party in DR Congo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/more-than-20-killed-in-fire-at-wedding-party-in-dr-congo?traffic_source=rss",
+      "published_date": "2026-09-06T04:47:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East crude oil exports in August down 39 percent, TankerTrackers says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/middle-east-crude-oil-exports-august-down-39-percent-tankertrackers-says",
+      "published_date": "2026-09-06T04:30:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni forces claim control regained over Hays district in Hodeidah province",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-claim-control-regained-over-hays-district-hodeidah",
+      "published_date": "2026-09-06T03:27:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
@@ -162,125 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-us-aircraft-carrier-destroyer-forced-flee-after-missile",
       "published_date": "2026-09-05T23:39:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UKMTO says several vessels subjected to 'disabling fire' in Arabian Gulf, Gulf of Oman",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-several-vessels-subjected-disabling-fire-arabian-gulf-gulf",
-      "published_date": "2026-09-05T23:28:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-      "published_date": "2026-09-05T21:23:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC says it attacked six vessels near Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-attacked-six-vessels-near-strait-hormuz",
-      "published_date": "2026-09-05T20:42:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Colombian government reports three killed in rebel attack on military post",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
-      "published_date": "2026-09-05T20:03:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran condemns US attacks on commercial vessels as war crimes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-condemns-us-attacks-commercial-vessels-war-crimes",
-      "published_date": "2026-09-05T19:49:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss",
-      "published_date": "2026-09-05T19:45:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: raids, settlers & sieges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
-      "published_date": "2026-09-05T19:37:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two pilots killed after Greek fighter jet crashes during an air show",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss",
-      "published_date": "2026-09-05T18:44:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran threatens expanded strikes on US warships if blockade continues",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-expanded-strikes-us-warships-if-blockade-continues",
-      "published_date": "2026-09-05T18:30:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
-      "published_date": "2026-09-05T18:12:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon chief threatens more strikes on Iranian oil tankers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-chief-threatens-more-strikes-iranian-oil-tankers",
-      "published_date": "2026-09-05T16:56:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
-      "published_date": "2026-09-05T16:17:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "White House weighs replacing Pentagon number two as post-Iran war turmoil deepens",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-weighs-replacing-pentagon-number-two-post-iran-war-turmoil",
-      "published_date": "2026-09-05T16:10:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Top US military officials face lie-detectors in leak investigation: reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/top-us-military-officials-face-lie-detectors-leak-investigation-reports",
-      "published_date": "2026-09-05T15:10:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military says it has destroyed three Iranian oil tankers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-it-destroyed-three-iranian-oil-tankers",
-      "published_date": "2026-09-05T14:38:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
-      "published_date": "2026-09-05T12:54:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Governments continue to fail’: Freedom Flotilla sails again, vowing to challenge Israel’s Gaza blockade",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/governments-continue-fail-freedom-flotilla-sails-again-vowing-challenge",
-      "published_date": "2026-09-05T11:58:10+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,90 @@
       "category": "Economy"
     },
     {
+      "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
+      "published_date": "2026-09-06T13:15:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians mourn loved ones in mass funeral in Gaza City",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
+      "published_date": "2026-09-06T13:13:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanon president calls on US to stop Israel's 'dangerous escalation'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-calls-us-stop-israels-dangerous-escalation",
+      "published_date": "2026-09-06T12:52:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight foreign ministers condemn Katz and Ben Gvir’s Gaza displacement plan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-foreign-ministers-condemn-katz-and-ben-gvirs-gaza-displacement",
+      "published_date": "2026-09-06T10:44:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli flags become the latest weapon of settlers in West Bank domination",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss",
+      "published_date": "2026-09-06T09:40:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers step up raids across the West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-step-raids-across-west-bank",
+      "published_date": "2026-09-06T09:32:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA’s Infantino avoids questions on his future amid growing uncertainty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty?traffic_source=rss",
+      "published_date": "2026-09-06T07:10:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss",
+      "published_date": "2026-09-06T06:52:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian child, 50-year-old man injured in Israeli gunfire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-child-50-year-old-man-injured-israeli-gunfire",
+      "published_date": "2026-09-06T06:13:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kites flown across 11 Dutch cities in solidarity with Gaza children",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kites-flown-across-11-dutch-cities-solidarity-gaza-children",
+      "published_date": "2026-09-06T05:45:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza holds funeral for 100 Palestinians recovered from rubble",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-holds-funeral-100-palestinians-recovered-rubble",
+      "published_date": "2026-09-06T04:46:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two children among seven Palestinians injured in Israeli attacks on Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-children-among-seven-palestinians-injured-israeli-attacks-gaza",
+      "published_date": "2026-09-06T03:57:36+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Israeli attacks kill 4,358 in Lebanon since March invasion, health ministry says",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-4358-lebanon-march-invasion-health-ministry-says",
@@ -617,90 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-palestinian-farmers-west-bank",
       "published_date": "2026-09-05T11:13:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-09-05T09:52:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US ambassador to Israel calls for 'severe consequences' to stop West Bank violence",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-ambassador-calls-severe-consequences-stop-west-bank-violence",
-      "published_date": "2026-09-05T09:46:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian child wounded by Israeli gunfire near Gaza City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-child-wounded-israeli-gunfire-near-gaza-city-0",
-      "published_date": "2026-09-05T09:03:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN says Israeli settler violence in West Bank displaced 2,500 Palestinians in 2026",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-israeli-settler-violence-west-bank-displaced-2500-palestinians",
-      "published_date": "2026-09-05T06:53:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fifty-five bodies belonging to one family recovered from rubble in Gaza's Zeytoun",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/55-bodies-remains-malka-family-recovered-rubble-gazas-zeytoun",
-      "published_date": "2026-09-05T06:39:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "West Bank violence: Israeli forces open fire during raid, settlers vandalise home",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-violence-israeli-forces-open-fire-during-raid-settlers",
-      "published_date": "2026-09-05T05:57:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'What do you call this but ethnic cleansing?' NYT columnist on West Bank demolition",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/what-do-you-call-ethnic-cleansing-nyt-columnist-west-bank-demolition",
-      "published_date": "2026-09-05T05:03:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewish groups back stronger measures on Israel in letter to Andy Burnham",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jewish-groups-back-stronger-measures-israel-letter-andy-burnham",
-      "published_date": "2026-09-04T21:34:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Villagers vow to rebuild despite devastating mass demolition in West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss",
-      "published_date": "2026-09-04T18:32:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian rights group condemns Israeli minister’s Gaza forced displacement remarks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-rights-group-condemns-israeli-ministers-gaza-forced",
-      "published_date": "2026-09-04T16:20:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Muslim women journalists allege police assault in India",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss",
-      "published_date": "2026-09-04T13:37:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hussam Abu Safiya: Abducted Palestinian doctor still subject to torture by Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/hussam-abu-safiya-abducted-palestinian-doctor-still-subject-torture-israel",
-      "published_date": "2026-09-04T13:11:26+00:00",
       "category": "Local Events"
     }
   ]
