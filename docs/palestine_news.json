@@ -1,8 +1,36 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-05T13:37:09.779213+00:00",
+  "last_updated": "2026-09-06T00:45:36.135083+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
+      "published_date": "2026-09-05T22:58:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Balkans: Israel deepens ties with Bosnian Serb separatists through Banja Luka trade office",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-deepens-ties-bosnian-serb-separatists-through-banja-luka-trade-office",
+      "published_date": "2026-09-05T21:52:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
+      "published_date": "2026-09-05T20:00:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss",
+      "published_date": "2026-09-05T19:19:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Proposed Hormuz passage deal not feasible for shipping industry: Report",
       "source": "Middle East Eye",
@@ -116,32 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Witkoff and Kushner to visit Russia and Ukraine at weekend, says Tass",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/witkoff-and-kushner-visit-russia-and-ukraine-weekend-says-tass",
-      "published_date": "2026-09-04T10:17:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+      "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
-      "published_date": "2026-09-04T10:17:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+      "published_date": "2026-09-06T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Argentina threatens oil firms with sanctions as Falkland Islands dispute intensifies",
+      "title": "Fresh Yemen clashes kill more than 60, including 26 soldiers",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/argentina-threatens-oil-firm-sanctions-over-falkland-islands-claim",
-      "published_date": "2026-09-04T10:12:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fresh-yemen-clashes-kill-more-60-including-26-soldiers",
+      "published_date": "2026-09-05T23:55:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Build The Wall’: White House arcade games face backlash",
+      "title": "IRGC claims US aircraft carrier, destroyer forced to flee after missile attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-us-aircraft-carrier-destroyer-forced-flee-after-missile",
+      "published_date": "2026-09-05T23:39:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UKMTO says several vessels subjected to 'disabling fire' in Arabian Gulf, Gulf of Oman",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-several-vessels-subjected-disabling-fire-arabian-gulf-gulf",
+      "published_date": "2026-09-05T23:28:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/build-the-wall-white-house-arcade-games-face-backlash?traffic_source=rss",
-      "published_date": "2026-09-04T10:10:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
+      "published_date": "2026-09-05T21:23:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC says it attacked six vessels near Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-attacked-six-vessels-near-strait-hormuz",
+      "published_date": "2026-09-05T20:42:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Colombian government reports three killed in rebel attack on military post",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
+      "published_date": "2026-09-05T20:03:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran condemns US attacks on commercial vessels as war crimes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-condemns-us-attacks-commercial-vessels-war-crimes",
+      "published_date": "2026-09-05T19:49:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss",
+      "published_date": "2026-09-05T19:45:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jerusalem Daily: raids, settlers & sieges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
+      "published_date": "2026-09-05T19:37:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two pilots killed after Greek fighter jet crashes during an air show",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss",
+      "published_date": "2026-09-05T18:44:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran threatens expanded strikes on US warships if blockade continues",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-expanded-strikes-us-warships-if-blockade-continues",
+      "published_date": "2026-09-05T18:30:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
+      "published_date": "2026-09-05T18:12:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pentagon chief threatens more strikes on Iranian oil tankers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-chief-threatens-more-strikes-iranian-oil-tankers",
+      "published_date": "2026-09-05T16:56:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+      "published_date": "2026-09-05T16:17:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "White House weighs replacing Pentagon number two as post-Iran war turmoil deepens",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-weighs-replacing-pentagon-number-two-post-iran-war-turmoil",
+      "published_date": "2026-09-05T16:10:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Top US military officials face lie-detectors in leak investigation: reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/top-us-military-officials-face-lie-detectors-leak-investigation-reports",
+      "published_date": "2026-09-05T15:10:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military says it has destroyed three Iranian oil tankers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-it-destroyed-three-iranian-oil-tankers",
+      "published_date": "2026-09-05T14:38:08+00:00",
+      "category": "Military"
     },
     {
       "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
@@ -158,130 +284,60 @@
       "category": "Military"
     },
     {
-      "title": "‘Governments continue to fail’: Freedom Flotilla sails again, vowing to challenge Israel’s Gaza blockade",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/freedom-flotilla-sails-again-vows-challenge-israels-gaza-blockade",
-      "published_date": "2026-09-05T11:34:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mudslide in eastern China kills one, leaves 11 missing",
+      "title": "Fuel tanker blast in western Iran kills at least 10",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss",
-      "published_date": "2026-09-05T10:49:23+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
+      "published_date": "2026-09-05T23:07:48+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iraqis queue for fuel as regional war disrupts imports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqis-queue-fuel-regional-war-disrupts-imports",
-      "published_date": "2026-09-05T10:40:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+      "title": "Building collapses after heavy rain in northern India",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
-      "published_date": "2026-09-05T10:27:23+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
+      "published_date": "2026-09-05T21:11:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel carries out raids near Sour in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-carries-out-raids-near-sour-southern-lebanon",
-      "published_date": "2026-09-05T10:19:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US missile struck Iranian oil tanker near Kharg Island: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-missile-struck-iranian-oil-tanker-near-kharg-island-report",
-      "published_date": "2026-09-05T08:42:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon polygraphs dozens of US military staff over media leaks",
+      "title": "Germany’s far-right AfD eyes historic first in state election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/pentagon-polygraphs-military-staff-over-media-leaks-report?traffic_source=rss",
-      "published_date": "2026-09-05T08:37:34+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss",
+      "published_date": "2026-09-05T18:07:43+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
+      "title": "Fuel tanker fire kills at least 11 in western Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fuel-tanker-fire-kills-least-11-western-iran",
+      "published_date": "2026-09-05T17:46:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "US says it hit three Iranian oil tankers after attacks on warships",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison?traffic_source=rss",
-      "published_date": "2026-09-05T08:14:46+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
+      "published_date": "2026-09-05T15:49:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Niger accuses France of orchestrating failed military mutiny",
+      "title": "Gaza’s destroyed sewage system linked to ‘rare’ algae bloom shutting Israeli desalination plants",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gazas-destroyed-sewage-system-linked-rare-algae-bloom-shutting-israeli",
+      "published_date": "2026-09-05T15:44:42+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
-      "published_date": "2026-09-05T07:42:59+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
+      "published_date": "2026-09-05T15:33:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Morning recap",
+      "title": "Gaza’s destroyed sewage system linked to ‘rare’ algae bloom shutting Israeli desalination plants",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-159",
-      "published_date": "2026-09-05T06:24:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, allies push IAEA board to report Iran to UN Security Council",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-allies-push-iaea-board-report-iran-un-security-council",
-      "published_date": "2026-09-05T04:34:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran army says US bid to weaken its Hormuz control answered 'within 15 minutes'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-army-says-us-bid-weaken-its-hormuz-control-answered-within-15",
-      "published_date": "2026-09-05T03:25:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's Baghaei to Americans: 'Don't let anyone turn your children into mercenaries'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-baghaei-americans-dont-let-anyone-turn-your-children-mercenaries",
-      "published_date": "2026-09-05T00:28:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tunisia police arrest journalist Mohamed Yousfi, critic of Kais Saied",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tunisia-police-arrest-journalist-mohamed-yousfi-critic-kais-saied",
-      "published_date": "2026-09-04T23:56:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran vows ‘pre-emptive operations’ against perceived threats",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-vows-pre-emptive-operations-against-perceived-threats",
-      "published_date": "2026-09-04T22:32:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
-      "published_date": "2026-09-04T21:58:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Costa Rican president signals openness to domestic US military operations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
-      "published_date": "2026-09-04T21:45:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll from Israeli attacks on Lebanon rises to three",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-attacks-lebanon-rises-three",
-      "published_date": "2026-09-04T21:39:10+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/gaza-destroyed-sewage-system-linked-rare-algae-bloom-shutting-israel-desalination-plants",
+      "published_date": "2026-09-05T15:20:20+00:00",
+      "category": "Energy"
     },
     {
       "title": "Gulf of Oman sees ship-to-ship transfer of 24 million barrels of crude",
@@ -365,62 +421,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
       "published_date": "2026-09-01T21:54:14+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss",
-      "published_date": "2026-09-01T14:17:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UN sounds climate alarm as China-Taiwan row threatens to overshadow forum",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-sounds-climate-alarm-as-china-taiwan-row-threatens-to-overshadow-forum?traffic_source=rss",
-      "published_date": "2026-09-01T13:13:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
-      "published_date": "2026-09-01T00:15:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil prices jump amid resumption of US-Iran clashes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-jump-amid-resumption-us-iran-clashes",
-      "published_date": "2026-08-31T18:25:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Tunisia protests: Water, power cuts and rising anger",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/tunisia-protests-water-power-cuts-and-rising-anger?traffic_source=rss",
-      "published_date": "2026-08-31T16:47:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "What are the implications of the US-Venezuela oil deal?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss",
-      "published_date": "2026-08-31T00:41:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran claims attacks on US infrastructure in Jordan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-claims-attacks-us-infrastructure-jordan",
-      "published_date": "2026-08-30T23:39:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "What is Notting Hill Carnival’s Jab Jab parade?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss",
-      "published_date": "2026-08-30T23:29:21+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Israeli attacks kill 4,358 in Lebanon since March invasion, health ministry says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-4358-lebanon-march-invasion-health-ministry-says",
+      "published_date": "2026-09-06T00:26:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rescuers recover 11 Palestinian bodies from rubble as Israeli attacks kill five in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rescuers-recover-11-palestinian-bodies-rubble-israeli-attacks-kill-five",
+      "published_date": "2026-09-05T17:23:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli campaign of West Bank destruction moves on to region’s food basket",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
+      "published_date": "2026-09-05T15:37:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK tax agency threatened with legal action over Israeli settlement trade, says report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-tax-agency-threatened-legal-action-over-israeli-settlement-trade",
+      "published_date": "2026-09-05T14:56:45+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
@@ -673,34 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/hussam-abu-safiya-abducted-palestinian-doctor-still-subject-torture-israel",
       "published_date": "2026-09-04T13:11:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hussam Abu Safiya says Israeli prison guards still beating him",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hussam-abu-safiya-says-israeli-prison-guards-still-beating-him",
-      "published_date": "2026-09-04T12:39:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India’s Smriti Mandhana becomes top run-scorer in women’s cricket",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/4/indias-smriti-mandhana-becomes-top-run-scorer-in-womens-cricket?traffic_source=rss",
-      "published_date": "2026-09-04T12:03:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UAE president pardons Egyptian poet Abdul Rahman Yusuf al-Qaradawi",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uae-president-pardons-egyptian-poet-abdul-rahman-yusuf-al-qaradawi",
-      "published_date": "2026-09-04T11:03:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Survivors recount US strike on wedding in Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/survivors-recount-us-strike-wedding-iran",
-      "published_date": "2026-09-04T10:33:48+00:00",
       "category": "Local Events"
     }
   ]
