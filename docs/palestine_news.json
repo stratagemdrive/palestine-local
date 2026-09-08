@@ -1,8 +1,78 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-08T01:03:37.795545+00:00",
+  "last_updated": "2026-09-08T14:49:55.927255+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Video: Germany says ICJ lacks jurisdiction in Nicaragua genocide case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/video-germany-says-icj-lacks-jurisdiction-in-nicaragua-genocide-case?traffic_source=rss",
+      "published_date": "2026-09-08T13:52:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Video: Saudi–Russia Press Conference in Moscow: Key Takeaways",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/video-saudi-russia-press-conference-in-moscow-key?traffic_source=rss",
+      "published_date": "2026-09-08T13:43:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority?traffic_source=rss",
+      "published_date": "2026-09-08T12:44:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BRICS summit may be the only place another Iran ceasefire can be built",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss",
+      "published_date": "2026-09-08T12:00:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar working with China and other partners to resume talks US-Iran talks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-working-china-and-other-partners-resume-talks-us-iran-talks",
+      "published_date": "2026-09-08T11:12:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In a major policy shift, Britain is expected to ban goods from Israeli settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/major-policy-shift-britain-expected-ban-goods-israeli-settlements",
+      "published_date": "2026-09-08T11:08:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US officials threaten retaliation against UK over Israeli settlements sanctions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-officials-threaten-retaliation-against-uk-over-israeli-settlements",
+      "published_date": "2026-09-08T10:42:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Canada to ban products from Israeli settlements today: Haaretz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-and-canada-ban-products-israeli-settlements-today-haaretz",
+      "published_date": "2026-09-08T10:36:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US officials threaten retaliation against UK over Israeli settlements sanctions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-officials-threaten-retaliation-against-uk-over-israeli-settlements-sanctions",
+      "published_date": "2026-09-08T10:27:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK recognises 'ethnic cleansing' in West Bank, sanctions settlements and declares Israeli occupation illegal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-announce-trade-sanctions-israeli-settlements",
+      "published_date": "2026-09-08T10:16:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran slams Canada for appeasing 'bullying neighbour' US",
       "source": "Middle East Eye",
@@ -74,74 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nauru opens embassy in Jerusalem",
+      "title": "Yemen’s reignited war fuels a new wave in child recruitment",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss",
-      "published_date": "2026-09-07T17:36:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/8/yemens-reignited-war-fuels-a-new-wave-in-child-recruitment?traffic_source=rss",
+      "published_date": "2026-09-08T14:16:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Gaza: Genocide in Real Time?",
+      "title": "Houthis target Saudi Arabia following air strikes as Yemeni forces push towards Sanaa",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/yemen-forces-push-toward-sanaa-fighting-houthis-intensifies",
+      "published_date": "2026-09-08T13:42:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli actions in Syria may amount to war crimes, says UN",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-actions-syria-may-amount-war-crimes-says-un",
+      "published_date": "2026-09-08T13:35:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Manipur musician killed in Indian capital, reviving racism concerns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
-      "published_date": "2026-09-07T17:23:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/9/8/manipur-musician-killed-in-indian-capital-reviving-racism-concerns?traffic_source=rss",
+      "published_date": "2026-09-08T13:16:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "US immigration policy is coming for your Saturday night plans",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/us-immigration-policy-saint-levant-wegz-visa-arab-americans",
-      "published_date": "2026-09-07T17:00:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli clearance of Gaza rubble could destroy 'evidence', says UN expert",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-clearance-gaza-rubble-could-destroy-evidence-says-un-expert",
-      "published_date": "2026-09-07T16:32:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany asks ICJ to dismiss Gaza genocide case brought by Nicaragua",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-asks-icj-dismiss-gaza-genocide-case-brought-nicaragua",
-      "published_date": "2026-09-07T15:58:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
+      "title": "Saudi political analyst says ‘No prolonged war with the Houthis’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks?traffic_source=rss",
-      "published_date": "2026-09-07T14:22:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss",
+      "published_date": "2026-09-08T11:01:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why has Nicaragua taken Germany to the ICJ over Gaza genocide?",
+      "title": "How South Korea finds itself trapped in the US-Iran war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/why-has-nicaragua-taken-germany-to-the-icj-over-gaza-genocide?traffic_source=rss",
-      "published_date": "2026-09-07T13:26:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss",
-      "published_date": "2026-09-07T12:00:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Analysis: Ed Miliband is becoming the UK's most formidable foreign secretary in decades",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/ed-miliband-tearing-script-become-britains-most-formidable-foreign-secretary-decades",
-      "published_date": "2026-09-07T11:38:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK set to announce ban on trade with Israeli settlements on Tuesday",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-announce-ban-trade-israeli-settlements-tuesday",
-      "published_date": "2026-09-07T10:17:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss",
+      "published_date": "2026-09-08T10:00:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Hamas accuses Israel of attempts at 'obliterating evidence' of crimes in Gaza",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "How the media manufactured consent for genocide",
+      "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/7/how-the-media-manufactured-consent-for-genocide?traffic_source=rss",
-      "published_date": "2026-09-07T14:59:37+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
+      "published_date": "2026-09-08T11:40:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The UAE, like the US and Israel, is normalising a permanent state of war in the Middle East",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/uae-us-israel-normalising-permanent-state-war-region",
-      "published_date": "2026-09-07T14:43:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Direction Potocari’: From Srebrenica genocide to a Belgrade football match",
+      "title": "‘Limit overshoot, peak, decline’: A new global goal for climate change?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/7/direction-potocari-from-srebrenica-genocide-to-a-belgrade-football-match?traffic_source=rss",
-      "published_date": "2026-09-07T14:33:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel threatens senior Palestinian officials with 'all-out war' in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-defence-minister-threatens-all-out-war-occupied-west-bank",
-      "published_date": "2026-09-07T14:01:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes perimeter of Iran’s Bushehr nuclear plant, Iranian state media reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strikes-perimeter-irans-bushehr-nuclear-plant-iranian-state-media",
-      "published_date": "2026-09-07T13:53:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
-      "published_date": "2026-09-07T13:52:52+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss",
+      "published_date": "2026-09-08T10:58:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
@@ -410,18 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss",
-      "published_date": "2026-09-03T22:08:33+00:00",
-      "category": "Energy"
+      "title": "UK trade ban on illegal settlements is a recognition that dignity goes both ways",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/uk-trade-ban-israeli-settlement-goods-recognition-dignity-should-go-both-ways",
+      "published_date": "2026-09-08T14:43:04+00:00",
+      "category": "Economy"
     },
     {
-      "title": "El Nino: A phenomenon supercharged by climate change",
+      "title": "What will Britain’s new sanctions on Israeli settlements actually target?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/what-will-britains-new-sanctions-israeli-settlements-actually-target",
+      "published_date": "2026-09-08T14:09:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BDS co-founder criticises UK settlement trade ban as 'performative' and ineffective",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bds-co-founder-criticises-uk-settlement-trade-ban-performative-and",
+      "published_date": "2026-09-08T13:58:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Suspected spyware attacks target Turkish ministers’ phones",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/suspected-spyware-attacks-target-turkish-ministers-phones",
+      "published_date": "2026-09-08T13:32:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Former Philippines lawmaker arrested for pocketing millions in flood aid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
-      "published_date": "2026-09-03T21:09:39+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/former-philippines-lawmaker-arrested-for-pocketing-millions-in-flood-aid?traffic_source=rss",
+      "published_date": "2026-09-08T11:58:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK publishes legislation for expanded sanctions on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-publishes-legislation-expanded-sanctions-iran",
+      "published_date": "2026-09-08T11:19:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Israeli ministers call for sanctions on Britain over Falkland Islands",
@@ -522,46 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Kais Saied’s economic experiment has failed Tunisia",
+      "title": "FIFA accused of ‘abusive conduct’ over women’s football calendar in Europe",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/3/kais-saieds-economic-experiment-has-failed-tunisia?traffic_source=rss",
-      "published_date": "2026-09-03T13:09:47+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss",
+      "published_date": "2026-09-08T14:44:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Xi’s Egypt visit tests Cairo’s balancing act",
+      "title": "Israel's foreign minister accuses UK of 'interference' and threatens response",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/china-xi-egypt-visit-tests-cairo-balancing-act",
-      "published_date": "2026-09-03T11:24:37+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-foreign-minister-accuses-uk-interference-and-threatens-response",
+      "published_date": "2026-09-08T14:32:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran adds more than $1bn in oil revenue to foreign reserves",
+      "title": "Oxfam calls on UK to extend settlement trade ban",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-adds-more-1bn-oil-revenue-foreign-reserves",
-      "published_date": "2026-09-03T10:53:18+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oxfam-calls-uk-extend-settlement-trade-ban",
+      "published_date": "2026-09-08T13:46:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US judge rejects bid to break up Google’s ad business",
+      "title": "Israeli journalist says Palestinians face threat of expulsion from the river to the sea",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-journalist-says-palestinians-face-threat-expulsion-river-sea",
+      "published_date": "2026-09-08T13:34:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "12 countries say they will sanction trade from Israeli settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/12-countries-say-they-will-sanction-trade-israeli-settlements",
+      "published_date": "2026-09-08T12:45:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK, France among 12 states backing sanctions on illegal Israeli settlements",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/2/us-judge-rejects-bid-to-break-up-googles-ad-business?traffic_source=rss",
-      "published_date": "2026-09-02T20:06:25+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+      "published_date": "2026-09-08T12:34:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Al-Khair Foundation strongly denies UK Lawyers for Israel allegation of Hamas links",
+      "title": "Israeli court rejects petition to halt key West Bank settlement project",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/al-khair-foundation-strongly-denies-uk-lawyers-israel-allegation-hamas-links",
-      "published_date": "2026-09-02T13:08:01+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-rejects-petition-halt-key-west-bank-settlement-project",
+      "published_date": "2026-09-08T12:16:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "5,000 US sailors descend on Thailand as USS Abraham Lincoln docks",
+      "title": "Sudan’s healthcare system on brink of collapse, MSF warns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/5000-us-sailors-descend-on-thailand-as-uss-abraham-lincoln-docks?traffic_source=rss",
-      "published_date": "2026-09-02T10:08:44+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss",
+      "published_date": "2026-09-08T12:12:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France and Canada join UK in announcing sanctions on Israeli settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/france-and-canada-follow-uk-announcing-sanctions-israeli-settlements",
+      "published_date": "2026-09-08T11:31:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces kill Palestinian man and withhold his body near Nablus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/israeli-forces-kill-palestinian-man-and-withhold-his-body-near-nablus?traffic_source=rss",
+      "published_date": "2026-09-08T11:29:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 1,360 doctors leave Israel since 2023 in healthcare brain drain",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/least-1360-doctors-leave-israel-october-2023",
+      "published_date": "2026-09-08T11:05:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK to announce trade ban on goods from illegal Israeli settlements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/uk-to-announce-trade-ban-on-goods-from-illegal-israeli-settlements?traffic_source=rss",
+      "published_date": "2026-09-08T09:31:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Board of Peace's Mladenov says Gaza, West Bank escalation makes two-state solution 'impossible'",
@@ -617,90 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-reaches-73658-israeli-attacks-continue",
       "published_date": "2026-09-07T11:27:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strikes kill seven Palestinians in Gaza in past 24 hours",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-seven-palestinians-gaza-past-24-hours",
-      "published_date": "2026-09-07T09:56:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewish settlers kill Palestinian man in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-kill-palestinian-man-occupied-west-bank",
-      "published_date": "2026-09-06T22:14:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli attacks kill and wound Palestinians in Gaza and the occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-and-wound-palestinians-gaza-and-occupied-west-bank",
-      "published_date": "2026-09-06T21:32:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
-      "published_date": "2026-09-06T17:03:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The world is finally watching Palestine. But who gets to narrate its story?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/world-watching-palestine-who-narrates-gaza",
-      "published_date": "2026-09-06T15:58:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza buries the remains of 100 Palestinians, including 62 children",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-buries-remains-100-palestinians-including-62-children",
-      "published_date": "2026-09-06T15:31:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza buries the remains of 100 Palestinians, including 62 children",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/gaza-buries-100-palestinians-recovered-rubble-including-62-children",
-      "published_date": "2026-09-06T15:22:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
-      "published_date": "2026-09-06T13:15:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians mourn loved ones in mass funeral in Gaza City",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
-      "published_date": "2026-09-06T13:13:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon president calls on US to stop Israel's 'dangerous escalation'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-calls-us-stop-israels-dangerous-escalation",
-      "published_date": "2026-09-06T12:52:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eight foreign ministers condemn Katz and Ben Gvir’s Gaza displacement plan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-foreign-ministers-condemn-katz-and-ben-gvirs-gaza-displacement",
-      "published_date": "2026-09-06T10:44:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli flags become the latest weapon of settlers in West Bank domination",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss",
-      "published_date": "2026-09-06T09:40:06+00:00",
       "category": "Local Events"
     }
   ]
