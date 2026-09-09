@@ -1,8 +1,36 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-08T14:49:55.927255+00:00",
+  "last_updated": "2026-09-09T01:07:54.343564+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US increases pressure on Iran with sanctions targeting aviation sector",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
+      "published_date": "2026-09-08T23:51:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Protesters, police clash in Albania over Trump-linked project",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss",
+      "published_date": "2026-09-08T22:05:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Head of Smithsonian museums announces he will be stepping down",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/head-of-smithsonian-museums-announces-he-will-be-stepping-down?traffic_source=rss",
+      "published_date": "2026-09-08T20:32:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'We share the goal of stability': Rubio remarks restrained as western allies sanction Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/we-share-goal-stability-rubio-withholds-disapproval-uk-move-sanction-israeli-settlements",
+      "published_date": "2026-09-08T19:01:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Video: Germany says ICJ lacks jurisdiction in Nicaragua genocide case",
       "source": "Al Jazeera",
@@ -116,32 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Reform UK's Zia Yusuf pulls up the ladder on Britain's immigrants",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/reform-uks-zia-yusuf-pulls-ladder-britains-immigrants",
-      "published_date": "2026-09-07T19:29:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
+      "title": "US attacks 5 Iranian oil tankers, Iran retaliates with strikes on Jordan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
-      "published_date": "2026-09-07T19:01:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
+      "published_date": "2026-09-09T00:08:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia shutters German consulate as diplomatic freeze deepens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
-      "published_date": "2026-09-07T18:27:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US presence in Gulf 'not enough' for security, Qatari official says",
+      "title": "Jordan says its air defences struck down 18 of 20 missiles from Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-presence-gulf-region-not-enough-security-qatari-official-says",
-      "published_date": "2026-09-07T17:43:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-says-its-air-defences-struck-down-18-20-missiles-iran",
+      "published_date": "2026-09-09T00:06:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: US hits Iranian tankers, IRGC attacks US forces in Jordan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
+      "published_date": "2026-09-09T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US bombs five Iranian oil tankers after its navy is attacked",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss",
+      "published_date": "2026-09-08T23:49:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio says Iran will lose tankers if it tries to hit US Navy ships",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-iran-will-lose-tankers-if-it-tries-hit-us-navy-ships",
+      "published_date": "2026-09-08T22:31:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military says it destroyed five Iranian oil tankers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-it-destroyed-five-iranian-oil-tankers",
+      "published_date": "2026-09-08T22:28:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thirty more US troops wounded in Iran war, Pentagon database reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/30-more-us-troops-wounded-iran-war-pentagon-database-reports",
+      "published_date": "2026-09-08T21:47:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN chief calls for Israel to withdraw from southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-calls-israel-withdraw-southern-lebanon",
+      "published_date": "2026-09-08T21:18:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US forces sink vessel ‘linked to Ecuador criminal gang’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
+      "published_date": "2026-09-08T21:06:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military underwater drone malfunctioned in Middle East, official says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-underwater-drone-malfunctioned-middle-east-official-says",
+      "published_date": "2026-09-08T20:50:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'We share the goal of stability': Rubio remarks restrained as western allies sanction Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-share-goal-stability-rubio-remarks-restrained-western-allies-sanction",
+      "published_date": "2026-09-08T20:47:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police bodycam captures Russian missile strike on Kyiv",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
+      "published_date": "2026-09-08T20:43:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US struck multiple Iranian tankers tied to IRGC, US official says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-struck-multiple-iranian-tankers-tied-irgc-us-official-says",
+      "published_date": "2026-09-08T20:40:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Second tanker attacked near Iran's Jask port",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/second-tanker-attacked-near-irans-jask-port",
+      "published_date": "2026-09-08T20:33:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC warns it will target oil tankers in Kuwait, Bahrain after US attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-it-will-target-oil-tankers-kuwait-bahrain-after-us-attack",
+      "published_date": "2026-09-08T20:30:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian media reports US attack on Iranian tanker off Kharg Island, explosions heard from Jask",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-us-attack-iranian-tanker-kharg-island-explosions",
+      "published_date": "2026-09-08T20:25:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EU urges Houthis to 'end all attacks' after strikes on Saudi oil facilities",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-urges-houthis-end-all-attacks-after-strikes-saudi",
+      "published_date": "2026-09-08T18:52:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli air raids hit southern Lebanon as Lebanese army announces deployment to all non-occupied parts",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-raids-hit-southern-lebanon-lebanese-army-announces",
+      "published_date": "2026-09-08T18:30:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemen’s reignited war fuels a new wave in child recruitment",
@@ -158,130 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israeli actions in Syria may amount to war crimes, says UN",
+      "title": "Iran's IRGC warns oil tankers off Kuwait, Bahrain 'will be targeted'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-actions-syria-may-amount-war-crimes-says-un",
-      "published_date": "2026-09-08T13:35:47+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-warns-oil-tankers-kuwait-bahrain-will-be-targeted",
+      "published_date": "2026-09-09T00:43:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Manipur musician killed in Indian capital, reviving racism concerns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/8/manipur-musician-killed-in-indian-capital-reviving-racism-concerns?traffic_source=rss",
-      "published_date": "2026-09-08T13:16:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi political analyst says ‘No prolonged war with the Houthis’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss",
-      "published_date": "2026-09-08T11:01:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How South Korea finds itself trapped in the US-Iran war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss",
-      "published_date": "2026-09-08T10:00:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas accuses Israel of attempts at 'obliterating evidence' of crimes in Gaza",
+      "title": "Iran's IRGC say they attacked US base in Jordan",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-accuses-israel-attempts-obliterating-evidence-crimes-gaza",
-      "published_date": "2026-09-08T00:35:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss",
-      "published_date": "2026-09-08T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
-      "published_date": "2026-09-07T23:50:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says ‘redirected’ 94 vessels in Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-redirected-94-vessels-strait-hormuz",
-      "published_date": "2026-09-07T22:23:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Opinion: The UAE, like the US and Israel, is normalising a permanent state of war in the Middle East",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-uae-us-and-israel-normalising-permanent-state-war-middle-east",
-      "published_date": "2026-09-07T21:18:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
-      "published_date": "2026-09-07T19:31:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's Houthis accuse Saudi Arabia of air raids, missile strikes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-accuse-saudi-arabia-air-raids-missile-strikes",
-      "published_date": "2026-09-07T19:18:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Macklemore calls for a ‘free Palestine’ during Ed Sheeran shows, prompting praise and backlash",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/macklemore-calls-free-palestine-during-ed-sheeran-shows-prompting-praise",
-      "published_date": "2026-09-07T18:45:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
-      "published_date": "2026-09-07T17:52:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss",
-      "published_date": "2026-09-07T17:31:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Macklemore calls for a ‘free Palestine’ during Ed Sheeran shows, prompting praise and backlash",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/macklemore-faces-backlash-pro-israel-groups-free-palestine-ed-sheeran",
-      "published_date": "2026-09-07T16:25:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN rights chief urges end to arms sales to Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-rights-chief-urges-halt-arms-sales-israel",
-      "published_date": "2026-09-07T15:34:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss",
-      "published_date": "2026-09-07T15:34:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany asks ICJ to dismiss Gaza genocide case brought by Nicaragua",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/germany-asks-icj-dismiss-nicaragua-genocide-case-over-arms-supplies-israel",
-      "published_date": "2026-09-07T15:33:09+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-say-they-attacked-us-base-jordan",
+      "published_date": "2026-09-08T22:58:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "UK police raid 84-year-old retired priest's home over activism",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-police-raid-84-year-old-retired-priests-home-over-activism",
-      "published_date": "2026-09-04T14:10:02+00:00",
-      "category": "Energy"
+      "title": "Marco Rubio says US seeks more economic and security ties in Latin America",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america?traffic_source=rss",
+      "published_date": "2026-09-09T00:14:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "US diesel prices hit all-time high because of Iran war",
+      "title": "South Korea says Hormuz talks with France concern contribution options, not troop deployment",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-diesel-prices-hit-all-time-high-because-iran-war",
-      "published_date": "2026-09-04T13:22:09+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-says-hormuz-talks-france-concern-contribution-options-not",
+      "published_date": "2026-09-08T21:23:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump administration sanctions all Iranian airlines in aviation crackdown",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/trump-administration-sanctions-all-iranian-airlines-aviation-crackdown",
+      "published_date": "2026-09-08T20:56:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK trade ban on illegal settlements is a recognition that dignity goes both ways",
@@ -543,25 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "'Secretive' UAE and Swiss-based firms reportedly major crude suppliers to Israel",
+      "title": "Mamdani releases records on toxic air in New York after 9/11 attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss",
+      "published_date": "2026-09-08T23:14:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What the UK ban on goods from illegal Israeli settlements really means",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss",
+      "published_date": "2026-09-08T21:35:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey urges more countries to sanction Israeli settlements",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/secretive-uae-and-swiss-based-firms-reportedly-major-crude-suppliers",
-      "published_date": "2026-09-04T11:35:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Reform UK officials step down as new funding scandal hits far-right party",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss",
-      "published_date": "2026-09-04T10:26:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Why has the Philippine peso plunged to a record low?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
-      "published_date": "2026-09-04T08:38:34+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-urges-more-countries-sanction-israeli-settlements",
+      "published_date": "2026-09-08T20:58:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "FIFA accused of ‘abusive conduct’ over women’s football calendar in Europe",
@@ -680,27 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/deep-shock-germany-reacts-far-right-seismic-win-local-election",
       "published_date": "2026-09-07T14:56:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Breaks my heart’: Yemen jab shortages spark fears for millions of children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/7/breaks-my-heart-yemen-jab-shortages-spark-fears-for-millions-of-children?traffic_source=rss",
-      "published_date": "2026-09-07T13:46:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK has still not responded to legal petition detailing colonial-era war crimes in Palestine",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-has-not-responded-legal-petition-detailing-colonial-era-war-crimes-palestine",
-      "published_date": "2026-09-07T13:29:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza death toll reaches 73,658 as Israeli attacks continue",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-reaches-73658-israeli-attacks-continue",
-      "published_date": "2026-09-07T11:27:33+00:00",
       "category": "Local Events"
     }
   ]
