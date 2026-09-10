@@ -1,8 +1,78 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-10T00:56:29.280950+00:00",
+  "last_updated": "2026-09-10T14:42:34.766403+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump promises $5,000 payouts if GOP wins midterms: Can the US afford it?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/10/trump-promises-5000-payouts-if-gop-wins-midterms-can-the-us-afford-it?traffic_source=rss",
+      "published_date": "2026-09-10T14:13:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Trump loyalty test: Will his supporters ever disagree with him?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/the-trump-loyalty-test-will-his-supporters-ever-disagree-with-him?traffic_source=rss",
+      "published_date": "2026-09-10T12:59:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algeria suspends diplomatic relations with UAE after months of tensions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/algeria-severs-diplomatic-relations-dwarf-state-uae",
+      "published_date": "2026-09-10T12:51:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algeria says cutting diplomatic ties with UAE",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/10/algeria-says-cutting-diplomatic-ties-with-uae?traffic_source=rss",
+      "published_date": "2026-09-10T12:26:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK settlement trade ban offers a lifeline to Palestine, and to an Israel on the brink",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/uk-settlement-trade-ban-offers-lifeline-palestine-and-israel-on-brink",
+      "published_date": "2026-09-10T12:22:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's government opposes parliamentary bill to expand definition of 'enemy infiltration'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-government-opposes-parliamentary-bill-expand-definition-enemy",
+      "published_date": "2026-09-10T11:43:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Settlement trade ban: Burnham succeeds in weeks where Starmer failed for years",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/settlement-trade-ban-burnham-succeeds-weeks-where-starmer-failed-years",
+      "published_date": "2026-09-10T08:03:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan, Turkey back Arab endorsement of UK's settlement sanctions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-turkey-back-arab-endorsement-uks-settlement-sanctions",
+      "published_date": "2026-09-10T07:01:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s UN envoy calls new aviation sanctions ‘economic terrorism’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-un-envoy-calls-new-aviation-sanctions-economic-terrorism",
+      "published_date": "2026-09-10T05:45:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Democrats 'overwhelmingly' opposed to current Israeli regime, California governor says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/democratic-party-overwhelmingly-opposed-current-israeli-regime-california-governor-says",
+      "published_date": "2026-09-10T05:40:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "OIC condemns Nauru's decision to open embassy in Jerusalem",
       "source": "Middle East Eye",
@@ -74,74 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’",
+      "title": "The Houthis are testing the limits of Saudi restraint",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
-      "published_date": "2026-09-09T20:23:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss",
+      "published_date": "2026-09-10T11:17:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rubio vows to ‘strangle’ Iran economically",
+      "title": "How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach?traffic_source=rss",
+      "published_date": "2026-09-10T10:38:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone video shows aftermath of deadly ferry fire off the Philippines",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drone-video-shows-aftermath-of-deadly-ferry-fire-off-the-philippines?traffic_source=rss",
+      "published_date": "2026-09-10T10:28:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian press review: Cheers erupt as US warships come under fire",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-vows-strangle-iran-economically",
-      "published_date": "2026-09-09T20:07:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/iranian-press-review-cheers-erupt-us-warships-come-under-fire",
+      "published_date": "2026-09-10T10:20:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
+      "title": "Russia’s new shelling tactics deepen suffering in Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss",
-      "published_date": "2026-09-09T20:05:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/10/russias-new-shelling-tactics-deepen-suffering-in-ukraine?traffic_source=rss",
+      "published_date": "2026-09-10T10:19:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says IAEA resolution 'will not bring any results'",
+      "title": "Ali al-Taher: What Israel’s 'operational control' of the hill really means for Hezbollah and Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-iaea-resolution-will-not-bring-any-results",
-      "published_date": "2026-09-09T18:29:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/ali-al-taher-what-israels-operational-control-really-means-hezbollah-and-lebanon",
+      "published_date": "2026-09-10T08:09:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "How has Israel hit back against sanctions by the UK, others?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
-      "published_date": "2026-09-09T12:17:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Photos: Large Oslo crowd bids farewell to Norway’s King Harald V",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/9/9/photos-large-oslo-crowd-bids-farewell-to-norways-king-harald-v?traffic_source=rss",
-      "published_date": "2026-09-09T11:59:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Republican midterm convention 2026: What to know about Trump’s Dallas event",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/republican-midterm-convention-2026-what-to-know-about-trumps-dallas-event?traffic_source=rss",
-      "published_date": "2026-09-09T11:48:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of fuelling diplomatic isolation after UK sanctions",
+      "title": "Morning update",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-accuses-netanyahu-fuelling-diplomatic-isolation-after",
-      "published_date": "2026-09-09T11:19:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-621",
+      "published_date": "2026-09-10T06:36:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "European states clarify position on trade with Israeli settlements",
+      "title": "Israeli artillery shells southern Lebanon areas, set fire to homes",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/european-states-clarify-position-trade-israeli-settlements",
-      "published_date": "2026-09-09T10:54:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-artillery-shells-southern-lebanon-areas-set-fire-homes",
+      "published_date": "2026-09-10T06:20:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
-      "published_date": "2026-09-09T10:09:06+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli forces kill four in north Gaza, detain 15 in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-four-north-gaza-detain-15-west-bank",
+      "published_date": "2026-09-10T05:53:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump advisers warn Iran conflict could stretch through his term, WSJ reports",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Syria condemns Netanyahu's 'illegal' entry into its territory",
+      "title": "Iran suspends freight charge on foreign vessels carrying energy products to or from Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-condemns-netanyahus-illegal-entry-its-territory",
-      "published_date": "2026-09-09T18:57:19+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-suspends-freight-charge-foreign-vessels-carrying-energy-products-or",
+      "published_date": "2026-09-10T11:06:31+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Hutu and Tutsi: The history behind the divide",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/hutu-and-tutsi-the-history-behind-the-divide?traffic_source=rss",
-      "published_date": "2026-09-09T14:22:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Qatar and Pakistan carry Trump’s message to Iran: He won't return to the MoU",
+      "title": "In Syria's Daraa, water is life - and today the land is parched",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-and-pakistan-carry-trumps-message-iran-he-wont-return-mou",
-      "published_date": "2026-09-09T13:12:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
-      "published_date": "2026-09-09T13:02:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone attack kills one person in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-attack-kills-one-person-southern-lebanon",
-      "published_date": "2026-09-09T12:18:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Elyanna faces backlash over prison visuals in ‘BOSA’ music video",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/elyanna-faces-backlash-over-prison-imagery-bosa-music-video",
-      "published_date": "2026-09-09T12:10:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Dozens protest potential Strait of Hormuz deployment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-dozens-protest-potential-strait-of-hormuz-deployment?traffic_source=rss",
-      "published_date": "2026-09-09T11:52:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "9/11 at 25: Trump finds new targets for America's endless war on terror",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/9-11-quarter-century-war-terror-trump",
-      "published_date": "2026-09-09T11:44:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Koreans protest over possible plan to send forces to back US in Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/south-koreans-protest-over-plan-send-forces-back-us-hormuz",
-      "published_date": "2026-09-09T11:12:20+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/syria-daraa-water-life-and-today-land-parched",
+      "published_date": "2026-09-10T07:30:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi-led coalition in Yemen says Houthis attacked three Saudi Arabian cities",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "US says it hit three Iranian oil tankers after attacks on warships",
+      "title": "Israeli checkpoints in the West Bank are choking the Palestinian economy",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-      "published_date": "2026-09-05T15:49:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Gaza’s destroyed sewage system linked to ‘rare’ algae bloom shutting Israeli desalination plants",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gazas-destroyed-sewage-system-linked-rare-algae-bloom-shutting-israeli",
-      "published_date": "2026-09-05T15:44:42+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/economy/2026/9/10/israeli-checkpoints-in-the-west-bank-are-choking-the-palestinian-economy?traffic_source=rss",
+      "published_date": "2026-09-10T09:48:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iraqi graduates protest for govt jobs amid unemployment crisis",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "To sustain global influence, Gulf economies recalibrate foreign investments as war drains revenues",
+      "title": "London university lifts suspension of pro-Palestine student Usama Ghanem",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/gulf-countries-recalibrate-foreign-investments-sustain-global-influence",
-      "published_date": "2026-09-05T09:37:33+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/kings-college-london-lifts-suspension-pro-palestine-student-usama-ghanem",
+      "published_date": "2026-09-10T14:40:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of thousands lack adequate shelter at Sudan’s Tawila camp",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/10/hundreds-of-thousands-lack-adequate-shelter-at-sudans-tawila-camp?traffic_source=rss",
+      "published_date": "2026-09-10T12:47:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Igor Tulchinsky: Sponsor of British Museum Bayeux Tapestry exhibition funded community centre in West Bank settlement",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/igor-tulchinsky-sponsor-british-museum-bayeux-tapestry-exhibition-funded-community-centre-west-bank-settlement",
+      "published_date": "2026-09-10T12:25:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I was 18 when they sent me to Guantanamo. The system that allowed it never went away",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/big-story/guantanamo-bay-i-was-18-when-they-sent-me-there-system-allowed-it-never-went-away",
+      "published_date": "2026-09-10T11:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Kahanist’ figure poised to enter Israeli parliament on Ben Gvir’s party list",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/kahanist-figure-poised-enter-israeli-parliament-ben-gvirs-party-list",
+      "published_date": "2026-09-10T10:06:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family of four killed in Israeli strike in northern Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/family-four-killed-israeli-strike-northern-gaza",
+      "published_date": "2026-09-10T08:52:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli helicopters open fire near Gaza camp, forces raid West Bank town",
@@ -659,48 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss",
       "published_date": "2026-09-08T14:44:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's foreign minister accuses UK of 'interference' and threatens response",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-foreign-minister-accuses-uk-interference-and-threatens-response",
-      "published_date": "2026-09-08T14:32:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oxfam calls on UK to extend settlement trade ban",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oxfam-calls-uk-extend-settlement-trade-ban",
-      "published_date": "2026-09-08T13:46:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli journalist says Palestinians face threat of expulsion from the river to the sea",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-journalist-says-palestinians-face-threat-expulsion-river-sea",
-      "published_date": "2026-09-08T13:34:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "12 countries say they will sanction trade from Israeli settlements",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/12-countries-say-they-will-sanction-trade-israeli-settlements",
-      "published_date": "2026-09-08T12:45:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK, France among 12 states backing sanctions on illegal Israeli settlements",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
-      "published_date": "2026-09-08T12:34:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli court rejects petition to halt key West Bank settlement project",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-rejects-petition-halt-key-west-bank-settlement-project",
-      "published_date": "2026-09-08T12:16:02+00:00",
       "category": "Local Events"
     }
   ]
