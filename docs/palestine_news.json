@@ -1,8 +1,57 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-14T00:51:42.045638+00:00",
+  "last_updated": "2026-09-14T16:43:20.047136+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump says he will decide if US will work towards deal with Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-will-decide-if-us-will-work-towards-deal-iran",
+      "published_date": "2026-09-14T16:13:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French TV censors actress Adele Haenel after she condemns Israel’s genocide in Palestine",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-tv-censors-actress-adele-haenel-after-she-condemns-israels",
+      "published_date": "2026-09-14T16:10:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries?traffic_source=rss",
+      "published_date": "2026-09-14T14:04:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Austria says ‘lack of consensus’ at UN led to ban on Iran nuclear chief",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/austria-says-lack-consensus-un-led-ban-iran-nuclear-chief",
+      "published_date": "2026-09-14T13:58:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Analysis: How Algeria came to treat the UAE as a national security threat",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/analysis-how-algeria-came-treat-uae-national-security-threat",
+      "published_date": "2026-09-14T12:54:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US opposes Iran nuclear chief attending IAEA conference",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-opposes-iran-nuclear-chief-attending-iaea-conference",
+      "published_date": "2026-09-14T12:41:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss",
+      "published_date": "2026-09-14T11:50:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Turkish foreign minister says Israel 'biggest obstacle' to Syria's development",
       "source": "Middle East Eye",
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Palestine welcomes Brics declaration calling for two-state solution",
+      "title": "What would Houthi control of Bab al-Mandeb mean for the region?",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestine-welcomes-brics-declaration-calling-two-state-solution",
-      "published_date": "2026-09-13T06:18:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/opinion/what-would-houthi-control-bab-al-mandeb-mean-region",
+      "published_date": "2026-09-14T15:42:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Araghchi, Iraqi foreign minister stress security along shared borders",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-iraqi-foreign-minister-stress-security-along-shared-borders",
-      "published_date": "2026-09-12T23:39:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says Houthis asked US not to intervene in Yemen",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-houthis-asked-us-not-intervene-yemen",
-      "published_date": "2026-09-12T21:09:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US court blocks Trump administration plan to cut disaster agency workforce",
+      "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss",
-      "published_date": "2026-09-12T19:49:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/economy/2026/9/14/fiscal-pressure-from-iran-war-clouds-gulf-states-us-spending-plans?traffic_source=rss",
+      "published_date": "2026-09-14T14:34:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Selling the war: Purges, polygraphs and propaganda",
+      "title": "French TV censors actress Adele Haenel after she condemns Israel’s genocide in Palestine",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/french-tv-censors-actress-adele-haenel-after-she-condemns-israels-genocide-palestine",
+      "published_date": "2026-09-14T14:32:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why the Mecca defence pact hasn’t triggered action against the Houthis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/why-mecca-defence-pact-hasnt-triggered-military-action-against-houthis",
+      "published_date": "2026-09-14T14:26:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Silent Cold War’: Why calls to slow AI have sparked new US–China frontier",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss",
-      "published_date": "2026-09-12T17:31:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/14/silent-cold-war-why-calls-to-slow-ai-have-sparked-new-us-china?traffic_source=rss",
+      "published_date": "2026-09-14T14:23:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK expresses ‘solidarity’ with Saudi Arabia over Houthi attacks",
+      "title": "Can fractured pro-government forces stop the Houthi advance in Yemen?",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-expresses-solidarity-saudi-arabia-over-houthi-attacks",
-      "published_date": "2026-09-12T17:04:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/can-fractured-pro-government-forces-stop-houthi-advance-yemen",
+      "published_date": "2026-09-14T12:17:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "At least 76,000 have fled fighting in Yemen since July, UN says",
+      "title": "Yemen fighting kills 504 and displaces nearly 78,000 in one week",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-76000-flee-fighting-yemen-july-un-says",
-      "published_date": "2026-09-12T15:36:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-fighting-kills-504-and-displaces-nearly-78000-one-week",
+      "published_date": "2026-09-14T11:45:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu's 'eighth front': Israel's billion-dollar war on the truth is failing",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/netanyahu-eighth-front-israel-war-truth-failing",
+      "published_date": "2026-09-14T11:02:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least one dead, 25 missing after boat carrying migrants sinks off Greece",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss",
+      "published_date": "2026-09-14T09:40:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
@@ -221,67 +284,60 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia sends alert warning of potential attacks in regions near Yemen border",
+      "title": "Saudi East-West oil pipeline may take up to five weeks to repair, officials say",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-sends-afpo-alert-warning-potential-attacks-regions-near-yemen",
-      "published_date": "2026-09-13T15:49:38+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-east-west-oil-pipeline-may-take-five-weeks-repair-officials-say",
+      "published_date": "2026-09-14T14:33:43+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Tucker Carlson says Israel sought regional hegemony by weakening Gulf states through Iran war",
+      "title": "Satellite images show Saudi pumping station damage southeast of Medina",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/tucker-carlson-says-israel-sought-regional-hegemony-weakening-gulf-states-through-iran-war",
-      "published_date": "2026-09-13T13:32:13+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/satellite-images-show-saudi-pumping-station-damage-southeast-medina",
+      "published_date": "2026-09-14T13:21:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+      "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
-      "published_date": "2026-09-13T13:05:40+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss",
+      "published_date": "2026-09-14T13:15:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Saudi Arabian pipeline outage threatens global oil supply",
+      "title": "Syria protests spread as fuel prices rise by up to 40 percent",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabian-pipeline-outage-threatens-global-oil-supply",
-      "published_date": "2026-09-13T12:14:32+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/syria-protests-spread-fuel-prices-rise-40-percent",
+      "published_date": "2026-09-14T12:50:30+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli forces shelling Ali al-Taher forest on outskirts of Lebanon’s Nabatieh",
+      "title": "Why the Houthi advance towards Yemen’s Marib, Taiz matters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss",
+      "published_date": "2026-09-14T12:09:02+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Brent crude surges above $108 as Israeli-US war on Iran shows no sign of ending",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-shelling-ali-al-taher-forest-outskirts-lebanons-nabatieh",
-      "published_date": "2026-09-13T11:58:48+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/brent-crude-surges-above-108-israeli-us-war-iran-shows-no-sign-ending",
+      "published_date": "2026-09-14T11:23:23+00:00",
+      "category": "Energy"
     },
     {
-      "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
+      "title": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
-      "published_date": "2026-09-13T11:45:24+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100?traffic_source=rss",
+      "published_date": "2026-09-14T11:06:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Philippines set for historic vote in Bangsamoro after decades of conflict",
+      "title": "Ammonia gas leak in Jordan’s Aqaba industrial area injures 11 people",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss",
-      "published_date": "2026-09-13T11:35:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-      "published_date": "2026-09-13T10:47:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi missiles target military base in Saudi Arabia as Iraq probes drone attack on oil pipeline",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-missiles-target-military-base-saudi-arabia-iraq-probes-drone",
-      "published_date": "2026-09-13T10:28:42+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/14/ammonia-gas-leak-in-jordans-aqaba-industrial-area-injures-11-people?traffic_source=rss",
+      "published_date": "2026-09-14T10:46:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil prices rise sharply as Middle East escalation risks disruption to supplies",
@@ -365,62 +421,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/syria-daraa-water-life-and-today-land-parched",
       "published_date": "2026-09-10T07:30:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi-led coalition in Yemen says Houthis attacked three Saudi Arabian cities",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-yemen-says-houthis-attacked-three-saudi-arabian",
-      "published_date": "2026-09-09T18:33:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Torrential rains, winds from Hurricane Lowell leaves 30,000 without power",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss",
-      "published_date": "2026-09-09T14:42:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iraq says fuel oil vessel struck in its territorial waters",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-says-fuel-oil-vessel-struck-its-territorial-waters",
-      "published_date": "2026-09-09T13:55:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "European gas prices reach highest level since 2022",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/european-gas-prices-reach-highest-level-2022",
-      "published_date": "2026-09-09T09:17:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran's IRGC warns oil tankers off Kuwait, Bahrain 'will be targeted'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-warns-oil-tankers-kuwait-bahrain-will-be-targeted",
-      "published_date": "2026-09-09T00:43:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran's IRGC say they attacked US base in Jordan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-say-they-attacked-us-base-jordan",
-      "published_date": "2026-09-08T22:58:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
-      "published_date": "2026-09-08T11:40:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘Limit overshoot, peak, decline’: A new global goal for climate change?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss",
-      "published_date": "2026-09-08T10:58:21+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,62 @@
       "category": "Economy"
     },
     {
+      "title": "North Korea thrash Bangladesh 10-0 in Asian Games women’s football",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/14/north-korea-thrash-bangladesh-10-0-in-asian-games-womens-football?traffic_source=rss",
+      "published_date": "2026-09-14T16:05:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senior Sunni cleric shot dead by unidentified gunmen in southeast Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/senior-sunni-cleric-shot-dead-unidentified-gunmen-southeast-iran",
+      "published_date": "2026-09-14T15:16:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Going to school under Israeli occupation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/going-to-school-under-israeli-occupation?traffic_source=rss",
+      "published_date": "2026-09-14T15:15:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli quadcopters killed at least 60 Palestinians since Gaza ceasefire, rights group says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-quadcopters-killed-least-60-palestinians-gaza-ceasefire-rights",
+      "published_date": "2026-09-14T15:02:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How can the Islamic world challenge Western narratives about it?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/centre-stage/2026/9/14/how-can-the-islamic-world-challenge-western-narratives-about-it?traffic_source=rss",
+      "published_date": "2026-09-14T14:10:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss",
+      "published_date": "2026-09-14T12:58:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Activists occupy British Museum over Tulchinsky’s links to Israeli settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/activists-occupy-british-museum-over-tulchinskys-links-israeli",
+      "published_date": "2026-09-14T12:11:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli attack wounds 10 Palestinians at Gaza City displacement camp",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-wounds-10-palestinians-gaza-city-displacement-camp",
+      "published_date": "2026-09-14T10:26:29+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Israeli quadcopter terrorises homes in Gaza City",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
@@ -645,62 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-storm-al-aqsa-mosque-under-police-protection-3",
       "published_date": "2026-09-13T10:20:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Several Palestinians detained, two injured during raids by Israeli forces, settlers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-detained-two-injured-during-raids-israeli-forces",
-      "published_date": "2026-09-13T06:45:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
-      "published_date": "2026-09-12T23:14:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands march across Germany to protest far-right party AfD",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
-      "published_date": "2026-09-12T22:37:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli air strike kills Palestinian in southern Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-kills-palestinian-southern-gaza",
-      "published_date": "2026-09-12T22:13:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "USA edge Spain to book Women’s Basketball World Cup final against France",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss",
-      "published_date": "2026-09-12T22:10:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss",
-      "published_date": "2026-09-12T17:18:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where do Muslim youths fit in India's 'Cockroach' protests?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/where-do-muslim-youths-fit-indias-cockroach-protests",
-      "published_date": "2026-09-12T13:16:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK charity faces regulatory warning after Israeli settlement property protest",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uks-charity-commission-issues-regulatory-advice-board-deputies-following-icjp-complaint",
-      "published_date": "2026-09-12T05:01:32+00:00",
       "category": "Local Events"
     }
   ]
