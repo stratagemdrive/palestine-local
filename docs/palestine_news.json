@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-13T14:44:34.318574+00:00",
+  "last_updated": "2026-09-14T00:51:42.045638+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Turkish foreign minister says Israel 'biggest obstacle' to Syria's development",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-foreign-minister-says-israel-biggest-obstacle-syrias-development",
+      "published_date": "2026-09-14T00:24:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
+      "published_date": "2026-09-13T23:31:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
+      "published_date": "2026-09-13T20:33:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US will scrap Irish whisky tariff, Trump says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/13/trump-says-he-plans-to-remove-a-15-tariff-on-irish-whisky?traffic_source=rss",
+      "published_date": "2026-09-13T20:29:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oman meeting between Gulf states and Iran postponed, Omani foreign minister says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-meeting-between-gulf-states-and-iran-postponed-omani-foreign",
+      "published_date": "2026-09-13T19:52:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel and Lebanon to meet in Rome in October, US State Department official says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-and-lebanon-meet-rome-october-us-state-department-official-says",
+      "published_date": "2026-09-13T17:50:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU foreign policy chief says Israeli settlements should be treated like Russian-occupied Crimea",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-foreign-policy-chief-says-israeli-settlements-should-be-treated",
+      "published_date": "2026-09-13T16:43:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump reiterates that he sees Iran war ending after US midterm elections",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-reiterates-he-sees-iran-war-ending-after-us-midterm-elections",
+      "published_date": "2026-09-13T15:17:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
       "source": "Al Jazeera",
@@ -88,60 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Xi says China ready to help bring peace and stability to Middle East",
+      "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
+      "published_date": "2026-09-14T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US used Israel's 'global isolation' caused by Doha strike to push Gaza deal, Kushner says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/xi-says-china-ready-help-bring-peace-and-stability-middle-east",
-      "published_date": "2026-09-12T13:14:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-used-israels-global-isolation-caused-doha-strike-push-gaza-deal",
+      "published_date": "2026-09-13T23:37:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Brics backs Gaza ceasefire, calls for two-state solution for Palestine",
+      "title": "Israeli forces make incursions into several Syrian areas",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/brics-backs-gaza-ceasefire-calls-peaceful-dispute-resolution-palestine",
-      "published_date": "2026-09-12T12:55:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-make-incursions-several-syrian-areas",
+      "published_date": "2026-09-13T23:11:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "India’s Modi calls for empowerment of Global South at BRICS Summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss",
-      "published_date": "2026-09-12T12:19:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
-      "published_date": "2026-09-12T12:10:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel-Lebanon talks postponed as explosions rock southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/israel-lebanon-talks-postponed-as-explosions-rock-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-09-12T11:04:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Exclusive: UAE pursuing 'port imperialism' across Africa, Eritrean foreign minister says",
+      "title": "Israeli minister threatens to strip Gaza film directors of citizenship",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa",
-      "published_date": "2026-09-12T08:27:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-minister-threatens-strip-gaza-film-directors-citizenship",
+      "published_date": "2026-09-13T22:42:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump may be BRICS’s best recruitment agent",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
-      "published_date": "2026-09-12T07:44:06+00:00",
-      "category": "Diplomacy"
+      "title": "Yemeni forces say they recaptured positions from Houthis in Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-say-they-recaptured-positions-houthis-taiz",
+      "published_date": "2026-09-13T22:11:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "BRICS nations urge ‘restraint’ in Middle East, smooth flow of global trade",
+      "title": "Houthis say Saudi Arabia launched over 50 strikes against them in 24 hours",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-arabia-launched-over-50-strikes-against-them-24-hours",
+      "published_date": "2026-09-13T21:26:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nearly 86,000 people flee fighting in Yemen, UN says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/nearly-86000-people-flee-fighting-yemen-un-says",
+      "published_date": "2026-09-13T21:03:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can a warming Arctic become an important commercial highway?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
-      "published_date": "2026-09-12T07:40:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/13/can-a-warming-arctic-become-an-important-commercial-highway?traffic_source=rss",
+      "published_date": "2026-09-13T20:44:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Guyana’s oil boom and challenges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges?traffic_source=rss",
+      "published_date": "2026-09-13T19:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss",
+      "published_date": "2026-09-13T19:41:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s military launches air raids on Houthi vehicles in Dhu Bab, Mocha",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-military-launches-air-raids-houthi-vehicles-dhu-bab-mocha",
+      "published_date": "2026-09-13T19:01:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia sends alert warning of potential attacks in regions near Yemen border",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-sends-afpo-alert-warning-potential-attacks-regions-near-yemen",
+      "published_date": "2026-09-13T15:49:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Tucker Carlson says Israel sought regional hegemony by weakening Gulf states through Iran war",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Houthi missiles target military base in Saudi Arabia as Iraq probes drone attack on oil pipeline",
+      "title": "Oil prices rise sharply as Middle East escalation risks disruption to supplies",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/houthis-target-saudi-base-iraq-probes-drone-attack-oil-pipeline",
-      "published_date": "2026-09-13T10:23:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills two Palestinians in Gaza City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-two-palestinians-gaza-city",
-      "published_date": "2026-09-13T09:38:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel launches new air attacks on southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-new-air-attacks-lebanons-nabatieh",
-      "published_date": "2026-09-13T09:33:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Niger military government reshuffles army command weeks after deadly mutiny",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
-      "published_date": "2026-09-13T08:54:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen government forces say they shot down five Houthi drones",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-government-forces-say-they-shot-down-five-houthi-drones",
-      "published_date": "2026-09-13T08:28:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
-      "published_date": "2026-09-13T08:13:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning recap",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-162",
-      "published_date": "2026-09-13T06:58:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Attack on Iranian vessel kills one, wounds three",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-iranian-vessel-kills-one-wounds-three",
-      "published_date": "2026-09-13T05:43:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Houthis have their own issues': Pezeshkian says Iran not at war with Saudi Arabia",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-have-their-own-issues-pezeshkian-says-iran-not-war-saudi-arabia",
-      "published_date": "2026-09-13T05:18:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NAZA director: Palestinian journalists have documented Gaza truth from day one",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/naza-director-palestinian-journalists-have-document-gaza-truth-first-day",
-      "published_date": "2026-09-13T00:30:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
-      "published_date": "2026-09-13T00:24:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Centcom says US forces redirected 100 ships during ongoing blockade",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-us-forces-redirected-100-ships-during-ongoing-blockade",
-      "published_date": "2026-09-13T00:02:42+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-rise-sharply-middle-east-escalation-risks-disruption-supplies",
+      "published_date": "2026-09-14T00:12:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "Many Gaza hospital generators no longer working amid fuel shortage",
@@ -414,13 +421,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss",
       "published_date": "2026-09-08T10:58:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-09-07T21:17:12+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,69 @@
       "category": "Economy"
     },
     {
+      "title": "Israeli quadcopter terrorises homes in Gaza City",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
+      "published_date": "2026-09-13T23:33:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A third person has died of measles in the US, health officials say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
+      "published_date": "2026-09-13T21:21:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly 86,000 people flee fighting in Yemen, UN says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-86000-people-flee-fighting-yemen-un-says",
+      "published_date": "2026-09-13T21:20:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss",
+      "published_date": "2026-09-13T21:12:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
+      "published_date": "2026-09-13T20:46:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India win Women’s Asia Cup but do not accept trophy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/13/india-win-womens-asia-cup-but-do-not-accept-trophy?traffic_source=rss",
+      "published_date": "2026-09-13T20:41:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers injure two Palestinians in attack east of Salfit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-two-palestinians-attack-east-salfit",
+      "published_date": "2026-09-13T18:52:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces detain foreign activist at Al-Mughayyir checkpoint",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-foreign-activist-al-mughayyir-checkpoint",
+      "published_date": "2026-09-13T17:21:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EU foreign policy chief says Israeli settlements should be treated like Russian-occupied Crimea",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/eu-foreign-policy-chief-says-israeli-settlements-should-be-treated-russian-occupied-crimea",
+      "published_date": "2026-09-13T15:33:25+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
@@ -638,69 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/uks-charity-commission-issues-regulatory-advice-board-deputies-following-icjp-complaint",
       "published_date": "2026-09-12T05:01:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Settlers attempting to target West Bank farm open fire on Palestinians",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-attempting-target-west-bank-farm-open-fire-palestinians-wafa",
-      "published_date": "2026-09-12T02:30:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss",
-      "published_date": "2026-09-12T00:36:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss",
-      "published_date": "2026-09-11T21:53:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss",
-      "published_date": "2026-09-11T21:28:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss",
-      "published_date": "2026-09-11T12:30:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exclusive: UK sanctions on Israeli settlements to include those in Syria's Golan Heights",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-sanctions-israeli-settlements-include-those-syrias-golan-heights",
-      "published_date": "2026-09-11T12:16:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Britain's settlement trade ban is cosmetic. For it to work, it must sanction Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/milibands-settlement-trade-ban-cosmetic-work-must-sanction-israel",
-      "published_date": "2026-09-11T10:59:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family members wait after deadly Philippines ferry fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss",
-      "published_date": "2026-09-11T10:29:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egyptian detainees issue call for government to apply new caps to pretrial detention",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/egyptian-detainees-issue-call-government-apply-new-caps-pretrial-detention",
-      "published_date": "2026-09-11T09:47:01+00:00",
       "category": "Local Events"
     }
   ]
