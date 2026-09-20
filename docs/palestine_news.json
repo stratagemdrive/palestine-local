@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-19T14:03:48.281179+00:00",
-  "story_count": 97,
+  "last_updated": "2026-09-20T00:53:15.433640+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Turkish foreign minister says new proposals sent to US, Iran to end war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-foreign-minister-says-new-proposals-sent-us-iran-end-war",
+      "published_date": "2026-09-19T23:33:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hamas says it’s in contact with mediators over escalated Israeli killings in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-its-contact-mediators-over-escalated-israeli-killings-gaza",
+      "published_date": "2026-09-19T21:36:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
+      "published_date": "2026-09-19T20:03:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
+      "published_date": "2026-09-19T19:50:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
+      "published_date": "2026-09-19T18:32:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
+      "published_date": "2026-09-19T16:21:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU presses Washington to reverse visa ban on Palestinian UN delegation",
       "source": "Middle East Eye",
@@ -102,186 +144,151 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump signs Lindsey Graham Act extending Iran sanctions to 2031",
+      "title": "Former Syrian general who led attacks on rebels during civil war arrested",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-signs-lindsey-graham-act-extending-iran-sanctions-2031",
-      "published_date": "2026-09-19T00:17:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/former-syrian-general-who-led-attacks-rebels-during-civil-war-arrested",
+      "published_date": "2026-09-20T00:09:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+      "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
-      "published_date": "2026-09-19T00:00:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+      "published_date": "2026-09-20T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Denmark deal gives US security ‘control’ over Greenland",
+      "title": "'Middle East situation could escalate rapidly': US urges citizens to exercise caution",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/middle-east-situation-could-escalate-rapidly-us-urges-citizens-exercise",
+      "published_date": "2026-09-19T23:23:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "No US message expected during Pakistani minister’s visit, Tehran says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-us-message-expected-during-pakistani-ministers-visit-tehran-says",
+      "published_date": "2026-09-19T22:53:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE dodges question on pre-October 7 warning to Netanyahu",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-dodges-question-pre-october-7-warning-netanyahu",
+      "published_date": "2026-09-19T22:05:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss",
-      "published_date": "2026-09-18T23:56:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+      "published_date": "2026-09-19T22:03:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
+      "title": "Iran disputes US oil claim, approves new rule on Hormuz data cables",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-disputes-us-oil-claim-approves-new-rule-hormuz-data-cables",
+      "published_date": "2026-09-19T21:27:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi missiles on Riyadh and other cities intercepted, Saudi coalition says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-missiles-riyadh-and-other-cities-intercepted-saudi-coalition-says",
+      "published_date": "2026-09-19T20:52:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss",
-      "published_date": "2026-09-18T22:01:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
+      "published_date": "2026-09-19T20:40:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Seoul reaffirms to US its intent to contribute to restoring Strait of Hormuz free passage",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seoul-reaffirms-us-its-intent-contribute-restoring-strait-hormuz-free",
-      "published_date": "2026-09-18T21:51:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN chief 'deeply regrets' US visa refused to Abbas for annual meeting",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-deeply-regrets-us-visa-refused-abbas-annual-meeting",
-      "published_date": "2026-09-18T20:48:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+      "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
-      "published_date": "2026-09-19T12:59:31+00:00",
+      "url": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+      "published_date": "2026-09-19T20:30:01+00:00",
       "category": "Military"
     },
     {
-      "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
+      "title": "Houthis claim strikes on Riyadh, Yanbu while Saudi coalition says attacks thwarted",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/houthis-claim-strikes-riyadh-yanbu-while-saudi-coalition-says-attacks-thwarted",
+      "published_date": "2026-09-19T20:28:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
-      "published_date": "2026-09-19T12:51:43+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+      "published_date": "2026-09-19T20:13:56+00:00",
       "category": "Military"
     },
     {
-      "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
+      "title": "Turkey says it will look into Saudi military needs as part of defence pact",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-it-will-look-saudi-military-needs-part-defence-pact",
+      "published_date": "2026-09-19T18:46:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes hit multiple areas in South Lebanon, destroy house",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-hit-multiple-areas-south-lebanon-destroy-house",
+      "published_date": "2026-09-19T18:21:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli president pardons soldier who killed wounded Palestinian in 2016 West Bank shooting",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-president-pardons-soldier-who-killed-wounded-palestinian-2016",
+      "published_date": "2026-09-19T18:09:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel targets paramedics in southern Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss",
-      "published_date": "2026-09-19T12:21:01+00:00",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-09-19T18:06:52+00:00",
       "category": "Military"
     },
     {
-      "title": "In Gaza, actors perform a war they are still living",
+      "title": "Houthis claim attacks on Riyadh, Aramco facilities in Yanbu",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-riyadh-aramco-facilities-yanbu",
+      "published_date": "2026-09-19T17:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's oil revenue hits two-year high despite US blockade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-oil-revenue-hits-two-year-high-despite-us-blockade",
+      "published_date": "2026-09-19T17:13:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni army says it stopped Houthi attack, killing 12",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-says-it-stopped-houthi-attack-killing-12",
+      "published_date": "2026-09-19T16:43:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says it conveyed conditions to re-engage in talks, end war with US",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-conveyed-conditions-re-engage-talks-end-war-us",
+      "published_date": "2026-09-19T15:53:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cuba works to restore power after another major nationwide blackout",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
-      "published_date": "2026-09-19T12:18:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel seeks US weapons 'compensation' after Saudi F-35 deal",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-seeks-us-weapons-compensation-after-saudi-f-35-deal",
-      "published_date": "2026-09-19T11:24:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss",
-      "published_date": "2026-09-19T10:42:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "If you're just tuning in",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/if-youre-just-tuning",
-      "published_date": "2026-09-19T10:03:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza's children with Down syndrome struggle to rebuild skills lost to genocide",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/gazas-children-down-syndrome-struggle-rebuild-skills-lost-genocide",
-      "published_date": "2026-09-19T08:23:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran executes man accused of spying for Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-man-accused-spying-israel-0",
-      "published_date": "2026-09-19T06:47:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning recap",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-164",
-      "published_date": "2026-09-19T06:37:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll from Pakistan police headquarters attack rises to 31",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-pakistan-police-headquarters-attack-rises-31",
-      "published_date": "2026-09-19T05:02:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces carry out demolitions in Lebanon, set fire to hospital",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-carry-out-demolitions-lebanon-set-fire-hospital",
-      "published_date": "2026-09-19T04:37:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former Palestinian minister to reveal message Sinwar wanted Israel to hear",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/former-palestine-authority-minister-reveal-message-he-conveyed-sinwar",
-      "published_date": "2026-09-19T03:29:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Explosions heard in Riyadh' as authorities issue and withdraw alert",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-riyadh-authorities-issue-and-withdraw-alert",
-      "published_date": "2026-09-19T01:01:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'People don't want Iran to have nuclear weapon': Trump defends higher oil prices",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/people-dont-want-iran-have-nuclear-weapon-trump-defends-higher-oil",
-      "published_date": "2026-09-19T00:51:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mural of Macklemore wrapped in Palestinian flag painted on Gaza ruins",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mural-macklemore-wrapped-palestinian-flag-painted-gaza-ruins",
-      "published_date": "2026-09-18T23:23:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss",
-      "published_date": "2026-09-18T23:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US defence secretary calls Washington Post report on US troop deaths a ‘lie’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-defence-secretary-calls-washington-post-report-us-troop-deaths-lie",
-      "published_date": "2026-09-18T22:28:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
-      "published_date": "2026-09-18T21:06:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK court clears woman of voicing support for Hamas in university speech",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
-      "published_date": "2026-09-18T20:55:57+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss",
+      "published_date": "2026-09-19T17:59:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "Africa’s Green Revolution threatens traditional foods",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Benchmark US government bond yield hits 19-year peak as oil prices surge",
+      "title": "Canadians warm to EU ‘associate membership’ proposal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge?traffic_source=rss",
-      "published_date": "2026-09-15T11:36:51+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
+      "published_date": "2026-09-19T19:53:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "Forbes: Ed Sheeran ticket prices halved after Macklemore's removal",
@@ -541,6 +548,20 @@
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-fire-vessel-after-attack-strait-hormuz",
       "published_date": "2026-09-13T09:49:53+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "West Bank: Eight Palestinians detained, settlers damage ambulance",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-eight-palestinians-detained-settlers-cut-guava-trees-cut",
+      "published_date": "2026-09-20T00:43:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jerusalem Daily: Gaza’s children return to schools",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
+      "published_date": "2026-09-19T15:38:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Iran stages show of force during mobilisation campaign in Tehran",
@@ -666,20 +687,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
       "published_date": "2026-09-17T18:36:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian prisoner dies in Israeli custody as family seeks answers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/palestinian-prisoner-dies-israeli-custody-family-seeks-answers",
-      "published_date": "2026-09-17T13:54:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Majd al-Krum: Is Israeli settler terrorism expanding across the Green Line?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/majd-al-krum-israeli-settler-terrorism-expanding-across-green-line",
-      "published_date": "2026-09-17T13:48:04+00:00",
       "category": "Local Events"
     }
   ]
