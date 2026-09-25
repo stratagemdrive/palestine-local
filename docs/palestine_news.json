@@ -1,8 +1,113 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-25T01:19:15.413045+00:00",
-  "story_count": 100,
+  "last_updated": "2026-09-25T15:41:23.463068+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "UN Security Council condemns Houthi attacks on Saudi",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-security-council-condemns-houthi-attacks-saudi",
+      "published_date": "2026-09-25T14:09:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is Canada’s PM Carney not ruling out a possible war with the US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/why-canada-is-not-ruling-out-a-possible-war-with-the-us?traffic_source=rss",
+      "published_date": "2026-09-25T14:05:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Trump-Xi summit exposes a US disadvantage in the Global South",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/25/the-trump-xi-summit-exposes-a-us-disadvantage-in-the-global-south?traffic_source=rss",
+      "published_date": "2026-09-25T14:00:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump told Xi that China helping Iran is unacceptable, US ambassador says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-told-xi-china-helping-iran-unacceptable-us-ambassador-says",
+      "published_date": "2026-09-25T12:43:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel quietly lifts block on night flights at Syria's airports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-quietly-lifts-block-night-flights-syrias-airports",
+      "published_date": "2026-09-25T12:27:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US seeking to revive Russia-Ukraine ceasefire talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss",
+      "published_date": "2026-09-25T12:09:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-tigray-ethiopia-conflict-restarts-et?traffic_source=rss",
+      "published_date": "2026-09-25T12:08:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq's Erbil and Sulaimaniya airports suspend Iranian flights",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqs-erbil-and-sulaimaniya-airports-suspend-iranian-flights",
+      "published_date": "2026-09-25T11:33:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq’s Najaf suspends Iranian airlines in move to enforce US sanctions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqs-najaf-suspends-iranian-airlines-move-enforce-us-sanctions",
+      "published_date": "2026-09-25T11:01:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN General Assembly live: Leaders from Lebanon, Iraq, Pakistan to speak",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak?traffic_source=rss",
+      "published_date": "2026-09-25T11:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-09-25T10:49:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK warns Iran it will not tolerate hostile activity on its soil",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-warns-iran-it-will-not-tolerate-hostile-activity-its-soil",
+      "published_date": "2026-09-25T10:43:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran pitches seven-day roadmap to end conflict with US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss",
+      "published_date": "2026-09-25T09:54:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/from-cheats-to-great-friendship-how-trumps-rhetoric-on-china-changed?traffic_source=rss",
+      "published_date": "2026-09-25T09:46:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nepal PM says global order is broken in fighting climate crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss",
+      "published_date": "2026-09-25T09:11:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
       "source": "Al Jazeera",
@@ -39,109 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN General Assembly 2026: Walkout during Netanyahu's speech, and Middle East wars in spotlight",
+      "title": "Israel accidentally exposes Gaza military bases and widespread destruction on official map",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/un-general-assembly-2026-walkout-israel-speech-war-middle-east-war-spotlight",
-      "published_date": "2026-09-24T21:44:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-accidentally-exposes-gaza-military-bases-and-widespread",
+      "published_date": "2026-09-25T15:13:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump and Xi hold critical talks at White House summit",
+      "title": "Israel accidentally exposes Gaza military bases and widespread destruction on official map",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-accidentally-exposes-gaza-military-bases-and-widespread-destruction-official-map",
+      "published_date": "2026-09-25T13:03:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi, Pakistan, Turkey to discuss assisting Riyadh, Pakistan foreign ministry says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-pakistan-turkey-discuss-assisting-riyadh-pakistan-foreign-ministry",
+      "published_date": "2026-09-25T12:32:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
-      "published_date": "2026-09-24T21:41:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss",
+      "published_date": "2026-09-25T12:30:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
+      "title": "Protests in UK after arrest of far-right activist Daniel Thomas",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss",
-      "published_date": "2026-09-24T21:08:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/protests-in-uk-after-arrest-of-far-right-activist-daniel-thomas?traffic_source=rss",
+      "published_date": "2026-09-25T11:49:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hollywood stars among arrests in New York City anti-Netanyahu protest",
+      "title": "Turkish parliament speaker expects Pakistan, Saudi Arabia defence pact to be submitted for approval next month",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hollywood-stars-among-arrests-ny-anti-netanyahu-protest",
-      "published_date": "2026-09-24T20:24:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-parliament-speaker-expects-pakistan-saudi-arabia-defence-pact-be",
+      "published_date": "2026-09-25T11:33:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Dozens of delegates walk out of UN hall at start of Netanyahu speech",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-delegates-walk-out-un-hall-start-netanyahu-speech",
-      "published_date": "2026-09-24T19:28:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Opinion: Abdul El-Sayed helps launch the unforgivable rehabilitation of Kamala Harris",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-abdul-el-sayed-helps-launch-unforgivable-rehabilitation-kamala",
-      "published_date": "2026-09-24T19:04:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
+      "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/israels-policies-threaten-very-existence-of-palestinians-abbas-tells-un?traffic_source=rss",
-      "published_date": "2026-09-24T19:02:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/25/pakistan-turkiye-edge-closer-towards-joining-saudi-war-against-houthis?traffic_source=rss",
+      "published_date": "2026-09-25T11:22:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon's prime minister tells Iranian president country cannot be arena for regional wars",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-pm-tells-iran-president-country-cannot-be-arena-regional-wars",
-      "published_date": "2026-09-24T18:32:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and China presidents discuss cooperation, trade and AI risks",
+      "title": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
-      "published_date": "2026-09-24T18:19:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss",
+      "published_date": "2026-09-25T10:10:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "UAE suspends Iranian airlines' flights until further notice",
+      "title": "A UK company, a Greek owner and Netanyahu's former lawyer: Who really owns Serbia's Israeli drone venture?",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-suspends-iranian-airlines-flights-until-further-notice",
-      "published_date": "2026-09-24T15:29:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/uk-company-netanyahus-former-lawyer-and-questions-over-israels-serbian-drone-venture",
+      "published_date": "2026-09-25T10:04:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump welcomes China’s Xi Jinping to White House",
+      "title": "Saudi Arabia allies line up support as Houthi attacks mount",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-welcomes-chinas-xi-jinping-to-white-house?traffic_source=rss",
-      "published_date": "2026-09-24T15:27:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada, France, Italy and Greece allow Netanyahu’s overflight despite ICC warrant",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/canada-france-italy-and-greece-allow-netanyahus-overflight-despite-icc",
-      "published_date": "2026-09-24T15:26:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada, France, Italy and Greece allow Netanyahu’s overflight despite ICC warrant",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/canada-france-italy-and-greece-allow-netanyahus-overflight-despite-icc-arrest-warrant",
-      "published_date": "2026-09-24T15:03:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss",
-      "published_date": "2026-09-24T14:04:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Netanyahu at UNGA over the years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/24-09-sv-netanyahu-at-unga-over-the-years-il?traffic_source=rss",
-      "published_date": "2026-09-24T13:35:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss",
+      "published_date": "2026-09-25T08:32:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Pezeshkian says up to US to choose whether to end war on Iran",
@@ -211,76 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
       "published_date": "2026-09-24T19:34:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France to send 'military means' to protect Saudi oil port, Macron says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-send-military-means-protect-saudi-oil-port-macron-says",
-      "published_date": "2026-09-24T19:11:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
-      "published_date": "2026-09-24T18:19:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia ties Black Sea grain deal with Ukraine to halt in oil refinery strikes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/russia-ties-black-sea-grain-deal-ukraine-halt-oil-refinery-strikes",
-      "published_date": "2026-09-24T14:34:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has China received US F-35 parts by diverting an Australian shipment?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/has-china-received-us-f-35-parts-by-diverting-an-australian-shipment?traffic_source=rss",
-      "published_date": "2026-09-24T13:36:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nine Kazakh soldiers die in Caspian Sea training incident",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/nine-kazakh-soldiers-die-in-caspian-sea-training-incident?traffic_source=rss",
-      "published_date": "2026-09-24T13:00:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tunisia fuel strike highlights growing economic and political anger",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/24/tunisia-fuel-strike-highlights-growing-economic-and-political-anger?traffic_source=rss",
-      "published_date": "2026-09-24T12:54:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu expected to 'berate' Zohran Mamdani in UN speech",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-expected-berate-zohran-mamdani-un-speech",
-      "published_date": "2026-09-24T12:19:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI 'kill chain' contributed to Minab school killings: Bloomberg",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ai-kill-chain-contributed-minab-school-killings-bloomberg",
-      "published_date": "2026-09-24T11:54:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly attack on Indian cargo ship off coast of Oman",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss",
-      "published_date": "2026-09-24T11:44:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli election committee bans Arab parties from standing in next month's vote",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-election-committee-bans-arab-parties-standing-next-months-vote",
-      "published_date": "2026-09-24T10:36:09+00:00",
       "category": "Military"
     },
     {
@@ -417,11 +417,46 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia to halt crude supplies to European refiners in October",
+      "title": "Revealed: Cisco talks with pro-Palestine employees over discrimination complaint collapse",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-halt-crude-supplies-european-refiners-october",
-      "published_date": "2026-09-18T13:41:14+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/revealed-cisco-talks-pro-palestine-employees-discrimination-complaint-collapse",
+      "published_date": "2026-09-25T14:36:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man City found guilty on almost all 115 Premier League charges: Report",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/25/man-city-found-guilty-on-almost-all-115-premier-league-charges-report?traffic_source=rss",
+      "published_date": "2026-09-25T14:36:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Athens' rebel quarter Exarcheia fights gentrification and state repression",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/we-are-doomed-win-inside-exarcheias-fight-against-gentrification-and-state-pressure",
+      "published_date": "2026-09-25T11:31:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Humanitarian crisis worsens in Ceuta as thousands remain stranded",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/humanitarian-crisis-worsens-in-ceuta-as-thousands-remain-stranded?traffic_source=rss",
+      "published_date": "2026-09-25T11:23:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘People are destitute’: Lebanon’s spiralling prices fuel fears of social unrest",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/people-are-destitute-lebanons-spiralling-prices-fuel-fears-social-unrest",
+      "published_date": "2026-09-25T11:23:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘People are destitute’: Lebanon’s spiralling prices fuel fears of social unrest",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/people-destitute-lebanon-spiralling-fuel-prices-risk-social-unrest",
+      "published_date": "2026-09-25T10:25:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
@@ -522,46 +557,46 @@
       "category": "Economy"
     },
     {
-      "title": "'Zionism=racism': Protest held outside Ed Sheeran's Philadelphia concert",
+      "title": "Green Party leader Zack Polanski: 'I'm an anti-Zionist'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/zionismracism-protest-held-outside-ed-sheerans-philadelphia-concert",
-      "published_date": "2026-09-20T06:06:21+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/green-party-leader-zack-polanski-im-anti-zionist",
+      "published_date": "2026-09-25T15:16:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Canadians warm to EU ‘associate membership’ proposal",
+      "title": "Try as it might, Israel could not destroy Palestinian culture and joy in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/israel-could-not-destroy-palestinian-culture-joy-gaza",
+      "published_date": "2026-09-25T14:13:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yemen fighting displaces 71,000 children, worsens malnutrition: UNICEF",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
-      "published_date": "2026-09-19T19:53:55+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/25/yemen-fighting-displaces-71000-children-worsens-malnutrition-unicef?traffic_source=rss",
+      "published_date": "2026-09-25T14:10:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Forbes: Ed Sheeran ticket prices halved after Macklemore's removal",
+      "title": "Who gets to be Italian? The rise and rise of Islamophobia in Italy",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/forbes-ed-sheeran-ticket-prices-halved-after-macklemores-removal",
-      "published_date": "2026-09-19T04:14:36+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/who-gets-be-italian-rise-and-rise-islamophobia-italy",
+      "published_date": "2026-09-25T12:54:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Turkey revokes licence of Iran's Bank Mellat as US sanctions intensify",
+      "title": "On Yom Kippur, Israel offers forgiveness to the killer of an unarmed Palestinian",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-revokes-licence-irans-bank-mellat-us-sanctions-intensify",
-      "published_date": "2026-09-18T23:56:06+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/opinion/yom-kippur-israels-forgiveness-killer-unarmed-palestinian",
+      "published_date": "2026-09-25T11:09:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US lifts sanctions on Eritrea with Red Sea in focus",
+      "title": "Thailand investigating Jewish group over 'network of Israelis' buying up land",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lifts-sanctions-eritrea-red-sea-focus",
-      "published_date": "2026-09-18T18:35:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Turkey busts Israel-linked 'scam empire' behind alleged $266m fraud",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/turkey-busts-israel-linked-scam-empire-behind-alleged-266-million-dollar-fraud",
-      "published_date": "2026-09-18T13:40:56+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/thailand-investigating-jewish-group-chabad-lubavitch-over-network-israelis-buying-land",
+      "published_date": "2026-09-25T09:56:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hamas denounces Netanyahu’s speech as ‘rife with lies’",
@@ -659,48 +694,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/trump-administration-asks-supreme-court-detain-badar-khan-suri-again",
       "published_date": "2026-09-23T20:48:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss",
-      "published_date": "2026-09-23T19:29:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sharaa says Israeli attacks on Syria at odds with 'joy' of global community towards his country",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sharaa-says-israeli-attacks-syria-odds-joy-global-community-towards-his",
-      "published_date": "2026-09-23T18:49:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US lawmakers seek sanctions for Israel’s ‘E1’ West Bank settlement plan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/us-lawmakers-seek-sanctions-for-israels-e1-west-bank-settlement-plan?traffic_source=rss",
-      "published_date": "2026-09-23T18:48:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Generations of Palestinians 'will carry pain of' Gaza genocide, Brazilian president says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/generations-palestinians-will-carry-pain-gaza-genocide-brazilian",
-      "published_date": "2026-09-23T01:02:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham: Gaza violence, settlements pushing two-state solution to point of no return",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/burnham-gaza-violence-settlements-pushing-two-state-solution-point-no",
-      "published_date": "2026-09-22T23:29:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel criticises 'grotesque absurdity' of Macron's speech",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-criticises-grotesque-absurdity-macrons-speech",
-      "published_date": "2026-09-22T22:05:38+00:00",
       "category": "Local Events"
     }
   ]
