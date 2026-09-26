@@ -1,8 +1,78 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-25T15:41:23.463068+00:00",
-  "story_count": 99,
+  "last_updated": "2026-09-26T01:21:28.764302+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Report: ICC deputy prosecutor says court has insulated itself against US sanctions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-icc-deputy-prosecutor-says-court-has-insulated-itself-against-us",
+      "published_date": "2026-09-25T23:15:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US having positive talks with Iran through mediators, official says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-having-positive-talks-iran-through-mediators-official-says",
+      "published_date": "2026-09-25T22:05:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No, Netanyahu wasn’t arrested during his UN visit, but those protesting against him were",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/no-netanyahu-wasnt-arrested-during-ny-visit-against-netanyahus-un-appearance",
+      "published_date": "2026-09-25T21:41:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran proposes plan to reopen Hormuz within seven days",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-proposes-plan-reopen-hormuz-within-seven-days",
+      "published_date": "2026-09-25T20:55:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
+      "published_date": "2026-09-25T18:30:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zaidi calls for economic investment in Iraq as Salam urges Israeli withdrawal from Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/zaidi-calls-economic-investment-iraq-salam-urges-israeli-withdrawal",
+      "published_date": "2026-09-25T17:58:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran will make no nuclear concessions, Iranian official says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-make-no-nuclear-concessions-iranian-official-says",
+      "published_date": "2026-09-25T17:35:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emirati influencers celebrate UAE sitting for Netanyahu’s speech to UN amid walkout",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/emirati-influencers-celebrate-uae-sitting-netanyahus-speech-un-amid",
+      "published_date": "2026-09-25T17:04:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he discussed Iran war with China's Xi",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-discussed-iran-war-chinas-xi",
+      "published_date": "2026-09-25T16:44:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emirati influencers celebrate UAE sitting for Netanyahu’s speech to UN amid walkout",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/trending/uae-influencers-defend-staying-netanyahus-un-speech-dozens-delegates-walk-out",
+      "published_date": "2026-09-25T16:22:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN Security Council condemns Houthi attacks on Saudi",
       "source": "Middle East Eye",
@@ -74,74 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
+      "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-09-25T10:49:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+      "published_date": "2026-09-26T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK warns Iran it will not tolerate hostile activity on its soil",
+      "title": "Iran says it awaits US response on seven-day roadmap to end war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
+      "published_date": "2026-09-25T23:52:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+      "published_date": "2026-09-25T20:59:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army drops white phosphorous over Lebanon’s Zawtar al-Sharqiyah, report says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-warns-iran-it-will-not-tolerate-hostile-activity-its-soil",
-      "published_date": "2026-09-25T10:43:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-drops-white-phosphorous-over-lebanons-zawtar-al-sharqiyah",
+      "published_date": "2026-09-25T20:16:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran pitches seven-day roadmap to end conflict with US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss",
-      "published_date": "2026-09-25T09:54:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/from-cheats-to-great-friendship-how-trumps-rhetoric-on-china-changed?traffic_source=rss",
-      "published_date": "2026-09-25T09:46:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nepal PM says global order is broken in fighting climate crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss",
-      "published_date": "2026-09-25T09:11:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
-      "published_date": "2026-09-25T00:24:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
-      "published_date": "2026-09-24T23:51:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dozens of envoys from across the world walk out of Netanyahu's UN speech",
+      "title": "Houthis told EU they have no intention to attack European ships: Report",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-envoys-across-world-walk-out-netanyahus-un-speech",
-      "published_date": "2026-09-24T23:48:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-told-eu-they-have-no-intention-attack-european-ships-report",
+      "published_date": "2026-09-25T19:58:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
+      "title": "Will Turkiye end its military presence in northern Iraq?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
-      "published_date": "2026-09-24T23:29:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss",
+      "published_date": "2026-09-25T19:06:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu paints Israel's critics as 'antisemites' in angry UN speech to near-empty hall",
+      "title": "Pakistan PM says attacks on Mecca 'red line' that must never be crossed",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-paints-israels-critics-antisemites-angry-un-speech-near-empty",
-      "published_date": "2026-09-24T22:17:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-calls-houthi-mecca-attacks-red-line-un",
+      "published_date": "2026-09-25T18:54:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen's president calls on Yemenis to mobilise",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-president-calls-yemenis-mobilise",
+      "published_date": "2026-09-25T18:15:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zaidi calls for economic investment in Iraq as Salam urges Israeli withdrawal from Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/zaidi-calls-economic-investment-iraq-salam-urges-israeli-withdrawal-lebanon",
+      "published_date": "2026-09-25T17:28:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis told EU they have no intention to attack European ships: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/houthis-told-eu-they-have-no-intention-attack-european-ships-report",
+      "published_date": "2026-09-25T16:22:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel accidentally exposes Gaza military bases and widespread destruction on official map",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Pezeshkian says up to US to choose whether to end war on Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-us-choose-whether-end-war-iran",
-      "published_date": "2026-09-25T00:53:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
+      "title": "What would a US diesel export ban mean for global fuel prices?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
-      "published_date": "2026-09-25T00:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
+      "published_date": "2026-09-25T21:28:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iranian president says it is up to US to choose if it wants to end Iran war",
+      "title": "EU warns of energy 'price crisis', asks countries to consider curbing demand",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-president-says-it-us-choose-if-it-wants-end-iran-war",
-      "published_date": "2026-09-24T22:49:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Croatian court approves extradition in Nord Stream bombing case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
-      "published_date": "2026-09-24T21:47:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian-American group sues Trump for 'unconstitutional' war on Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-american-group-sues-trump-unconstitutional-war-iran",
-      "published_date": "2026-09-24T21:25:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu paints Israel's critics as 'antisemites' in angry UN speech to near-empty hall",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/netanyahu-paints-israels-critics-antisemites-angry-un-speech-near-empty-hall",
-      "published_date": "2026-09-24T21:24:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Some 60 ships passed through Strait of Hormuz on Wednesday, US official says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/some-60-ships-passed-through-strait-hormuz-wednesday-us-official-says",
-      "published_date": "2026-09-24T20:46:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian-American group sues Trump for 'unconstitutional' war on Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iranian-american-group-sues-trump-unconstitutional-war-iran",
-      "published_date": "2026-09-24T20:33:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Keypoints of Netanyahu's UNGA address",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/keypoints-netanyahus-unga-address",
-      "published_date": "2026-09-24T19:52:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s triggered the latest violence in Ethiopia?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
-      "published_date": "2026-09-24T19:34:53+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-warns-energy-price-crisis-asks-countries-consider-curbing-demand",
+      "published_date": "2026-09-25T19:19:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Yemenis seek safety in Djibouti as African migrants continue crossing to Yemen",
@@ -389,32 +403,18 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia cancels oil shipments to European refineries",
+      "title": "Report: UAE-owned Manchester City found guilty of financial rules breach",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-cancels-oil-shipments-european-refineries",
-      "published_date": "2026-09-18T21:55:32+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/report-uae-owned-manchester-city-found-guilty-financial-rules-breach",
+      "published_date": "2026-09-26T01:10:42+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Saudi Arabia cancels oil shipments to European refineries",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/saudi-arabia-cancels-oil-shipments-european-refineries",
-      "published_date": "2026-09-18T20:41:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Gulf-Eurasian energy crunch pushes Europe to the edge of an inflationary crisis",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-eurasian-energy-crunch-pushes-europe-edge-inflationary-crisis",
-      "published_date": "2026-09-18T20:18:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Gulf-Eurasian energy crunch pushes Europe to the edge of an inflationary crisis",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/gulf-eurasian-energy-crunch-pushes-europe-edge-inflationary-crisis",
-      "published_date": "2026-09-18T18:42:32+00:00",
-      "category": "Energy"
+      "title": "Manchester City reportedly found guilty of almost 115 financial charges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
+      "published_date": "2026-09-25T20:56:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Revealed: Cisco talks with pro-Palestine employees over discrimination complaint collapse",
@@ -543,18 +543,46 @@
       "category": "Economy"
     },
     {
-      "title": "Inside Somaliland: How Berbera Port is central to the Red Sea's power struggle",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/inside-berbera-port-center-scramble-red-sea",
-      "published_date": "2026-09-20T08:53:46+00:00",
-      "category": "Economy"
+      "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
+      "published_date": "2026-09-25T22:16:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia withdraws from China-led digital currency platform",
+      "title": "Green Party leader Zack Polanski: 'I'm an anti-Zionist'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-withdraws-china-led-digital-currency-platform",
-      "published_date": "2026-09-20T08:26:52+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/green-party-leader-zack-polanski-im-anti-zionist",
+      "published_date": "2026-09-25T21:28:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
+      "published_date": "2026-09-25T20:46:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank?traffic_source=rss",
+      "published_date": "2026-09-25T19:24:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN expands list of firms involved in illegal Israeli settlement activities",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
+      "published_date": "2026-09-25T19:21:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
+      "published_date": "2026-09-25T18:15:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Green Party leader Zack Polanski: 'I'm an anti-Zionist'",
@@ -652,48 +680,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/israel-displaces-dozens-palestinians-amid-wave-masafer-yatta-demolitions",
       "published_date": "2026-09-24T12:27:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The End Times: How Silicon Valley absorbed ‘techno-religious’ doomerism",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/end-times-how-silicon-valley-absorbed-techno-religious-doomerism",
-      "published_date": "2026-09-24T12:15:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OpenAI agents hack Australian government health data",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-agents-hack-australian-government-health-data?traffic_source=rss",
-      "published_date": "2026-09-24T11:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemenis seek safety in Djibouti as African migrants continue arriving in Yemen",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/yemenis-seek-safety-djibouti-while-african-migrants-continue-arriving-yemen",
-      "published_date": "2026-09-24T10:30:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settlers set fire to land near Ramallah in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-set-fire-land-near-ramallah-occupied-west-bank",
-      "published_date": "2026-09-23T22:13:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump administration asks Supreme Court to detain Badar Khan Suri again",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-administration-asks-supreme-court-detain-badar-khan-suri-again",
-      "published_date": "2026-09-23T21:14:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump administration asks Supreme Court to detain Badar Khan Suri again",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-administration-asks-supreme-court-detain-badar-khan-suri-again",
-      "published_date": "2026-09-23T20:48:31+00:00",
       "category": "Local Events"
     }
   ]
