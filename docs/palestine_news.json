@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-27T01:15:28.179516+00:00",
-  "story_count": 99,
+  "last_updated": "2026-09-27T15:28:44.500957+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Trump expects US to hold talks with Iran this week, Axios says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-expects-us-hold-talks-iran-week-axios-says",
+      "published_date": "2026-09-27T15:13:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
+      "published_date": "2026-09-27T14:36:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss",
+      "published_date": "2026-09-27T13:17:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq seeks US exemption from sanctions on Iranian airlines",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-seeks-us-exemption-sanctions-iranian-airlines",
+      "published_date": "2026-09-27T06:37:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US ships in Indian Ocean will be hit if US launches new attacks, IRGC says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-ships-indian-ocean-will-be-hit-if-another-war-breaks-out-irgc-says",
+      "published_date": "2026-09-27T03:56:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pezeshkian says Iran no longer trusts negotiations with US",
       "source": "Middle East Eye",
@@ -109,39 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia ready to help on Strait of Hormuz, Lavrov says",
+      "title": "US rejects Iran’s claim of capturing underwater drone in Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-ready-help-strait-hormuz-lavrov-says",
-      "published_date": "2026-09-26T17:14:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-rejects-irans-claim-capturing-underwater-drone-hormuz",
+      "published_date": "2026-09-27T14:59:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump rejects Iranian proposal to open Hormuz and end war",
+      "title": "French military deployment to Saudi Arabia is ‘strictly defensive’, minister says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-rejects-iranian-proposal-open-hormuz-and-end-fighting",
-      "published_date": "2026-09-26T16:40:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-military-deployment-saudi-arabia-strictly-defensive-minister-says",
+      "published_date": "2026-09-27T14:21:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
+      "title": "Yemen’s health system could collapse in some areas, minister warns",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/is-ethiopia-on-the-verge-of-another-civil-war-as-fighting-erupts-in-tigray?traffic_source=rss",
-      "published_date": "2026-09-26T14:00:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns?traffic_source=rss",
+      "published_date": "2026-09-27T14:07:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkiye calls for UN Security Council veto to end: Could it happen?",
+      "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/26/turkiye-calls-for-un-security-council-veto-to-end-could-it-happen?traffic_source=rss",
-      "published_date": "2026-09-26T13:17:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/27/israels-smotrich-urges-war-in-west-bank-poll-rhetoric-or-real-threat?traffic_source=rss",
+      "published_date": "2026-09-27T14:03:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "The media battle behind Brazil’s election",
+      "title": "Recap: Iran says war with US not over",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/recap-iran-says-war-us-not-over",
+      "published_date": "2026-09-27T13:36:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-led Board of Peace says Unrwa will have no role in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-led-board-peace-says-unrwa-will-have-no-role-gaza",
+      "published_date": "2026-09-27T13:18:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli actions 'paving way for total control' over Al-Aqsa, says Hamas",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-actions-around-al-aqsa-paving-way-total-control-over-site-says-hamas",
+      "published_date": "2026-09-27T10:31:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss",
-      "published_date": "2026-09-26T13:01:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-09-27T10:01:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Plane carrying DR Congo military delegation crashes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss",
+      "published_date": "2026-09-27T09:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Meshaal: Israel paving way for total control and domination over Al-Aqsa",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/meshaal-israel-paving-way-total-control-and-domination-over-al-aqsa",
+      "published_date": "2026-09-27T09:00:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-09-27T08:49:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
+      "published_date": "2026-09-27T08:35:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Suicide bombing in northwest Pakistan kills at least 12",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/suicide-bombing-in-northwest-pakistan-kills-at-least-12?traffic_source=rss",
+      "published_date": "2026-09-27T08:26:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-169",
+      "published_date": "2026-09-27T06:24:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian girl wounded in Israeli fire at Jerusalem checkpoint",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-girl-wounded-israeli-fire-jerusalem-checkpoint",
+      "published_date": "2026-09-27T05:55:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Azeez Al-Shaair forced to remove name of slain Palestinian girl from eyeblack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/azeez-al-shaair-forced-remove-name-slain-palestinian-girl-eyeblack",
+      "published_date": "2026-09-27T04:55:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
@@ -169,118 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
       "published_date": "2026-09-26T22:38:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
-      "published_date": "2026-09-26T20:33:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas leader says Israel to use Gaza 'blood' in election",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-leader-says-israel-use-gaza-blood-election",
-      "published_date": "2026-09-26T20:11:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
-      "published_date": "2026-09-26T19:40:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza death toll rises",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-44",
-      "published_date": "2026-09-26T19:23:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
-      "published_date": "2026-09-26T17:55:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia’s Fano fighters claim capture of army vehicles and weapons",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ethiopias-fano-fighters-claim-capture-of-army-vehicles-and-weapons?traffic_source=rss",
-      "published_date": "2026-09-26T17:15:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China pushes back against US on Iran and Cuba in UN speech",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-pushes-back-against-us-iran-and-cuba-un-speech",
-      "published_date": "2026-09-26T15:36:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Haftar's forces execute 30 after secret military trials in eastern Libya",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/least-30-executed-after-secret-military-trials-eastern-libya-50-more-face-death",
-      "published_date": "2026-09-26T14:36:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The intelligence war is turning against the Houthis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss",
-      "published_date": "2026-09-26T13:29:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
-      "published_date": "2026-09-26T13:22:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran moves key defence capabilities underground, Tasnim reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-moves-key-defence-capabilities-underground-tasnim-reports",
-      "published_date": "2026-09-26T12:47:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suicide bombing in Pakistan’s Dera Ismail Khan kills at least 12 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss",
-      "published_date": "2026-09-26T11:33:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military attacks southern Lebanon areas with artillery fire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-attacks-southern-lebanon-areas-artillery-fire",
-      "published_date": "2026-09-26T06:56:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Report: Trump rejects Iran's ceasefire proposal, may resume bombing after midterms",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-trump-rejects-irans-ceasefire-proposal-may-resume-bombing-after",
-      "published_date": "2026-09-26T05:28:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Atlantic: Egypt's intelligence chief had warned Israel of Hamas attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/atlantic-egypts-intelligence-chief-had-warned-israel-hamas-attack",
-      "published_date": "2026-09-26T04:34:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
-      "published_date": "2026-09-26T00:00:00+00:00",
       "category": "Military"
     },
     {
@@ -410,11 +410,18 @@
       "category": "Energy"
     },
     {
-      "title": "US and Saudi Arabia lack plan as Houthi strikes expose Riyadh's vulnerability",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-and-saudi-arabia-lack-plan-houthi-strikes-expose-riyadhs-vulnerability",
-      "published_date": "2026-09-20T12:09:31+00:00",
-      "category": "Energy"
+      "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
+      "published_date": "2026-09-27T11:04:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘My hands are empty’: Displaced Palestinians struggle to survive",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss",
+      "published_date": "2026-09-27T10:26:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "US thanks Turkey, Oman, UAE for supporting sanctions against Iran",
@@ -543,18 +550,53 @@
       "category": "Economy"
     },
     {
-      "title": "Canada is giving millions to international aid for Palestine, says Carney",
+      "title": "'Do there what we did in Gaza': Smotrich calls for full-scale war in occupied West Bank",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/canada-giving-ca100-million-international-aid-palestine-says-carney",
-      "published_date": "2026-09-22T20:49:36+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/do-there-what-we-did-gaza-smotrich-calls-full-scale-war-occupied-west",
+      "published_date": "2026-09-27T13:21:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Djibouti minister appeals for aid for Yemeni refugees",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
-      "published_date": "2026-09-22T19:56:02+00:00",
-      "category": "Economy"
+      "title": "'Do there what we did in Gaza': Smotrich calls for full-scale war in occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/do-there-what-we-did-gaza-smotrich-calls-full-scale-israeli-war-occupied-west-bank",
+      "published_date": "2026-09-27T12:27:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Comprehensive closure': Israel to shut down all West Bank crossings, Wafa reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/comprehensive-closure-israel-shut-down-all-west-bank-crossings-wafa",
+      "published_date": "2026-09-27T08:47:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three Palestinians injured in Israeli drone attacks on Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-palestinians-injured-israeli-drone-attacks-gaza",
+      "published_date": "2026-09-27T06:53:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Smotrich calls for doing in West Bank 'what we did in Gaza'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-calls-doing-west-bank-what-we-did-gaza",
+      "published_date": "2026-09-27T05:37:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riyadh schools to operate remotely for week, AFP reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/parents-told-riyadh-schools-operate-remotely-week-afp-reports",
+      "published_date": "2026-09-27T04:31:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Settlers set fire to two vehicles in West Bank villages",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-set-fire-two-vehicles-west-bank-villages",
+      "published_date": "2026-09-27T03:25:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel's attorney general orders postponement of E1 settlement tender",
@@ -645,55 +687,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank?traffic_source=rss",
       "published_date": "2026-09-25T19:24:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN expands list of firms involved in illegal Israeli settlement activities",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
-      "published_date": "2026-09-25T19:21:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
-      "published_date": "2026-09-25T18:15:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Green Party leader Zack Polanski: 'I'm an anti-Zionist'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/green-party-leader-zack-polanski-im-anti-zionist",
-      "published_date": "2026-09-25T15:16:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Try as it might, Israel could not destroy Palestinian culture and joy in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/israel-could-not-destroy-palestinian-culture-joy-gaza",
-      "published_date": "2026-09-25T14:13:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemen fighting displaces 71,000 children, worsens malnutrition: UNICEF",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/yemen-fighting-displaces-71000-children-worsens-malnutrition-unicef?traffic_source=rss",
-      "published_date": "2026-09-25T14:10:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who gets to be Italian? The rise and rise of Islamophobia in Italy",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/who-gets-be-italian-rise-and-rise-islamophobia-italy",
-      "published_date": "2026-09-25T12:54:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On Yom Kippur, Israel offers forgiveness to the killer of an unarmed Palestinian",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/yom-kippur-israels-forgiveness-killer-unarmed-palestinian",
-      "published_date": "2026-09-25T11:09:31+00:00",
       "category": "Local Events"
     }
   ]
