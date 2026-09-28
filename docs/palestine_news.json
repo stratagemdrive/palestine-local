@@ -1,8 +1,50 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-27T15:28:44.500957+00:00",
-  "story_count": 98,
+  "last_updated": "2026-09-28T01:29:05.309155+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
+      "published_date": "2026-09-27T21:02:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
+      "published_date": "2026-09-27T20:34:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/27/israel-revokes-dutch-diplomats-status-over-sanctions-on-settlements?traffic_source=rss",
+      "published_date": "2026-09-27T20:21:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why has Trump rejected Iran’s peace proposal?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
+      "published_date": "2026-09-27T20:03:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK police arrest five by air base under terrorism act",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-police-arrest-five-air-base-under-terrorism-act",
+      "published_date": "2026-09-27T17:57:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi says Iran ready to resume war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-ready-resume-war",
+      "published_date": "2026-09-27T16:38:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump expects US to hold talks with Iran this week, Axios says",
       "source": "Middle East Eye",
@@ -102,46 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Colombia extradites leader of armed group to US in shift towards Washington",
+      "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
-      "published_date": "2026-09-26T19:21:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+      "published_date": "2026-09-28T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-09-26T18:00:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar rejects Netanyahu’s claims over anti-Israel campaign",
+      "title": "Iran offers to mediate talks between Saudi Arabia and Yemen",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-rejects-netanyahus-claims-over-anti-israel-campaign",
-      "published_date": "2026-09-26T17:50:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-offers-mediate-talks-between-saudi-arabia-and-yemen",
+      "published_date": "2026-09-27T23:52:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump rejects combining US-China AI efforts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
-      "published_date": "2026-09-26T17:39:18+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli court says government violates ruling on Red Cross visits to Palestinian prisoners",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/supreme-court-says-israeli-government-must-allow-red-cross-visit",
+      "published_date": "2026-09-27T22:42:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iraq seeks US exemption from ban on Iranian flights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
-      "published_date": "2026-09-26T17:35:11+00:00",
-      "category": "Diplomacy"
+      "title": "Houthis say Saudi strikes on Yemen's Taiz leave dozens of casualties",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-strikes-yemens-taiz-leave-dozens-casualties",
+      "published_date": "2026-09-27T22:09:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
+      "title": "Netanyahu orders preparation of possible legal case against Erdogan, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-preparation-possible-legal-case-against-erdogan-report",
+      "published_date": "2026-09-27T21:30:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly strike hits market in Yemen’s Taiz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
-      "published_date": "2026-09-26T17:22:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
+      "published_date": "2026-09-27T21:00:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopian army reportedly recaptures strategic town as fighting spreads",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-ethiopia-tigray-escalation-sv-mp4?traffic_source=rss",
+      "published_date": "2026-09-27T20:44:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three killed, four injured in shooting at Detroit, Michigan, strip club",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/27/three-killed-four-injured-in-shooting-at-detroit-michigan-strip-club?traffic_source=rss",
+      "published_date": "2026-09-27T20:44:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ireland players refuse handshakes with Israelis before Nations League match",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ireland-players-refuse-handshakes-israelis-nations-league-match",
+      "published_date": "2026-09-27T20:26:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks kill at least four across Gaza, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-least-four-across-gaza-report-says",
+      "published_date": "2026-09-27T20:16:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah chief says Israel unable to 'break the resistance'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-israel-unable-break-resistance",
+      "published_date": "2026-09-27T15:51:19+00:00",
+      "category": "Military"
     },
     {
       "title": "US rejects Iran’s claim of capturing underwater drone in Hormuz",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Meshaal: Israel paving way for total control and domination over Al-Aqsa",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/meshaal-israel-paving-way-total-control-and-domination-over-al-aqsa",
-      "published_date": "2026-09-27T09:00:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+      "title": "Powerful storm floods US Northeast, causes power outages",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-09-27T08:49:32+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
+      "published_date": "2026-09-27T22:51:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Djibouti urges world to help as Yemen war drives refugee influx",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
-      "published_date": "2026-09-27T08:35:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suicide bombing in northwest Pakistan kills at least 12",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/suicide-bombing-in-northwest-pakistan-kills-at-least-12?traffic_source=rss",
-      "published_date": "2026-09-27T08:26:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning recap",
+      "title": "China ‘substantially reduced’ assistance to Iran, US says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-169",
-      "published_date": "2026-09-27T06:24:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian girl wounded in Israeli fire at Jerusalem checkpoint",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-girl-wounded-israeli-fire-jerusalem-checkpoint",
-      "published_date": "2026-09-27T05:55:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Azeez Al-Shaair forced to remove name of slain Palestinian girl from eyeblack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/azeez-al-shaair-forced-remove-name-slain-palestinian-girl-eyeblack",
-      "published_date": "2026-09-27T04:55:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
-      "published_date": "2026-09-26T23:26:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike injures several displaced people in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-injures-several-displaced-people-gaza",
-      "published_date": "2026-09-26T22:48:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces carry out ‘violent explosions’ near southern Lebanon’s Khiam",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-carry-out-violent-explosions-near-southern-lebanons-khiam",
-      "published_date": "2026-09-26T22:39:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
-      "published_date": "2026-09-26T22:38:01+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-substantially-reduced-assistance-iran-us-says",
+      "published_date": "2026-09-27T17:21:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Powerful storm brings flooding, power outages to northeastern United States",
@@ -403,11 +417,11 @@
       "category": "Energy"
     },
     {
-      "title": "QatarEnergy says Hormuz crisis may delay some expansion projects",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatarenergy-says-hormuz-crisis-may-delay-some-expansion-projects",
-      "published_date": "2026-09-20T15:45:31+00:00",
-      "category": "Energy"
+      "title": "Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss",
+      "published_date": "2026-09-27T23:09:48+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
@@ -543,11 +557,67 @@
       "category": "Economy"
     },
     {
-      "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
+      "title": "Smotrich calls for full-scale war in occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-calls-full-scale-war-occupied-west-bank",
+      "published_date": "2026-09-28T01:08:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
-      "published_date": "2026-09-23T19:54:24+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
+      "published_date": "2026-09-28T00:29:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alleged rape on campus sparks violent protest at Indian university",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
+      "published_date": "2026-09-27T21:17:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel revokes credentials of Dutch diplomats in Ramallah over West Bank trade ban",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-revokes-credentials-dutch-diplomats-ramallah-over-west-bank-trade",
+      "published_date": "2026-09-27T19:37:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel revokes credentials of Dutch diplomats in Ramallah over West Bank trade ban",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-revokes-credentials-dutch-diplomats-ramallah-over-west-bank-trade-ban",
+      "published_date": "2026-09-27T19:28:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stuck between Israeli military checkpoints",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss",
+      "published_date": "2026-09-27T19:04:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestine Action protesters arrested in Liverpool",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_palestine-action-protesters-arrested-in-liverpool-270926?traffic_source=rss",
+      "published_date": "2026-09-27T18:56:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli drone strike kills Palestinian in Gaza City",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-palestinian-gaza-city",
+      "published_date": "2026-09-27T16:17:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Egypt, leaving prison does not mean escaping the security state",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/egypt-huna-abdelrahman-elgendy-memoir-prison-review",
+      "published_date": "2026-09-27T15:40:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'Do there what we did in Gaza': Smotrich calls for full-scale war in occupied West Bank",
@@ -624,69 +694,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-child-gaza-0",
       "published_date": "2026-09-26T16:01:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces kill Palestinian in Gaza, arrest four farmers in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-gaza-arrest-four-farmers-west-bank",
-      "published_date": "2026-09-26T13:55:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: When racism peaks - and the mountains are claimed as white‑only spaces",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/france-when-racism-peaks-and-mountains-are-claimed-white-only-spaces",
-      "published_date": "2026-09-26T08:59:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN expands list of companies operating in West Bank settlements",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-adds-61-new-israeli-companies-operating-illegal-west-bank-settlements",
-      "published_date": "2026-09-26T06:22:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces storm West Bank towns, fire stun grenades at al-Am'ari refugee camp",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-storm-west-bank-towns-fire-stun-grenades-al-amari-refugee",
-      "published_date": "2026-09-26T06:12:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amnesty stages 'End Genocide' protest at Austria-Israel Nations League match",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/amnesty-holds-end-genocide-protest-austria-vs-israel-match",
-      "published_date": "2026-09-26T05:41:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
-      "published_date": "2026-09-25T22:16:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Green Party leader Zack Polanski: 'I'm an anti-Zionist'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/green-party-leader-zack-polanski-im-anti-zionist",
-      "published_date": "2026-09-25T21:28:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
-      "published_date": "2026-09-25T20:46:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank?traffic_source=rss",
-      "published_date": "2026-09-25T19:24:46+00:00",
       "category": "Local Events"
     }
   ]
