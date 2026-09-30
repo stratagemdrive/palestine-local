@@ -1,8 +1,22 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-09-30T01:55:11.400960+00:00",
+  "last_updated": "2026-09-30T16:34:03.359696+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Mohammed Dahlan's faction to run with Hamas and Islamic Jihad on list for legislative elections",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mohammed-dahlans-faction-run-hamas-and-islamic-jihad-list-legislative",
+      "published_date": "2026-09-30T14:18:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is Iran losing its leverage over the Strait of Hormuz?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-09-30T12:05:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
       "source": "Al Jazeera",
@@ -130,18 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Vance describes Iran’s leadership as ‘very confused’, says deal possible",
+      "title": "UK PM says 'strong indications' Iran involved in airbase scare",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-describes-irans-leadership-very-confused-says-deal-possible",
-      "published_date": "2026-09-29T13:59:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-pm-says-strong-indications-iran-involved-airbase-scare",
+      "published_date": "2026-09-30T16:11:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Man City’s Premier League charges: What’s the latest and what comes next?",
+      "title": "Muqtada al-Sadr says US should compensate Iraqis as last American forces leave",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/muqtada-al-sadr-says-us-should-compensate-iraqis-last-american-forces",
+      "published_date": "2026-09-30T15:50:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran official criticises UAE welcoming ‘Butcher of Gaza’ Netanyahu into country",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-official-criticises-uae-welcoming-butcher-gaza-netanyahu-country",
+      "published_date": "2026-09-30T15:44:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese media reports Israeli strikes on southeast of the country",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-media-reports-israeli-strikes-southeast-country",
+      "published_date": "2026-09-30T15:25:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss",
-      "published_date": "2026-09-29T13:20:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
+      "published_date": "2026-09-30T15:06:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is Hegseth cutting 20 percent of US general and admiral positions?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/why-is-hegseth-cutting-20-percent-of-us-general-and-admiral-positions?traffic_source=rss",
+      "published_date": "2026-09-30T14:35:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian journalist killed in Israeli drone strike",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-journalist-killed-israeli-drone-strike",
+      "published_date": "2026-09-30T13:37:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Death toll from Israeli strikes in Gaza rises to six",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-strikes-gaza-rises-six",
+      "published_date": "2026-09-30T13:09:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Muqtada al-Sadr says US should compensate Iraqis as last American forces leave",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/muqtada-al-sadr-says-us-should-compensate-iraqis-last-forces-leave-country",
+      "published_date": "2026-09-30T13:05:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss",
+      "published_date": "2026-09-30T12:49:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s IRGC says it attacks ships daily in Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-it-attacks-ships-daily-strait-hormuz",
+      "published_date": "2026-09-30T12:41:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How does Iraq’s security change after US forces withdraw?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/how-does-iraqs-security-change-after-us-forces-withdraw?traffic_source=rss",
+      "published_date": "2026-09-30T12:33:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike on vehicle kills at least five Palestinians in Gaza City",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-vehicle-kills-least-five-palestinians-gaza-city",
+      "published_date": "2026-09-30T12:21:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq celebrates National Sovereignty Day as US troops withdraw",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss",
+      "published_date": "2026-09-30T12:17:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss",
+      "published_date": "2026-09-30T11:32:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "N Korea and S Korea exchange threats over DMZ blast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/n-korea-and-s-korea-exchange-threats-over-dmz-blast?traffic_source=rss",
+      "published_date": "2026-09-30T11:19:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The October 7 warnings threatening Netanyahu’s Israeli election campaign",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss",
+      "published_date": "2026-09-30T11:03:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks kill nine in Gaza as genocide death toll reaches 74,032",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-nine-gaza-genocide-death-toll-reaches-74032",
+      "published_date": "2026-09-30T10:59:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi Arabia turns to UAE 'white horse' as it gears up to battle Yemen's Houthis",
@@ -155,132 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-katz-threatens-target-hamas-leaders-abroad",
       "published_date": "2026-09-30T00:18:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
-      "published_date": "2026-09-29T23:06:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
-      "published_date": "2026-09-29T21:24:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia turns to UAE 'white horse' as it gears up to battle Yemen's Houthis",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-turns-uae-white-horse-it-gears-battle-yemens-houthis",
-      "published_date": "2026-09-29T21:14:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni government forces say they conducted 414 strikes on Houthis in last 24 hours",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-say-they-conducted-414-strikes-houthis-last-24",
-      "published_date": "2026-09-29T21:10:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What we know about RAF Fairford ‘bomb plot’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss",
-      "published_date": "2026-09-29T20:55:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia turns to UAE 'white horse' as it gears up to battle Yemen's Houthis",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/saudi-arabia-turns-uae-white-horse-it-gears-battle-yemens-houthis",
-      "published_date": "2026-09-29T20:25:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US troops fully withdraw from Baghdad base after two decades",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
-      "published_date": "2026-09-29T20:00:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni government forces claim strikes on Houthi positions in Yemen’s al-Wazi’yah",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-strikes-houthi-positions-yemens-al",
-      "published_date": "2026-09-29T19:53:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Iraq handle future security challenges alone?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/29/can-iraq-handle-future-security-challenges-alone?traffic_source=rss",
-      "published_date": "2026-09-29T19:05:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu says he filed libel lawsuits over October 7 warning allegations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-he-filed-libel-lawsuits-over-october-7-warning",
-      "published_date": "2026-09-29T19:00:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen government forces warn all sites used by Houthis legitimate targets",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-government-forces-warn-all-sites-used-houthis-legitimate-targets",
-      "published_date": "2026-09-29T18:42:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hundreds of families stranded inside their vehicles at checkpoint near Ramallah",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hundreds-families-stranded-inside-their-vehicles-checkpoint-near",
-      "published_date": "2026-09-29T18:21:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘All banks are owned by Jews’: Remarks attributed to MP shake France’s far right",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/all-banks-are-owned-jews-remarks-attributed-MP-shake-frances-far-right",
-      "published_date": "2026-09-29T17:50:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army bombards towns in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-bombards-towns-southern-lebanon",
-      "published_date": "2026-09-29T16:18:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hormuz oil shipments increase to almost pre-war levels ahead of plans to reopen Strait",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-shipments-through-hormuz-increase-almost-pre-war-levels-ahead-plans",
-      "published_date": "2026-09-29T16:08:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As the US pulls its forces out of Iraq, what happens to Iran-backed armed groups?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-pulls-its-forces-out-iraq-what-happens-iran-backed-armed-groups",
-      "published_date": "2026-09-29T16:01:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss",
-      "published_date": "2026-09-29T15:47:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ireland undecided on approach for next game against Israel, coach says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss",
-      "published_date": "2026-09-29T15:33:42+00:00",
       "category": "Military"
     },
     {
@@ -403,6 +403,27 @@
       "category": "Energy"
     },
     {
+      "title": "Pep Guardiola backs Man City after guilty verdict on financial charges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/30/pep-guardiola-backs-man-city-after-guilty-verdict-on-financial-charges?traffic_source=rss",
+      "published_date": "2026-09-30T14:27:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Morocco appoints its first woman prime minister",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/morocco-appoints-its-first-woman-prime-minister",
+      "published_date": "2026-09-30T11:28:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What’s behind French student protests that turned violent?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/whats-behind-french-student-protests-that-turned-violent?traffic_source=rss",
+      "published_date": "2026-09-30T11:01:19+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Man City CEO: Premier League verdict based on ‘conspiracy theory’",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss",
@@ -522,25 +543,88 @@
       "category": "Economy"
     },
     {
-      "title": "Report: UAE-owned Manchester City found guilty of financial rules breach",
+      "title": "Israeli settlers raid West Bank village, Ottoman-era historic site",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/report-uae-owned-manchester-city-found-guilty-financial-rules-breach",
-      "published_date": "2026-09-26T01:10:42+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-raid-west-bank-village-ottoman-era-historic-site",
+      "published_date": "2026-09-30T16:06:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Manchester City reportedly found guilty of almost 115 financial charges",
+      "title": "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
-      "published_date": "2026-09-25T20:56:20+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/gallery/2026/9/30/photos-kashmirs-600-year-old-wazwan-wedding-feast-adapts-to-modern-life?traffic_source=rss",
+      "published_date": "2026-09-30T15:22:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Revealed: Cisco talks with pro-Palestine employees over discrimination complaint collapse",
+      "title": "Palestinian archaeologists race against time to save Gaza’s heritage",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/30/palestinian-archaeologists-race-against-time-to-save-gazas-heritage?traffic_source=rss",
+      "published_date": "2026-09-30T13:45:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Israel is interfering in Palestinian education",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss",
+      "published_date": "2026-09-30T13:22:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christa Pike seeks firing squad, not lethal injection: Inside US executions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss",
+      "published_date": "2026-09-30T13:14:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Settlers closing in on Ramallah",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss",
+      "published_date": "2026-09-30T12:43:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exclusive: Zack Polanski says UK should defy Israel on fate of British Consulate in East Jerusalem",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/revealed-cisco-talks-pro-palestine-employees-discrimination-complaint-collapse",
-      "published_date": "2026-09-25T14:36:46+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-zack-polanski-says-uk-should-defy-israel-fate-british",
+      "published_date": "2026-09-30T12:33:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour minister: British Muslims haven't always been heard but Burnham will change that",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-minister-says-british-muslims-havent-been-heard-and-must-change-private-conference-event",
+      "published_date": "2026-09-30T12:22:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza students take Ireland to court over visa refusals",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/gaza-students-take-ireland-court-over-visa-refusals",
+      "published_date": "2026-09-30T12:10:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of Jewish settlers storm Al-Aqsa mosque",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hundreds-jewish-settlers-storm-al-aqsa-mosque",
+      "published_date": "2026-09-30T12:00:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At long last, the UK is changing course on Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/long-last-uk-changing-course-israel",
+      "published_date": "2026-09-30T11:43:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We no longer eat three meals’: Yemen’s displaced face daily fight for food",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food?traffic_source=rss",
+      "published_date": "2026-09-30T11:01:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palestinian boy shot by Israeli gunfire during raid on al-Fara'a refugee camp",
@@ -596,90 +680,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-targets-apartment-west-gaza-city-children-amongst-wounded",
       "published_date": "2026-09-29T02:15:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza’s young inventors build robots with what they have",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss",
-      "published_date": "2026-09-28T20:34:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migrant children protest after police clear beach camp in Ceuta",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/migrant-children-protest-after-police-clear-beach-camp-in-ceuta?traffic_source=rss",
-      "published_date": "2026-09-28T16:44:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola cases surpass 8,000 as DRC struggles to control outbreak",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/ebola-cases-surpass-8000-as-drc-struggles-to-control-outbreak?traffic_source=rss",
-      "published_date": "2026-09-28T16:26:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian-American journalist freed after 13 days in Israeli detention",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-american-journalist-freed-after-13-days-israeli-detention",
-      "published_date": "2026-09-28T15:17:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel shuts Palestinian shops to facilitate Jewish prayers in Jerusalem’s Old City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-shuts-palestinian-shops-facilitate-jewish-prayers-jerusalems-old",
-      "published_date": "2026-09-28T14:16:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could Britain defy Israel’s order to shut down its East Jerusalem consulate?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/could-britain-defy-israels-order-shut-down-its-east-jerusalem-consulate",
-      "published_date": "2026-09-28T13:07:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel chokes West Bank movement amid Jewish holiday",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-chokes-west-bank-movement-during-jewish-holiday",
-      "published_date": "2026-09-28T12:56:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smotrich calls for full-scale war in occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-calls-full-scale-war-occupied-west-bank",
-      "published_date": "2026-09-28T01:08:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
-      "published_date": "2026-09-28T00:29:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alleged rape on campus sparks violent protest at Indian university",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
-      "published_date": "2026-09-27T21:17:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel revokes credentials of Dutch diplomats in Ramallah over West Bank trade ban",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-revokes-credentials-dutch-diplomats-ramallah-over-west-bank-trade",
-      "published_date": "2026-09-27T19:37:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel revokes credentials of Dutch diplomats in Ramallah over West Bank trade ban",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-revokes-credentials-dutch-diplomats-ramallah-over-west-bank-trade-ban",
-      "published_date": "2026-09-27T19:28:35+00:00",
       "category": "Local Events"
     }
   ]
