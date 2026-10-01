@@ -1,8 +1,57 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-01T01:55:46.967318+00:00",
-  "story_count": 100,
+  "last_updated": "2026-10-01T17:12:46.425267+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Board of Peace meeting descends into Turkey-Israel shouting match: Israeli media",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/board-peace-meeting-descends-turkey-israel-shouting-match-israeli-media",
+      "published_date": "2026-10-01T17:00:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chinese hackers impersonated AI experts to target US policy minds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/1/chinese-hackers-impersonated-ai-experts-to-target-us-policy-minds?traffic_source=rss",
+      "published_date": "2026-10-01T16:28:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Who is leading the race for 'the most impossible job on this Earth'?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/who-leading-race-most-impossible-job-earth",
+      "published_date": "2026-10-01T16:18:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt condemns Israeli raid at Al-Aqsa",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-condemns-israeli-raid-al-aqsa",
+      "published_date": "2026-10-01T15:49:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran summons UK envoy over 'false accusations'  of suspected RAF Fairford plot",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-summons-uk-envoy-over-false-accusations-suspected-raf-fairford-plot",
+      "published_date": "2026-10-01T14:22:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "RAF Fairford: Netanyahu claims Israel warned UK of ‘Iranian attack’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/raf-fairford-netanyahu-claims-israel-warned-uk-iranian-attack",
+      "published_date": "2026-10-01T10:56:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "RAF Fairford: Netanyahu claims Israel warned UK of ‘Iranian attack’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/netanyahu-claims-israel-warned-uk-iranian-attack-after-israeli-minister-called-shabana-mahmood",
+      "published_date": "2026-10-01T10:36:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
       "source": "Al Jazeera",
@@ -95,53 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
-      "published_date": "2026-09-29T23:28:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Committee on Exercise of Inalienable Rights of Palestinian People meets with UN's Guterres",
+      "title": "RAF Fairford: UK-Iranian national arrested in air base terror investigation",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/committee-exercise-inalienable-rights-palestinian-people-meets-uns",
-      "published_date": "2026-09-29T22:44:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/raf-fairford-uk-iranian-national-arrested-airbase-terror-investigation",
+      "published_date": "2026-10-01T17:07:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "US Supreme Court allows Trump to continue third-country deportations",
+      "title": "Western militaries are undermining Ukraine’s defence, experts say",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations?traffic_source=rss",
-      "published_date": "2026-09-29T22:06:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss",
+      "published_date": "2026-10-01T15:00:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
-      "published_date": "2026-09-29T20:48:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says he does not know if Iran is going to 'give up yet'",
+      "title": "Seven killed in Syria after gunmen open fire on bus in Homs",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-does-not-know-if-iran-going-give-yet",
-      "published_date": "2026-09-29T20:23:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/syria-hit-gas-explosion-deadly-bus-attack-and-israeli-shelling",
+      "published_date": "2026-10-01T14:31:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "IRGC issues open letter urging US voters to 'wrest control back from corrupt politicians'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-issues-open-letter-urging-american-voters-wrest-control-back",
-      "published_date": "2026-09-29T20:14:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
+      "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
-      "published_date": "2026-09-29T20:08:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
+      "published_date": "2026-10-01T13:25:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
+      "published_date": "2026-10-01T13:06:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Activists protest Indian police raid over kite-flying event for Palestine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss",
+      "published_date": "2026-10-01T13:04:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zimbabwe businessman Wicknell Chivayo killed in helicopter crash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/zimbabwe-businessman-wicknell-chivayo-killed-in-helicopter-crash?traffic_source=rss",
+      "published_date": "2026-10-01T12:40:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Funeral held for DR Congo politician killed after defending Ebola response",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-dr-congo-politician-killed-after-defending-ebola-response?traffic_source=rss",
+      "published_date": "2026-10-01T12:07:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Afghanistan says Pakistani airstrikes killed women and children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/afghanistan-says-pakistani-airstrikes-killed-women-and-children?traffic_source=rss",
+      "published_date": "2026-10-01T11:38:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drone strike wounds several Palestinians in Khan Younis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-wounds-several-palestinians-khan-younis",
+      "published_date": "2026-10-01T10:52:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza death toll rises after eight killed in Israeli attacks on Wednesday",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-eight-killed-israeli-attacks-wednesday",
+      "published_date": "2026-10-01T10:47:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NAZA: Documentary on Gaza beats Avengers re-release to top Italian box office",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/naza-beats-new-avengers-movie-top-box-office-italy",
+      "published_date": "2026-10-01T10:27:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We are vulnerable’: Kurds fear renewed attacks as US‑led coalition departs Iraq",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/we-are-vulnerable-kurds-fear-renewed-attacks-us-led-coalition-departs-iraq",
+      "published_date": "2026-10-01T10:01:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Lebanon: 'It's torture, they are razing our lives before our eyes'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/south-lebanon-its-torture-they-are-razing-our-lives-our-eyes",
+      "published_date": "2026-10-01T09:51:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks kill Palestinian and wound others north of Khan Younis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-palestinian-and-wound-others-north-khan-younis",
+      "published_date": "2026-10-01T09:50:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
@@ -179,109 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
-      "published_date": "2026-09-30T21:01:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seven people killed, four injured after bus attacked by gunfire in Syria's Homs",
+      "title": "Saudi-led coalition claims Houthis targeted power station in Medina",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-people-killed-four-injured-after-bus-attacked-gunfire-syrias-homs",
-      "published_date": "2026-09-30T20:48:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth says American forces have ‘destroyed’ Iran’s military",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-says-american-forces-have-destroyed-irans-military",
-      "published_date": "2026-09-30T20:39:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Resolution demanding accountability for Americans killed by Israel fails in US Senate",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/resolution-demanding-accountability-americans-killed-israel-fails-us",
-      "published_date": "2026-09-30T20:17:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks across Gaza kill at least eight",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
-      "published_date": "2026-09-30T20:12:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth says US cut number of generals, admirals by 20 percent",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-says-us-cut-number-generals-admirals-20-percent",
-      "published_date": "2026-09-30T19:48:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
-      "published_date": "2026-09-30T19:43:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Centcom welcomes Bahrain to multinational attack drone task force initiative",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-welcomes-bahrain-multinational-attack-drone-task-force",
-      "published_date": "2026-09-30T18:54:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK PM says 'strong indications' Iran involved in airbase scare",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-pm-says-strong-indications-iran-involved-airbase-scare",
-      "published_date": "2026-09-30T16:11:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Muqtada al-Sadr says US should compensate Iraqis as last American forces leave",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/muqtada-al-sadr-says-us-should-compensate-iraqis-last-american-forces",
-      "published_date": "2026-09-30T15:50:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran official criticises UAE welcoming ‘Butcher of Gaza’ Netanyahu into country",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-official-criticises-uae-welcoming-butcher-gaza-netanyahu-country",
-      "published_date": "2026-09-30T15:44:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese media reports Israeli strikes on southeast of the country",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-media-reports-israeli-strikes-southeast-country",
-      "published_date": "2026-09-30T15:25:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
-      "published_date": "2026-09-30T15:06:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Hegseth cutting 20 percent of US general and admiral positions?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/why-is-hegseth-cutting-20-percent-of-us-general-and-admiral-positions?traffic_source=rss",
-      "published_date": "2026-09-30T14:35:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian journalist killed in Israeli drone strike",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-journalist-killed-israeli-drone-strike",
-      "published_date": "2026-09-30T13:37:49+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-houthis-targeted-power-station-medina",
+      "published_date": "2026-10-01T16:44:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "US Senate rejects bill targeting AI data centre electricity costs",
@@ -403,25 +410,11 @@
       "category": "Energy"
     },
     {
-      "title": "Yemenis seek safety in Djibouti as African migrants continue crossing to Yemen",
+      "title": "Manchester City’s Emirati chair's diplomatic immunity complicates legal action",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemenis-seek-safety-djibouti-african-migrants-continue-crossing-yemen",
-      "published_date": "2026-09-24T12:37:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Italian activists challenge Israeli-linked solar projects",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italian-activists-challenge-israeli-linked-solar-projects",
-      "published_date": "2026-09-24T11:25:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Could the oil shock push fuel prices even higher?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/9/24/could-the-oil-shock-push-fuel-prices-even-higher?traffic_source=rss",
-      "published_date": "2026-09-24T11:17:48+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/manchester-city-chairs-uk-diplomatic-immunity-could-complicate-legal-action",
+      "published_date": "2026-10-01T12:25:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pep Guardiola backs Man City after guilty verdict on financial charges",
@@ -557,11 +550,39 @@
       "category": "Economy"
     },
     {
-      "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
+      "title": "Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss",
-      "published_date": "2026-09-26T08:13:06+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/gallery/2026/10/1/photos-palestinians-mourn-more-than-100-loved-ones-in-mass-gaza-funeral?traffic_source=rss",
+      "published_date": "2026-10-01T16:50:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian man succumbs to wounds following Israeli raid on village in central West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-succumbs-wounds-following-israeli-raid-village-central",
+      "published_date": "2026-10-01T14:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minaret of Indian mosque collapses during controversial demolition",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-clip-shahi-mosque-demolition-minaret-in?traffic_source=rss",
+      "published_date": "2026-10-01T11:39:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mass funerals held for over 100 Palestinians unearthed from rubble in Gaza City",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mass-funerals-held-over-100-palestinains-unearthed-rubble-gaza-city",
+      "published_date": "2026-10-01T11:37:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Al-Aqsa Mosque sees mass settler raids during Jewish holiday",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/al-aqsa-mosque-sees-mass-raids-during-jewish-holiday",
+      "published_date": "2026-10-01T11:06:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
@@ -666,41 +687,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/gaza-students-take-ireland-court-over-visa-refusals",
       "published_date": "2026-09-30T12:10:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of Jewish settlers storm Al-Aqsa mosque",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hundreds-jewish-settlers-storm-al-aqsa-mosque",
-      "published_date": "2026-09-30T12:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At long last, the UK is changing course on Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/long-last-uk-changing-course-israel",
-      "published_date": "2026-09-30T11:43:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We no longer eat three meals’: Yemen’s displaced face daily fight for food",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food?traffic_source=rss",
-      "published_date": "2026-09-30T11:01:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian boy shot by Israeli gunfire during raid on al-Fara'a refugee camp",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-boy-shot-israeli-gunfire-during-raid-al-faraa-refugee-camp",
-      "published_date": "2026-09-29T21:55:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French students clash with police as protests over education cuts spread",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss",
-      "published_date": "2026-09-29T21:09:23+00:00",
       "category": "Local Events"
     }
   ]
