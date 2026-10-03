@@ -1,8 +1,36 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-02T16:25:56.429510+00:00",
+  "last_updated": "2026-10-03T01:49:42.086815+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US and Australia suspend diplomatic operations in Brazil before election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
+      "published_date": "2026-10-03T00:46:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Inside Somaliland: The Israel-Turkey clash coming to the Horn of Africa",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/inside-somaliland-israel-turkey-clash-coming-horn-africa",
+      "published_date": "2026-10-02T21:14:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
+      "published_date": "2026-10-02T20:28:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Europe agreed to release ‘massive amount’ of diesel reserves",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss",
+      "published_date": "2026-10-02T19:01:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump to name intelligence chief Clayton as AI tsar: Reports",
       "source": "Al Jazeera",
@@ -116,32 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Oil supertanker hit in Hormuz: Iranian media",
+      "title": "Israeli strike on Gaza apartment complex kills four Palestinians",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-supertanker-hit-hormuz-iranian-media",
-      "published_date": "2026-10-01T20:16:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-apartment-complex-kills-palestinian",
+      "published_date": "2026-10-03T00:23:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
+      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
-      "published_date": "2026-10-01T20:10:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+      "published_date": "2026-10-03T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Putin lavishes praise on Iran, reiterates offer to hold uranium",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/putin-lavishes-praise-iran-reiterates-offer-hold-uranium",
-      "published_date": "2026-10-01T19:38:36+00:00",
-      "category": "Diplomacy"
+      "title": "North Korea fires ballistic missile towards the sea, South Korea says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
+      "published_date": "2026-10-02T23:55:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kushner's financial stakes in Israeli defence firms raises conflict of interest concerns: Report",
+      "title": "UK condemns Houthi attacks on Taiz, minister says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kushners-financial-stakes-israeli-defence-firms-raises-conflict-interest",
-      "published_date": "2026-10-01T17:55:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-condemns-houthi-attacks-saudi-arabias-taiz-minister-says",
+      "published_date": "2026-10-02T23:22:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Missile debris injures resident in Ahad Rafidah, Saudi Civil Defence says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-debris-injures-resident-ahad-rafidah-saudi-civil-defence-says",
+      "published_date": "2026-10-02T23:09:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Battle in Yemen's Taiz kills scores of combatants, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/battle-yemens-taiz-kills-scores-combatants-report-says",
+      "published_date": "2026-10-02T22:30:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Carney’s economic overhaul is clashing with Canada’s unions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss",
+      "published_date": "2026-10-02T22:14:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/police-bodycam-shows-luigi-mangione-arrest-at-pennsylvania?traffic_source=rss",
+      "published_date": "2026-10-02T21:59:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
+      "published_date": "2026-10-02T21:53:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Inside Somaliland: The Israel-Turkey clash coming to the Horn of Africa",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israel-turkey-clash-coming-horn-africa",
+      "published_date": "2026-10-02T20:45:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli military conducts explosion in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-conducts-explosion-southern-lebanon",
+      "published_date": "2026-10-02T20:25:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could conflict in Ethiopia expand across the region?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
+      "published_date": "2026-10-02T20:17:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Artillery attack injures six people, including two children, in Yemen’s Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/artillery-attack-injures-six-people-including-two-children-yemens-taiz",
+      "published_date": "2026-10-02T19:54:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan sent four planeloads of weapons to Saudi-backed government in Yemen: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-sent-four-planeloads-weapons-saudi-backed-government-yemen",
+      "published_date": "2026-10-02T19:46:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US sends additional Patriot batteries to Saudi Arabia and Qatar: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-sends-additional-patriot-batteries-saudi-arabia-and-qatar-report",
+      "published_date": "2026-10-02T19:44:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan sent four planeloads of weapons to Saudi-backed government in Yemen: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/pakistan-sent-four-planeloads-weapons-saudi-backed-government-yemen-report",
+      "published_date": "2026-10-02T19:20:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
+      "published_date": "2026-10-02T18:51:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis say Saudi forces launched 94 strikes in Yemen in 24 hours",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-forces-launched-94-strikes-yemen-24-hours",
+      "published_date": "2026-10-02T18:48:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
@@ -158,130 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "‘We must enter first’: Yemen’s female soldiers face war, danger and a changing society",
+      "title": "Crude oil tanker hit by unknown projectile off Oman, UKMTO says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/yemen-female-soldiers-women-war-danger-society",
-      "published_date": "2026-10-02T12:49:35+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crude-oil-tanker-hit-unknown-projectile-oman-ukmto-says",
+      "published_date": "2026-10-02T23:46:39+00:00",
+      "category": "Energy"
     },
     {
-      "title": "France approved new military equipment sales to Israel, research finds",
+      "title": "Trump says US not ‘doing the export ban’",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/france-approved-new-military-equipment-sales-israel-new-research-finds",
-      "published_date": "2026-10-02T11:49:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Record numbers going hungry in Yemen amid escalating conflict, WFP says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/record-numbers-going-hungry-yemen-amid-escalating-conflict-wfp-says",
-      "published_date": "2026-10-02T10:29:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 80 dead in fighting between Houthis and pro-government forces in last 24 hours",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-80-dead-fighting-between-houthis-and-pro-government-forces-last-24",
-      "published_date": "2026-10-02T08:55:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC official says US faces 'humiliating situation' amid growing 'resistance' in the region",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-official-says-us-faces-humiliating-situation-amid-growing",
-      "published_date": "2026-10-02T01:35:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
-      "published_date": "2026-10-02T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-      "published_date": "2026-10-01T23:44:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says it's 'possible' war on Iran will hurt Republicans in midterms",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-its-possible-iran-war-will-hurt-republicans-midterms",
-      "published_date": "2026-10-01T23:42:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
-      "published_date": "2026-10-01T21:33:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis, AFP say explosions heard in Sanaa",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-afp-say-explosions-heard-sanaa",
-      "published_date": "2026-10-01T21:22:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss",
-      "published_date": "2026-10-01T20:49:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eritrea and Ethiopia shutter embassies as new Red Sea conflict looms",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/eritrea-and-ethiopia-shutter-embassies-new-red-sea-war-looming",
-      "published_date": "2026-10-01T20:25:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "RAF Fairford: UK-Iranian national arrested in air base terror investigation",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/raf-fairford-uk-iranian-national-arrested-airbase-terror-investigation",
-      "published_date": "2026-10-01T17:07:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Western militaries are undermining Ukraine’s defence, experts say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss",
-      "published_date": "2026-10-01T15:00:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seven killed in Syria after gunmen open fire on bus in Homs",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/syria-hit-gas-explosion-deadly-bus-attack-and-israeli-shelling",
-      "published_date": "2026-10-01T14:31:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
-      "published_date": "2026-10-01T13:25:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
-      "published_date": "2026-10-01T13:06:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Activists protest Indian police raid over kite-flying event for Palestine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss",
-      "published_date": "2026-10-01T13:04:34+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-not-doing-export-ban",
+      "published_date": "2026-10-02T21:35:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "G7 countries rebuke Iran for attack on neighbours",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Powerful storm brings flooding, power outages to northeastern United States",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
-      "published_date": "2026-09-26T22:51:57+00:00",
-      "category": "Energy"
+      "title": "Trump again: 'Iran war could end very soon, probably right after elections'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-again-iran-war-could-end-very-soon-probably-right-after-elections",
+      "published_date": "2026-10-03T01:46:18+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Student protesters disrupt NVIDIA AI climate panel",
+      "title": "Dutch royal house helped slave trade to survive, study finds",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
-      "published_date": "2026-09-26T22:09:33+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss",
+      "published_date": "2026-10-02T23:43:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "Man City lodge appeal after guilty finding in financial breach scandal",
@@ -550,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "‘My hands are empty’: Displaced Palestinians struggle to survive",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss",
-      "published_date": "2026-09-27T10:26:21+00:00",
-      "category": "Economy"
+      "title": "Settlers kill 19-year-old Palestinian in West Bank, two injured, six detained",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-kill-19-year-old-palestinian-west-bank-two-injured-six-detained",
+      "published_date": "2026-10-03T00:20:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US thanks Turkey, Oman, UAE for supporting sanctions against Iran",
+      "title": "Two Iranians charged over suspected plot to target Jews in Manchester",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-thanks-turkey-oman-uae-supporting-sanctions-against-iran",
-      "published_date": "2026-09-27T01:07:22+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-iranians-charged-over-suspected-plot-target-jews-manchester",
+      "published_date": "2026-10-02T23:38:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death, displacement and disease: A young Gaza doctor on life under Israeli bombardment",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-displacement-and-disease-young-gaza-doctor-life-under-israeli",
+      "published_date": "2026-10-02T22:52:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LA Times ad promoting Israeli tourism erases occupied Palestinian territories",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/la-times-ad-promoting-israeli-tourism-erases-occupied-palestinian-territories",
+      "published_date": "2026-10-02T21:05:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
+      "published_date": "2026-10-02T18:18:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
+      "published_date": "2026-10-02T17:43:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Does the punishment fit the crime? Controversy erupts around ‘Cornell 7’",
@@ -659,48 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-clip-shahi-mosque-demolition-minaret-in?traffic_source=rss",
       "published_date": "2026-10-01T11:39:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mass funerals held for over 100 Palestinians unearthed from rubble in Gaza City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mass-funerals-held-over-100-palestinains-unearthed-rubble-gaza-city",
-      "published_date": "2026-10-01T11:37:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al-Aqsa Mosque sees mass settler raids during Jewish holiday",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/al-aqsa-mosque-sees-mass-raids-during-jewish-holiday",
-      "published_date": "2026-10-01T11:06:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss",
-      "published_date": "2026-09-30T23:31:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
-      "published_date": "2026-09-30T23:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US representatives introduce bill sanctioning expanding Israeli settlements",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-representatives-introduce-bill-sanctioning-expanding-israeli",
-      "published_date": "2026-09-30T22:08:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wisconsin Palestinian community leader can be deported, immigration judge rules",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wisconsin-palestinian-community-leader-can-be-deported-immigration-judge",
-      "published_date": "2026-09-30T20:33:05+00:00",
       "category": "Local Events"
     }
   ]
