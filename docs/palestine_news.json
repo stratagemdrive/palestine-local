@@ -1,8 +1,15 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-03T01:49:42.086815+00:00",
+  "last_updated": "2026-10-03T15:00:35.608411+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Polls open in Latvia against backdrop of perceived Russia threat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss",
+      "published_date": "2026-10-03T08:21:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US and Australia suspend diplomatic operations in Brazil before election",
       "source": "Al Jazeera",
@@ -137,11 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ICC ends contract with French insurer amid US sanctions threat",
+      "title": "Yemeni army claims 1,540 Houthi casualties as fighting intensifies in Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-claims-1540-houthi-casualties-fighting-intensifies-taiz",
+      "published_date": "2026-10-03T14:21:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni army claims 1,540 Houthi casualties as fighting intensifies in Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/yemen-army-claims-1540-houthi-casualties-fighting-intensifies-taiz",
+      "published_date": "2026-10-03T14:16:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss",
-      "published_date": "2026-10-01T20:20:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
+      "published_date": "2026-10-03T13:18:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni government confirms attacks on 'vital military targets' in Sanaa",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-confirms-attacks-vital-military-targets-sanaa",
+      "published_date": "2026-10-03T13:03:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss",
+      "published_date": "2026-10-03T13:00:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
+      "published_date": "2026-10-03T12:55:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces open fire in Syria’s Deraa governorate",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-open-fire-syrias-deraa-governorate",
+      "published_date": "2026-10-03T12:31:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drone strike on Beit Lahia kills one, wounds others",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-beit-lahia-kills-one-wounds-others",
+      "published_date": "2026-10-03T12:27:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza death toll rises after seven Palestinians killed in 24 hours",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-seven-palestinians-killed-24-hours",
+      "published_date": "2026-10-03T11:25:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces held Palestinian activist Issa Amro incommunicado for hours: Israeli rights lawyer",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-held-palestinian-activist-issa-amro-incommunicado-hours",
+      "published_date": "2026-10-03T09:21:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s army claims over 1,500 Houthi casualties, attacks Sanaa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
+      "published_date": "2026-10-03T08:36:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Morning recap",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-170",
+      "published_date": "2026-10-03T06:45:31+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strike on Gaza apartment complex kills four Palestinians",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+      "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
-      "published_date": "2026-10-02T21:53:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside Somaliland: The Israel-Turkey clash coming to the Horn of Africa",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-turkey-clash-coming-horn-africa",
-      "published_date": "2026-10-02T20:45:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military conducts explosion in southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-conducts-explosion-southern-lebanon",
-      "published_date": "2026-10-02T20:25:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could conflict in Ethiopia expand across the region?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
-      "published_date": "2026-10-02T20:17:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Artillery attack injures six people, including two children, in Yemen’s Taiz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/artillery-attack-injures-six-people-including-two-children-yemens-taiz",
-      "published_date": "2026-10-02T19:54:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan sent four planeloads of weapons to Saudi-backed government in Yemen: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-sent-four-planeloads-weapons-saudi-backed-government-yemen",
-      "published_date": "2026-10-02T19:46:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US sends additional Patriot batteries to Saudi Arabia and Qatar: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-sends-additional-patriot-batteries-saudi-arabia-and-qatar-report",
-      "published_date": "2026-10-02T19:44:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan sent four planeloads of weapons to Saudi-backed government in Yemen: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/pakistan-sent-four-planeloads-weapons-saudi-backed-government-yemen-report",
-      "published_date": "2026-10-02T19:20:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
-      "published_date": "2026-10-02T18:51:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis say Saudi forces launched 94 strikes in Yemen in 24 hours",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-forces-launched-94-strikes-yemen-24-hours",
-      "published_date": "2026-10-02T18:48:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
-      "published_date": "2026-10-02T16:06:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss",
-      "published_date": "2026-10-02T13:53:24+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
+      "published_date": "2026-10-03T09:27:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "Crude oil tanker hit by unknown projectile off Oman, UKMTO says",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "China ‘substantially reduced’ assistance to Iran, US says",
+      "title": "What to know about Brazil’s 2026 presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
+      "published_date": "2026-10-03T14:23:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why the EU's sanctions on Sudan's gold trade are fundamentally flawed",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-substantially-reduced-assistance-iran-us-says",
-      "published_date": "2026-09-27T17:21:25+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/opinion/why-eu-sanctions-sudan-gold-trade-fundamentally-flawed",
+      "published_date": "2026-10-03T12:43:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump again: 'Iran war could end very soon, probably right after elections'",
@@ -550,18 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss",
-      "published_date": "2026-09-27T23:09:48+00:00",
-      "category": "Economy"
+      "title": "Palestinian man succumbs to wounds sustained from Israeli attack in Deir el-Balah",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-succumbs-wounds-sustained-israeli-attack-deir-el-balah",
+      "published_date": "2026-10-03T14:19:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
+      "title": "French high school engulfed in flames as student protests continue",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
-      "published_date": "2026-09-27T11:04:30+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss",
+      "published_date": "2026-10-03T12:59:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
+      "published_date": "2026-10-03T12:18:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/entire-land-ours-ben-gvir-escalates-calls-annexation-occupied-west-bank",
+      "published_date": "2026-10-03T11:30:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
+      "published_date": "2026-10-03T11:16:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians gather for football amid Gaza’s ruins",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
+      "published_date": "2026-10-03T11:08:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/entire-land-ours-ben-gvir-escalates-calls-annexation-occupied-west-bank",
+      "published_date": "2026-10-03T10:54:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
+      "published_date": "2026-10-03T10:48:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘They want to displace us’: Israel launches new demolition of West Bank olive groves",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/they-want-displace-us-israeli-army-new-demolition-west-bank-olive-groves",
+      "published_date": "2026-10-03T09:52:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Artists must pick a side': How Israel's assault on Gaza is shifting the culture on Broadway",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/big-story/how-israel-assault-gaza-shifting-culture-broadway",
+      "published_date": "2026-10-03T08:07:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces detain dozens as settlers target olive harvesters in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-dozens-settlers-target-olive-harvesters-west-bank",
+      "published_date": "2026-10-03T06:59:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Settlers kill 19-year-old Palestinian in West Bank, two injured, six detained",
@@ -624,83 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/green-party-members-vote-declaring-zionism-form-racism-conference",
       "published_date": "2026-10-02T15:40:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death, displacement and disease: A young Gaza doctor on life under Israeli bombardment",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/the-gaza-podcast-young-doctor-life-under-israeli-bombardment",
-      "published_date": "2026-10-02T15:30:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World’s largest nursing union cuts ties with Israeli drugmaker Teva",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/worlds-largest-nursing-union-cuts-ties-israeli-drugmaker-teva",
-      "published_date": "2026-10-02T13:59:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests shutter hundreds of French schools as violence flares",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares?traffic_source=rss",
-      "published_date": "2026-10-02T13:12:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola death toll surpasses 4,000 as DR Congo struggles to suppress outbreak",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak?traffic_source=rss",
-      "published_date": "2026-10-02T12:56:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What’s behind France’s school protests?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-reported-natascha-paris-school-fr?traffic_source=rss",
-      "published_date": "2026-10-02T11:42:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Containerabad’: Pakistan’s capital, truckers bleed money amid lockdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/2/containerabad-pakistans-capital-and-truckers-bleed-money-amid-lockdown?traffic_source=rss",
-      "published_date": "2026-10-02T11:22:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funeral held for Palestinian man killed in the occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-10-01T20:45:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What’s driving Israeli settler violence in the occupied West Bank?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-10-01T19:45:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/10/1/photos-palestinians-mourn-more-than-100-loved-ones-in-mass-gaza-funeral?traffic_source=rss",
-      "published_date": "2026-10-01T16:50:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian man succumbs to wounds following Israeli raid on village in central West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-succumbs-wounds-following-israeli-raid-village-central",
-      "published_date": "2026-10-01T14:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minaret of Indian mosque collapses during controversial demolition",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-clip-shahi-mosque-demolition-minaret-in?traffic_source=rss",
-      "published_date": "2026-10-01T11:39:56+00:00",
       "category": "Local Events"
     }
   ]
