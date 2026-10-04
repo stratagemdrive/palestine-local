@@ -1,8 +1,22 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-04T02:29:31.915961+00:00",
+  "last_updated": "2026-10-04T15:35:23.838107+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Green Party recognises Zionism as a form of racism and backs single Palestinian state",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/green-party-recognises-zionism-form-racism-and-backs-single-palestinian",
+      "published_date": "2026-10-04T14:46:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US response to Hormuz proposal currently 'under review' by Tehran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-reponse-hormuz-proposal-currently-under-review-tehran",
+      "published_date": "2026-10-04T13:49:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hegseth: US blockade of Hormuz ironclad, Iran should make right choice",
       "source": "Middle East Eye",
@@ -130,18 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Washington’s diplomacy in Sudan has backfired",
+      "title": "Iran tells US: there is ‘no military solution’ to end the war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired?traffic_source=rss",
-      "published_date": "2026-10-02T11:41:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
+      "published_date": "2026-10-04T15:06:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu's UAE visit highlights Arab leaders' dangerous gamble with Israel",
+      "title": "‘The Israeli occupation does not distinguish’: Gaza family mourns Christian mother and daughter",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/netanyahus-uae-visit-highlights-arab-leaders-dangerous-gamble-israel",
-      "published_date": "2026-10-02T11:37:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-occupation-does-not-distinguish-gaza-family-mourns-christian",
+      "published_date": "2026-10-04T15:02:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Green Party recognises Zionism as a form of racism and backs single Palestinian state",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/green-party-recognises-zionism-form-racism-and-backs-single-palestinian-state",
+      "published_date": "2026-10-04T14:02:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis claim attacks on Aramco sites in Saudi Arabia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-aramco-sites-saudi-arabia",
+      "published_date": "2026-10-04T13:56:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s leader announces military operation to retake Houthi-held territory",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory?traffic_source=rss",
+      "published_date": "2026-10-04T12:48:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni government to launch military campaign to reclaim Houthi-controlled territory",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-launch-military-campaign-reclaim-houthi-controlled",
+      "published_date": "2026-10-04T12:15:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As olive harvest nears, Palestinian farmers urgently need international protection",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/olive-harvest-nears-palestinian-farmers-urgently-need-international-protection",
+      "published_date": "2026-10-04T12:11:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
+      "published_date": "2026-10-04T11:58:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli air strikes target southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-target-southern-lebanon-4",
+      "published_date": "2026-10-04T11:19:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis cut vital supply road to Yemen's Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-cut-vital-supply-road-yemens-taiz",
+      "published_date": "2026-10-04T11:14:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran to increase the range of its missiles, army spokesperson tells Fars",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-increase-range-its-missiles-army-spokesperson-tells-fars",
+      "published_date": "2026-10-04T11:12:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
+      "published_date": "2026-10-04T11:05:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is the Sudanese army gaining momentum against the RSF?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
+      "published_date": "2026-10-04T10:56:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NAZA: Israeli embassies in UK and US promote rival documentary to challenge Gaza genocide allegations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/naza-israeli-embassies-uk-and-us-promote-rival-documentary-challenge",
+      "published_date": "2026-10-04T09:10:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemeni government forces carry out 97 anti-Houthi operations, spokesman says",
@@ -183,104 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-pezeshkian-says-new-measures-place-amid-stricter-sanctions",
       "published_date": "2026-10-03T21:01:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In photos: Aftermath of deadly Israeli attacks on Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/aftermath-deadly-israeli-attacks-gaza",
-      "published_date": "2026-10-03T20:17:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
-      "published_date": "2026-10-03T20:10:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq says it transported two million barrels of crude through Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-says-it-transported-two-million-barrels-crude-through-strait-hormuz",
-      "published_date": "2026-10-03T19:49:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's Houthis claim attack on Aramco site in Riyadh",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-claim-attack-aramco-site-riyadh",
-      "published_date": "2026-10-03T19:25:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
-      "published_date": "2026-10-03T16:25:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Report: Israeli attempt to kill senior Hamas official fails",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-attempt-kill-senior-hamas-official-fails",
-      "published_date": "2026-10-03T16:13:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni army claims 1,540 Houthi casualties as fighting intensifies in Taiz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-claims-1540-houthi-casualties-fighting-intensifies-taiz",
-      "published_date": "2026-10-03T14:21:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni army claims 1,540 Houthi casualties as fighting intensifies in Taiz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/yemen-army-claims-1540-houthi-casualties-fighting-intensifies-taiz",
-      "published_date": "2026-10-03T14:16:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
-      "published_date": "2026-10-03T13:18:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni government confirms attacks on 'vital military targets' in Sanaa",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-confirms-attacks-vital-military-targets-sanaa",
-      "published_date": "2026-10-03T13:03:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss",
-      "published_date": "2026-10-03T13:00:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
-      "published_date": "2026-10-03T12:55:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces open fire in Syria’s Deraa governorate",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-open-fire-syrias-deraa-governorate",
-      "published_date": "2026-10-03T12:31:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone strike on Beit Lahia kills one, wounds others",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-beit-lahia-kills-one-wounds-others",
-      "published_date": "2026-10-03T12:27:24+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Saudi Arabia shelves $2.5bn Neom stadium planned for 2034 World Cup, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/saudi-arabia-shelves-25bn-neom-stadium-planned-2034-world-cup-says-report",
+      "published_date": "2026-10-04T10:35:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tanker hit by unknown projectile in Strait of Hormuz, UKMTO says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-unknown-projectile-strait-hormuz-ukmto-says",
+      "published_date": "2026-10-04T09:07:28+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss",
@@ -550,18 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Turkey’s $17bn fund scandal becomes a political crisis for Erdogan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/turkeys-17bn-fund-scandal-becomes-political-crisis-erdogan",
-      "published_date": "2026-09-29T11:47:42+00:00",
-      "category": "Economy"
+      "title": "‘We need freedom’: New Delhi women protest sexual violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/we-need-freedom-new-delhi-women-protest-sexual-violence?traffic_source=rss",
+      "published_date": "2026-10-04T15:20:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
-      "published_date": "2026-09-28T22:05:43+00:00",
-      "category": "Economy"
+      "title": "‘The Israeli occupation does not distinguish’: Gaza family mourns Christian mother and daughter",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-occupation-does-not-distinguish-gaza-family-mourns-christian-mother-and-daughter",
+      "published_date": "2026-10-04T14:51:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As olive harvest nears, Palestinian farmers urgently need international protection: Opinion by Fareed Taamallah",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/olive-harvest-nears-palestinian-farmers-urgently-need-international",
+      "published_date": "2026-10-04T13:59:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza facing shortages of vital medical equipment for diagnosis and treatment",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-facing-shortages-vital-medical-equipment-diagnosis-and-treatment",
+      "published_date": "2026-10-04T11:07:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More on death of Palestinian man at Tulkarm checkpoint",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-death-palestinian-man-tulkarm-checkpoint",
+      "published_date": "2026-10-04T10:32:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Palestinians killed by Israeli fire in Gaza and occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-fire-gaza-and-occupied-west-bank",
+      "published_date": "2026-10-04T10:25:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six-year-old killed by Israeli attacks in central Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-year-old-killed-israeli-attacks-central-gaza",
+      "published_date": "2026-10-04T09:05:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pro-Israel advocates hound Green Party members over 'Zionism is Racism' motion",
@@ -652,55 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/they-want-displace-us-israeli-army-new-demolition-west-bank-olive-groves",
       "published_date": "2026-10-03T09:52:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Artists must pick a side': How Israel's assault on Gaza is shifting the culture on Broadway",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/big-story/how-israel-assault-gaza-shifting-culture-broadway",
-      "published_date": "2026-10-03T08:07:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces detain dozens as settlers target olive harvesters in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-dozens-settlers-target-olive-harvesters-west-bank",
-      "published_date": "2026-10-03T06:59:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Settlers kill 19-year-old Palestinian in West Bank, two injured, six detained",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-kill-19-year-old-palestinian-west-bank-two-injured-six-detained",
-      "published_date": "2026-10-03T00:20:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Iranians charged over suspected plot to target Jews in Manchester",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-iranians-charged-over-suspected-plot-target-jews-manchester",
-      "published_date": "2026-10-02T23:38:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death, displacement and disease: A young Gaza doctor on life under Israeli bombardment",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-displacement-and-disease-young-gaza-doctor-life-under-israeli",
-      "published_date": "2026-10-02T22:52:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LA Times ad promoting Israeli tourism erases occupied Palestinian territories",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/la-times-ad-promoting-israeli-tourism-erases-occupied-palestinian-territories",
-      "published_date": "2026-10-02T21:05:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
-      "published_date": "2026-10-02T18:18:42+00:00",
       "category": "Local Events"
     }
   ]
