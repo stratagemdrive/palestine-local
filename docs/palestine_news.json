@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-04T15:35:23.838107+00:00",
+  "last_updated": "2026-10-05T01:46:15.749442+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "No military solution to US-Iran war, Iranian foreign minister says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-military-solution-us-iran-war-iranian-foreign-minister-says",
+      "published_date": "2026-10-04T22:09:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon seeks 'new chapter' with Iran, prime minister says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-seeks-new-chapter-iran-prime-minister-says",
+      "published_date": "2026-10-04T22:02:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel slams Green Party after members vote to define Zionism as racism",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-slams-green-party-after-members-vote-define-zionism-racism",
+      "published_date": "2026-10-04T21:31:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian oil minister steps down",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-oil-minister-steps-down",
+      "published_date": "2026-10-04T18:14:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mecca pact committee to meet in Riyadh on Monday, Turkey says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mecca-pact-committee-meet-riyadh-monday-turkey-says",
+      "published_date": "2026-10-04T15:48:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Green Party recognises Zionism as a form of racism and backs single Palestinian state",
       "source": "Middle East Eye",
@@ -109,39 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
+      "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss",
-      "published_date": "2026-10-02T13:16:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
+      "published_date": "2026-10-05T01:08:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+      "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
-      "published_date": "2026-10-02T12:47:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
+      "published_date": "2026-10-05T01:03:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu's man: How Israel is betting on a Bolsonaro comeback in Brazil",
+      "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
+      "published_date": "2026-10-05T00:33:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Election panel orders Netanyahu to remove 'election propaganda' videos",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/netanyahus-candidate-how-israel-betting-bolsonaro-comeback-brazil",
-      "published_date": "2026-10-02T12:42:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/election-panel-orders-netanyahu-remove-election-propaganda-videos",
+      "published_date": "2026-10-05T00:30:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
+      "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss",
-      "published_date": "2026-10-02T12:27:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+      "published_date": "2026-10-05T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Egypt detains entire newsroom of leading fact-checking platform over 'fake news' allegations",
+      "title": "Israeli troops kill man in southern Syria",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/egypt-detains-entire-newsroom-leading-fact-checking-platform-over-fake-news-allegations",
-      "published_date": "2026-10-02T12:14:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-kill-man-southern-syria",
+      "published_date": "2026-10-04T23:43:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Watch: Saudi air strike hits foam factory in Yemen’s Sanaa",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-saudi-air-strike-hits-foam-factory-yemens-sanaa",
+      "published_date": "2026-10-04T23:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mysterious luminous object burns in the skies above Libya",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
+      "published_date": "2026-10-04T22:56:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel says it killed head of Turkish NGO, Hamas commander in separate Gaza strikes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-killed-head-turkish-ngo-hamas-commander-separate-gaza",
+      "published_date": "2026-10-04T20:56:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel shells Syria's Quneitra while Qatar and Jordan condemn its excavation near occupied Golan",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-shells-syrias-quneitra-while-qatar-and-jordan-condemn-its",
+      "published_date": "2026-10-04T19:41:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes and detonations hit several towns in southern Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-and-detonations-hit-several-towns-southern-lebanon",
+      "published_date": "2026-10-04T19:13:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War on Iran: Is escalation more likely than a deal?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+      "published_date": "2026-10-04T18:47:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One killed, over 15 wounded by Israeli forces and settlers in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-over-15-wounded-israeli-forces-and-settlers-west-bank",
+      "published_date": "2026-10-04T18:35:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Over 70 dead in fighting around Yemen's Taiz in 24 hours",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/over-70-dead-fighting-around-yemens-taiz-24-hours",
+      "published_date": "2026-10-04T16:56:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran tells US: there is ‘no military solution’ to end the war",
@@ -183,104 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-launch-military-campaign-reclaim-houthi-controlled",
       "published_date": "2026-10-04T12:15:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As olive harvest nears, Palestinian farmers urgently need international protection",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/olive-harvest-nears-palestinian-farmers-urgently-need-international-protection",
-      "published_date": "2026-10-04T12:11:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
-      "published_date": "2026-10-04T11:58:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air strikes target southern Lebanon",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-target-southern-lebanon-4",
-      "published_date": "2026-10-04T11:19:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis cut vital supply road to Yemen's Taiz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-cut-vital-supply-road-yemens-taiz",
-      "published_date": "2026-10-04T11:14:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran to increase the range of its missiles, army spokesperson tells Fars",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-increase-range-its-missiles-army-spokesperson-tells-fars",
-      "published_date": "2026-10-04T11:12:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
-      "published_date": "2026-10-04T11:05:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is the Sudanese army gaining momentum against the RSF?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
-      "published_date": "2026-10-04T10:56:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NAZA: Israeli embassies in UK and US promote rival documentary to challenge Gaza genocide allegations",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/naza-israeli-embassies-uk-and-us-promote-rival-documentary-challenge",
-      "published_date": "2026-10-04T09:10:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni government forces carry out 97 anti-Houthi operations, spokesman says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-carry-out-97-anti-houthi-operations-spokesman",
-      "published_date": "2026-10-04T02:16:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
-      "published_date": "2026-10-04T01:41:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
-      "published_date": "2026-10-04T00:00:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni forces say strikes conducted against Houthi targets in Sanaa, Saada",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-say-strikes-conducted-houthi-targets-sanaa-saada",
-      "published_date": "2026-10-03T23:07:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran welcomes exit of US forces from Iraq, calls for Washington to be held accountable",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-welcomes-exit-us-forces-iraq-calls-washington-be-held-accountable",
-      "published_date": "2026-10-03T22:45:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s Pezeshkian says new measures in place amid stricter sanctions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-pezeshkian-says-new-measures-place-amid-stricter-sanctions",
-      "published_date": "2026-10-03T21:01:42+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+      "published_date": "2026-10-04T23:22:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Explosions reported near tanker off southern Yemen: UKMTO",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-reported-near-tanker-southern-yemen-ukmto",
+      "published_date": "2026-10-04T19:45:31+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Saudi Arabia shelves $2.5bn Neom stadium planned for 2034 World Cup, report says",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/saudi-arabia-shelves-25bn-neom-stadium-planned-2034-world-cup-says-report",
@@ -550,18 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Manchester City chief claims 'conspiracy' as UAE-owned club found guilty of financial violations charges",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/manchester-city-chief-claims-conspiracy-uae-owned-club-found-guilty-all-financial-rules",
-      "published_date": "2026-09-29T20:51:33+00:00",
-      "category": "Economy"
+      "title": "Debris found near Nantucket believed to be from missing medical plane",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
+      "published_date": "2026-10-04T20:21:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Man City guilty of all serious financial breach charges: Premier League",
+      "title": "Imran Khan’s party launches march to Islamabad demanding his release",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss",
-      "published_date": "2026-09-29T16:30:50+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
+      "published_date": "2026-10-04T19:53:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France to shutter up to 500 schools as more student protests called",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
+      "published_date": "2026-10-04T19:41:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli opposition leader calls for Jordanian-Israeli control over West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-leader-calls-jordanian-israeli-control-over-west-bank",
+      "published_date": "2026-10-04T18:58:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ku Klux Klan leader claims rising support ahead of US midterm elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss",
+      "published_date": "2026-10-04T18:34:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘We need freedom’: New Delhi women protest sexual violence",
@@ -666,41 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/entire-land-ours-ben-gvir-escalates-calls-annexation-occupied-west-bank",
       "published_date": "2026-10-03T11:30:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
-      "published_date": "2026-10-03T11:16:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians gather for football amid Gaza’s ruins",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
-      "published_date": "2026-10-03T11:08:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/entire-land-ours-ben-gvir-escalates-calls-annexation-occupied-west-bank",
-      "published_date": "2026-10-03T10:54:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
-      "published_date": "2026-10-03T10:48:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘They want to displace us’: Israel launches new demolition of West Bank olive groves",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/they-want-displace-us-israeli-army-new-demolition-west-bank-olive-groves",
-      "published_date": "2026-10-03T09:52:31+00:00",
       "category": "Local Events"
     }
   ]
