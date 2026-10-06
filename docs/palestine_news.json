@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-05T19:26:58.114252+00:00",
-  "story_count": 100,
+  "last_updated": "2026-10-06T02:49:16.811057+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "UK threatens to expel 27 Israeli diplomats over Jerusalem consulate closure: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-threatens-expel-27-israeli-diplomats-over-jerusalem-consulate-closure",
+      "published_date": "2026-10-06T02:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says taxpayers will no longer fund TV ads that praise him",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss",
+      "published_date": "2026-10-06T01:51:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss",
+      "published_date": "2026-10-06T00:10:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump officials pursue record number of cases to strip US citizenship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/trump-officials-pursue-record-number-of-cases-to-strip-us-citizenship?traffic_source=rss",
+      "published_date": "2026-10-06T00:02:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump’s approval hits new low among Hispanic voters ahead of midterms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/trumps-approval-hits-new-low-among-hispanic-voters-ahead-of-midterms?traffic_source=rss",
+      "published_date": "2026-10-05T22:17:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says US ready to aid Russia with plague outbreak in Siberia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss",
+      "published_date": "2026-10-05T21:03:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Turkey and Pakistan activate Mecca Pact amid war with Houthis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/saudi-arabia-turkey-and-pakistan-activate-mecca-pact-amid-war-houthis",
+      "published_date": "2026-10-05T20:43:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Saudi, Yemeni attacks against Houthis will work out 'very well'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-saudi-yemeni-attacks-against-houthis-work-out-very-well",
+      "published_date": "2026-10-05T19:37:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mecca alliance agrees to activate collective deterrence measures",
       "source": "Al Jazeera",
@@ -88,60 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Green Party recognises Zionism as a form of racism and backs single Palestinian state",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/green-party-recognises-zionism-form-racism-and-backs-single-palestinian",
-      "published_date": "2026-10-04T14:46:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US response to Hormuz proposal currently 'under review' by Tehran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-reponse-hormuz-proposal-currently-under-review-tehran",
-      "published_date": "2026-10-04T13:49:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hegseth: US blockade of Hormuz ironclad, Iran should make right choice",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-us-blockade-hormuz-ironclad-iran-should-make-right-choice",
-      "published_date": "2026-10-04T00:07:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's warns 'half-a-century-old' UAE over claim on three Gulf islands",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-warns-half-century-old-uae-over-claim-three-gulf-islands",
-      "published_date": "2026-10-03T23:51:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "State Department says Iranian UN delegation duo expelled from US",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/state-department-says-iranian-un-delegation-duo-expelled-us",
-      "published_date": "2026-10-03T22:40:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says Iran ‘decimated’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-decimated",
-      "published_date": "2026-10-03T21:53:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump ramps up pressure on US Republicans to end US clock switching",
+      "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
-      "published_date": "2026-10-03T20:16:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
+      "published_date": "2026-10-06T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Polls open in Latvia against backdrop of perceived Russia threat",
+      "title": "What’s happening in Ethiopia?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss",
-      "published_date": "2026-10-03T08:21:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia?traffic_source=rss",
+      "published_date": "2026-10-05T23:38:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces raid Qalqilyah in occupied West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-qalqilyah-occupied-west-bank",
+      "published_date": "2026-10-05T23:07:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CIA report warns of civil conflict and 'collapse' in Israel: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cia-report-warns-civil-conflict-and-collapse-israel-report",
+      "published_date": "2026-10-05T22:37:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces wound at least one in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-wound-least-one-gaza",
+      "published_date": "2026-10-05T22:15:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis target Riyadh airpot, declare Saudi airspace open target except for holy sites",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-target-riyadh-airpot-declare-saudi-airspace-open-target-except",
+      "published_date": "2026-10-05T21:16:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CIA report warns of civil conflict and 'collapse' in Israel: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/alternative-cia-report-warns-civil-conflict-israel-report",
+      "published_date": "2026-10-05T21:15:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia?traffic_source=rss",
+      "published_date": "2026-10-05T20:17:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss",
+      "published_date": "2026-10-05T20:03:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Freed Syrians recount torture in Israeli detention centre",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/freed-syrians-recount-torture-in-israeli-detention-centre?traffic_source=rss",
+      "published_date": "2026-10-05T19:57:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan and Turkey to provide military support to Saudi Arabia amid war with Houthis",
@@ -211,76 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
       "published_date": "2026-10-05T14:37:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
-      "published_date": "2026-10-05T14:19:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's Saudi-backed forces begin 'strategic offensive' in Sanaa",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-saudi-backed-forces-begin-strategic-offensive-sanaa",
-      "published_date": "2026-10-05T14:13:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio says US still confident its bases are secure after UK incident",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-still-confident-its-bases-are-secure-after-uk-incident",
-      "published_date": "2026-10-05T13:36:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey supplies Korkut air defence systems to Ukraine, sources say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-supplies-korkut-air-defence-systems-ukraine-sources-say",
-      "published_date": "2026-10-05T13:08:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
-      "published_date": "2026-10-05T01:08:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
-      "published_date": "2026-10-05T01:03:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
-      "published_date": "2026-10-05T00:33:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Election panel orders Netanyahu to remove 'election propaganda' videos",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/election-panel-orders-netanyahu-remove-election-propaganda-videos",
-      "published_date": "2026-10-05T00:30:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
-      "published_date": "2026-10-05T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli troops kill man in southern Syria",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-kill-man-southern-syria",
-      "published_date": "2026-10-04T23:43:43+00:00",
       "category": "Military"
     },
     {
@@ -414,13 +414,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/9/29/us-consumer-confidence-hits-its-lowest-level-since-2014-ahead-of-midterms?traffic_source=rss",
       "published_date": "2026-09-29T22:23:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Gold falls amid rising oil prices and higher US dollar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
-      "published_date": "2026-09-28T21:34:51+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +557,20 @@
       "category": "Economy"
     },
     {
+      "title": "Watch: Israeli Druze politician calls for seizing of Syria's Sweida",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-druze-politician-calls-seizing-syrias-sweida",
+      "published_date": "2026-10-05T23:48:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces kill one, injure several in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/israeli-forces-kill-one-injure-several-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-10-05T20:49:35+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss",
@@ -687,20 +694,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-year-old-killed-israeli-attacks-central-gaza",
       "published_date": "2026-10-04T09:05:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Israel advocates hound Green Party members over 'Zionism is Racism' motion",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-pro-israel-advoctaes-hound-green-party-over-zionism-racism-motion",
-      "published_date": "2026-10-03T22:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
-      "published_date": "2026-10-03T18:49:03+00:00",
       "category": "Local Events"
     }
   ]
