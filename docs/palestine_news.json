@@ -1,8 +1,92 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-09T17:15:16.961999+00:00",
+  "last_updated": "2026-10-10T02:12:29.012338+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss",
+      "published_date": "2026-10-10T01:40:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US tells UN Houthis must cease attacks on Saudi, Yemeni governments",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-tells-un-houthis-must-cease-attacks-saudi-yemeni-governments",
+      "published_date": "2026-10-10T01:37:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+      "published_date": "2026-10-10T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pezeshkian says regional diplomacy 'shouldn't just be about holding meetings'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-regional-diplomacy-shouldnt-just-be-about-holding",
+      "published_date": "2026-10-09T23:04:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
+      "published_date": "2026-10-09T21:53:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US judge rules Trump administration’s use of voter data unlawful",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+      "published_date": "2026-10-09T21:29:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+      "published_date": "2026-10-09T20:56:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, Yemeni government urge UN action against Houthis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-yemeni-government-urge-un-action-against-houthis",
+      "published_date": "2026-10-09T20:31:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+      "published_date": "2026-10-09T19:32:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Katie Zacharia selected to be next White House press secretary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
+      "published_date": "2026-10-09T18:49:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
+      "published_date": "2026-10-09T18:06:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN chief condemns US sanctions on ICC as international backlash grows",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-condemns-us-sanctions-icc-international-backlash-grows",
+      "published_date": "2026-10-09T17:49:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why the UK capitulated to Israel in consulate surrender deal",
       "source": "Middle East Eye",
@@ -60,88 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Navi Pillay dedicates Nobel Peace Prize to 'survivors of international crimes'",
+      "title": "Israeli military raids village in Syria's Quneitra province",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/navi-pillay-dedicates-nobel-peace-prize-survivors-international-crimes",
-      "published_date": "2026-10-09T14:51:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-raids-village-syrias-quneitra-province",
+      "published_date": "2026-10-10T02:02:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "US sanctions International Criminal Court hours after former judge wins Nobel Peace Prize",
+      "title": "Yemeni government says 1,400 Houthis killed in 2,750 strikes",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-sanctions-international-criminal-court-major-escalation-after-former-judge-awarded-nobel",
-      "published_date": "2026-10-09T14:49:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-says-1400-houthis-killed-2750-strikes",
+      "published_date": "2026-10-10T01:03:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bangladesh’s mango diplomacy with India has reached its limits",
+      "title": "Outrage grows over plan to livestream US military firing squad execution",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/outrage-grows-over-plan-livestream-us-military-firing-squad-execution",
+      "published_date": "2026-10-10T00:27:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/9/bangladeshs-mango-diplomacy-with-india-has-reached-its-limits?traffic_source=rss",
-      "published_date": "2026-10-09T14:09:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+      "published_date": "2026-10-10T00:22:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel accuses Navi Pillay of promoting ‘genocide lie’ after Nobel recognition",
+      "title": "Turkey, Qatar, Kuwait condemn Houthi attacks on Saudi airports",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-accuses-navi-pillay-promoting-genocide-lie-after-nobel",
-      "published_date": "2026-10-09T14:04:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-qatar-kuwait-condemn-houthi-attacks-saudi-airports",
+      "published_date": "2026-10-09T22:35:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "European Parliament resolution on countering 'Islamist entryism' strongly condemned",
+      "title": "How the Red Sea came to the brink of a new regional war",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/european-parliament-resolution-countering-islamist-entryism-strongly-condemned",
-      "published_date": "2026-10-09T13:58:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/how-red-sea-came-brink-new-regional-war",
+      "published_date": "2026-10-09T21:29:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "What’s shameful is that no party before the Greens called Zionism racist",
+      "title": "Saudi-led coalition launches wide-ranging operation against Houthis",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/whats-shameful-no-party-greens-called-zionism-racist",
-      "published_date": "2026-10-09T13:08:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-launches-wide-ranging-operation-against",
+      "published_date": "2026-10-09T21:19:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Turkey moves to defuse Azerbaijan headscarf row after Aliyev's rebuke",
+      "title": "Israeli drone strike wounds six in northeast Lebanon near Syrian border",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/turkey-moves-defuse-azerbaijan-headscarf-row-after-aliyevs-rebuke",
-      "published_date": "2026-10-09T12:42:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-wounds-six-northeast-lebanon-near-syrian-border",
+      "published_date": "2026-10-09T20:03:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why Polanski’s by-election defeat may not be a disaster for the Greens",
+      "title": "Two killed in Saudi strike on Sanaa airport, Houthi media says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/why-no-disaster-polanski-greens-remain-competitive-voters-reward-burnham",
-      "published_date": "2026-10-09T12:15:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "British prime minister criticises Green Party’s motion on 'Zionism is racism', says it is 'terrible judgement'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/british-prime-minister-criticises-green-partys-motion-zionism-racism",
-      "published_date": "2026-10-09T01:24:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
-      "published_date": "2026-10-09T00:50:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Huckabee top aide modified and suppressed US embassy reporting critical of Israel: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/huckabee-top-aide-modified-and-suppressed-us-embassy-reporting-critical",
-      "published_date": "2026-10-09T00:44:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Putin pledges Russia’s support to end US-led war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
-      "published_date": "2026-10-08T22:30:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-saudi-strike-sanaa-airport-houthi-media-says",
+      "published_date": "2026-10-09T19:26:59+00:00",
+      "category": "Military"
     },
     {
       "title": "'Satanic:' Hegseth's move to live-stream execution shocks even pro-death penalty advocates",
@@ -221,67 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+      "title": "Trump welcomed Russia's involvement in Iran settlement efforts, Kremlin says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-welcomed-russias-involvement-iran-settlement-efforts-kremlin-says",
+      "published_date": "2026-10-10T00:19:04+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Americans paying the price for Trump's 'disastrous war', top Democrat says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/americans-paying-price-trumps-disastrous-war-top-democrat-says",
+      "published_date": "2026-10-09T23:23:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Russia confirms it's ready to ship diesel to US from October",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-confirms-its-ready-ship-diesel-us-october",
+      "published_date": "2026-10-09T20:44:41+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How did the pro-Israel lobby shape Obama's Middle East policy? | Eli Clifton",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/video/how-did-pro-israel-lobby-shape-obamas-middle-east-policy-eli-clifton",
+      "published_date": "2026-10-09T20:32:52+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
-      "published_date": "2026-10-09T00:00:21+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
+      "published_date": "2026-10-09T20:17:15+00:00",
+      "category": "Energy"
     },
     {
-      "title": "USS Abraham Lincoln returns to San Diego after deployment during war on Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uss-abraham-lincoln-returns-san-diego-after-deployment-during-war-iran",
-      "published_date": "2026-10-08T23:53:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
+      "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss",
-      "published_date": "2026-10-08T23:36:44+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
+      "published_date": "2026-10-09T19:47:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Watch: At least one plane severely damaged as Houthis claim third Riyadh airport attack",
+      "title": "Trump says Russia to immediately supply diesel fuel ahead of midterms",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-least-one-plane-severely-damaged-houthis-claim-third-riyadh",
-      "published_date": "2026-10-08T23:30:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump rules out new attack on Iran until after midterms as oil prices spike",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-rules-out-new-attack-iran-until-after-midterms-oil-prices-spike",
-      "published_date": "2026-10-08T20:40:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France, Saudi Arabia weigh military options to protect Yanbu oil terminal, army chief says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-saudi-arabia-weigh-military-options-protect-yanbu-oil-terminal",
-      "published_date": "2026-10-08T19:22:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli gunfire and air strikes kill at least five in Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-and-air-strikes-kill-least-five-gaza",
-      "published_date": "2026-10-08T18:00:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: Remembrance and mourning",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
-      "published_date": "2026-10-08T17:17:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
-      "published_date": "2026-10-08T17:07:18+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-russia-immediately-supply-diesel-fuel-ahead-midterms",
+      "published_date": "2026-10-09T19:17:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
@@ -375,46 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Three commercial vessels struck in Hormuz since 1 Oct, UKMTO says",
+      "title": "Fire extinguished on vessel hit off UAE coast, UKMTO says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-commercial-vessels-struck-hormuz-1-oct-ukmto-says",
-      "published_date": "2026-10-04T01:14:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Houthis claim attack on Aramco oil facility in Saudi Arabia",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attack-aramco-oil-facility-saudi-arabia",
-      "published_date": "2026-10-04T00:55:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Serbian populist leader Vucic launches campaign for prime minister",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss",
-      "published_date": "2026-10-04T00:26:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
-      "published_date": "2026-10-03T09:27:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Crude oil tanker hit by unknown projectile off Oman, UKMTO says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crude-oil-tanker-hit-unknown-projectile-oman-ukmto-says",
-      "published_date": "2026-10-02T23:46:39+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump says US not ‘doing the export ban’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-not-doing-export-ban",
-      "published_date": "2026-10-02T21:35:25+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-extinguished-vessel-hit-uae-coast-ukmto-says",
+      "published_date": "2026-10-09T23:47:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Man City case causing ‘uncertainty’ for whole Premier League, says Iraola",
@@ -529,18 +543,18 @@
       "category": "Economy"
     },
     {
-      "title": "Trump again: 'Iran war could end very soon, probably right after elections'",
+      "title": "Palestinian man killed by Israeli forces in West Bank, health ministry says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-again-iran-war-could-end-very-soon-probably-right-after-elections",
-      "published_date": "2026-10-03T01:46:18+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-killed-israeli-forces-west-bank-health-ministry-says",
+      "published_date": "2026-10-10T00:47:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Dutch royal house helped slave trade to survive, study finds",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss",
-      "published_date": "2026-10-02T23:43:50+00:00",
-      "category": "Economy"
+      "title": "Israeli settlers and troops target olive harvesters, wedding convoy in West Bank attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-and-troops-target-olive-harvesters-wedding-convoy-west",
+      "published_date": "2026-10-09T19:05:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
@@ -666,20 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
       "published_date": "2026-10-07T22:14:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Palestine university groups march in London on October 7 anniversary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss",
-      "published_date": "2026-10-07T21:33:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harmanpreet Kaur: The captain who changed how India’s women played cricket",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/7/harmanpreet-kaur-the-captain-who-changed-how-indias-women-played-cricket?traffic_source=rss",
-      "published_date": "2026-10-07T21:08:59+00:00",
       "category": "Local Events"
     }
   ]
