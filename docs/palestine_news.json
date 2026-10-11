@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-10T16:03:04.811865+00:00",
+  "last_updated": "2026-10-11T01:44:47.993869+00:00",
   "story_count": 98,
   "stories": [
+    {
+      "title": "Qatar’s former PM urges decisive support for Saudi Arabia after airport attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatars-former-pm-urges-decisive-support-saudi-arabia-after-airport",
+      "published_date": "2026-10-10T21:04:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Air France enforces Israeli ban affecting pilots from Muslim countries",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/air-france-enforces-israeli-ban-affecting-pilots-muslim-majority-countries",
+      "published_date": "2026-10-10T20:17:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is the Trump administration trying to dismantle the ICC?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
+      "published_date": "2026-10-10T19:59:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Ukraine needs a new president who will agree to end the war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+      "published_date": "2026-10-10T19:32:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump calls for new president in Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
+      "published_date": "2026-10-10T18:50:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Dozens injured in Houthi attack on Riyadh airport",
       "source": "Middle East Eye",
@@ -109,39 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
-      "published_date": "2026-10-09T20:56:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia, Yemeni government urge UN action against Houthis",
+      "title": "Centcom says four ships disabled, 135 redirected since 14 July",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-yemeni-government-urge-un-action-against-houthis",
-      "published_date": "2026-10-09T20:31:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-four-ships-disabled-135-redirected-14-july",
+      "published_date": "2026-10-11T01:34:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
-      "published_date": "2026-10-09T19:32:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+      "published_date": "2026-10-11T01:02:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Katie Zacharia selected to be next White House press secretary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
-      "published_date": "2026-10-09T18:49:24+00:00",
-      "category": "Diplomacy"
+      "title": "Centcom says cargo vessel trying to run Iran blockade disabled",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-cargo-vessel-trying-run-iran-blockade-disabled",
+      "published_date": "2026-10-11T00:46:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
+      "title": "Attack on Riyadh airport leaves 12 dead, more than 300 injured",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/attack-riyadh-airport-leaves-12-dead-more-300-injured",
+      "published_date": "2026-10-11T00:35:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
-      "published_date": "2026-10-09T18:06:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+      "published_date": "2026-10-11T00:00:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon death toll from Israeli military attacks since 2 March rises to 4,386",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-israeli-military-attacks-2-march-rises-4386",
+      "published_date": "2026-10-10T23:05:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Riyadh airport attack kills 12 and injures 309, Saudi aviation authority says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-attack-kills-12-and-injures-309-saudi-aviation-authority",
+      "published_date": "2026-10-10T22:41:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni government’s military says its forces advancing against Houthis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+      "published_date": "2026-10-10T22:12:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC says oil supertanker hit mine in Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-oil-supertanker-hit-mine-strait-hormuz",
+      "published_date": "2026-10-10T21:45:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indian carrier keeps Saudi flights suspended until 13 October after airport attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/indian-carrier-keeps-saudi-flights-suspended-until-13-october-after",
+      "published_date": "2026-10-10T21:12:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
+      "published_date": "2026-10-10T21:02:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+      "published_date": "2026-10-10T20:14:01+00:00",
+      "category": "Military"
     },
     {
       "title": "With or without Hamas",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+      "title": "Malawi motorists queue for days as fuel shortage bites",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
-      "published_date": "2026-10-10T13:25:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eight Palestinians killed in Israeli attacks on Gaza during anniversary of US-brokered 'ceasefire'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-palestinians-killed-israeli-attacks-gaza-during-anniversary-us",
-      "published_date": "2026-10-10T12:55:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
-      "published_date": "2026-10-10T12:40:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's Araghchi says Netanyahu is a 'wanted war criminal' with 'no regard for his own people'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-netanyahu-wanted-war-criminal-no-regard-his-own",
-      "published_date": "2026-10-10T12:18:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protesters gather for Palestine march in central London",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/protestors-gather-palestine-march-central-london",
-      "published_date": "2026-10-10T11:45:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu’s former aide alleges attempt to alter 7 October records",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-former-aide-alleges-attempt-alter-7-october-records",
-      "published_date": "2026-10-10T11:33:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu’s former aide alleges attempt to alter 7 October records",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/netanyahus-former-aide-alleges-attempt-alter-7-october-records",
-      "published_date": "2026-10-10T11:23:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kremlin says Putin told Trump Iran's position on ending hostilities",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kremlin-says-putin-told-trump-irans-position-ending-hostilities",
-      "published_date": "2026-10-10T10:31:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eight-year-old girl killed by Israeli gunfire in Gaza City",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-year-old-girl-killed-israeli-gunfire-gaza-city",
-      "published_date": "2026-10-10T09:54:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military raids village in Syria's Quneitra province",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-raids-village-syrias-quneitra-province",
-      "published_date": "2026-10-10T02:02:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni government says 1,400 Houthis killed in 2,750 strikes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-says-1400-houthis-killed-2750-strikes",
-      "published_date": "2026-10-10T01:03:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Outrage grows over plan to livestream US military firing squad execution",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/outrage-grows-over-plan-livestream-us-military-firing-squad-execution",
-      "published_date": "2026-10-10T00:27:53+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
+      "published_date": "2026-10-10T21:10:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
-      "published_date": "2026-10-06T14:15:09+00:00",
-      "category": "Energy"
+      "title": "UKMTO says tanker hit in Hormuz, ships asked to move from UAE anchorages",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-tanker-hit-hormuz-ships-asked-move-uae-anchorages",
+      "published_date": "2026-10-11T01:14:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Europe's leaders are preparing for war. Workers are organising to stop it",
@@ -543,11 +550,32 @@
       "category": "Economy"
     },
     {
-      "title": "Iranian rial at new low, as cenbank sells dollars to support currency",
+      "title": "Hundreds of doctors demand World Medical Association suspend Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
+      "published_date": "2026-10-10T21:12:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azerbaijan school pupils protest over reported hijab restrictions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
+      "published_date": "2026-10-10T19:49:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
+      "published_date": "2026-10-10T19:23:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of thousands march worldwide against Israel’s genocide in Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-rial-new-low-cenbank-sells-dollars-support-currency",
-      "published_date": "2026-10-03T18:32:05+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/global-protests-demand-end-israels-genocide-and-apartheid",
+      "published_date": "2026-10-10T17:44:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli settlers kidnap three Palestinian farmers west of Bethlehem",
@@ -659,34 +687,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded?traffic_source=rss",
       "published_date": "2026-10-08T13:32:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US scientist’s children erupt in joy after hearing he won Nobel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/us-scientists-children-erupt-in-joy-after-hearing-he-won-nobel?traffic_source=rss",
-      "published_date": "2026-10-08T13:20:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Occupation. Expulsion. Settlement’: Israeli politician campaigns on platform to ethnically cleanse Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-politician-puts-occupation-expulsion-settlement-election-campaign-ads",
-      "published_date": "2026-10-08T12:16:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supporters of Druze faction raise Israeli flags in Sweida on 7 October anniversary",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/hijri-supporters-raise-israeli-flags-sweida-7-october-anniversary",
-      "published_date": "2026-10-08T12:09:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How kidnappings are hitting Nigeria’s Borno families hard",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/how-kidnappings-are-hitting-nigerias-borno-families-hard?traffic_source=rss",
-      "published_date": "2026-10-08T00:47:32+00:00",
       "category": "Local Events"
     }
   ]
