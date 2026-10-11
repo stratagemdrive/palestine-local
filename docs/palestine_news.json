@@ -1,8 +1,57 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-11T01:44:47.993869+00:00",
-  "story_count": 98,
+  "last_updated": "2026-10-11T16:28:03.444524+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "How the ICC can be saved",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
+      "published_date": "2026-10-11T15:15:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+      "published_date": "2026-10-11T15:10:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
+      "published_date": "2026-10-11T14:34:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Mafia Football Murders | True Crime Reports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
+      "published_date": "2026-10-11T14:05:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee?traffic_source=rss",
+      "published_date": "2026-10-11T11:42:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The scramble to rewrite Biden’s record on Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
+      "published_date": "2026-10-11T11:29:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq, EU leaders denounce alleged Houthi attack on Riyadh airport",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-eu-leaders-denounce-houthi-attack-ridadh-airport",
+      "published_date": "2026-10-11T10:17:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar’s former PM urges decisive support for Saudi Arabia after airport attack",
       "source": "Middle East Eye",
@@ -95,53 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
-      "published_date": "2026-10-10T11:19:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss",
-      "published_date": "2026-10-10T01:40:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US tells UN Houthis must cease attacks on Saudi, Yemeni governments",
+      "title": "Seventy-two killed in air strike on gold mine near Sudan-Egypt border",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-tells-un-houthis-must-cease-attacks-saudi-yemeni-governments",
-      "published_date": "2026-10-10T01:37:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/72-killed-airstrike-gold-mine-sudan-egypt-border",
+      "published_date": "2026-10-11T15:54:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+      "title": "Tour bus crash in Turkiye leaves at least 11 dead",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
-      "published_date": "2026-10-10T00:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss",
+      "published_date": "2026-10-11T15:52:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pezeshkian says regional diplomacy 'shouldn't just be about holding meetings'",
+      "title": "Iran security chief accuses Trump of ‘smuggling’ oil through Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-regional-diplomacy-shouldnt-just-be-about-holding",
-      "published_date": "2026-10-09T23:04:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-security-chief-accuses-trump-smuggling-oil-through-hormuz",
+      "published_date": "2026-10-11T15:34:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
-      "published_date": "2026-10-09T21:53:01+00:00",
-      "category": "Diplomacy"
+      "title": "Riyadh airport passenger terminal hit by ‘unidentified projectile’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-passenger-terminal-hit-unidentified-projectile",
+      "published_date": "2026-10-11T15:05:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "US judge rules Trump administration’s use of voter data unlawful",
+      "title": "Houthi forces warn against use of Saudi airports following Riyadh attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-forces-warn-against-use-saudi-airports-following-riyadh-attack",
+      "published_date": "2026-10-11T14:15:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi forces warn against use of Saudi airports following Riyadh attack",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/houthi-forces-warn-against-use-saudi-arabian-airports-following-riyadh-attack",
+      "published_date": "2026-10-11T14:12:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
-      "published_date": "2026-10-09T21:29:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
+      "published_date": "2026-10-11T14:09:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
+      "published_date": "2026-10-11T14:04:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Attacks by 'Iran’s proxies' pushing region into spiral of violence, says EU on Riyadh airport strike",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/attacks-irans-proxies-pushing-region-spiral-violence-says-eu-riyadh",
+      "published_date": "2026-10-11T13:53:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss",
+      "published_date": "2026-10-11T13:34:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Attacks by 'Iran’s proxies' pushing region into spiral of violence, says EU on Riyadh airport strike",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/attacks-irans-proxies-pushing-region-spiral-violence-says-eu-riyadh-airport-strike",
+      "published_date": "2026-10-11T13:18:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
+      "published_date": "2026-10-11T12:28:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Senior military commander says Iran will continue to strike vessels ‘if necessary’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/senior-military-commander-says-iran-will-continue-strike-vessels-if",
+      "published_date": "2026-10-11T10:43:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former US official says Israeli demands made Gaza deal 'impossible for another six months'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/former-us-official-says-israeli-demands-made-gaza-deal-impossible-another-six-months",
+      "published_date": "2026-10-11T10:27:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Centcom says four ships disabled, 135 redirected since 14 July",
@@ -186,102 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Riyadh airport attack kills 12 and injures 309, Saudi aviation authority says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-attack-kills-12-and-injures-309-saudi-aviation-authority",
-      "published_date": "2026-10-10T22:41:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni government’s military says its forces advancing against Houthis",
+      "title": "Power bank fire forces plane to emergency land in India",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
-      "published_date": "2026-10-10T22:12:25+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+      "published_date": "2026-10-11T15:26:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "IRGC says oil supertanker hit mine in Strait of Hormuz",
+      "title": "Iran says environmental damage from US-Israeli attacks 'silent victim of war'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-oil-supertanker-hit-mine-strait-hormuz",
-      "published_date": "2026-10-10T21:45:24+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-environmental-damage-us-israeli-attacks-silent-victim-war",
+      "published_date": "2026-10-11T14:24:58+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Indian carrier keeps Saudi flights suspended until 13 October after airport attack",
+      "title": "International condemnation of Houthis no longer enough, says senior Yemeni official",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/indian-carrier-keeps-saudi-flights-suspended-until-13-october-after",
-      "published_date": "2026-10-10T21:12:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-      "published_date": "2026-10-10T21:02:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
-      "published_date": "2026-10-10T20:14:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "With or without Hamas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
-      "published_date": "2026-10-10T15:19:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three injured in third school attack in Poland in less than a week",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
-      "published_date": "2026-10-10T15:13:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces strike southern Lebanon’s Marjayoun district",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-strike-southern-lebanons-marjayoun-district",
-      "published_date": "2026-10-10T14:57:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-failing-badly-conflict-yemen-widens",
-      "published_date": "2026-10-10T14:44:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-says-iran-failing-badly-conflict-yemen-widens",
-      "published_date": "2026-10-10T14:15:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Has Yemen returned to ‘full-scale war’?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
-      "published_date": "2026-10-10T14:10:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "People being evacuated from Riyadh's international airport",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/people-being-evacuated-riyadh-airport",
-      "published_date": "2026-10-10T14:01:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Austria's anti-terror laws are turning journalism about Palestine into a crime",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/austria-anti-terror-laws-turning-journalism-about-palestine-crime",
-      "published_date": "2026-10-10T13:45:32+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/international-condemnation-houthis-no-longer-enough-says-senior-yemeni",
+      "published_date": "2026-10-11T12:56:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "Malawi motorists queue for days as fuel shortage bites",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss",
-      "published_date": "2026-10-06T23:05:38+00:00",
-      "category": "Energy"
+      "title": "UKMTO says it received report of tanker hit by projectile in Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-it-received-report-tanker-hit-projectile-hormuz",
+      "published_date": "2026-10-11T13:56:51+00:00",
+      "category": "Economy"
     },
     {
-      "title": "FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss",
-      "published_date": "2026-10-06T15:49:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss",
-      "published_date": "2026-10-06T14:38:09+00:00",
-      "category": "Energy"
+      "title": "Yemen’s Health Ministry raises alarm over ‘near depletion’ of medical, fuel supplies in Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-health-ministry-raises-alarm-over-near-depletion-medical-fuel",
+      "published_date": "2026-10-11T11:37:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "UKMTO says tanker hit in Hormuz, ships asked to move from UAE anchorages",
@@ -529,25 +543,32 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia shelves $2.5bn Neom stadium planned for 2034 World Cup, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/saudi-arabia-shelves-25bn-neom-stadium-planned-2034-world-cup-says-report",
-      "published_date": "2026-10-04T10:35:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tanker hit by unknown projectile in Strait of Hormuz, UKMTO says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-unknown-projectile-strait-hormuz-ukmto-says",
-      "published_date": "2026-10-04T09:07:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
+      "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss",
-      "published_date": "2026-10-04T01:55:46+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+      "published_date": "2026-10-11T13:41:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian child killed by Israeli gunfire in northern Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-child-killed-israeli-gunfire-northern-gaza",
+      "published_date": "2026-10-11T11:11:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former US official says Israeli demands made Gaza deal 'impossible for another six months'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/former-us-official-says-israeli-demands-made-gaza-deal-impossible",
+      "published_date": "2026-10-11T10:45:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s Gharibabadi says Minab school attackers must face justice",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-gharibabadi-says-minab-school-attackers-must-face-justice",
+      "published_date": "2026-10-11T10:03:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hundreds of doctors demand World Medical Association suspend Israel",
@@ -659,34 +680,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
       "published_date": "2026-10-08T20:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UEFA details FIFA presidential candidate criteria in bid to oust Infantino",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/8/uefa-details-fifa-presidential-candidate-criteria-in-bid-to-oust-infantino?traffic_source=rss",
-      "published_date": "2026-10-08T16:53:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK refuses to comment after Israel freezes 'military dialogue and security cooperation'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-wont-comment-after-israel-accuses-it-freezing-military-dialogue-and-security-cooperation",
-      "published_date": "2026-10-08T14:12:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French PM vows changes as students keep up school protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/french-pm-vows-changes-as-students-keep-up-school-protests?traffic_source=rss",
-      "published_date": "2026-10-08T13:45:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Has Israel shut the UK consulate in East Jerusalem – or downgraded it?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded?traffic_source=rss",
-      "published_date": "2026-10-08T13:32:32+00:00",
       "category": "Local Events"
     }
   ]
