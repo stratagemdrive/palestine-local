@@ -1,8 +1,57 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-12T02:12:11.272128+00:00",
-  "story_count": 96,
+  "last_updated": "2026-10-12T20:03:39.617811+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
+      "published_date": "2026-10-12T18:51:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia rejects Israeli help in Yemen, Israeli media reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-rejects-israeli-help-yemen-israeli-media-reports",
+      "published_date": "2026-10-12T17:59:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
+      "published_date": "2026-10-12T17:07:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's ambassador to UK denies role in RAF Fairford plot, Iranian state media says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-ambassador-uk-denies-role-fairford-attack-plot-iranian-state-media",
+      "published_date": "2026-10-12T16:49:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
+      "published_date": "2026-10-12T16:02:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The ICJ’s Rohingya ruling will test the OIC’s promises",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/12/the-icjs-rohingya-ruling-will-test-the-oics-promises?traffic_source=rss",
+      "published_date": "2026-10-12T15:46:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US agents search home of Ilhan Omar, Trump critic and Congress member",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/trump-critic-democratic-rep-ilhan-omars-home-searched-by-federal-agents?traffic_source=rss",
+      "published_date": "2026-10-12T14:59:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
       "source": "Al Jazeera",
@@ -95,53 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iraq, EU leaders denounce alleged Houthi attack on Riyadh airport",
+      "title": "Houthis say they hit Riyadh airport and Khamis Mushait air base",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-eu-leaders-denounce-houthi-attack-ridadh-airport",
-      "published_date": "2026-10-11T10:17:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-hit-riyadh-airport-and-khamis-mushait-air-base",
+      "published_date": "2026-10-12T19:29:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Qatar’s former PM urges decisive support for Saudi Arabia after airport attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatars-former-pm-urges-decisive-support-saudi-arabia-after-airport",
-      "published_date": "2026-10-10T21:04:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Air France enforces Israeli ban affecting pilots from Muslim countries",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/air-france-enforces-israeli-ban-affecting-pilots-muslim-majority-countries",
-      "published_date": "2026-10-10T20:17:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why is the Trump administration trying to dismantle the ICC?",
+      "title": "Egypt’s press union chief rejects pressure over detained journalists",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
-      "published_date": "2026-10-10T19:59:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss",
+      "published_date": "2026-10-12T18:21:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Ukraine needs a new president who will agree to end the war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
-      "published_date": "2026-10-10T19:32:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump calls for new president in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
-      "published_date": "2026-10-10T18:50:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dozens injured in Houthi attack on Riyadh airport",
+      "title": "Immigration agents raid home of Congresswoman Ilhan Omar",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-airways-cancels-flights-and-riyadh-embassies-warn-citizens-stay",
-      "published_date": "2026-10-10T15:39:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/immigration-agents-raid-home-congresswoman-ilhan-omar",
+      "published_date": "2026-10-12T17:55:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi air strikes in Yemen killed and wounded civilians, including women and children, Houthis say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-airstrikes-yemen-killed-and-wounded-civilians-including-women-and",
+      "published_date": "2026-10-12T17:36:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blast kills teenager, injures dozens in northern Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
+      "published_date": "2026-10-12T16:44:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese health ministry: Israeli attacks have killed nearly 9,000 people since October 2023",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-health-ministry-israeli-attacks-have-killed-nearly-9000-people",
+      "published_date": "2026-10-12T16:27:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Riyadh no longer feels safe': Houthi strikes shatter Saudi capital's aura of calm",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/houthi-strikes-shatter-saudi-arabia-riyadh-aura-calm",
+      "published_date": "2026-10-12T16:26:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
+      "published_date": "2026-10-12T15:19:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Teenager killed in ordnance blast on Israeli border with Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/teenager-killed-ordnance-blast-israeli-border-lebanon",
+      "published_date": "2026-10-12T14:43:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'No military solutions': Iran offers to mediate as Saudi-Houthi conflict escalates",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/no-military-solutions-iran-offers-mediate-saudi-houthi-conflict-escalates",
+      "published_date": "2026-10-12T14:34:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss",
+      "published_date": "2026-10-12T14:27:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-10-12T14:25:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu seeks criminal charges for NAZA participants",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/netanyahu-seeks-criminal-charges-naza-participants",
+      "published_date": "2026-10-12T12:52:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who are Yemen's Houthis and what do they want?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/who-are-yemens-houthis-and-what-do-they-want",
+      "published_date": "2026-10-12T12:28:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Saudi-led coalition says Houthi missile launched towards Khamis Mushait intercepted",
@@ -186,102 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "British journalist Secunder Kermani barred from Israel amid widening press crackdown",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/british-journalist-secunder-kermani-barred-israel-amid-widening-press-crackdown",
-      "published_date": "2026-10-11T21:47:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two killed near Israeli-occupied area in south Lebanon",
+      "title": "Cuba forges ahead with renewable energy plans amid US oil blockade",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
-      "published_date": "2026-10-11T20:46:45+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss",
+      "published_date": "2026-10-12T18:52:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+      "title": "Will Ukraine survive the winter?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
-      "published_date": "2026-10-11T20:44:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan, Saudi Arabia, Egypt and Turkey demand end to Houthi attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-saudi-arabia-egypt-and-turkey-demand-end-houthi-attacks",
-      "published_date": "2026-10-11T19:47:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi authority confirms Houthi attack on Dammam airport",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-authority-confirms-houthi-attack-dammam-airport",
-      "published_date": "2026-10-11T19:04:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fresh Riyadh airport strike kills one as Houthis warn airlines against using Saudi airspace",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/fresh-attack-hits-riyadh-airport-houthis-warn-airlines-against-using-saudi-airspace",
-      "published_date": "2026-10-11T18:52:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Six Pakistanis wounded and Indian national dies after Riyadh airport attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-pakistanis-wounded-and-indian-national-dies-after-riyadh-airport",
-      "published_date": "2026-10-11T17:45:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s security chief accuses Trump administration of oil smuggling near Oman",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-security-chief-accuses-trump-administration-oil-smuggling-near",
-      "published_date": "2026-10-11T16:57:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis claim responsibility for deadly Riyadh airport attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-responsibility-deadly-riyadh-airport-attack",
-      "published_date": "2026-10-11T16:30:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seventy-two killed in air strike on gold mine near Sudan-Egypt border",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/72-killed-airstrike-gold-mine-sudan-egypt-border",
-      "published_date": "2026-10-11T15:54:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tour bus crash in Turkiye leaves at least 11 dead",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss",
-      "published_date": "2026-10-11T15:52:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran security chief accuses Trump of ‘smuggling’ oil through Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-security-chief-accuses-trump-smuggling-oil-through-hormuz",
-      "published_date": "2026-10-11T15:34:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Riyadh airport passenger terminal hit by ‘unidentified projectile’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-passenger-terminal-hit-unidentified-projectile",
-      "published_date": "2026-10-11T15:05:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi forces warn against use of Saudi airports following Riyadh attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-forces-warn-against-use-saudi-airports-following-riyadh-attack",
-      "published_date": "2026-10-11T14:15:48+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss",
+      "published_date": "2026-10-12T15:04:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Lebanon’s first electric train hopes to revive railway system",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "France to release 10m barrels of diesel from stocks",
+      "title": "Tanker hit in Strait of Hormuz, UKMTO says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-release-10-mln-barrels-diesel-stocks",
-      "published_date": "2026-10-07T17:46:28+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-strait-hormuz-ukmto-says",
+      "published_date": "2026-10-12T18:48:56+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Millions of Pakistanis get government fuel relief but some miss out",
+      "title": "UK PM Andy Burnham met Man City chairman during time as Manchester mayor",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
-      "published_date": "2026-10-07T14:02:40+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss",
+      "published_date": "2026-10-12T18:15:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
@@ -536,6 +550,48 @@
       "category": "Economy"
     },
     {
+      "title": "Israeli forces detain three Palestinians in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-three-palestinians-west-bank",
+      "published_date": "2026-10-12T19:42:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo to undergo surgery to remove lung nodule in Rome",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
+      "published_date": "2026-10-12T19:06:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamas, Dahlan and Barghouti: Palestinian hopes fade as elections cancelled",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/hamas-dahlan-and-barghouti-palestinian-hopes-fade-elections-cancelled",
+      "published_date": "2026-10-12T18:42:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France school shooting: Police detain pupil after two injured",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss",
+      "published_date": "2026-10-12T15:47:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli press review: Anti-Palestinian racist incidents spike across Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/anti-palestinian-racist-incidents-reported-across-israel-press-review",
+      "published_date": "2026-10-12T15:35:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza: ‘She survived the bombing, but not the blockade’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-she-survived-bombing-not-blockade",
+      "published_date": "2026-10-12T11:33:14+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
@@ -631,48 +687,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-and-troops-target-olive-harvesters-wedding-convoy-west",
       "published_date": "2026-10-09T19:05:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
-      "published_date": "2026-10-09T15:28:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child flees as Israeli settlers hijack car during pogrom",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss",
-      "published_date": "2026-10-09T13:09:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel kills eight in Gaza as families forced to flee homes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-eight-gaza-families-forced-flee-homes",
-      "published_date": "2026-10-09T11:48:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces kill at least seven Palestinians in separate attacks across Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-least-seven-palestinians-separate-attacks-across",
-      "published_date": "2026-10-09T02:14:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 1,800 people missing in Yemen since July, Red Cross says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/over-1800-people-missing-yemen-july-red-cross-says",
-      "published_date": "2026-10-09T00:31:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
-      "published_date": "2026-10-09T00:12:18+00:00",
       "category": "Local Events"
     }
   ]
