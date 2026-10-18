@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-17T13:59:44.752849+00:00",
+  "last_updated": "2026-10-18T00:46:37.421845+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US sanctions relief unlikely to ease tanker crisis, Kpler says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-relief-unlikely-ease-tanker-crisis-kpler-says",
+      "published_date": "2026-10-18T00:21:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+      "published_date": "2026-10-17T23:40:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France demands Israel arrest settlers who attacked French mayor in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-demands-israel-arrest-settlers-who-attacked-french-mayor-west",
+      "published_date": "2026-10-17T19:58:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
+      "published_date": "2026-10-17T19:03:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+      "published_date": "2026-10-17T17:24:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Settlers attack diplomatic delegation in West Bank, including French consul",
       "source": "Middle East Eye",
@@ -109,39 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss",
-      "published_date": "2026-10-16T11:32:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
-      "published_date": "2026-10-16T11:28:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Algeria bans foreign curricula in private schools and makes Arabic mandatory",
+      "title": "Coalition says two missiles, drone launched towards Saudi Arabia destroyed",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/algeria-bans-foreign-curricula-private-schools-and-makes-arabic-mandatory",
-      "published_date": "2026-10-16T11:10:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-two-missiles-launched-towards-khamis-mushait",
+      "published_date": "2026-10-17T23:10:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
+      "title": "Ten killed in fire at beach resort in Bangladesh",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
-      "published_date": "2026-10-16T10:21:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
+      "published_date": "2026-10-17T20:50:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK Green motion on Zionism: Why we need to change the conversation",
+      "title": "Netanyahu says 'smear' campaign targeting settlers as attack on French mayor draws condemnation",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/uk-green-motion-zionism-why-we-need-change-conversation",
-      "published_date": "2026-10-16T10:10:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-smear-campaign-targeting-settlers-attack-french-mayor",
+      "published_date": "2026-10-17T20:42:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
+      "published_date": "2026-10-17T20:02:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 17 killed in stampede at religious gathering in India",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
+      "published_date": "2026-10-17T19:48:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon to join trilateral talks with Israel and US in Florida next week, Aoun says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-join-trilateral-talks-israel-and-us-florida-next-week-aoun-says",
+      "published_date": "2026-10-17T19:48:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Six Palestinians killed in Israeli strikes across Gaza in a day",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day",
+      "published_date": "2026-10-17T19:04:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-attacks-hormuz-shipping-unsuccessful-centcom-says-0",
+      "published_date": "2026-10-17T18:38:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-attacks-hormuz-shipping-unsuccessful-centcom-says",
+      "published_date": "2026-10-17T18:38:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+      "published_date": "2026-10-17T18:26:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni government forces claim heavy Houthi losses in a day of strikes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-heavy-houthi-losses-day-strikes",
+      "published_date": "2026-10-17T17:53:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
+      "published_date": "2026-10-17T17:18:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why are Latin American countries building closer ties with Israel?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+      "published_date": "2026-10-17T16:54:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi strikes on Yemen kill at least 12, Houthi media report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-strikes-yemen-kill-12-houthis-say",
+      "published_date": "2026-10-17T16:15:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Egyptian parliament to hold emergency session as Sisi seeks approval to defend Saudi Arabia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egyptian-parliament-hold-emergency-session-sisi-seeks-approval-defend",
+      "published_date": "2026-10-17T15:38:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Premier League again refuses Sudan war petition urging UAE action",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/premier-league-again-refuses-sudan-war-petition-urging-uae-action",
+      "published_date": "2026-10-17T14:53:02+00:00",
+      "category": "Military"
     },
     {
       "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
@@ -169,118 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-declares-strait-hormuz-closed-after-tankers-hit",
       "published_date": "2026-10-17T11:06:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Egypt's Sisi declares his presidency will end in 2030",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/egypt-sisi-declares-his-presidency-will-end-2030",
-      "published_date": "2026-10-17T11:00:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
-      "published_date": "2026-10-17T09:44:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Israel's claims cannot be accepted at face value",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/why-israels-claims-cannot-be-accepted-face-value",
-      "published_date": "2026-10-17T09:34:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis strike Yemen’s Aden: What that means",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
-      "published_date": "2026-10-17T09:16:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-643",
-      "published_date": "2026-10-17T06:56:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
-      "published_date": "2026-10-17T06:41:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Woman killed, five civilians injured in Houthi shelling and sniper fire",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/woman-killed-five-civilians-injured-houthi-shelling-and-sniper-fire",
-      "published_date": "2026-10-17T05:37:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada condemns Houthi strikes on Maashiq Palace in Aden",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/canada-condemns-houthi-strikes-maashiq-palace-aden",
-      "published_date": "2026-10-17T05:11:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Most minors subjected to solitary confinement in Israeli prisons Palestinians, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/most-minors-subjected-solitary-confinement-israeli-prisons-palestinians",
-      "published_date": "2026-10-17T03:38:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UKMTO says most vessels don't report Hormuz attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-most-vessels-dont-report-hormuz-attacks-traffic-70-below-pre",
-      "published_date": "2026-10-17T03:12:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen forces, Saudi-led coalition say 378 Houthis killed, two missile launchers destroyed",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-forces-saudi-led-coalition-say-378-houthis-killed-two-missile",
-      "published_date": "2026-10-17T01:10:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN says West Bank olive harvest settler attacks surpass 2025 figure",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-west-bank-olive-harvest-settler-attacks-surpass-2025-figure",
-      "published_date": "2026-10-17T00:40:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy widens flotilla torture probe to include Israeli defence minister, others",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-widens-flotilla-torture-probe-include-israeli-defence-minister",
-      "published_date": "2026-10-17T00:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oregon school shooter was former special needs student, police say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
-      "published_date": "2026-10-17T00:25:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian injured, three others detained during raid in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-injured-three-others-detained-during-raid-west-bank",
-      "published_date": "2026-10-17T00:10:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
-      "published_date": "2026-10-17T00:00:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+      "published_date": "2026-10-17T21:02:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Buildings and cars set on fire as cost of living protests rock France",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
+      "published_date": "2026-10-17T16:00:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gunmen fire on tanker off Yemen's coast southeast of al-Mukalla",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gunmen-fire-tanker-yemens-coast-southeast-al-mukalla",
+      "published_date": "2026-10-17T14:37:43+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
@@ -543,25 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "UK PM Andy Burnham met Man City chairman during time as Manchester mayor",
+      "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss",
-      "published_date": "2026-10-12T18:15:10+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+      "published_date": "2026-10-18T00:00:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
-      "published_date": "2026-10-11T18:47:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UKMTO says it received report of tanker hit by projectile in Hormuz",
+      "title": "US wants Israel to 'crack down' on settler attacks, Rubio says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-it-received-report-tanker-hit-projectile-hormuz",
-      "published_date": "2026-10-11T13:56:51+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-wants-israel-crack-down-settler-attacks-rubio-says",
+      "published_date": "2026-10-17T23:50:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces search homes in Yasouf, set up checkpoints in Bethlehem",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-search-homes-yasouf-set-checkpoints-bethlehem",
+      "published_date": "2026-10-17T23:31:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters allege police brutality as violent clashes rage on in Albania",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
+      "published_date": "2026-10-17T20:40:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is the US Embassy in Jerusalem for Israel or America?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+      "published_date": "2026-10-17T18:41:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French mayor attacked by settlers in West Bank says Israel ‘tolerates’ settler violence",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-mayor-attacked-settlers-west-bank-says-israel-tolerates-settler",
+      "published_date": "2026-10-17T17:09:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Al Jazeera reports from Paris as protests turn violent",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
+      "published_date": "2026-10-17T16:56:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
+      "published_date": "2026-10-17T16:48:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belgium condemns Israeli settler attack on European diplomats in West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/belgium-condemns-settler-attack-european-envoy-israel-faults-diplomats",
+      "published_date": "2026-10-17T15:58:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo leaves hospital after lung cancer surgery",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
+      "published_date": "2026-10-17T15:47:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "European Council warns companies against Israel's E1 settlement construction",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/european-council-warns-companies-against-israels-e1-settlement",
+      "published_date": "2026-10-17T14:33:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US media contributor calls for investigation into journalist attacked by Israeli settlers",
@@ -624,83 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmakers-demand-action-after-attack-washington-post-journalist",
       "published_date": "2026-10-17T04:13:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
-      "published_date": "2026-10-16T23:27:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Families demand justice after Pakistan school collapse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
-      "published_date": "2026-10-16T22:38:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 340 Palestinian children killed in Gaza since ceasefire: Unicef",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/over-340-palestinian-children-killed-gaza-ceasefire-unicef",
-      "published_date": "2026-10-16T21:51:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Students in Europe are rising up to call for better education",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
-      "published_date": "2026-10-16T20:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oregon community mourns victims of school shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
-      "published_date": "2026-10-16T20:08:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From LA to DC, activists launch convoy to 'challenge' voters' perceptions of Israel",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/la-dc-activists-launch-convoy-challenge-voters-perceptions-israel",
-      "published_date": "2026-10-16T19:38:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya records third Ebola case, linked to first patient who died",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
-      "published_date": "2026-10-16T18:57:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US condemns ‘criminal violence’ in West Bank after settler attack on Washington Post journalist",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-condemns-criminal-violence-west-bank-after-settler-attack-washington",
-      "published_date": "2026-10-16T18:37:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US records 4,410 measles cases as outbreak grows",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss",
-      "published_date": "2026-10-16T17:40:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians wounded, US journalist hospitalised after coordinated attack by masked Israeli setters",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/palestinians-wounded-us-journalist-hospitalised-after-coordinated-attack-masked-israeli",
-      "published_date": "2026-10-16T14:46:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Bismillah, it's the darkness’: How a suspected police infiltration became a protest meme in France",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/bismillah-cest-les-tenebres-how-suspected-police-infiltration-became-protest-meme-france",
-      "published_date": "2026-10-16T14:42:36+00:00",
       "category": "Local Events"
     }
   ]
