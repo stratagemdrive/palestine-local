@@ -1,8 +1,78 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-21T15:46:24.475056+00:00",
+  "last_updated": "2026-10-22T01:22:47.482537+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US accuses Canada of election interference ahead of midterms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
+      "published_date": "2026-10-21T23:52:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What happened during Witkoff and Kushner’s latest meeting with Putin",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin?traffic_source=rss",
+      "published_date": "2026-10-21T23:52:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, China discuss regional peace, strengthening Global South cooperation",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-china-discuss-regional-peace-strengthening-global-south-cooperation",
+      "published_date": "2026-10-21T22:19:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar, France issue joint statement calling for the implementation of Gaza ceasefire",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-france-issue-joint-statement-calling-implementation-gaza-ceasefire",
+      "published_date": "2026-10-21T21:51:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran displays mock installation of Trump behind bars",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss",
+      "published_date": "2026-10-21T21:43:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump heads to South Carolina to boost Senator Darline Graham in race",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/trump-heads-to-south-carolina-to-boost-senator-darline-graham-in-race?traffic_source=rss",
+      "published_date": "2026-10-21T21:07:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US State Department says departure orders for non-emergency embassy staff in Saudi Arabia only",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-state-department-says-departure-orders-embassy-staff-saudi-arabia",
+      "published_date": "2026-10-21T20:33:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Null and void:' Egypt condemns Turkey-Libya maritime deal, reaffirms pact with Greece",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/null-and-void-egypt-condemns-turkey-libya-maritime-deal-reaffirming-agreement-greece",
+      "published_date": "2026-10-21T20:24:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's Araghchi says Iran prepared to give diplomacy another chance",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-iran-prepared-give-diplomacy-another-chance",
+      "published_date": "2026-10-21T20:17:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US to order departure of embassy staff from Gulf countries: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-order-departure-embassy-staff-gulf-countries-report",
+      "published_date": "2026-10-21T19:27:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says AI data centres should pay ‘dividends’ in pre-midterm shift",
       "source": "Al Jazeera",
@@ -74,74 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "One year on: Has Kenya’s opposition lost its way without Raila Odinga?",
+      "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss",
-      "published_date": "2026-10-21T00:22:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+      "published_date": "2026-10-22T00:25:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "How far will Netanyahu go to win Israel's elections?",
+      "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+      "published_date": "2026-10-22T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu accuses Erdogan of escalating tensions between Israel and Turkey",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/how-far-will-netanyahu-go-win-israels-elections",
-      "published_date": "2026-10-20T23:35:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-accuses-erdogan-escalating-tensions-between-israel-and-turkey",
+      "published_date": "2026-10-21T23:52:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
-      "published_date": "2026-10-20T23:19:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
-      "published_date": "2026-10-20T22:20:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Greece's alliances failed to prevent eastern Libya's maritime deal with Turkey",
+      "title": "One killed, eight injured in Saudi Arabia’s King Fahd airport attack",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/why-greeces-alliances-failed-prevent-eastern-libyas-maritime-deal-turkey",
-      "published_date": "2026-10-20T21:41:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-eight-injured-saudi-arabias-king-fahd-airport-attack",
+      "published_date": "2026-10-21T22:33:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
-      "published_date": "2026-10-20T21:27:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
-      "published_date": "2026-10-20T21:19:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why do the US midterms matter for Trump and Congress?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
-      "published_date": "2026-10-20T21:00:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Shifting role of US in Middle East is like ‘raising a teenager’, ambassador says",
+      "title": "Israel launches air strikes, demolitions across southern Lebanon",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shifting-role-us-middle-east-raising-teenager-ambassador-says",
-      "published_date": "2026-10-20T20:37:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-air-strikes-demolitions-across-southern-lebanon",
+      "published_date": "2026-10-21T22:30:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says no response from Saudi Arabia and Yemen's Houthis on its mediation initiative",
+      "title": "Seven killed in Israeli attacks on Gaza in past 24 hours",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-says-no-response-saudi-arabia-and-yemens-houthis",
-      "published_date": "2026-10-20T20:32:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-israeli-attacks-gaza-past-24-hours",
+      "published_date": "2026-10-21T21:54:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
+      "published_date": "2026-10-21T21:25:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two Palestinians killed, several injured in Israeli drone strike in Gaza City",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-several-injured-israeli-drone-strike-gaza-city",
+      "published_date": "2026-10-21T20:46:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Null and void:' Egypt condemns Turkey-Libya maritime deal, reaffirms pact with Greece",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/null-and-void-egypt-condemns-turkey-libya-maritime-deal-reaffirms-pact",
+      "published_date": "2026-10-21T20:36:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two killed in attack on Saudi Arabia's Shaybah oil field",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-attack-saudi-arabias-shaybah-oilfield",
+      "published_date": "2026-10-21T19:24:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu threatens regime change in Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-threatens-regime-change-iran",
+      "published_date": "2026-10-21T18:49:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemeni government says Houthis attacked Al Mukalla airport",
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Turkish and Qatari defence ministers meet",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-and-qatari-defence-ministers-meet",
-      "published_date": "2026-10-21T10:26:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
+      "title": "Will Russia’s diesel shipment to the US lower prices before midterms?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
-      "published_date": "2026-10-21T10:22:35+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
+      "published_date": "2026-10-21T20:54:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "HSBC to review Islamic fund’s $38m investment in Palantir",
+      "title": "Gulf exports more oil than it did before Iran war despite surge in Hormuz attacks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/hsbc-review-islamic-funds-38m-investment-palantir",
-      "published_date": "2026-10-21T10:19:29+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-exports-more-oil-it-did-iran-war-despite-surge-hormuz-attacks",
+      "published_date": "2026-10-21T19:52:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Saudi-led coalition reports heavy fighting with Houthis in southwestern Yemen",
+      "title": "Gulf exports more oil than it did before Iran war despite surge in Hormuz attacks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-reports-heavy-fighting-houthis-southwestern-yemen",
-      "published_date": "2026-10-21T09:59:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
-      "published_date": "2026-10-21T09:02:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Missile targets Aden airport as Houthis claim strike on coalition site",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-targets-aden-airport-houthis-claim-strike-coalition-site",
-      "published_date": "2026-10-21T09:00:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-647",
-      "published_date": "2026-10-21T06:51:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'There is no life left': How volunteers buried 600 bodies in Sudan's North Kordofan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/there-no-life-left-how-volunteers-buried-600-bodies-sudans-north-kordofan",
-      "published_date": "2026-10-21T06:34:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK to deploy fighter jets, military advisers to Saudi Arabia as defence from Houthi attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-deploy-fighter-jets-military-advisers-saudi-arabia-defence-houthi",
-      "published_date": "2026-10-21T04:25:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US jails Guatemalan man for 30 years over deadly smuggling operation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/us-jails-guatemalan-man-for-30-years-over-deadly-smuggling-operation?traffic_source=rss",
-      "published_date": "2026-10-21T01:01:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why former FDLR fighters are returning to Rwanda",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss",
-      "published_date": "2026-10-21T00:25:43+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/gulf-exports-more-oil-it-did-iran-war-despite-surge-hormuz-attacks",
+      "published_date": "2026-10-21T19:02:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Protests as UK approves new gas drilling in North Sea",
@@ -400,27 +421,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-against-targeting-energy-facilities",
       "published_date": "2026-10-16T12:55:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fuel tanker fire engulfs market in southern Nigeria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
-      "published_date": "2026-10-16T12:23:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss",
-      "published_date": "2026-10-16T11:54:10+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran's navy says oil tanker detected on fire in Gulf of Oman",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-navy-says-oil-tanker-detected-fire-gulf-oman",
-      "published_date": "2026-10-16T11:07:18+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,48 @@
       "category": "Economy"
     },
     {
+      "title": "Colombian president purges National Museum of works promoting ‘communism’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
+      "published_date": "2026-10-22T01:09:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
+      "published_date": "2026-10-21T23:20:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video shows Israeli settler assaulting Palestinian child",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
+      "published_date": "2026-10-21T22:03:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Property sales of illegal Israeli settlement lands challenged in complaint in Canada",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/property-sales-illegal-israeli-settlement-lands-challenged-complaint",
+      "published_date": "2026-10-21T21:56:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Property sales of illegal Israeli settlement lands challenged in complaint in Canada",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/property-sales-illegal-israeli-settlement-land-challenged-complaint-canada",
+      "published_date": "2026-10-21T21:30:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jason Alexander recalls Palestinian protection in Ramallah",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss",
+      "published_date": "2026-10-21T20:18:02+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Albania’s revolt: How Rama’s Kushner resort deal became a threat to his leadership",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/rama-courted-kushner-and-israel-now-albanias-protesters-are-challenging-his-grip-power",
@@ -659,48 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/portugal-face-veil-ban-leaves-muslim-women-fearing-rights-safety",
       "published_date": "2026-10-20T08:36:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK universities worked together to suppress pro-Palestine activism, report reveals",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-universities-worked-together-suppress-pro-palestine-activism-report-reveals",
-      "published_date": "2026-10-20T08:26:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Release Epstein files’, protester interrupts JD Vance’s speech",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss",
-      "published_date": "2026-10-20T00:18:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli fighter jets spotted over Syria, Iraq, local sources say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fighter-jets-spotted-over-syria-iraq-local-sources-say",
-      "published_date": "2026-10-19T21:46:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mahmoud Khalil petitions US Supreme Court to hear his free speech case",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/mahmoud-khalil-petitions-us-supreme-court-hear-his-free-speech-case",
-      "published_date": "2026-10-19T21:01:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya convicts cult leader over the murder of 190 children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
-      "published_date": "2026-10-19T20:31:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump signs order launching women’s health division at NIH, White House",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
-      "published_date": "2026-10-19T20:29:46+00:00",
       "category": "Local Events"
     }
   ]
