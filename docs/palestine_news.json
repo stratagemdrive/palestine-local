@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-25T00:56:43.828162+00:00",
-  "story_count": 98,
+  "last_updated": "2026-10-25T14:42:10.239142+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
+      "published_date": "2026-10-25T11:39:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+      "published_date": "2026-10-25T10:14:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia denies plans to evacuate staff working at Iran's Bushehr nuclear plant",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-denies-plans-evacuate-staff-working-irans-bushehr-nuclear-plant",
+      "published_date": "2026-10-25T05:50:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran speaker to skip Delhi Brics meet due to 'unforeseen circumstances'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-speaker-skip-delhi-brics-meet-due-unforeseen-circumstances",
+      "published_date": "2026-10-25T03:15:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Obama blames Trump for 'starting unnecessary war nobody asked for'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/obama-blames-trump-starting-unnecessary-war-nobody-asked",
+      "published_date": "2026-10-25T01:08:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
       "source": "Al Jazeera",
@@ -109,39 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+      "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
-      "published_date": "2026-10-23T20:02:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
+      "published_date": "2026-10-25T14:03:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump’s broken promises: economy, war and ICE",
+      "title": "Saudi air defences intercept Houthi barrage near Mecca",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
-      "published_date": "2026-10-23T20:01:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
+      "published_date": "2026-10-25T13:49:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ilhan Omar was never supposed to be an equal",
+      "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
+      "published_date": "2026-10-25T13:29:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli attacks kill at least five Palestinians in Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/ilhan-omar-was-never-supposed-be-equal",
-      "published_date": "2026-10-23T18:45:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza",
+      "published_date": "2026-10-25T12:46:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss",
-      "published_date": "2026-10-23T18:22:51+00:00",
-      "category": "Diplomacy"
+      "title": "Tehran strikes Iranian Kurdish base in Iraq with drones, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-strikes-iranian-kurdish-base-iraq-drones-report-says",
+      "published_date": "2026-10-25T06:45:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump administration sues to block possible Democratic win in Alaska",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
-      "published_date": "2026-10-23T17:57:54+00:00",
-      "category": "Diplomacy"
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-651",
+      "published_date": "2026-10-25T06:33:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Explosive-laden drone attacks Kurdish opposition camp",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosive-laden-drone-attacks-kurdish-opposition-camp",
+      "published_date": "2026-10-25T05:20:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s supreme leader directs judiciary to pursue US-Israeli war reparations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-directs-judiciary-pursue-us-israeli-war-reparations",
+      "published_date": "2026-10-25T04:50:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis renew warning against using King Khalid airport",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-renew-warning-against-using-king-khalid-airport",
+      "published_date": "2026-10-25T04:10:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi-led coalition says ballistic missile intercepted over Riyadh",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-ballistic-missile-intercepted-over-riyadh",
+      "published_date": "2026-10-25T03:41:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coalition forces intercept another drone over Riyadh, spokesman says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/coalition-forces-intercept-another-drone-over-riyadh-spokesman-says",
+      "published_date": "2026-10-25T02:29:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC spokesman says war could have consequences beyond Iran's borders",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-spokesman-says-war-could-have-consequences-beyond-irans-borders",
+      "published_date": "2026-10-25T02:22:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran urges France, Germany, UK to examine root cause of military conflict",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-urges-france-germany-uk-examine-root-cause-military-conflict",
+      "published_date": "2026-10-25T01:39:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Thousands rally in Tel Aviv against Netanyahu ahead of elections",
@@ -193,95 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Houthis deny report that they attacked Mecca and Medina",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-deny-report-they-attacked-mecca-and-medina",
-      "published_date": "2026-10-24T18:44:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran judiciary says chief holds rare meeting with supreme leader",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-judiciary-says-chief-holds-rare-meeting-supreme-leader",
-      "published_date": "2026-10-24T18:28:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli gunfire kills Palestinian man in central Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-palestinian-central-gaza",
-      "published_date": "2026-10-24T17:23:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia says Houthi missile shrapnel falls in Jeddah, Taif, Rabigh after interceptions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-houthi-missile-shrapnel-falls-jeddah-taif-rabigh-after",
-      "published_date": "2026-10-24T17:19:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US envoy accuses Druze sheikh of using its backing to persecute other members of the community",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-envoy-accuses-druze-sheikh-using-us-backing-persecute-other-community",
-      "published_date": "2026-10-24T16:48:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's Houthis say they attacked Saudi oil facilities, airports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-saudi-oil-facilities-airports",
-      "published_date": "2026-10-24T16:38:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+      "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
-      "published_date": "2026-10-24T15:50:49+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
+      "published_date": "2026-10-25T12:05:16+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Yemen's Houthis claim attack on Aden naval base, military camp",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-claim-attack-aden-naval-base-military-camp",
-      "published_date": "2026-10-24T15:05:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Athens, Marco Rubio's civilisational hubris reaches a peak",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/athens-rubios-civilisational-hubris-reaches-peak",
-      "published_date": "2026-10-24T12:08:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Czech Republic advances media funding overhaul despite criticism",
+      "title": "Indigenous communities worry Brazil’s election could hurt environment",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss",
-      "published_date": "2026-10-24T11:50:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three killed in Saudi air strike on Sanaa, says Houthi-linked media",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-saudi-air-strike-sanaa-says-houthi-linked-media",
-      "published_date": "2026-10-24T11:47:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills",
-      "published_date": "2026-10-24T10:49:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Accountability can't be swept under rubble': Amnesty on Gaza killings, aid",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/accountability-cant-be-swept-under-rubble-amnesty-gaza-killings-aid",
-      "published_date": "2026-10-24T06:53:25+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss",
+      "published_date": "2026-10-25T08:54:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Serbian elections: A country where students may actually take power",
@@ -403,11 +417,32 @@
       "category": "Energy"
     },
     {
-      "title": "US seeks 'verifiable commitment' Iran won't rebuild nuclear programme, Vance says",
+      "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
+      "published_date": "2026-10-25T14:11:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'Diplomatic and financial isolation': Netanyahu’s crypto plan to bypass sanctions draws rebuke",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-seeks-verifiable-commitment-iran-wont-rebuild-nuclear-programme-vance",
-      "published_date": "2026-10-18T05:34:52+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/diplomatic-and-financial-isolation-netanyahus-crypto-plan-bypass",
+      "published_date": "2026-10-25T12:48:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'Diplomatic and financial isolation': Netanyahu’s crypto plan to bypass sanctions draws rebuke",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/diplomatic-financial-isolation-netanyahu-crypto-plan-bypass-sanctions-draws-rebuke",
+      "published_date": "2026-10-25T11:42:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Qatar official calls for peace and security to boost trade, investment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
+      "published_date": "2026-10-25T09:57:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
@@ -522,32 +557,60 @@
       "category": "Economy"
     },
     {
-      "title": "UN demands aid access to besieged Yemen city Taiz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-demands-aid-access-besieged-yemen-city-taiz",
-      "published_date": "2026-10-20T15:28:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "World Food Programme says ending aid for half million in Gaza due to funding shortfall",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/world-food-programme-says-ending-aid-half-million-gaza-due-funding-0",
-      "published_date": "2026-10-20T06:49:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
+      "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
-      "published_date": "2026-10-20T01:05:31+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+      "published_date": "2026-10-25T13:46:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Smotrich: Israel committing mistake by giving MBS 'things'",
+      "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
+      "published_date": "2026-10-25T12:17:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-israel-committing-mistake-giving-mbs-things",
-      "published_date": "2026-10-19T20:41:50+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/israeli-settlers-submit-proposals-new-jewish-settlement-sheikh-jarrah-neighbourhood",
+      "published_date": "2026-10-25T11:03:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police in Albania filmed beating protester unconscious",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
+      "published_date": "2026-10-25T10:45:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu warns of second Holocaust if he loses Israeli elections",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-warns-second-holocaust-if-he-loses-israeli-elections",
+      "published_date": "2026-10-25T10:33:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+      "published_date": "2026-10-25T09:27:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
+      "published_date": "2026-10-25T09:14:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces detain 20 Palestinians during searches in besieged Hebron",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-20-palestinians-during-searches-besieged-hebron",
+      "published_date": "2026-10-25T06:51:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel restricts entry of Palestinian labourers to West Bank areas",
@@ -631,62 +694,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/gaza-genocide-leaves-record-number-orphans-and-widows",
       "published_date": "2026-10-24T08:51:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu tells Israelis to brace for sanctions, suggests crypto workaround",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-tells-israelis-brace-sanctions-suggests-crypto-workaround",
-      "published_date": "2026-10-24T05:13:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
-      "published_date": "2026-10-24T00:50:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports",
-      "published_date": "2026-10-24T00:19:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
-      "published_date": "2026-10-23T22:33:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli raids, demolitions and settler attacks hit Palestinians across West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-raids-demolitions-and-settler-attacks-hit-palestinians-across",
-      "published_date": "2026-10-23T21:55:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel locks down occupied West Bank after Hebron shooting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
-      "published_date": "2026-10-23T18:38:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern coach Kompany taken to hospital after collapsing during training",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss",
-      "published_date": "2026-10-23T17:44:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
-      "published_date": "2026-10-23T17:30:51+00:00",
       "category": "Local Events"
     }
   ]
