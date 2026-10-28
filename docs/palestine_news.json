@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-27T16:07:13.787208+00:00",
+  "last_updated": "2026-10-28T02:04:46.927232+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
+      "published_date": "2026-10-28T00:25:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+      "published_date": "2026-10-27T22:29:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli exit polls show huge Palestinian gains block Netanyahu from forming government",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-exit-polls-show-huge-palestinian-gains-block-netanyahu-forming",
+      "published_date": "2026-10-27T22:16:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestinian voter mobilisation a ‘truly historic development’, analyst says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-voter-mobilisation-truly-historic-development-analyst-says",
+      "published_date": "2026-10-27T21:14:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
+      "published_date": "2026-10-27T19:36:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
       "source": "Al Jazeera",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
+      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
-      "published_date": "2026-10-26T20:17:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+      "published_date": "2026-10-27T23:35:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump faces private citizens lawsuit over limiting White House media access",
+      "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
-      "published_date": "2026-10-26T18:29:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+      "published_date": "2026-10-27T21:28:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Exclusive: UK leans towards backing UAE's Lana Nusseibeh for UN secretary-general",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-uk-leans-towards-backing-uaes-lana-nusseibeh-un-secretary",
-      "published_date": "2026-10-26T18:16:05+00:00",
-      "category": "Diplomacy"
+      "title": "Forever Wars: Why can’t America stop?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
+      "published_date": "2026-10-27T21:21:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran, Saudi Arabia, Pakistan, Turkey to cooperate on regional security",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-saudi-arabia-pakistan-turkey-cooperate-regional-security",
-      "published_date": "2026-10-26T17:46:08+00:00",
-      "category": "Diplomacy"
+      "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
+      "published_date": "2026-10-27T21:12:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "FBI considering espionage case against Saudi OpenAI suspect: Report",
+      "title": "US says it killed five people in strike on alleged drug boat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
+      "published_date": "2026-10-27T20:54:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli opposition leader says Netanyahu has suffered ‘crushing defeat’",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/fbi-considering-espionage-case-against-saudi-openai-suspect",
-      "published_date": "2026-10-26T17:42:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-opposition-says-netanyahu-has-suffered-crushing-defeat",
+      "published_date": "2026-10-27T20:31:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu’s Likud party is projected to have won the most seats of any single party, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-likud-projected-win-most-seats-channel-13-exit-poll-shows",
+      "published_date": "2026-10-27T20:25:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli exit polls show huge Palestinian gains block Netanyahu from forming government",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-exit-polls-show-huge-palestinian-gains-block-netanyahu-and-eisenkot-forming-majority",
+      "published_date": "2026-10-27T20:09:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Exit polls show Eisenkot-led bloc ahead of Netanyahu’s, gains for Palestinian-led parties",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exit-polls-show-eisenkot-led-bloc-ahead-netanyahus-gains-arab-led",
+      "published_date": "2026-10-27T20:08:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
+      "published_date": "2026-10-27T20:00:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Egypt jails Mada Masr editor and orders outlet closed",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Huge explosion at a weapons depot in Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
-      "published_date": "2026-10-26T20:41:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan arrests three suspects over deadly church attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
-      "published_date": "2026-10-26T19:25:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli media: At Netanyahu's request, Israeli officials discussed preparations for striking Iran",
+      "title": "Israeli far-right minister says Eisenkot-led government would ‘paralyse’ his party’s work",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-netanyahus-request-israeli-officials-discussed",
-      "published_date": "2026-10-26T19:07:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could the midterms change US military support for Israel?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
-      "published_date": "2026-10-26T18:05:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
-      "published_date": "2026-10-26T16:39:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mecca alliance visits Tehran in push to end Israeli-US war and build regional security",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/mecca-alliance-visits-tehran-push-end-israeli-us-war-and-build-regional-security",
-      "published_date": "2026-10-26T16:37:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Egyptian parliament authorises military aid for Saudi Arabia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
-      "published_date": "2026-10-26T15:41:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pezeshkian says Iran supports unity among Muslim countries",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-iran-supports-unity-among-muslim-countries",
-      "published_date": "2026-10-26T15:36:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blasts hit Yemen’s capital and Red Sea coast, residents report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-hit-yemens-capital-and-red-sea-coast-residents-report",
-      "published_date": "2026-10-26T14:41:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli press review: Netanyahu accused of pushing Iran escalation ahead of election",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-press-review-netanyahu-accused-pushing-iran-escalation-ahead-election",
-      "published_date": "2026-10-26T13:40:45+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-far-right-minister-says-eisenkot-led-government-would-paralyse",
+      "published_date": "2026-10-27T22:38:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iranian and Qatari leaders meet at Russian energy forum",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Protests as UK approves new gas drilling in North Sea",
+      "title": "Lieberman calls on Netanyahu to step down",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lieberman-calls-netanyahu-step-down",
+      "published_date": "2026-10-27T23:10:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Smotrich dances in Israel despite far-right decline",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
-      "published_date": "2026-10-21T12:49:52+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+      "published_date": "2026-10-27T23:03:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "Election committee says no evidence of ballot tampering despite complaints from at least six parties",
@@ -550,18 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Impact of Houthi attacks on Saudi economy 'limited' for now: IMF",
+      "title": "Official vote count under way in Israeli election",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/impact-houthi-attacks-saudi-economy-limited-now-imf",
-      "published_date": "2026-10-22T17:10:15+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/official-vote-count-under-way-israeli-election",
+      "published_date": "2026-10-27T23:21:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rising costs and tight budgets strain Americans ahead of midterm elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss",
-      "published_date": "2026-10-22T15:07:38+00:00",
-      "category": "Economy"
+      "title": "Smotrich says he ‘won’t let’ Palestinian citizens celebrate election gains",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-says-he-wont-let-palestinian-citizens-celebrate-election-gains",
+      "published_date": "2026-10-27T23:17:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli exit polls show huge Palestinian gains block Netanyahu and Eisenkot from forming majority",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-exit-polls-show-huge-palestinian-gains-block-netanyahu-and",
+      "published_date": "2026-10-27T20:12:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turnout among prisoners tops 88 percent, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turnout-among-prisoners-tops-88-percent-report-says",
+      "published_date": "2026-10-27T19:59:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel’s election committee plans to announce official results by Wednesday evening",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-election-committee-plans-announce-official-results-wednesday",
+      "published_date": "2026-10-27T19:48:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UN inquiry finds Israel committed age-based persecution of Palestinian children in West Bank",
@@ -666,41 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/zionist-framing-palestinian-history-authors-pull-palestine-book-random-house",
       "published_date": "2026-10-26T18:34:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN human rights chief warns of 'ethnic cleansing' in Hebron",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-human-rights-chief-warns-ethnic-cleansing-hebron",
-      "published_date": "2026-10-26T17:04:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exclusive: UK leans towards backing UAE's Lana Nusseibeh for UN secretary-general",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-leaning-towards-backing-uaes-lana-nusseibeh-un-secretary-general",
-      "published_date": "2026-10-26T17:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Everything destroyed’: Hebron businesses count cost of Israeli assault",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss",
-      "published_date": "2026-10-26T16:24:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel committing crimes against humanity in occupied West Bank: UN",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
-      "published_date": "2026-10-26T15:44:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We left with heavy hearts’: Israel’s assault displaces thousands in Hebron",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/we-left-heavy-hearts-israels-assault-displaces-thousands-hebron",
-      "published_date": "2026-10-26T13:14:03+00:00",
       "category": "Local Events"
     }
   ]
