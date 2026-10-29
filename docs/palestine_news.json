@@ -1,8 +1,85 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-29T02:15:04.061511+00:00",
+  "last_updated": "2026-10-29T17:12:37.492752+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Yemeni tribal leaders present set of principles to ease war's humanitarian impact",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-tribal-leaders-present-set-principles-ease-wars-humanitarian",
+      "published_date": "2026-10-29T17:00:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestinian president says he hopes for peace talks with new Israeli government",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-president-says-hopes-peace-talks-new-israeli-government",
+      "published_date": "2026-10-29T15:32:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli press review: Netanyahu moved to undermine Palestinian vote on election day",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-press-review-netanyahu-moved-undermine-palestinian-vote-election-day",
+      "published_date": "2026-10-29T15:19:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu’s Likud claims Palestinians ‘stole’ elections as Qatar denies meddling",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-likud-claims-palestinians-stole-elections-qatar-denies",
+      "published_date": "2026-10-29T15:06:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'No going back': World Jewish Congress chief Ronald Lauder abandons Netanyahu's Israel",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/netanyahu-chose-politics-over-peace-former-confidant-ronald-lauder-says",
+      "published_date": "2026-10-29T14:58:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran received letter from US's Vance but yet to respond, news agency reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-received-letter-uss-vance-yet-respond-news-agency-reports",
+      "published_date": "2026-10-29T14:58:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham says UK doing everything to support reopening of Strait of Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/burnham-says-uk-doing-everything-support-reopening-strait-hormuz",
+      "published_date": "2026-10-29T13:46:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia offers to mediate between Iran and US: report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-offers-mediate-between-iran-and-us-report",
+      "published_date": "2026-10-29T13:37:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar denies interference in Israeli elections",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-denies-interference-israeli-elections",
+      "published_date": "2026-10-29T12:58:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is Russia sending fighter jets and air defences to Ethiopia?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss",
+      "published_date": "2026-10-29T12:32:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Charles on Caribbean tour as calls grow for slavery reparations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss",
+      "published_date": "2026-10-29T12:10:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
       "source": "Al Jazeera",
@@ -67,81 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US warns Gulf of intense strikes on Iran after midterms: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-warns-gulf-intense-strikes-iran-after-midterms-report",
-      "published_date": "2026-10-28T16:41:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What happens to Netanyahu’s ICC warrant if he leaves office?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/what-happens-netanyahus-icc-warrant-if-he-leaves-office",
-      "published_date": "2026-10-28T15:41:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What happens to Netanyahu’s ICC warrant if he leaves office?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/what-happens-netanyahus-icc-arrest-warrant-after-elections",
-      "published_date": "2026-10-28T15:05:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Are GCC countries looking for a regional security pact with Iran?",
+      "title": "Spanish long jumper Julieta Gallego among victims of deadly train collision",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss",
-      "published_date": "2026-10-28T14:51:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss",
+      "published_date": "2026-10-29T15:18:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Without the Arabs!’ Israeli politicians urges government excluding Palestinians",
+      "title": "The UAE deals in the darkest of politics - its representative should be nowhere near the UN",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/without-arabs-israeli-politicians-urges-government-excluding",
-      "published_date": "2026-10-28T12:35:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/opinion/uaes-deals-dark-politics-its-representative-nowhere-near-the-UN",
+      "published_date": "2026-10-29T14:21:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
+      "title": "Damascus, Amman contradict each other on attack that killed civilians",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
-      "published_date": "2026-10-28T00:25:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
+      "published_date": "2026-10-29T13:44:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
-      "published_date": "2026-10-27T22:29:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli exit polls show huge Palestinian gains block Netanyahu from forming government",
+      "title": "Can Baghdad finally resolve the crisis in Sinjar?",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-exit-polls-show-huge-palestinian-gains-block-netanyahu-forming",
-      "published_date": "2026-10-27T22:16:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/will-iraqs-latest-move-finally-resolve-sinjar-crisis",
+      "published_date": "2026-10-29T13:27:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Palestinian voter mobilisation a ‘truly historic development’, analyst says",
+      "title": "Yemen's Houthis say Saudi strike kills 12 in Taiz residential area",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-voter-mobilisation-truly-historic-development-analyst-says",
-      "published_date": "2026-10-27T21:14:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
-      "published_date": "2026-10-27T19:36:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss",
-      "published_date": "2026-10-27T15:26:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-strike-kills-12-yemeni-residential-area",
+      "published_date": "2026-10-29T13:21:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli president Herzog warns against repeating elections",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Kremlin says European countries not included in next Ukraine talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-      "published_date": "2026-10-28T16:12:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli soldier visiting UK faces war crimes complaint",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-      "published_date": "2026-10-28T16:06:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK sanctions Sudanese officials implicated in mass sexual violence in el-Fasher",
+      "title": "Joint List chairman accuses Netanyahu of 'racist blood libel'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-sanctions-sudanese-officials-implicated-mass-sexual-violence-el-fasher-0",
-      "published_date": "2026-10-28T15:28:57+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/joint-list-chairman-accuses-netanyahu-racist-blood-libel",
+      "published_date": "2026-10-29T15:55:59+00:00",
+      "category": "Energy"
     },
     {
-      "title": "After taking a break to vote in elections, Israeli army resumes home demolitions and raids across West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/after-taking-break-vote-elections-israeli-army-resumes-home-demolitions",
-      "published_date": "2026-10-28T13:31:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Victims of Jordan’s air strikes in Syria",
+      "title": "Rising fuel costs force passengers off cruise ship",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
-      "published_date": "2026-10-28T12:35:19+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss",
+      "published_date": "2026-10-29T13:26:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen's Houthis continue",
+      "title": "Israel's stock market sees high volatility after election results",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-aramco-tells-staff-evacuate-dhahran-clashes-yemens-houthis",
-      "published_date": "2026-10-22T15:35:58+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/high-volatility-israels-stock-market-after-election-results",
+      "published_date": "2026-10-29T13:30:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "From the streets to the ballot box: Serbia’s students hope for election win",
+      "title": "The megadonors financing the US midterms to influence policy",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
-      "published_date": "2026-10-22T15:13:34+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss",
+      "published_date": "2026-10-29T13:26:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "Treasury Secretary says US economic sanctions on Iran 'very successful'",
@@ -550,18 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Tanker hit by unknown projectile off Oman, UKMTO says",
+      "title": "Tel Aviv court extends Al Jazeera ban by 90 days",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-unknown-projectile-oman-ukmto-says",
-      "published_date": "2026-10-24T00:34:59+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tel-aviv-court-extends-al-jazeera-ban-90-days",
+      "published_date": "2026-10-29T16:44:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
+      "title": "How the UK's new antisemitism guidelines for schools will stigmatise Muslim pupils",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/how-uk-new-antisemitism-guidelines-schools-stigmatise-Muslim-pupils",
+      "published_date": "2026-10-29T15:44:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
-      "published_date": "2026-10-23T20:44:02+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+      "published_date": "2026-10-29T15:12:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Neville says managers need sacking ‘for own good’ as Man Utd retain Carrick",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/neville-says-managers-need-sacking-for-own-good-as-man-utd-retain-carrick?traffic_source=rss",
+      "published_date": "2026-10-29T13:53:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu claims Palestinians ‘stole’ elections as Qatar slams 'ridiculous and dangerous' allegations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/qatar-rejects-ridiculous-israels-likud-claims-election-interference",
+      "published_date": "2026-10-29T13:37:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exclusive: London event advertises Israeli agency building illegal settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/major-london-event-advertises-israeli-agency-dispossessing-palestinians-and-building-illegal-settlements",
+      "published_date": "2026-10-29T12:32:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
+      "published_date": "2026-10-29T12:29:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Yemen’s Health Ministry warns against escalating health and humanitarian crisis in Taiz",
@@ -652,55 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/nigerian-artist-reframes-children-with-albinism-as-heroes?traffic_source=rss",
       "published_date": "2026-10-28T11:46:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Official vote count under way in Israeli election",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/official-vote-count-under-way-israeli-election",
-      "published_date": "2026-10-27T23:21:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smotrich says he ‘won’t let’ Palestinian citizens celebrate election gains",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-says-he-wont-let-palestinian-citizens-celebrate-election-gains",
-      "published_date": "2026-10-27T23:17:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli exit polls show huge Palestinian gains block Netanyahu and Eisenkot from forming majority",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-exit-polls-show-huge-palestinian-gains-block-netanyahu-and",
-      "published_date": "2026-10-27T20:12:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turnout among prisoners tops 88 percent, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turnout-among-prisoners-tops-88-percent-report-says",
-      "published_date": "2026-10-27T19:59:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s election committee plans to announce official results by Wednesday evening",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-election-committee-plans-announce-official-results-wednesday",
-      "published_date": "2026-10-27T19:48:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN inquiry finds Israel committed age-based persecution of Palestinian children in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/un-inquiry-finds-israel-committed-age-based-persecution-palestinian-children-west-bank",
-      "published_date": "2026-10-27T15:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan’s war steals children’s future with school closures and displacement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/27/sudans-war-steals-childrens-futures-with-school-closures-and-displacement?traffic_source=rss",
-      "published_date": "2026-10-27T14:45:41+00:00",
       "category": "Local Events"
     }
   ]
