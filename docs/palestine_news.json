@@ -1,8 +1,99 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-10-31T15:55:14.823476+00:00",
+  "last_updated": "2026-11-01T02:00:50.762730+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Guterres condemns death of UN staff member in Houthi custody",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/guterres-condemns-death-un-staff-member-houthi-custody",
+      "published_date": "2026-11-01T01:53:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Negotiations going fine': Trump says Iran wants to make a deal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/negotiations-going-fine-trump-says-iran-wants-make-deal",
+      "published_date": "2026-11-01T01:25:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Margaret Owen, 94, arrested again during Palestine Action ban protest",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/margaret-owen-94-arrested-again-during-palestine-action-ban-protest",
+      "published_date": "2026-11-01T00:25:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Give peace a chance': Israeli protesters urge opposition to ally with Arab parties",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/give-peace-chance-israeli-protesters-urge-opposition-ally-arab-parties",
+      "published_date": "2026-10-31T23:57:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+      "published_date": "2026-10-31T22:36:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestine Action supporters arrested outside US embassy in London",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+      "published_date": "2026-10-31T22:10:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+      "published_date": "2026-10-31T21:38:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria weighs joining Mecca defence pact, foreign minister says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-weighs-joining-mecca-defence-pact-foreign-minister-says",
+      "published_date": "2026-10-31T20:41:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+      "published_date": "2026-10-31T20:30:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran could revisit nuclear weapons ban if war resumes, security chief says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-could-revisit-nuclear-weapons-ban-if-war-resumes-security-chief",
+      "published_date": "2026-10-31T18:40:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Michigan Muslims helped elect Trump. Now their faith is under fire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss",
+      "published_date": "2026-10-31T17:38:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "London police arrest dozens days before Supreme Court hearing on Palestine Action ban",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/london-police-arrest-dozens-days-supreme-court-hearing-palestine-action",
+      "published_date": "2026-10-31T16:48:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UAE candidate to head UN finishes fourth in first Security Council straw poll",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uae-candidate-head-un-finishes-fourth-first-security-council-straw-poll",
+      "published_date": "2026-10-31T15:57:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN Western Sahara peacekeeping mission left in limbo after US-Russia veto standoff",
       "source": "Middle East Eye",
@@ -53,95 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Paycheck to paycheck’: Texas border voters shed parties amid economic woes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/paycheck-to-paycheck-texas-border-voters-shed-parties-amid-economic-woes?traffic_source=rss",
-      "published_date": "2026-10-31T10:24:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran slams Canada for supporting UAE claim over three Gulf islands",
+      "title": "Centcom says 144 vessels redirected under 'ironclad' Iran blockade",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-slams-canada-supporting-uae-claim-over-three-gulf-islands",
-      "published_date": "2026-10-31T01:37:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-144-vessels-redirected-under-ironclad-iran-blockade",
+      "published_date": "2026-11-01T00:58:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi and Russian foreign ministers discuss Hormuz, Yemen at G20",
+      "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+      "published_date": "2026-11-01T00:00:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel shells south Lebanon towns, builds roads connecting military outposts",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-and-russian-foreign-ministers-discuss-hormuz-yemen-g20",
-      "published_date": "2026-10-31T01:13:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-shells-south-lebanon-towns-builds-roads-connecting-military",
+      "published_date": "2026-10-31T23:21:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says 'there are talks', Tehran wants to talk",
+      "title": "UN demands probe into death of staff member in Houthi custody",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-there-are-talks-tehran-wants-talk",
-      "published_date": "2026-10-31T00:19:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-demands-probe-death-staff-member-houthi-custody",
+      "published_date": "2026-10-31T19:44:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
-      "published_date": "2026-10-30T22:58:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+      "published_date": "2026-10-31T18:48:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "US appeals court again rejects Trump bid to set aside California ballots",
+      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
-      "published_date": "2026-10-30T20:39:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+      "published_date": "2026-10-31T17:49:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
-      "published_date": "2026-10-30T20:37:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
-      "published_date": "2026-10-30T20:13:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
-      "published_date": "2026-10-30T20:00:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN must investigate death of UAE poet and writer Habib al-Sayegh, advocacy group says",
+      "title": "Trump has not decided whether to resume strikes on Iran, Rubio says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/un-must-investigate-suspicious-death-uae-poet-and-writer-habib-al-sayegh-advocacy-group-says",
-      "published_date": "2026-10-30T19:31:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
-      "published_date": "2026-10-30T15:37:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump reverses course, reinstates cancelled campaign rallies",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss",
-      "published_date": "2026-10-30T15:35:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
-      "published_date": "2026-10-30T14:40:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-has-not-decided-whether-resume-strikes-iran-rubio-says",
+      "published_date": "2026-10-31T17:08:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
@@ -232,55 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-journalist-returns-home-after-15-months-israeli-detention",
       "published_date": "2026-10-31T05:26:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns of 'earth-shattering blow' as Araghchi slams Germany's war stance",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-earth-shattering-blow-araghchi-slams-germanys-war-stance",
-      "published_date": "2026-10-31T04:58:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'We must be so strong that no dares covet our land', Pezeshkian says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-must-be-so-strong-no-dares-covet-our-land-pezeshkian-says",
-      "published_date": "2026-10-31T04:26:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anyone attending, organising Palestine Action protest will be arrested, Metropolitan Police warns",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/anyone-attending-organising-palestine-action-protest-will-be-arrested",
-      "published_date": "2026-10-31T03:45:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hormuz shipping traffic remains 70% below pre-war levels, UKMTO says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-shipping-traffic-remains-70-below-pre-war-levels-ukmto-says",
-      "published_date": "2026-10-31T03:16:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Merz says Germany working to end Iran war that has cost Europe $112bn",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/merz-says-germany-working-end-iran-war-has-cost-europe-112bn",
-      "published_date": "2026-10-31T02:06:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss",
-      "published_date": "2026-10-31T01:23:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi drone intercepted over Saudi Arabia's southern region, coalition says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-drone-intercepted-over-saudi-arabias-southern-region-coalition",
-      "published_date": "2026-10-31T00:54:41+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Tension and clashes as hundreds of thousands protest again in France",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
+      "published_date": "2026-10-31T18:28:14+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Burnham opens door to formal apology for Britain’s slave trade",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Has Pakistan reopened its border with Iran for trade?",
+      "title": "Israeli forces and settlers injure four Palestinians in West Bank attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-and-israeli-forces-injure-four-palestinians-west-bank-attacks",
+      "published_date": "2026-10-31T21:31:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
-      "published_date": "2026-10-26T13:01:16+00:00",
-      "category": "Economy"
+      "url": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+      "published_date": "2026-10-31T21:01:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians ‘Stealing their own olives’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
+      "published_date": "2026-10-31T19:18:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+      "published_date": "2026-10-31T18:32:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least four Palestinians killed, several wounded in Israeli strikes across Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-four-palestinians-killed-israeli-strikes-and-shelling-across-gaza",
+      "published_date": "2026-10-31T18:07:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Those children in Gaza are our children’: Macklemore finishes Free Palestine tour with sold-out London performance",
@@ -666,41 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/how-drought-and-oil-expansion-are-eroding-livelihoods-iraqs-hawizeh-marshes",
       "published_date": "2026-10-30T09:23:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenian parliament turns into a boxing ring, third time in a month",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss",
-      "published_date": "2026-10-30T00:36:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-10-29T21:10:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
-      "published_date": "2026-10-29T20:40:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cornell begins no confidence vote over handling of alleged gang rape",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss",
-      "published_date": "2026-10-29T19:23:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli gunfire injures two Palestinian children in Qalandia camp",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-injures-two-palestinian-children-qalandia-camp",
-      "published_date": "2026-10-29T19:08:43+00:00",
       "category": "Local Events"
     }
   ]
