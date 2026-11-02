@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-11-01T16:57:44.687154+00:00",
+  "last_updated": "2026-11-02T02:14:50.943183+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UAE says hoping for breakthrough yet 'braced for the worst' in Iran-US war",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-says-hoping-breakthrough-yet-braced-worst-iran-us-war",
+      "published_date": "2026-11-02T01:28:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
+      "published_date": "2026-11-02T01:25:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says US 'at some point' will need to give Iran 'the hammer'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-some-point-will-need-give-iran-hammer",
+      "published_date": "2026-11-02T00:37:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Yemen’s foreign minister demands accountability for UN worker’s death in Houthi custody",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-foreign-minister-demands-accountability-un-workers-death-houthi",
+      "published_date": "2026-11-01T23:06:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Iran war will end ‘very soon, one way or the other’",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-war-will-end-very-soon-one-way-or-other",
+      "published_date": "2026-11-01T22:47:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "High-ranking US Democratic senator suffers stroke",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+      "published_date": "2026-11-01T22:32:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he had good talk with Netanyahu",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-had-good-talk-netanyahu",
+      "published_date": "2026-11-01T21:20:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
+      "published_date": "2026-11-01T21:01:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
       "source": "Al Jazeera",
@@ -88,60 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Negotiations going fine': Trump says Iran wants to make a deal",
+      "title": "Casualties reported after attacks by Saudi-led coalition in Yemen’s Hodeidah",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/negotiations-going-fine-trump-says-iran-wants-make-deal",
-      "published_date": "2026-11-01T01:25:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/casualties-reported-after-attacks-saudi-led-coalition-yemens-hodeidah",
+      "published_date": "2026-11-02T02:03:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Margaret Owen, 94, arrested again during Palestine Action ban protest",
+      "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+      "published_date": "2026-11-02T00:34:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "published_date": "2026-11-02T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+      "published_date": "2026-11-01T22:15:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces raid Hebron shops, assault Palestinians amid siege",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/margaret-owen-94-arrested-again-during-palestine-action-ban-protest",
-      "published_date": "2026-11-01T00:25:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-hebron-shops-beat-palestinians-nearby-halhul",
+      "published_date": "2026-11-01T21:53:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Give peace a chance': Israeli protesters urge opposition to ally with Arab parties",
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+      "published_date": "2026-11-01T21:28:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns new war could last longer after Trump threatens strikes",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/give-peace-chance-israeli-protesters-urge-opposition-ally-arab-parties",
-      "published_date": "2026-10-31T23:57:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes",
+      "published_date": "2026-11-01T19:41:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
-      "published_date": "2026-10-31T22:36:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Palestine Action supporters arrested outside US embassy in London",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-      "published_date": "2026-10-31T22:10:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
-      "published_date": "2026-10-31T21:38:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria weighs joining Mecca defence pact, foreign minister says",
+      "title": "Air strike hits communication network in northern Yemen, Houthi-affiliated media reports",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-weighs-joining-mecca-defence-pact-foreign-minister-says",
-      "published_date": "2026-10-31T20:41:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-strike-hits-communication-network-northern-yemen-houthi-affiliated",
+      "published_date": "2026-11-01T19:05:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+      "title": "How will the Iran war shape the outcome of the US midterm vote?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
-      "published_date": "2026-10-31T20:30:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
+      "published_date": "2026-11-01T19:00:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthis repeat threats against Saudi oil giant, aviation",
@@ -221,67 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Recognising Hamas as 'terror' outfit: Eisenkot lays down conditions for 'broad Zionist government'",
+      "title": "UAE condemns attack on Qatar’s LNG carrier in Gulf",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/recognising-hamas-terror-outfit-eisenkot-lays-down-conditions-broad",
-      "published_date": "2026-11-01T04:40:45+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-attack-qatars-lng-carrier-gulf",
+      "published_date": "2026-11-01T23:44:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Former Mossad agent facilitated Flavio Bolsonaro's escape from Brazil, report says",
+      "title": "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/former-mossad-agent-facilitated-flavio-bolsonaros-escape-brazil-report",
-      "published_date": "2026-11-01T04:08:39+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-navy-says-two-tankers-exploded-after-hitting-mines-hormuz",
+      "published_date": "2026-11-01T20:18:23+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Centcom says 144 vessels redirected under 'ironclad' Iran blockade",
+      "title": "Houthi media says Saudi strikes target Yemen's Hodeidah port",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-144-vessels-redirected-under-ironclad-iran-blockade",
-      "published_date": "2026-11-01T00:58:42+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-media-says-saudi-strikes-target-yemens-hodeidah-port",
+      "published_date": "2026-11-01T18:36:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
-      "published_date": "2026-11-01T00:00:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel shells south Lebanon towns, builds roads connecting military outposts",
+      "title": "Saudi Arabia condemns strike on Qatar’s LNG tanker",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-shells-south-lebanon-towns-builds-roads-connecting-military",
-      "published_date": "2026-10-31T23:21:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN demands probe into death of staff member in Houthi custody",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-demands-probe-death-staff-member-houthi-custody",
-      "published_date": "2026-10-31T19:44:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
-      "published_date": "2026-10-31T18:48:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
-      "published_date": "2026-10-31T17:49:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump has not decided whether to resume strikes on Iran, Rubio says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-has-not-decided-whether-resume-strikes-iran-rubio-says",
-      "published_date": "2026-10-31T17:08:44+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-strike-qatars-lng-tanker",
+      "published_date": "2026-11-01T17:44:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
@@ -396,32 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Iranian and Qatari leaders meet at Russian energy forum",
+      "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
-      "published_date": "2026-10-27T15:49:19+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
+      "published_date": "2026-11-02T01:31:21+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iranians brace for renewed attacks after Israeli, US elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss",
-      "published_date": "2026-10-27T13:23:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran's supreme leader: A strong Iran rests upon scientific power",
+      "title": "Vessel struck by unknown projectile in Hormuz, UKMTO says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-strong-iran-rests-upon-scientific-power",
-      "published_date": "2026-10-26T18:46:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Putin to meet Iran's president, Qatar's emir",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/putin-meet-irans-president-qatars-emir",
-      "published_date": "2026-10-26T15:18:13+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vessel-struck-unknown-projectile-hormuz-ukmto-says",
+      "published_date": "2026-11-01T19:00:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tension and clashes as hundreds of thousands protest again in France",
@@ -550,18 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Election committee says no evidence of ballot tampering despite complaints from at least six parties",
+      "title": "Eisenkot says Netanyahu trying to ‘delegitimise’ results",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/election-committee-says-no-evidence-ballot-tampering-despite-complaints",
-      "published_date": "2026-10-27T10:54:31+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-hails-election-chiefs-approval-vote-says-netanyahu-trying",
+      "published_date": "2026-11-01T19:57:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
-      "published_date": "2026-10-26T13:20:23+00:00",
-      "category": "Economy"
+      "title": "Israeli strikes kill nine people in Gaza",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-ten-people-gaza",
+      "published_date": "2026-11-01T17:07:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "India protesters march with 1km banner of deleted voters’ names",
@@ -687,20 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/30/police-in-scotland-launch-andrew-and-epstein-royal-castle-investigation?traffic_source=rss",
       "published_date": "2026-10-30T16:27:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian ambassador urges action over London event advertising settlement-linked Israeli agency",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-ambassador-urges-action-over-london-event-advertising",
-      "published_date": "2026-10-30T14:41:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian ambassador urges action over London event advertising settlement-linked Israeli agency",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/palestinian-ambassador-urges-action-against-london-event-advertising-israeli-agency-building",
-      "published_date": "2026-10-30T13:31:45+00:00",
       "category": "Local Events"
     }
   ]
