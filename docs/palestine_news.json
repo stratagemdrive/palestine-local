@@ -1,13 +1,97 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-11-02T20:35:08.028410+00:00",
+  "last_updated": "2026-11-03T03:52:45.051139+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US urges Venezuela to follow phased plan for democratic transition",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss",
+      "published_date": "2026-11-03T02:27:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss",
+      "published_date": "2026-11-03T02:12:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Report: US launched strikes on Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-launched-strikes-iran",
+      "published_date": "2026-11-03T01:27:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
+      "published_date": "2026-11-03T01:01:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+      "published_date": "2026-11-02T23:41:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+      "published_date": "2026-11-02T23:05:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US elections 2026: Can a Democrat-controlled Senate thwart Trump's agenda?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/us-elections-2026-can-a-democrat-controlled-senate-thwart-trumps-agenda",
+      "published_date": "2026-11-02T22:36:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he will not attack Iran after midterms",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-will-not-attack-iran-after-midterms",
+      "published_date": "2026-11-02T21:41:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says settlement with Iran possible",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-settlement-iran-possible",
+      "published_date": "2026-11-02T21:37:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he will not attack Iran after midterms",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/trump-says-he-will-not-attack-iran-after-midterms",
+      "published_date": "2026-11-02T21:33:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump in 'no rush' to decide on Iran, Axios reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-no-rush-decide-iran-axios-reports",
+      "published_date": "2026-11-02T21:31:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
       "published_date": "2026-11-02T19:06:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+      "published_date": "2026-11-02T18:49:26+00:00",
       "category": "Diplomacy"
     },
     {
@@ -60,88 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran's foreign ministry says exchanges with US ongoing via mediators: AFP",
+      "title": "Yemeni army says it launched nearly 1,000 operations against Houthi targets over past day",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-ministry-says-exchanges-us-ongoing-mediators-afp",
-      "published_date": "2026-11-02T10:11:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-says-it-launched-nearly-1000-operations-against-houthi",
+      "published_date": "2026-11-03T03:11:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Aipac and the Michigan Senate race: How the Israel lobby became toxic",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/aipac-michigan-senate-race-israel-lobby-group-toxic-brand",
-      "published_date": "2026-11-02T09:16:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UAE says hoping for breakthrough yet 'braced for the worst' in Iran-US war",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-says-hoping-breakthrough-yet-braced-worst-iran-us-war",
-      "published_date": "2026-11-02T01:28:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
+      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
-      "published_date": "2026-11-02T01:25:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
+      "published_date": "2026-11-03T02:25:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says US 'at some point' will need to give Iran 'the hammer'",
+      "title": "Yemeni government forces launch strikes on Houthi positions west of Taiz",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-some-point-will-need-give-iran-hammer",
-      "published_date": "2026-11-02T00:37:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-launch-strikes-houthi-positions-west-taiz",
+      "published_date": "2026-11-03T02:17:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Yemen’s foreign minister demands accountability for UN worker’s death in Houthi custody",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-foreign-minister-demands-accountability-un-workers-death-houthi",
-      "published_date": "2026-11-01T23:06:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says Iran war will end ‘very soon, one way or the other’",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-war-will-end-very-soon-one-way-or-other",
-      "published_date": "2026-11-01T22:47:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "High-ranking US Democratic senator suffers stroke",
+      "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
-      "published_date": "2026-11-01T22:32:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says he had good talk with Netanyahu",
+      "title": "Israeli forces push into Quneitra, Syrian media report",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-had-good-talk-netanyahu",
-      "published_date": "2026-11-01T21:20:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-occupation-push-quneitra-syria-syrian-media-report",
+      "published_date": "2026-11-02T22:51:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "title": "What’s the future of the Western Sahara conflict?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
-      "published_date": "2026-11-01T21:01:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss",
-      "published_date": "2026-11-01T16:19:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula's victory alone cannot loosen the US and Israeli grip on Latin America",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/lulas-victory-alone-cannot-loosen-us-and-israeli-grip-latin-america",
-      "published_date": "2026-11-01T15:57:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
+      "published_date": "2026-11-02T20:43:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Protester’s ‘I support genocide’ sign appears to face no police action",
@@ -239,48 +281,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
       "published_date": "2026-11-02T00:34:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-      "published_date": "2026-11-02T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
-      "published_date": "2026-11-01T22:15:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces raid Hebron shops, assault Palestinians amid siege",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-hebron-shops-beat-palestinians-nearby-halhul",
-      "published_date": "2026-11-01T21:53:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands displaced from Hebron as Israel carries on siege",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
-      "published_date": "2026-11-01T21:28:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns new war could last longer after Trump threatens strikes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes",
-      "published_date": "2026-11-01T19:41:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Air strike hits communication network in northern Yemen, Houthi-affiliated media reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-strike-hits-communication-network-northern-yemen-houthi-affiliated",
-      "published_date": "2026-11-01T19:05:32+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,34 @@
       "category": "Energy"
     },
     {
+      "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
+      "published_date": "2026-11-03T01:17:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
+      "published_date": "2026-11-02T22:40:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Haley Stevens slammed over Republican endorsement, struggles to explain abrupt reversal",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/trending/haley-stevens-slammed-over-republican-endorsement-struggles-explain-abrupt-reversal",
+      "published_date": "2026-11-02T20:47:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
+      "published_date": "2026-11-02T20:38:04+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Lobster industry caught in Maine’s political headwinds before US midterms",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/11/2/lobster-industry-caught-in-maines-political-headwinds-before-midterms?traffic_source=rss",
@@ -536,32 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Five key takeaways from the UK Autumn Budget",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss",
-      "published_date": "2026-10-28T18:46:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hackers target US campaign finance system days before midterm elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/hackers-target-us-campaign-finance-system-days-before-midterm-elections?traffic_source=rss",
-      "published_date": "2026-10-28T11:47:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Every baby in Gaza is an enemy’: Who are Israel’s incoming MPs and what do they believe?",
+      "title": "Blasts heard in southern Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/every-baby-gaza-enemy-who-are-israels-incoming-mps-and-what-do-they",
-      "published_date": "2026-10-28T11:06:46+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-southern-iran",
+      "published_date": "2026-11-03T00:17:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Lieberman calls on Netanyahu to step down",
+      "title": "Israeli forces raid multiple West Bank towns, local sources report",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lieberman-calls-netanyahu-step-down",
-      "published_date": "2026-10-27T23:10:11+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-multiple-west-bank-towns-local-sources-report",
+      "published_date": "2026-11-02T22:31:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Student protests resume in France as pupils return to school",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
+      "published_date": "2026-11-02T21:28:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lindsay Clancy in court to drop child murder charges after mistrial",
@@ -680,27 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
       "published_date": "2026-10-31T18:32:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least four Palestinians killed, several wounded in Israeli strikes across Gaza",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-four-palestinians-killed-israeli-strikes-and-shelling-across-gaza",
-      "published_date": "2026-10-31T18:07:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Those children in Gaza are our children’: Macklemore finishes Free Palestine tour with sold-out London performance",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/those-children-gaza-are-our-children-macklemore-ends-free-palestine-tour-london",
-      "published_date": "2026-10-31T14:52:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss",
-      "published_date": "2026-10-31T12:45:49+00:00",
       "category": "Local Events"
     }
   ]
