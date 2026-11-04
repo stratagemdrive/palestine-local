@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-11-03T18:10:22.837863+00:00",
+  "last_updated": "2026-11-04T02:57:36.798957+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Keisha Lance Bottoms makes history as Georgia’s first Black woman governor",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
+      "published_date": "2026-11-04T02:25:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump suggests no immediate plan to strike Iran, but says US 'locked and loaded'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-suggests-no-immediate-plan-strike-iran-says-us-locked-and-loaded",
+      "published_date": "2026-11-04T01:17:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+      "published_date": "2026-11-04T01:13:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN elects five judges to International Court of Justice amid record cases",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
+      "published_date": "2026-11-04T01:03:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
+      "published_date": "2026-11-04T00:33:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Watch: Qatar working towards 'interim deal' to end US-Iran escalation",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-qatar-working-towards-interim-deal-end-us-iran-escalation",
+      "published_date": "2026-11-04T00:24:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
+      "published_date": "2026-11-03T20:00:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says US ceasefire proposal 'insufficient' as strikes are reported on Qeshm Island",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-ceasefire-proposal-insufficient-strikes-are-reported-qeshm",
+      "published_date": "2026-11-03T19:02:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
       "source": "Al Jazeera",
@@ -88,60 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+      "title": "Who are Yemen’s Giants Brigades and who do they fight for?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/who-are-yemens-giants-brigades-and-who-do-they-fight",
+      "published_date": "2026-11-04T02:35:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Embassy reiterates warnings to citizens over Houthi 'hostilities' against Saudi Arabia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-reiterates-warnings-citizens-over-houthi-hostilities-against",
+      "published_date": "2026-11-04T01:57:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
-      "published_date": "2026-11-02T23:05:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+      "published_date": "2026-11-04T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "US elections 2026: Can a Democrat-controlled Senate thwart Trump's agenda?",
+      "title": "Iran opens military training centre in Tehran, plans to train one million volunteers",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-elections-2026-can-a-democrat-controlled-senate-thwart-trumps-agenda",
-      "published_date": "2026-11-02T22:36:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-opens-military-training-centre-tehran-plans-train-one-million",
+      "published_date": "2026-11-03T23:41:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says he will not attack Iran after midterms",
+      "title": "Indian national killed in attack on vessel off Oman",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-will-not-attack-iran-after-midterms",
-      "published_date": "2026-11-02T21:41:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/indian-national-killed-attack-vessel-oman",
+      "published_date": "2026-11-03T22:52:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says settlement with Iran possible",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-settlement-iran-possible",
-      "published_date": "2026-11-02T21:37:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says he will not attack Iran after midterms",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-says-he-will-not-attack-iran-after-midterms",
-      "published_date": "2026-11-02T21:33:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump in 'no rush' to decide on Iran, Axios reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-no-rush-decide-iran-axios-reports",
-      "published_date": "2026-11-02T21:31:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
+      "title": "President Zelenskyy says US elections will impact war in Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
-      "published_date": "2026-11-02T19:06:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+      "published_date": "2026-11-03T21:43:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+      "title": "Palestinian families return home after Israeli siege of Hebron",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
-      "published_date": "2026-11-02T18:49:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+      "published_date": "2026-11-03T21:15:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tanker hit by two unknown projectiles off Oman, UKMTO says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-two-unknown-projectiles-oman-ukmto-says",
+      "published_date": "2026-11-03T21:05:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+      "published_date": "2026-11-03T20:54:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US has plans to strike Iran as early as tomorrow, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-has-plans-strike-iran-early-tomorrow-report-says",
+      "published_date": "2026-11-03T20:20:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French judges probe war crimes complaint against Israeli army in Lebanon",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-judges-probe-war-crimes-complaint-against-israeli-army-lebanon",
+      "published_date": "2026-11-03T18:40:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli air strikes hit Lebanon’s Bint Jbeil district",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-hit-lebanons-bint-jbeil-district",
+      "published_date": "2026-11-03T18:24:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran says US ceasefire proposal 'insufficient' as strikes are reported on Qeshm Island",
@@ -197,90 +281,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-gazas-khan-younis-kills-three-wounds-others",
       "published_date": "2026-11-03T12:52:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military spokesperson denies involvement in Qeshm Island attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-spokesperson-denies-involvement-qeshm-island-attack",
-      "published_date": "2026-11-03T12:08:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli air strike kills police officers near Khan Younis, says Gaza ministry",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-interior-ministry-israeli-air-strike-kills-police-officers-near",
-      "published_date": "2026-11-03T11:14:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni army says it launched nearly 1,000 operations against Houthi targets over past day",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-says-it-launched-nearly-1000-operations-against-houthi",
-      "published_date": "2026-11-03T03:11:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
-      "published_date": "2026-11-03T02:25:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni government forces launch strikes on Houthi positions west of Taiz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-launch-strikes-houthi-positions-west-taiz",
-      "published_date": "2026-11-03T02:17:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
-      "published_date": "2026-11-03T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces push into Quneitra, Syrian media report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-occupation-push-quneitra-syria-syrian-media-report",
-      "published_date": "2026-11-02T22:51:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s the future of the Western Sahara conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
-      "published_date": "2026-11-02T20:43:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protester’s ‘I support genocide’ sign appears to face no police action",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
-      "published_date": "2026-11-02T19:39:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis launched cross border raids on Saudi military posts, sources say",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/houthis-launched-cross-border-raids-saudi-arabian-military-posts-sources-say",
-      "published_date": "2026-11-02T18:50:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian bombing of Ukrainian aid centre kills 24 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
-      "published_date": "2026-11-02T18:23:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone attacks extend campaign targeting Sudan’s power system",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
-      "published_date": "2026-11-02T17:26:32+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "More on Israeli officials’ reaction to Trump’s announcement on US aid",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-israeli-officials-reaction-trumps-announcement-us-aid",
+      "published_date": "2026-11-03T19:32:52+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Report: Israeli finance ministry was unaware of plans to end US military aid",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-finance-ministry-unaware-plans-end-us-military-aid-trump",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "The megadonors financing the US midterms to influence policy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss",
-      "published_date": "2026-10-29T13:26:07+00:00",
-      "category": "Economy"
+      "title": "Aber Kawas becomes first Palestinian American elected to New York State Legislature",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/aber-kawas-wins-bid-new-york-state-senate-district-12-seat",
+      "published_date": "2026-11-04T02:52:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senegal arrests activist for protesting against Israeli participation at Youth Olympic Games",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/senegal-arrests-activist-protesting-against-israeli-participation-youth",
+      "published_date": "2026-11-03T22:45:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senegal arrests activist for protesting against Israeli participation at Youth Olympic Games",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/senegal-arrests-activist-protesting-against-israeli-participation-youth-olympic-games",
+      "published_date": "2026-11-03T21:40:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opinion: How an election defeat triggered a carnival of racism against Palestinians",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-how-election-defeat-triggered-carnival-racism-against",
+      "published_date": "2026-11-03T20:54:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli ex-generals condemn settler violence, help Palestinian farmers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-ex-generals-condemn-settler-violence-help-palestinian-farmers",
+      "published_date": "2026-11-03T19:25:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
@@ -666,41 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/uk-mps-urge-government-action-over-london-event-advertising-settlement-linked-israeli-agency",
       "published_date": "2026-11-02T17:27:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
-      "published_date": "2026-11-02T16:56:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
-      "published_date": "2026-11-02T16:03:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London police arrest man over posters showing 'monstrous' photo of armed Israeli",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/london-police-arrest-man-over-posters-showing-armed-jewish-settler-threatening-palestinian",
-      "published_date": "2026-11-02T13:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King of Jordan says no security in Middle East without Palestinian 'homeland'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/king-jordan-says-no-security-middle-east-without-palestinian-homeland",
-      "published_date": "2026-11-02T11:47:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot says Netanyahu trying to ‘delegitimise’ results",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-hails-election-chiefs-approval-vote-says-netanyahu-trying",
-      "published_date": "2026-11-01T19:57:35+00:00",
       "category": "Local Events"
     }
   ]
