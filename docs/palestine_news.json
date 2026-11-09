@@ -1,8 +1,64 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-11-08T16:52:33.867518+00:00",
+  "last_updated": "2026-11-09T02:30:32.616095+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+      "published_date": "2026-11-09T00:07:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Trump joked about having Dana White as his White House press secretary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+      "published_date": "2026-11-08T22:03:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian delegation meet president of Kurdish region in northern Iraq",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-delegation-meet-president-kurdish-region-northern-iraq",
+      "published_date": "2026-11-08T20:52:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran waiting to resume talks after US midterms ‘shock’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+      "published_date": "2026-11-08T20:51:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says no progress on US negotiations since midterm results",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-progress-us-negotiations-midterm-results",
+      "published_date": "2026-11-08T19:42:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eisenkot says any party involved in next government must commit to action on Hamas",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-says-any-party-involved-next-government-must-commit-action",
+      "published_date": "2026-11-08T19:35:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says fresh strikes on Iran ‘highly unlikely’ if talks progress",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-fresh-strikes-iran-highly-unlikely-if-talks-progress",
+      "published_date": "2026-11-08T18:53:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's Araghchi calls on the US to end war 'on all fronts'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-calls-us-end-war-all-fronts",
+      "published_date": "2026-11-08T18:34:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
       "source": "Al Jazeera",
@@ -88,60 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
+      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
-      "published_date": "2026-11-07T13:50:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+      "published_date": "2026-11-09T01:19:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
+      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
-      "published_date": "2026-11-07T12:29:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "published_date": "2026-11-09T00:00:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says 'there would be no Israel' if Iran was allowed nuclear weapon",
+      "title": "Yemeni government forces claim attacks against Houthi positions",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-there-would-be-no-israel-if-iran-was-allowed-nuclear-weapon",
-      "published_date": "2026-11-07T01:04:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-attacks-against-houthi-positions",
+      "published_date": "2026-11-08T23:05:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Harmeet Dhillon, who led anti-Israel campus protest crackdown, resigns",
+      "title": "Child shot by Israeli forces during West Bank raid into Jenin-area town",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/harmeet-dhillon-who-led-anti-israel-campus-protest-crackdown-resigns",
-      "published_date": "2026-11-07T00:44:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-shot-israeli-forces-during-west-bank-raid-jenin-area-town",
+      "published_date": "2026-11-08T22:44:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
-      "published_date": "2026-11-07T00:21:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
-      "published_date": "2026-11-06T23:07:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar denies reports US and Iran failed to reach deal, says talks continue",
+      "title": "US launches task force to disrupt land transit routes into Iran",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-denies-reports-us-and-iran-failed-reach-deal-says-talks-continue",
-      "published_date": "2026-11-06T23:04:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-launches-task-force-disrupt-land-transit-routes-iran",
+      "published_date": "2026-11-08T22:12:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "US urges China to honour Busan trade deal commitments",
+      "title": "Explosions heard on Iran's Qeshm Island, state media reports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-irans-qeshm-island-state-media-reports",
+      "published_date": "2026-11-08T21:42:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
-      "published_date": "2026-11-06T23:00:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "published_date": "2026-11-08T20:13:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi-led coalition says it destroyed Houthi missile launchpads in Yemen's Sanaa",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-missile-launchpads-yemens",
+      "published_date": "2026-11-08T18:58:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says oil tanker on fire after striking a mine near Hormuz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-oil-tanker-fire-after-striking-mine-near-hormuz",
+      "published_date": "2026-11-08T17:16:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran condemns ‘Saudi aggression’ after dozens killed in attack on Taiz market",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+      "title": "Drone attack hits Khor Mor gas field in Iraq’s Kurdistan region",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attack-hits-khor-mor-gas-field-iraqs-kurdistan-region",
+      "published_date": "2026-11-08T20:55:34+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "After the midterms, where does the Republican Party stand?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-      "published_date": "2026-11-08T11:34:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC says three tankers ablaze in Strait of Hormuz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-three-tankers-ablaze-strait-hormuz",
-      "published_date": "2026-11-08T11:33:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian journalist and activist freed from Israeli police custody after five-day detention",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-journalist-and-activist-freed-israeli-police-custody-after",
-      "published_date": "2026-11-08T11:00:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Aramco tower damaged after Houthi missile attacks on Riyadh",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/saudi-aramco-tower-damaged-after-houthi-missile-attacks-riyadh",
-      "published_date": "2026-11-08T10:26:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss",
-      "published_date": "2026-11-08T09:09:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-664",
-      "published_date": "2026-11-08T08:00:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian injured, six others detained during raids in West Bank",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-injured-six-others-detained-during-raids-west-bank",
-      "published_date": "2026-11-08T07:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi authorities say danger passes in Dammam, al-Ahsa and Abqaiq",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-authorities-say-danger-passes-dammam-al-ahsa-and-abqaiq",
-      "published_date": "2026-11-08T02:09:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'You lost war and election': Iran's Rezaei warns US of 'devastating response'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/you-lost-war-and-election-irans-rezaei-warns-us-devastating-response",
-      "published_date": "2026-11-08T01:07:13+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+      "published_date": "2026-11-08T19:09:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "UK: Labour to stop cooperating with Greens in 11 councils over 'Zionism is racism' vote",
+      "title": "Iraq has agreed with the US to allow oil exports through Hormuz, minister says",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uk-labour-stop-cooperating-greens-11-councils-over-zionism-racism-vote",
-      "published_date": "2026-11-02T16:57:23+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-has-agreed-us-allow-oil-exports-through-hormuz-minister-says",
+      "published_date": "2026-11-08T19:47:20+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
+      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
-      "published_date": "2026-11-02T15:00:08+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "published_date": "2026-11-08T17:44:51+00:00",
+      "category": "Economy"
     },
     {
       "title": "IRGC dismisses new US plan to tighten economic pressure on Iran as 'wordplay'",
@@ -550,18 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
-      "published_date": "2026-11-02T22:40:06+00:00",
-      "category": "Economy"
+      "title": "Watch: Flooding brings Gaza's Civil Defence to declare maximum state of emergency",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-flooding-brings-gazas-civil-defence-declare-maximum-state",
+      "published_date": "2026-11-09T02:08:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Haley Stevens slammed over Republican endorsement, struggles to explain abrupt reversal",
+      "title": "Gaza sandbank collapse kills five amid heavy rains",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/trending/haley-stevens-slammed-over-republican-endorsement-struggles-explain-abrupt-reversal",
-      "published_date": "2026-11-02T20:47:52+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-sandbank-collapse-kills-5-amid-heavy-rains",
+      "published_date": "2026-11-08T19:53:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel kills two Palestinians in attack on Gaza's Khan Younis",
@@ -687,20 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
       "published_date": "2026-11-07T10:36:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Covering Palestine: Historic news clippings reveal US media complicity in Israel's crimes",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/discover/covering-palestine-history-us-media-complicity-their-coverage-palestine",
-      "published_date": "2026-11-07T09:06:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces raid West Bank areas of Salfit and Nablus, detain Palestinian man",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-west-bank-areas-salfit-and-nablus-detain-palestinian",
-      "published_date": "2026-11-07T07:06:09+00:00",
       "category": "Local Events"
     }
   ]
