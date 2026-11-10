@@ -1,8 +1,78 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-11-09T21:12:59.688573+00:00",
-  "story_count": 99,
+  "last_updated": "2026-11-10T04:32:30.239491+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
+      "published_date": "2026-11-10T02:45:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France blames Iran for October supermarket cyberattack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+      "published_date": "2026-11-10T01:01:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+      "published_date": "2026-11-10T01:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+      "published_date": "2026-11-10T00:44:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
+      "published_date": "2026-11-09T23:55:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
+      "published_date": "2026-11-09T23:47:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+      "published_date": "2026-11-09T23:13:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+      "published_date": "2026-11-09T22:31:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatari prime minister says discussions with Trump were 'positive'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-prime-minister-says-discussions-trump-were-positive",
+      "published_date": "2026-11-09T22:05:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump: 'We are seeing positive momentum toward an end to this conflict'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-we-are-seeing-positive-momentum-toward-end-conflict",
+      "published_date": "2026-11-09T21:45:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US, Qatar talks on Iran negotiations were 'positive': Reports",
       "source": "Middle East Eye",
@@ -74,74 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why Trump joked about having Dana White as his White House press secretary",
+      "title": "Trump says war on Iran could be 'ending fairly soon', but warned that US is 'locked and loaded'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-war-iran-could-be-ending-fairly-soon-warned-us-locked-and",
+      "published_date": "2026-11-10T04:26:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anger as ICE agents make arrest in New Jersey grocery store",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
-      "published_date": "2026-11-08T22:03:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/anger-as-ice-agents-make-arrest-in-new-jersey-grocery-store?traffic_source=rss",
+      "published_date": "2026-11-10T04:23:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iranian delegation meet president of Kurdish region in northern Iraq",
+      "title": "Nearly 80 percent of Britons see Israel as a threat to world peace",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-delegation-meet-president-kurdish-region-northern-iraq",
-      "published_date": "2026-11-08T20:52:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-80-percent-britons-see-israel-threat-world-peace",
+      "published_date": "2026-11-10T03:35:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran waiting to resume talks after US midterms ‘shock’",
+      "title": "Netanyahu calls for unity government without 'Hamas supporters'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-calls-unity-government-without-hamas-supporters",
+      "published_date": "2026-11-10T02:33:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
-      "published_date": "2026-11-08T20:51:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+      "published_date": "2026-11-10T01:56:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says no progress on US negotiations since midterm results",
+      "title": "Saudi-led coalition says it intercepted Houthi missile",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-progress-us-negotiations-midterm-results",
-      "published_date": "2026-11-08T19:42:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-missile-1",
+      "published_date": "2026-11-10T00:31:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Eisenkot says any party involved in next government must commit to action on Hamas",
+      "title": "Iranian senior official: 'STOP manufacturing FAKE NEWS about imaginary talks'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-says-any-party-involved-next-government-must-commit-action",
-      "published_date": "2026-11-08T19:35:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-senior-official-stop-manufacturing-fake-news-about-imaginary",
+      "published_date": "2026-11-09T22:36:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says fresh strikes on Iran ‘highly unlikely’ if talks progress",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-fresh-strikes-iran-highly-unlikely-if-talks-progress",
-      "published_date": "2026-11-08T18:53:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's Araghchi calls on the US to end war 'on all fronts'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-calls-us-end-war-all-fronts",
-      "published_date": "2026-11-08T18:34:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+      "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
-      "published_date": "2026-11-08T15:47:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
+      "published_date": "2026-11-09T22:13:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Spiritual darkness’: US ambassador to Israel says critics of Iran war are blinded by Satan",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/spiritual-darkness-us-ambassador-israel-says-critics-iran-war-are",
-      "published_date": "2026-11-08T14:08:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+      "title": "Will Najib Razak be transferred to house arrest?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-      "published_date": "2026-11-08T13:27:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/9/will-najib-razak-be-transferred-to-house-arrest?traffic_source=rss",
+      "published_date": "2026-11-09T21:13:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says US ready to strike Iran 'if necessary', Reuters reports",
@@ -221,67 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Iranian press review: Newspapers warn of war reaching 'heart of Europe'",
+      "title": "Saudi-led coalition intercepts drone over Eastern Province",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iranian-press-review-newspapers-warn-war-reaching-heart-europe",
-      "published_date": "2026-11-09T13:17:57+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-intercepts-drone-eastern-province",
+      "published_date": "2026-11-10T03:58:13+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US rabbi blames Netanyahu's 'right wing messianism' for the end of 'Jewish Golden Age'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-rabbi-blames-netanyahus-right-wing-messianism-end-jewish-golden-age",
-      "published_date": "2026-11-09T13:09:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "title": "Saudi Arabia reports new attack on key East-West pipeline",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
-      "published_date": "2026-11-09T01:19:09+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+      "published_date": "2026-11-09T22:10:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+      "title": "COP31 opens amid energy crisis as activists demand climate action",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
-      "published_date": "2026-11-09T00:00:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni government forces claim attacks against Houthi positions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-attacks-against-houthi-positions",
-      "published_date": "2026-11-08T23:05:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Child shot by Israeli forces during West Bank raid into Jenin-area town",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-shot-israeli-forces-during-west-bank-raid-jenin-area-town",
-      "published_date": "2026-11-08T22:44:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US launches task force to disrupt land transit routes into Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-launches-task-force-disrupt-land-transit-routes-iran",
-      "published_date": "2026-11-08T22:12:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explosions heard on Iran's Qeshm Island, state media reports",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-irans-qeshm-island-state-media-reports",
-      "published_date": "2026-11-08T21:42:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
-      "published_date": "2026-11-08T20:13:39+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
+      "published_date": "2026-11-09T21:18:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Drone attack hits Khor Mor gas field in Iraq’s Kurdistan region",
@@ -400,20 +421,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/spains-sanchez-says-us-voters-rejected-hate-and-elite-privilege",
       "published_date": "2026-11-04T12:14:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Do sports stars have the right to free speech?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/3/do-sports-stars-have-the-right-to-free-speech?traffic_source=rss",
-      "published_date": "2026-11-03T15:52:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-      "published_date": "2026-11-03T15:47:34+00:00",
       "category": "Energy"
     },
     {
@@ -557,6 +564,13 @@
       "category": "Economy"
     },
     {
+      "title": "Cameroon sets date for twice-delayed legislative and local elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
+      "published_date": "2026-11-10T02:03:59+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
@@ -687,13 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-do-not-want-die-cold-gaza-families-struggle-rain-floods-shelters",
       "published_date": "2026-11-07T15:06:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We do not want to die from the cold’: Gaza families struggle as rain floods shelters",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/we-do-not-want-die-cold-gaza-families-struggle-rain-floods-shelters",
-      "published_date": "2026-11-07T14:54:46+00:00",
       "category": "Local Events"
     }
   ]
