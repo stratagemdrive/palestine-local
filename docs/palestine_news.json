@@ -1,8 +1,43 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-11-11T02:38:29.226587+00:00",
+  "last_updated": "2026-11-11T18:14:37.541978+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump vows ‘total victory’ against Iran",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-vows-total-victory-against-iran",
+      "published_date": "2026-11-11T17:50:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's top negotiator says Tehran has no desire for war to continue",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-top-negotiator-says-iran-has-no-desire-war-continue",
+      "published_date": "2026-11-11T17:11:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu accused of giving 'hate-filled speech' in Israeli parliament",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-accused-giving-hate-filled-speech-israeli-parliament",
+      "published_date": "2026-11-11T16:16:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio says US sees 'two or three very qualified people' for top UN job",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-sees-two-or-three-very-qualified-people-top-un-job",
+      "published_date": "2026-11-11T15:46:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu sought private talks with Palestinian party leader despite public attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/netanyahu-sought-private-talks-palestinian-party-leader-despite-public-attacks",
+      "published_date": "2026-11-11T13:07:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
       "source": "Al Jazeera",
@@ -109,39 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
-      "published_date": "2026-11-10T14:03:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The changing face of Israel’s ultra-Orthodox politics",
+      "title": "Iran refuses to surrender enriched uranium, threatens to strike US bases in Europe if attacked",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/changing-face-israels-ultra-orthodox-politics",
-      "published_date": "2026-11-10T12:55:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/iran-wants-enriched-material-build-nuclear-powered-submarines-threaten-attack-us-bases-europe",
+      "published_date": "2026-11-11T17:57:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
-      "published_date": "2026-11-10T02:45:14+00:00",
-      "category": "Diplomacy"
+      "title": "Yemeni government forces report hundreds of strikes against Houthis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-report-hundreds-strikes-against-houthis",
+      "published_date": "2026-11-11T17:30:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "France blames Iran for October supermarket cyberattack",
+      "title": "Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
-      "published_date": "2026-11-10T01:01:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss",
+      "published_date": "2026-11-11T16:48:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+      "title": "‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
-      "published_date": "2026-11-10T01:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss",
+      "published_date": "2026-11-11T16:20:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
+      "published_date": "2026-11-11T15:48:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
+      "published_date": "2026-11-11T15:40:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
+      "published_date": "2026-11-11T15:33:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu draws calls of 'hate speech' in the newly elected Israeli parliament",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/netanyahus-hate-speech-newly-elected-knesset",
+      "published_date": "2026-11-11T15:24:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi air defences intercept Houthi cruise missiles launched toward Riyadh",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-air-defences-intercept-houthi-cruise-missiles-launched-toward",
+      "published_date": "2026-11-11T15:07:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Retrial of Egyptian journalist Lina Attalah suspended",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/retrial-egyptian-journalist-lina-attalah-suspended",
+      "published_date": "2026-11-11T14:43:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Egypt deployed forces to Saudi Arabia before Sisi's public pledge, sources say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-deployed-forces-saudi-arabia-sisis-public-pledge-sources-say",
+      "published_date": "2026-11-11T14:28:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
+      "published_date": "2026-11-11T14:10:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Retrial of Egyptian journalist Lina Attalah adjourned amid criticism of media crackdown",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/mada-masr-chief-lina-attalah-trial-adjourned-egypt",
+      "published_date": "2026-11-11T13:44:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Egypt deployed forces to Saudi Arabia before Sisi's public pledge of military support, sources say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/egypt-deployed-forces-saudi-arabia-before-sisi-pledge-military-support",
+      "published_date": "2026-11-11T13:05:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "HSBC 'sharia-compliant' fund to exclude arms companies after Israeli-linked revenue exposed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/hsbc-sharia-compliant-fund-exclude-arms-companies-after-spending-100m-israeli-military-linked",
+      "published_date": "2026-11-11T12:47:33+00:00",
+      "category": "Military"
     },
     {
       "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
@@ -179,109 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "US House Republicans block Pete Hegseth impeachment effort",
+      "title": "Netanyahu sought private talks with Palestinian party leader despite public attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-sought-private-talks-palestinian-party-leader-despite-public",
+      "published_date": "2026-11-11T14:19:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Erdogan condemns Gaza 'ecocide' at Cop31 climate summit in Turkey",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/erdogan-condemns-gaza-ecocide-cop31-climate-summit-turkey",
+      "published_date": "2026-11-11T13:33:22+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
-      "published_date": "2026-11-10T22:36:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US charges three 'Iranian operatives' over UK air base plot",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-charges-three-iranian-operatives-over-uk-air-base-plot",
-      "published_date": "2026-11-10T21:13:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says no need for new attacks but calls Iran's peace terms 'absurd'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-no-need-new-attacks-calls-irans-peace-terms-absurd",
-      "published_date": "2026-11-10T20:59:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US soldier arrested in UK on suspicion of spying for Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-      "published_date": "2026-11-10T20:41:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says no need for new attacks but calls Iran's peace terms 'absurd'",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-says-no-need-new-attacks-says-irans-peace-terms-are-absurd",
-      "published_date": "2026-11-10T20:25:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
-      "published_date": "2026-11-10T20:22:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "F1 champion Lewis Hamilton visits Gaza border",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
-      "published_date": "2026-11-10T20:14:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "F1 star Lewis Hamilton visits Gaza border",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/f1-star-lewis-hamilton-visits-gaza-border",
-      "published_date": "2026-11-10T19:35:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "GCC to establish joint forward-command centre in Kuwait",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/gcc-establish-joint-forward-command-center-kuwait",
-      "published_date": "2026-11-10T17:48:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil tanker catches fire after hitting naval mine in Hormuz, Iran says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-tanker-catches-fire-after-hitting-naval-mine-hormuz-iran-says",
-      "published_date": "2026-11-10T17:45:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US petrol prices are down, but elevated inflation continues",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
-      "published_date": "2026-11-10T17:40:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-parliament-sworn-eisenkot-tries-forge-government",
-      "published_date": "2026-11-10T16:40:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 12 people killed in Bulgaria motorway pile-up",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
-      "published_date": "2026-11-10T16:20:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burnham's plan to 'end neoliberalism' includes hiring US firm linked to Gaza aid site massacres",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/burnhams-plan-end-neoliberalism-includes-hiring-us-firm-linked-gaza-aid",
-      "published_date": "2026-11-10T16:03:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
-      "published_date": "2026-11-10T15:49:36+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31?traffic_source=rss",
+      "published_date": "2026-11-11T12:48:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
@@ -400,27 +421,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
       "published_date": "2026-11-06T20:22:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Taiwan to close representative office in Papua New Guinea, blames China",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
-      "published_date": "2026-11-06T16:40:39+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why are wealthy countries failing developing nations?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
-      "published_date": "2026-11-05T20:45:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Division among US Democrats over Schumer’s leadership role",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role?traffic_source=rss",
-      "published_date": "2026-11-05T18:53:04+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Tens of thousands join Poland’s nationalist Independence Day march",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss",
+      "published_date": "2026-11-11T17:38:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Revealed: West Bank petrol station chain faces $325m claim in PA fuel-smuggling probe",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/revealed-west-bank-petrol-station-chain-faces-325m-claim-pa-fuel",
+      "published_date": "2026-11-11T16:44:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenya discharges last Ebola patient, awaits disease-free status",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient?traffic_source=rss",
+      "published_date": "2026-11-11T15:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Revealed: West Bank petrol station chain faces $325m claim in PA fuel-smuggling probe",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/revealed-west-bank-petrol-station-chain-faces-325m-claim-pa-fuel-smuggling-probe",
+      "published_date": "2026-11-11T15:08:08+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Japan pledges $1.97m to support Gaza health response",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/japan-pledges-197m-support-gaza-health-response",
@@ -673,34 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/israeli-mob-attacks-palestinian-citizens-israel-lod-during-provocative-march",
       "published_date": "2026-11-09T14:58:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 200,000 join Amsterdam march against Gaza genocide",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/more-200000-join-amsterdam-march-against-gaza-genocide",
-      "published_date": "2026-11-09T14:46:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: Flooding brings Gaza's Civil Defence to declare maximum state of emergency",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-flooding-brings-gazas-civil-defence-declare-maximum-state",
-      "published_date": "2026-11-09T02:08:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza sandbank collapse kills five amid heavy rains",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-sandbank-collapse-kills-5-amid-heavy-rains",
-      "published_date": "2026-11-08T19:53:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel kills two Palestinians in attack on Gaza's Khan Younis",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-two-palestinians-attack-gazas-khan-younis",
-      "published_date": "2026-11-08T15:59:50+00:00",
       "category": "Local Events"
     }
   ]
