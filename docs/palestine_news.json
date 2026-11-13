@@ -1,8 +1,36 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-11-13T03:18:56.120174+00:00",
+  "last_updated": "2026-11-13T18:18:23.111874+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "The fight over Canadian steelworker jobs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
+      "published_date": "2026-11-13T17:10:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netherlands denies active talks with US over curbing ICC powers to lift sanctions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/dutch-foreign-ministry-says-no-active-negotiations-us-over-icc-sanctions",
+      "published_date": "2026-11-13T17:07:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France calls for more pressure on Houthis to end attacks on Saudi Arabia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-calls-more-pressure-houthis-end-attacks-saudi-arabia",
+      "published_date": "2026-11-13T16:54:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+      "published_date": "2026-11-13T15:43:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump moots toppling Cuba authorities before leaving office",
       "source": "Al Jazeera",
@@ -116,32 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US taxpayer group calls on ICC to investigate Trump, Rubio for 'aiding' Gaza genocide",
+      "title": "Lebanese army says it seized arms depot in Beirut's southern suburbs",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-taxpayer-group-calls-icc-investigate-trump-rubio-aiding-gaza-genocide",
-      "published_date": "2026-11-11T22:15:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-says-it-seized-arms-depot-beiruts-southern-suburbs",
+      "published_date": "2026-11-13T18:12:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hezbollah chief says Trump's midterm defeat is 'an opportunity'",
+      "title": "Trump says Saudi Arabia is 'disintegrating'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-trumps-midterm-defeat-opportunity",
-      "published_date": "2026-11-11T22:12:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-saudi-arabia-disintegrating",
+      "published_date": "2026-11-13T18:02:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+      "title": "Trump says Saudi Arabia is 'disintegrating'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/trump-says-saudi-arabia-disintegrating",
+      "published_date": "2026-11-13T17:55:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Leading progressive voice on Mideast to challenge Chuck Schumer for Senate leadership",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/chris-van-hollen-leading-progressive-voice-mideast-challenge-chuck-schumer-senate-leadership",
+      "published_date": "2026-11-13T17:27:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
-      "published_date": "2026-11-11T22:10:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
+      "published_date": "2026-11-13T16:44:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan, Iran leaders reaffirm ties in COP31 meeting",
+      "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+      "published_date": "2026-11-13T16:22:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
+      "published_date": "2026-11-13T16:01:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey and Qatar sign mutual defence agreement",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-iran-leaders-reaffirm-ties-cop31-meeting",
-      "published_date": "2026-11-11T21:16:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/news/turkey-and-qatar-sign-mutual-defence-agreement",
+      "published_date": "2026-11-13T15:56:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey and Qatar sign mutual defence pact, Erdogan’s office says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-and-qatar-sign-mutual-defence-pact-erdogans-office-says",
+      "published_date": "2026-11-13T15:51:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Art against erasure: A Palestinian sculptor and a Lebanese painter on war, exile and memory",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/discover/art-against-erasure-palestinian-sculptor-lebanese-painter-war-exile-memory",
+      "published_date": "2026-11-13T15:42:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UAE remains ‘main destination’ for gold smuggled out of Sudan and other war zones",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uae-remains-main-destination-gold-smuggled-out-sudan-and-other-war-zones",
+      "published_date": "2026-11-13T15:31:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+      "published_date": "2026-11-13T15:02:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian rights group says Israel barred its director from travelling abroad",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-rights-group-says-israel-barred-its-director-travelling",
+      "published_date": "2026-11-13T14:57:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says it shot down two Iranian drones heading towards Bahrain",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-shot-down-two-iranian-drones-heading-towards-bahrain",
+      "published_date": "2026-11-13T14:23:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+      "published_date": "2026-11-13T14:16:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
+      "published_date": "2026-11-13T14:15:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+      "published_date": "2026-11-13T11:59:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
@@ -165,123 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Southern Iran's Sirik attacked, report says",
+      "title": "Greta Thunberg at COP: Turkish energy shipments 'directly fuelling the genocide of Palestine'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/southern-irans-sirik-attacked-report-says",
-      "published_date": "2026-11-12T19:45:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran warns countries against backing US war on Iran",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-warns-countries-against-backing-us-war-iran",
-      "published_date": "2026-11-12T19:13:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
-      "published_date": "2026-11-12T18:03:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
-      "published_date": "2026-11-12T18:02:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
-      "published_date": "2026-11-12T16:55:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
-      "published_date": "2026-11-12T16:23:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four people shot in Washington DC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
-      "published_date": "2026-11-12T15:42:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli soldier accused of smearing faeces on Palestinian detainee’s face",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-soldier-accused-smearing-faeces-palestinian-detainees-face",
-      "published_date": "2026-11-12T15:15:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain approves housing reforms after nationwide strike over costs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
-      "published_date": "2026-11-12T15:02:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
-      "published_date": "2026-11-12T14:27:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
-      "published_date": "2026-11-12T14:23:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least five people shot, one killed, in central Washington, DC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
-      "published_date": "2026-11-12T14:19:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Family of killed teen Javits Frimpong calls for justice",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/family-of-killed-teen-javits-frimpong-calls-for-justice?traffic_source=rss",
-      "published_date": "2026-11-12T13:27:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former Mossad officer’s appointment highlights Tel Aviv University’s military ties",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/former-mossad-officers-appointment-highlights-tel-aviv-universitys-defence-industry-ties",
-      "published_date": "2026-11-12T12:44:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Mighty US' must talk with Iran, Iraqi Kurdish leader says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/iran-emerging-stronger-from-war-iraq-kurdish-leader-bafel-talabani-says",
-      "published_date": "2026-11-12T12:01:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Top Iranian official warns military bases from 'West Asia to Europe' would be targeted if US renews attacks",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/top-iranian-official-warns-military-bases-west-asia-europe-would-be",
-      "published_date": "2026-11-12T02:56:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump thanks US troops for war on Iran and defends Pete Hegseth",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-thanks-us-troops-war-iran-and-defends-pete-hegseth",
-      "published_date": "2026-11-12T02:23:18+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/news/greta-thunberg-cop-turkish-energy-shipments-directly-fuelling-genocide-palestine",
+      "published_date": "2026-11-13T15:22:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran’s IRGC says it targeted US radar in Bahrain",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "After the midterms, where does the Republican Party stand?",
+      "title": "Jerusalem Daily: Baby dies from cold in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
-      "published_date": "2026-11-08T19:09:18+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
+      "published_date": "2026-11-13T16:34:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "How Gaza’s winter ‘crisis’ is manufactured by Israel",
@@ -557,11 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "French ships may escort pro-Palestinian civilian flotillas, Mélenchon says",
+      "title": "Fergie Chambers tells Spanish court Gaza is 'moral question of our time'",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-ships-may-escort-pro-palestinian-civilian-flotillas-melenchon",
-      "published_date": "2026-11-08T01:39:55+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/news/fergie-chambers-tells-spanish-court-gaza-moral-question-our-time",
+      "published_date": "2026-11-13T17:43:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN rights chief demands Houthis return body of staff member who died in custody",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-rights-chief-demands-houthis-return-body-staff-member-who-died",
+      "published_date": "2026-11-13T17:34:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Charity regulator opens case into community centre for promoting illegal Israeli settlements",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/uk-charity-regulator-opens-case-centre-whose-event-promoted-illegal-israeli-settlements",
+      "published_date": "2026-11-13T17:06:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinian parties must not help Eisenkot rescue Israel from collapse",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/israel-elections-palestinian-parties-must-not-help-eisenkot-rescue-jewish-settler-colony",
+      "published_date": "2026-11-13T16:49:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baby dies of hypothermia, as Israeli attacks across Gaza surge",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/gaza-baby-dies-hypothermia-israeli-attacks-across-enclave-surge",
+      "published_date": "2026-11-13T15:59:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Palestinians killed by Israeli fire in central Gaza, hospital sources say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-fire-central-gaza-hospital-sources-say",
+      "published_date": "2026-11-13T15:35:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
+      "published_date": "2026-11-13T12:57:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bethlehem Church of the Nativity priest denied visa to speak at US event",
@@ -652,55 +701,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/six-dutch-parties-condemn-local-arms-companys-deal-israeli-gunmaker",
       "published_date": "2026-11-12T14:38:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel kills 10 Palestinians in Gaza since dawn after two hospitals struck",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-10-palestinians-gaza-dawn-after-two-hospitals-struck",
-      "published_date": "2026-11-12T14:06:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel hands over body of Palestinian teen who died in custody",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-hands-over-body-palestinian-teen-who-died-custody",
-      "published_date": "2026-11-12T13:59:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ireland: Watchdog accused of stalling probe into Microsoft hosting Israeli military app",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/ireland-data-watchdog-accused-stalling-probe-microsofts-hosting-israeli-military-app",
-      "published_date": "2026-11-12T13:27:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strike on al-Shifa Hospital kills one after six killed in Nasser attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-al-shifa-hospital-kills-one-after-six-killed-nasser",
-      "published_date": "2026-11-12T13:10:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We lost patients I had been caring for': Nasser nurse speaks of 'terrifying' attack",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-lost-patients-i-had-been-caring-nasser-nurse-speaks-terrifying-attack",
-      "published_date": "2026-11-12T12:43:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: At least six Palestinians killed in Israeli attack on Nasser hospital",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-least-six-palestinians-killed-israeli-attack-nasser-hospital",
-      "published_date": "2026-11-12T03:38:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesian VP resigns over education qualification row",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
-      "published_date": "2026-11-12T02:22:48+00:00",
       "category": "Local Events"
     }
   ]
