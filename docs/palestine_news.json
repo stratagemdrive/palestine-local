@@ -1,8 +1,15 @@
 {
   "country": "Palestine",
-  "last_updated": "2026-11-13T18:18:23.111874+00:00",
+  "last_updated": "2026-11-14T02:57:50.832273+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump to discuss Iran war, but not Ukraine, at China summit",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-discuss-iran-war-not-ukraine-china-summit",
+      "published_date": "2026-11-14T02:30:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The fight over Canadian steelworker jobs",
       "source": "Al Jazeera",
@@ -137,17 +144,80 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US taxpayer group calls on ICC to investigate Trump, Rubio for 'aiding' Gaza genocide",
+      "title": "Rubio says economic pain inflicted on Iran makes military action unnecessary",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-taxpayer-group-calls-icc-investigate-trump-rubio-aiding-gaza-genocide",
-      "published_date": "2026-11-11T22:37:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-economic-pain-inflicted-iran-makes-military-action",
+      "published_date": "2026-11-14T02:05:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's navy claims US MQ-I drone shot down off southern coast",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-navy-claims-us-mq-i-drone-shot-down-southern-coast",
+      "published_date": "2026-11-14T01:45:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns of 'immediate response' to any US-Israeli attack, slams Gulf nations",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-immediate-response-any-us-israeli-attack-slams-gulf-nations",
+      "published_date": "2026-11-14T01:32:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+      "published_date": "2026-11-14T00:00:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US responds to suspected drone activity over UK air base used in Iran strikes",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-responds-suspected-drone-activity-over-uk-air-base-used-iran-strikes",
+      "published_date": "2026-11-13T22:42:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Activists demand end to transfer of military materials to Israel through New York's JFK Airport",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/activists-demand-end-transfer-military-materials-israel-through-new-yorks-jfk-airport",
+      "published_date": "2026-11-13T21:06:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis say they attacked Riyadh airport and Saudi oil pipeline",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-attacked-riyadh-airport-and-saudi-oil-pipeline",
+      "published_date": "2026-11-13T20:58:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+      "published_date": "2026-11-13T19:23:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 10 killed in Guinea clashes over gold mining ban",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
+      "published_date": "2026-11-13T18:44:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Lebanese army says it seized arms depot in Beirut's southern suburbs",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-says-it-seized-arms-depot-beiruts-southern-suburbs",
       "published_date": "2026-11-13T18:12:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+      "published_date": "2026-11-13T18:09:05+00:00",
       "category": "Military"
     },
     {
@@ -214,74 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "UAE remains ‘main destination’ for gold smuggled out of Sudan and other war zones",
+      "title": "Trump extends shipping law waiver for 90 days amid Iran war fuel price rise",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/uae-remains-main-destination-gold-smuggled-out-sudan-and-other-war-zones",
-      "published_date": "2026-11-13T15:31:03+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-extends-shipping-law-waiver-90-days-amid-iran-war-fuel-price-rise",
+      "published_date": "2026-11-13T22:24:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
-      "published_date": "2026-11-13T15:02:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian rights group says Israel barred its director from travelling abroad",
+      "title": "Two tankers hit sea mines in Hormuz: IRGC",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-rights-group-says-israel-barred-its-director-travelling",
-      "published_date": "2026-11-13T14:57:15+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-tankers-hit-sea-mines-hormuz-irgc",
+      "published_date": "2026-11-13T21:02:59+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US says it shot down two Iranian drones heading towards Bahrain",
+      "title": "New Turkey-Qatar pact pledges joint stance against external attacks",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-shot-down-two-iranian-drones-heading-towards-bahrain",
-      "published_date": "2026-11-13T14:23:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Netanyahu launch a strike on Iran before he leaves?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
-      "published_date": "2026-11-13T14:16:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
-      "published_date": "2026-11-13T14:15:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
-      "published_date": "2026-11-13T11:59:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
-      "published_date": "2026-11-13T02:35:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Western media framed the Israeli attack on Nasser Hospital",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/how-western-media-framed-israeli-attack-nasser-hospital",
-      "published_date": "2026-11-13T00:30:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly shooting in Washington DC",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
-      "published_date": "2026-11-12T21:18:24+00:00",
-      "category": "Military"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/new-turkey-qatar-pact-pledges-joint-stance-against-external-attacks",
+      "published_date": "2026-11-13T19:23:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Greta Thunberg at COP: Turkish energy shipments 'directly fuelling the genocide of Palestine'",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi Arabia reports new attack on key East-West pipeline",
+      "title": "Afghanistan’s new road to China ends at a closed border",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
-      "published_date": "2026-11-09T22:10:52+00:00",
-      "category": "Energy"
+      "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+      "published_date": "2026-11-14T00:06:43+00:00",
+      "category": "Economy"
     },
     {
-      "title": "COP31 opens amid energy crisis as activists demand climate action",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
-      "published_date": "2026-11-09T21:18:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Drone attack hits Khor Mor gas field in Iraq’s Kurdistan region",
+      "title": "Why is Erdogan's son meeting Lebanon’s top leaders?",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attack-hits-khor-mor-gas-field-iraqs-kurdistan-region",
-      "published_date": "2026-11-08T20:55:34+00:00",
-      "category": "Energy"
+      "url": "https://www.middleeasteye.net/news/why-erdogan-son-meeting-lebanons-top-leaders",
+      "published_date": "2026-11-13T18:53:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Jerusalem Daily: Baby dies from cold in Gaza",
@@ -550,18 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "IRGC dismisses new US plan to tighten economic pressure on Iran as 'wordplay'",
+      "title": "UN, partners urge Israel to lift restrictions on aid into Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-dismisses-new-us-plan-tighten-economic-pressure-iran-wordplay",
-      "published_date": "2026-11-08T09:52:15+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-partners-urge-israel-lift-restrictions-aid-gaza",
+      "published_date": "2026-11-14T01:02:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Paraguay's pro-Israel former president taken into custody over banking crisis",
+      "title": "Six Palestinians killed in Israeli strikes across Gaza",
       "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/paraguays-pro-israel-former-president-taken-custody-over-banking-crisis",
-      "published_date": "2026-11-08T02:03:50+00:00",
-      "category": "Economy"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-attacks-across-gaza",
+      "published_date": "2026-11-13T23:28:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+      "published_date": "2026-11-13T22:47:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces detain Palestinian groom in wedding raid as settler attacks continue across West Bank",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-palestinian-groom-wedding-raid-settler-attacks",
+      "published_date": "2026-11-13T20:43:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Fergie Chambers tells Spanish court Gaza is 'moral question of our time'",
@@ -673,34 +701,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
       "published_date": "2026-11-12T16:44:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli soldier accused of smearing faeces on Palestinian detainee’s face",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-accused-smearing-faeces-palestinian-detainees-face",
-      "published_date": "2026-11-12T16:38:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey's oldest LGBTQ+ group has office closed as crackdown continues",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/turkey-oldest-lgbtq-group-office-closed-crackdown-continues",
-      "published_date": "2026-11-12T15:50:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 Palestinians killed since dawn",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/11-palestinians-killed-dawn",
-      "published_date": "2026-11-12T15:48:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six Dutch parties condemn local arms company’s deal with Israeli gunmaker",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/six-dutch-parties-condemn-local-arms-companys-deal-israeli-gunmaker",
-      "published_date": "2026-11-12T14:38:31+00:00",
       "category": "Local Events"
     }
   ]
